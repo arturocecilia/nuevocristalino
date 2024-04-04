@@ -82,7 +82,7 @@ NuevoCristalino-NewLens-Neuelinsen was a comprehensive multisite platform focuse
 
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 ### Built With
 
@@ -90,7 +90,7 @@ NuevoCristalino-NewLens-Neuelinsen was a comprehensive multisite platform focuse
 - [![Laravel][Laravel.com]][Laravel-url]
 - [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- GETTING STARTED -->
 
@@ -106,7 +106,7 @@ Standard wordpress environment
 
 Standard Wordpress installation with the addition of composer packages for running eloquent ORM
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -114,7 +114,7 @@ Standard Wordpress installation with the addition of composer packages for runni
 
 It is a wordpress multisite installation, almost every type of content was editable through the backend and all the translations were centralized. As you may imagine the scripts for the Database are missing, contact me and I will send you a blanked version.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- ROADMAP -->
 
@@ -122,7 +122,7 @@ It is a wordpress multisite installation, almost every type of content was edita
 
 The project is archived, but if you have some sort of similar project in mind (product/service multilingual portal with search and simulation features in jquery) do not hesitate to contact me.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- LICENSE -->
 
@@ -130,7 +130,7 @@ The project is archived, but if you have some sort of similar project in mind (p
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- CONTACT -->
 
@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/arturocecilia/nuevocristalino](https://github.com/arturocecilia/nuevocristalino)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -146,7 +146,7 @@ Project Link: [https://github.com/arturocecilia/nuevocristalino](https://github.
 
 - [msbarrons](https://www.msbarrons.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
