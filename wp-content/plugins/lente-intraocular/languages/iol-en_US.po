@@ -1,0 +1,2740 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lente-intraocular v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-16 18:00:23+0000\n"
+"Last-Translator: admin <art.cec.spain@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: content-lente-intraocular.php:18
+#, php-format
+#@ twentytwelve
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-lente-intraocular.php:38
+#@ twentytwelve
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-lente-intraocular.php:295
+#@ twentytwelve
+msgid "Pages:"
+msgstr ""
+
+#: content-lente-intraocular.php:303
+#@ twentytwelve
+msgid "Edit"
+msgstr ""
+
+#: content-lente-intraocular.php:311
+#, php-format
+#@ twentytwelve
+msgid "About %s"
+msgstr ""
+
+#: content-lente-intraocular.php:315
+#, php-format
+#@ twentytwelve
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: lente-intraocular.php:15
+#: lente-intraocular.php:29
+#: lente-intraocular.php:30
+#: lente-intraocular.php:826
+#: lente-intraocular.php:875
+#@ iol
+msgctxt "admin_display"
+msgid "lente-intraocular"
+msgstr "intraocular-lens"
+
+#: lente-intraocular.php:61
+#@ iol
+msgctxt "Custom Post Type"
+msgid "lente-intraocular"
+msgstr "intraocular-lens"
+
+#: lente-intraocular.php:23
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular"
+msgstr "intraocular-lens"
+
+#: lente-intraocular.php:24
+#@ iol
+msgctxt "slug"
+msgid "lentes-intraoculares"
+msgstr "intraocular-lenses"
+
+#: lente-intraocular.php:31
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Nueva"
+msgstr "Add New"
+
+#: lente-intraocular.php:32
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Nueva Lente intraocular"
+msgstr "Add New Intraocular Lens"
+
+#: lente-intraocular.php:33
+#@ iol
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Edit"
+
+#: lente-intraocular.php:34
+#@ iol
+msgctxt "admin_display"
+msgid "Editar lente intraocular"
+msgstr "Edit Intraocular Lens"
+
+#: lente-intraocular.php:35
+#@ iol
+msgctxt "admin_display"
+msgid "Nueva lente intraocular"
+msgstr "New Intraocular Lens"
+
+#: lente-intraocular.php:36
+#@ iol
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "View"
+
+#: lente-intraocular.php:37
+#@ iol
+msgctxt "admin_display"
+msgid "Ver lente intraocular"
+msgstr "View Intraocular Lens"
+
+#: lente-intraocular.php:38
+#@ iol
+msgctxt "admin_display"
+msgid "Buscar lente intraocular"
+msgstr "Seach Intraocular Lens"
+
+#: lente-intraocular.php:39
+#@ iol
+msgctxt "admin_display"
+msgid "No se ha encontrado ninguna lente intraocular"
+msgstr "No IOLs found"
+
+#: lente-intraocular.php:40
+#@ iol
+msgctxt "admin_display"
+msgid "No hay lentes intraoculares en la papelera"
+msgstr "No Iols in the Bin"
+
+#: lente-intraocular.php:41
+#@ iol
+msgctxt "admin_display"
+msgid "lente intraocular padre"
+msgstr "Intraocular Lens Parent"
+
+#: lente-intraocular.php:127
+#@ iol
+msgctxt "admin_display"
+msgid "Fabricante (D)"
+msgstr "Manufacturer (D)"
+
+#: lente-intraocular.php:133
+#@ iol
+msgctxt "admin_display"
+msgid "Distribuidor (D)"
+msgstr "Distributor (D)"
+
+#: lente-intraocular.php:140
+#@ iol
+msgctxt "admin_display"
+msgid "Descripción (D)"
+msgstr "Description (D)"
+
+#: lente-intraocular.php:146
+#@ iol
+msgctxt "admin_display"
+msgid "Diámetro Óptica (D)"
+msgstr "Optic Diameter (D)"
+
+#: lente-intraocular.php:151
+#@ iol
+msgctxt "admin_display"
+msgid "Diámetro Total (D)"
+msgstr "Total Diameter (D)"
+
+#: lente-intraocular.php:163
+#@ iol
+msgctxt "admin_display"
+msgid "Material Hápticos (D)"
+msgstr "Haptic Material (D)"
+
+#: lente-intraocular.php:169
+#@ iol
+msgctxt "admin_display"
+msgid "Angulación Hápticos (D)"
+msgstr "Haptic Angulation(D)"
+
+#: lente-intraocular.php:175
+#@ iol
+msgctxt "admin_display"
+msgid "Adición de Cerca (D)"
+msgstr "Near Addition (D)"
+
+#: lente-intraocular.php:182
+#@ iol
+msgctxt "admin_display"
+msgid "Adición Intermedia (D)"
+msgstr "Intermediate Addition (D)"
+
+#: lente-intraocular.php:189
+#@ iol
+msgctxt "admin_display"
+msgid "Filtros de la Lente A (D)"
+msgstr "Lens Filters (D)"
+
+#: lente-intraocular.php:195
+#@ iol
+msgctxt "admin_display"
+msgid "Asfericidad (D)"
+msgstr "Asphericity (D)"
+
+#: lente-intraocular.php:201
+#@ iol
+msgctxt "admin_display"
+msgid "Tamaño de la Inicisión (D)"
+msgstr "Size of Incision (D)"
+
+#: lente-intraocular.php:206
+#@ iol
+msgctxt "admin_display"
+msgid "Constante A (D)"
+msgstr "A Constant (D)"
+
+#: lente-intraocular.php:211
+#@ iol
+msgctxt "admin_display"
+msgid "ACD (D)"
+msgstr "ACD (D)"
+
+#: lente-intraocular.php:216
+#@ iol
+msgctxt "admin_display"
+msgid "Surgeon Factor (D)"
+msgstr "Surgeon Factor (D)"
+
+#: lente-intraocular.php:221
+#@ iol
+msgctxt "admin_display"
+msgid "Inyector (D)"
+msgstr "Injector (D)"
+
+#: lente-intraocular.php:227
+#@ iol
+msgctxt "admin_display"
+msgid "Esfera Desde (D)"
+msgstr "Sphere From (D)"
+
+#: lente-intraocular.php:232
+#@ iol
+msgctxt "admin_display"
+msgid "Esfera Hasta (D)"
+msgstr "Sphere to (D)"
+
+#: lente-intraocular.php:238
+#@ iol
+msgctxt "admin_display"
+msgid "Intervalos Esfera"
+msgstr "Sphere Steps"
+
+#: lente-intraocular.php:255
+#@ iol
+msgctxt "admin_display"
+msgid "Cil Desde (D)"
+msgstr "Cilinder From (D)"
+
+#: lente-intraocular.php:260
+#@ iol
+msgctxt "admin_display"
+msgid "Cil  Hasta (D)"
+msgstr "Cilinder To (D)"
+
+#: lente-intraocular.php:265
+#@ iol
+msgctxt "admin_display"
+msgid "Intervalos Cilindro"
+msgstr "Cilinder Steps"
+
+#: iolTestProcesor.php:328
+#: iolTestProcesor.php:337
+#: iolTestProcesor.php:353
+#: iolTestProcesor.php:370
+#@ iol
+msgctxt "taxo-name"
+msgid "tipo"
+msgstr "Type"
+
+#: lente-intraocular.php:310
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/diseño-optica"
+msgstr "intraocular-lens/optic-design"
+
+#: lente-intraocular.php:317
+#@ iol
+msgctxt "admin_display"
+msgid "Diseño de Óptica"
+msgstr "Optic Design"
+
+#: lente-intraocular.php:318
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Nuevo Diseño de Óptica"
+msgstr "Add new Optic Design"
+
+#: lente-intraocular.php:319
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo Diseño de Óptica"
+msgstr "New Optic Design"
+
+#: lente-intraocular.php:337
+#@ iol
+msgctxt "admin_display"
+msgid "Fabricante"
+msgstr "Manufacturer"
+
+#: lente-intraocular.php:338
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Nuevo Fabricante"
+msgstr "Add New Manufacturer"
+
+#: lente-intraocular.php:339
+#@ iol
+msgctxt "admin_display"
+msgid "Nombre del Nuevo Fabricante"
+msgstr "Name of New Manufacturer"
+
+#: archive-patient-form.php:86
+#: archive-patient-form.php:241
+#: archive-patient-form.php:242
+#: content-lente-intraocular.php:62
+#: filterIolEngine.php:49
+#: iolTestProcesor.php:390
+#: lente-intraocular.php:349
+#: right-archive-lente-intraocular.php:156
+#: right-archive-lente-intraocular.php:158
+#: right-archive-lente-intraocular.php:161
+#: right-archive-lente-intraocular.php:169
+#: right-archive-lente-intraocular.php:176
+#: right-archive-lente-intraocular.php:179
+#: right-archive-lente-intraocular.php:186
+#: right-archive-lente-intraocular.php:189
+#: right-archive-lente-intraocular.php:193
+#: right-archive-lente-intraocular.php:195
+#: right-archive-lente-intraocular.php:198
+#: right-single-lente-intraocular.php:156
+#: single-patient-form.php:105
+#: single-patient-form.php:206
+#: single-patient-form.php:207
+#@ iol
+msgctxt "taxo-name"
+msgid "toricidad"
+msgstr "toricity"
+
+#: lente-intraocular.php:350
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/toricidad"
+msgstr "intraocular-lens/toricity"
+
+#: lente-intraocular.php:356
+#@ iol
+msgctxt "admin_display"
+msgid "Toricidad"
+msgstr "Toricity"
+
+#: lente-intraocular.php:357
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir tipo de Toricidad"
+msgstr "Add type of Toricity"
+
+#: lente-intraocular.php:358
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Tipo de Toricidad"
+msgstr "New name of type of Toricity"
+
+#: content-lente-intraocular.php:82
+#: filterIolEngine.php:162
+#: filterIolEngineOK.php:126
+#: iolTestProcesor.php:344
+#: iolTestProcesor.php:360
+#: lente-intraocular.php:368
+#: right-single-lente-intraocular.php:276
+#@ iol
+msgctxt "taxo-name"
+msgid "adicion-cerca"
+msgstr "near-addition"
+
+#: lente-intraocular.php:369
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/adicion-cerca"
+msgstr "intraocular-lens/near-addition"
+
+#: lente-intraocular.php:376
+#@ iol
+msgctxt "admin_display"
+msgid "Adición"
+msgstr "Addition"
+
+#: lente-intraocular.php:377
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir adición de cerca"
+msgstr "Add Near Addition"
+
+#: lente-intraocular.php:378
+#@ iol
+msgctxt "admin_display"
+msgid "Nueva adición de cerca"
+msgstr "New near addition"
+
+#: content-lente-intraocular.php:72
+#: filterIolEngine.php:69
+#: iolTestProcesor.php:400
+#: lente-intraocular.php:388
+#: right-archive-lente-intraocular.php:228
+#: right-archive-lente-intraocular.php:237
+#: right-archive-lente-intraocular.php:261
+#: right-archive-lente-intraocular.php:263
+#: right-archive-lente-intraocular.php:266
+#: right-single-lente-intraocular.php:217
+#: single-patient-form.php:124
+#@ iol
+msgctxt "taxo-name"
+msgid "filtros"
+msgstr "filters"
+
+#: lente-intraocular.php:389
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/filtros"
+msgstr "intraocular-lens/filters"
+
+#: lente-intraocular.php:395
+#@ iol
+msgctxt "admin_display"
+msgid "Filtros"
+msgstr "Filters"
+
+#: lente-intraocular.php:396
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir tipo de Filtro"
+msgstr "Add type of Filter"
+
+#: lente-intraocular.php:397
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Filtro de Toricidad"
+msgstr "New Name of type of Filter"
+
+#: lente-intraocular.php:407
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/material"
+msgstr "intraocular-lens/material"
+
+#: lente-intraocular.php:413
+#@ iol
+msgctxt "admin_display"
+msgid "Material"
+msgstr "Material"
+
+#: lente-intraocular.php:414
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir material de la lente"
+msgstr "Add iol material"
+
+#: lente-intraocular.php:415
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de material de lente"
+msgstr "New iol material name"
+
+#: lente-intraocular.php:425
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/diseño"
+msgstr "intraocular-lens/design"
+
+#: lente-intraocular.php:431
+#@ iol
+msgctxt "admin_display"
+msgid "Estructura"
+msgstr "Structure"
+
+#: lente-intraocular.php:432
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir diseño de lente"
+msgstr "Add lens design"
+
+#: lente-intraocular.php:433
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de diseño de lente"
+msgstr "New name of lens design"
+
+#: lente-intraocular.php:443
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/principio-optico"
+msgstr "intraocular-lens/optical-principle"
+
+#: lente-intraocular.php:449
+#@ iol
+msgctxt "admin_display"
+msgid "Principio óptico"
+msgstr "Optical Principle"
+
+#: lente-intraocular.php:450
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir principio óptico de la lente"
+msgstr "Add iol optical principle"
+
+#: lente-intraocular.php:451
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre principio óptico de lente"
+msgstr "New name of lens optical principle"
+
+#: lente-intraocular.php:481
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/bordes-cuadrados"
+msgstr "intraocular-lens/square-edges"
+
+#: lente-intraocular.php:487
+#@ iol
+msgctxt "admin_display"
+msgid "Bordes Cuadrados"
+msgstr "Square Edges"
+
+#: lente-intraocular.php:488
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Característica de Bordes Cuadrados"
+msgstr "Add square edges feature"
+
+#: lente-intraocular.php:489
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Bordes Cuadrados"
+msgstr "New name of square edges feature"
+
+#: content-lente-intraocular.php:154
+#: filterIolEngine.php:451
+#: lente-intraocular.php:499
+#: right-archive-lente-intraocular.php:626
+#: right-archive-lente-intraocular.php:627
+#: right-archive-lente-intraocular.php:630
+#: right-archive-lente-intraocular.php:638
+#: right-archive-lente-intraocular.php:648
+#: right-archive-lente-intraocular.php:651
+#: right-archive-lente-intraocular.php:658
+#: right-archive-lente-intraocular.php:661
+#: right-archive-lente-intraocular.php:665
+#: right-archive-lente-intraocular.php:666
+#: right-archive-lente-intraocular.php:669
+#: right-single-lente-intraocular.php:628
+#@ iol
+msgctxt "taxo-name"
+msgid "inyector"
+msgstr "injector"
+
+#: lente-intraocular.php:500
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/inyector"
+msgstr "intraocular-lens/injector"
+
+#: lente-intraocular.php:507
+#@ iol
+msgctxt "admin_display"
+msgid "inyector"
+msgstr "injector"
+
+#: lente-intraocular.php:508
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Característica sobre inyector"
+msgstr "Add injector feature"
+
+#: lente-intraocular.php:509
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de inyector"
+msgstr "New name of injector feature"
+
+#: lente-intraocular.php:520
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/precargada"
+msgstr "intraocular-lens/preloaded"
+
+#: lente-intraocular.php:526
+#@ iol
+msgctxt "admin_display"
+msgid "precargada"
+msgstr "preloaded"
+
+#: lente-intraocular.php:527
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Característica sobre Precargada"
+msgstr "Add preloaded feature"
+
+#: lente-intraocular.php:528
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Precargada"
+msgstr "New name of preloaded feature"
+
+#: lente-intraocular.php:558
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/diseño-hapticos"
+msgstr "intraocular-lens/haptic-design"
+
+#: lente-intraocular.php:564
+#@ iol
+msgctxt "admin_display"
+msgid "Diseño de Hápticos"
+msgstr "Haptic design"
+
+#: lente-intraocular.php:565
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir tipo de diseño de hápticos"
+msgstr "Add type of haptic design"
+
+#: lente-intraocular.php:566
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Diseño de Hápticos"
+msgstr "New name of haptic design"
+
+#: lente-intraocular.php:579
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/nivel-pref-lente"
+msgstr ""
+
+#: lente-intraocular.php:586
+#@ iol
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la lente"
+msgstr ""
+
+#: lente-intraocular.php:587
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir tipo de nivel de preferencia para la lente"
+msgstr ""
+
+#: lente-intraocular.php:588
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de nivel de preferencia para la lente"
+msgstr ""
+
+#: lente-intraocular.php:860
+#@ iol
+msgctxt "admin_display"
+msgid "toricidad"
+msgstr "toricity"
+
+#: lente-intraocular.php:861
+#@ iol
+msgctxt "admin_display"
+msgid "adicion-cerca"
+msgstr "near-addition"
+
+#: lente-intraocular.php:894
+#@ iol
+msgctxt "admin_display"
+msgid "Mostrar las lentes de todos los fabricantes"
+msgstr "Show IOLs of all manufacturers"
+
+#: lente-intraocular.php:896
+#@ iol
+msgctxt "admin_display"
+msgid "Fabricante de la Lente Intraocular"
+msgstr "IOL Manufacturer"
+
+#: right-archive-lente-intraocular.php:125
+#: right-single-lente-intraocular.php:130
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Diseño de Óptica:"
+msgstr "Optic Design:"
+
+#: right-archive-lente-intraocular.php:166
+#: right-single-lente-intraocular.php:174
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Toricidad de la Lente:"
+msgstr "Lens Toricity:"
+
+#: right-single-lente-intraocular.php:247
+#: right-single-lente-intraocular.php:250
+#@ iol
+msgctxt "taxo-filtros-value"
+msgid "UV"
+msgstr "UV"
+
+#: right-single-lente-intraocular.php:256
+#: right-single-lente-intraocular.php:259
+#@ iol
+msgctxt "taxo-filtros-value"
+msgid "Luz Azul"
+msgstr "Blue Light"
+
+#: right-archive-lente-intraocular.php:431
+#@ iol
+msgctxt "taxo-bCuad-value"
+msgid "Sí"
+msgstr "Yes"
+
+#: ajax/ajax-handler.php:19
+#: archive-patient-form.php:7
+#: iolTestProcesor.php:3
+#: lente-intraocular.php:22
+#: lente-intraocular.php:284
+#: lente-intraocular.php:626
+#: lente-intraocular.php:751
+#: right-single-lente-intraocular.php:21
+#: single-patient-form.php:18
+#@ iol
+msgctxt "CustomPostType Name"
+msgid "lente-intraocular"
+msgstr "intraocular-lens"
+
+#: right-archive-lente-intraocular.php:3
+#: right-single-lente-intraocular.php:20
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "BUSCAR LENTES INTRAOCULARES:"
+msgstr "SEARCH INTRAOCULAR LENSES:"
+
+#: iolTestProcesor.php:330
+#@ iol
+msgctxt "taxo-monof-slug"
+msgid "monofocal"
+msgstr "monofocal"
+
+#: content-lente-intraocular.php:112
+#: iolTestProcesor.php:380
+#: lente-intraocular.php:460
+#@ iol
+msgctxt "taxo-name"
+msgid "asfericidad"
+msgstr "asphericity"
+
+#: lente-intraocular.php:461
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/asfericidad"
+msgstr "intraocular-lens/asphericity"
+
+#: lente-intraocular.php:467
+#@ iol
+msgctxt "admin_display"
+msgid "Asfericidad"
+msgstr "Asphericity"
+
+#: lente-intraocular.php:468
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir asfericidad de la lente"
+msgstr "Add lens asphericity"
+
+#: lente-intraocular.php:469
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de asfericidad de lente"
+msgstr "New name of lens asphericity"
+
+#: lente-intraocular.php:607
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir nueva inclusión-exclusión de lentes en Test"
+msgstr ""
+
+#: lente-intraocular.php:608
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de inclusión-exclusión de lentes en Test"
+msgstr ""
+
+#: right-archive-lente-intraocular.php:86
+#: right-archive-lente-intraocular.php:89
+#: right-archive-lente-intraocular.php:133
+#: right-archive-lente-intraocular.php:136
+#: right-archive-lente-intraocular.php:356
+#: right-archive-lente-intraocular.php:553
+#: right-archive-lente-intraocular.php:556
+#: right-archive-lente-intraocular.php:571
+#: right-archive-lente-intraocular.php:599
+#: right-archive-lente-intraocular.php:602
+#: right-archive-lente-intraocular.php:755
+#: right-archive-lente-intraocular.php:757
+#: right-archive-lente-intraocular.php:771
+#: right-single-lente-intraocular.php:87
+#: right-single-lente-intraocular.php:136
+#: right-single-lente-intraocular.php:352
+#: right-single-lente-intraocular.php:556
+#: right-single-lente-intraocular.php:569
+#: right-single-lente-intraocular.php:605
+#: right-single-lente-intraocular.php:773
+#: right-single-lente-intraocular.php:786
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Sin Especificar"
+msgstr "Unspecified"
+
+#: right-archive-lente-intraocular.php:176
+#: right-archive-lente-intraocular.php:179
+#: right-single-lente-intraocular.php:185
+#: right-single-lente-intraocular.php:188
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Tóricas"
+msgstr "Toric"
+
+#: right-archive-lente-intraocular.php:186
+#: right-archive-lente-intraocular.php:189
+#: right-single-lente-intraocular.php:195
+#: right-single-lente-intraocular.php:198
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "No Tóricas"
+msgstr "Not Toric"
+
+#: right-archive-lente-intraocular.php:195
+#: right-archive-lente-intraocular.php:198
+#: right-archive-lente-intraocular.php:263
+#: right-archive-lente-intraocular.php:266
+#: right-archive-lente-intraocular.php:443
+#: right-archive-lente-intraocular.php:446
+#: right-archive-lente-intraocular.php:521
+#: right-archive-lente-intraocular.php:524
+#: right-archive-lente-intraocular.php:666
+#: right-archive-lente-intraocular.php:669
+#: right-archive-lente-intraocular.php:720
+#: right-archive-lente-intraocular.php:722
+#: right-single-lente-intraocular.php:202
+#: right-single-lente-intraocular.php:264
+#: right-single-lente-intraocular.php:439
+#: right-single-lente-intraocular.php:514
+#: right-single-lente-intraocular.php:675
+#: right-single-lente-intraocular.php:735
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "S/E"
+msgstr "N/S"
+
+#: archive-patient-form.php:247
+#: patient-form.php:66
+#: right-archive-lente-intraocular.php:234
+#: right-single-lente-intraocular.php:234
+#: single-patient-form.php:212
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Filtros de la Lente:"
+msgstr "Lens Filters:"
+
+#: right-archive-lente-intraocular.php:329
+#: right-single-lente-intraocular.php:313
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Multifocalidad - Presbicia:"
+msgstr "Multifocality-Presbyopia:"
+
+#: right-archive-lente-intraocular.php:350
+#: right-single-lente-intraocular.php:346
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Fabricante:"
+msgstr "Manufacturer:"
+
+#: right-archive-lente-intraocular.php:1040
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Diámetro de Óptica:"
+msgstr "Optic Diameter:"
+
+#: right-archive-lente-intraocular.php:1089
+#: right-single-lente-intraocular.php:916
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Diámetro Total:"
+msgstr "Total Diameter:"
+
+#: right-archive-lente-intraocular.php:412
+#: right-single-lente-intraocular.php:408
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Bordes Cuadrados:"
+msgstr "Square Edges:"
+
+#: archive-patient-form.php:241
+#: right-archive-lente-intraocular.php:425
+#: right-archive-lente-intraocular.php:428
+#: right-archive-lente-intraocular.php:702
+#: right-archive-lente-intraocular.php:705
+#: right-single-lente-intraocular.php:422
+#: right-single-lente-intraocular.php:425
+#: right-single-lente-intraocular.php:718
+#: right-single-lente-intraocular.php:721
+#: single-patient-form.php:206
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Sí"
+msgstr "Yes"
+
+#: archive-patient-form.php:242
+#: right-archive-lente-intraocular.php:435
+#: right-archive-lente-intraocular.php:438
+#: right-archive-lente-intraocular.php:712
+#: right-archive-lente-intraocular.php:715
+#: right-single-lente-intraocular.php:432
+#: right-single-lente-intraocular.php:435
+#: right-single-lente-intraocular.php:728
+#: right-single-lente-intraocular.php:731
+#: single-patient-form.php:207
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "No"
+msgstr "No"
+
+#: right-archive-lente-intraocular.php:971
+#: right-single-lente-intraocular.php:842
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Asfericidad:"
+msgstr "Asphericity:"
+
+#: right-archive-lente-intraocular.php:480
+#: right-single-lente-intraocular.php:467
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Principio Óptico:"
+msgstr "Optical Principle:"
+
+#: right-archive-lente-intraocular.php:493
+#: right-archive-lente-intraocular.php:496
+#: right-single-lente-intraocular.php:487
+#: right-single-lente-intraocular.php:490
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Refr."
+msgstr "Refr."
+
+#: right-archive-lente-intraocular.php:503
+#: right-archive-lente-intraocular.php:506
+#: right-single-lente-intraocular.php:497
+#: right-single-lente-intraocular.php:500
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Difr."
+msgstr "Diffr."
+
+#: right-archive-lente-intraocular.php:513
+#: right-archive-lente-intraocular.php:516
+#: right-single-lente-intraocular.php:507
+#: right-single-lente-intraocular.php:510
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Mixta"
+msgstr "Mixed"
+
+#: right-archive-lente-intraocular.php:546
+#: right-single-lente-intraocular.php:546
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Diseño de Lente:"
+msgstr "Lens Design:"
+
+#: right-archive-lente-intraocular.php:592
+#: right-single-lente-intraocular.php:599
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Material de Lente:"
+msgstr "Lens Material:"
+
+#: right-archive-lente-intraocular.php:635
+#: right-single-lente-intraocular.php:645
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Inyector:"
+msgstr "Injector:"
+
+#: right-archive-lente-intraocular.php:648
+#: right-archive-lente-intraocular.php:651
+#: right-single-lente-intraocular.php:658
+#: right-single-lente-intraocular.php:661
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Con"
+msgstr "With"
+
+#: right-archive-lente-intraocular.php:658
+#: right-archive-lente-intraocular.php:661
+#: right-single-lente-intraocular.php:668
+#: right-single-lente-intraocular.php:671
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Sin"
+msgstr "Without"
+
+#: right-archive-lente-intraocular.php:689
+#: right-single-lente-intraocular.php:705
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Precargada:"
+msgstr "Preloaded:"
+
+#: right-archive-lente-intraocular.php:748
+#: right-single-lente-intraocular.php:767
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Diseño Hápticos:"
+msgstr "Haptic Design:"
+
+#: right-archive-lente-intraocular.php:796
+#: right-single-lente-intraocular.php:813
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Rangos Dioptricos"
+msgstr "Dioptric Range"
+
+#: right-archive-lente-intraocular.php:846
+#: right-single-lente-intraocular.php:963
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Rango Dioptrías Esfera:"
+msgstr "Spheric Dioptric Range:"
+
+#: right-archive-lente-intraocular.php:905
+#: right-single-lente-intraocular.php:1007
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Rango Dioptrías Cilndro:"
+msgstr "Cilinder Dioptric Range:"
+
+#: como-elegir-la-lente-intraocular.php:99
+#: como-elegir-la-lente-intraocular.php:143
+#@ iol_test
+msgctxt "test"
+msgid "Importante"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:100
+#: como-elegir-la-lente-intraocular.php:135
+#: como-elegir-la-lente-intraocular.php:144
+#@ iol_test
+msgctxt "test"
+msgid "No es Importante"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:111
+#@ iol_test
+msgctxt "test"
+msgid "No lo sabe"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:122
+#@ iol_test
+msgctxt "test"
+msgid "Glaucoma"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:123
+#@ iol_test
+msgctxt "test"
+msgid "DMAE"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:124
+#@ iol_test
+msgctxt "test"
+msgid "Uveítis"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:125
+#@ iol_test
+msgctxt "test"
+msgid "Degeneración corneal"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:126
+#@ iol_test
+msgctxt "test"
+msgid "Otras"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:127
+#@ iol_test
+msgctxt "test"
+msgid "Ninguna"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:134
+#@ iol_test
+msgctxt "test"
+msgid "Muy importante"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:158
+#@ iol_test
+msgctxt "test"
+msgid "Leyendo letra pequeña"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:159
+#@ iol_test
+msgctxt "test"
+msgid "Trabando con el ordenador o cocinando"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:160
+#@ iol_test
+msgctxt "test"
+msgid "Conduciendo"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:167
+#: como-elegir-la-lente-intraocular.php:175
+#@ iol_test
+msgctxt "test"
+msgid "Si"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:168
+#: como-elegir-la-lente-intraocular.php:176
+#@ iol_test
+msgctxt "test"
+msgid "No"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:183
+#@ iol_test
+msgctxt "test"
+msgid "Leer, ver un mapa, coser..."
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:184
+#@ iol_test
+msgctxt "test"
+msgid "Estar con el ordenador, leer un menú, ver precios de productos, leer letra de tamaño grande"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:185
+#@ iol_test
+msgctxt "test"
+msgid "Ver la televisión, limpiar, realizar actividades dentro y fuera de la casa ¿?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:186
+#@ iol_test
+msgctxt "test"
+msgid "Conducir, jugar al golf, ver carteles ¿?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:187
+#@ iol_test
+msgctxt "test"
+msgid "Conducir por la noche, ver una película en el cine"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:194
+#@ iol_test
+msgctxt "test"
+msgid "Abierto, sencillo..."
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:195
+#@ iol_test
+msgctxt "test"
+msgid "Perfeccionista, doy y espero siempre lo mejor"
+msgstr ""
+
+#: archive-patient-form.php:164
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "BUSCADOR BÁSICO:"
+msgstr "BASIC SEARCHER:"
+
+#: archive-patient-form.php:215
+#: patient-form.php:34
+#: single-patient-form.php:180
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Filtro para Pacientes"
+msgstr "Patient Filter"
+
+#: archive-patient-form.php:219
+#: patient-form.php:38
+#: single-patient-form.php:184
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Lente Intraocular Estándar:"
+msgstr "Standard Intraocular Lens:"
+
+#: archive-patient-form.php:224
+#: patient-form.php:43
+#: single-patient-form.php:189
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Lente Intraocular Premium:"
+msgstr "Premium Intraocular Lens:"
+
+#: archive-patient-form.php:239
+#: patient-form.php:58
+#: single-patient-form.php:204
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Correción para Astigmatismo"
+msgstr "Correction for Astigmatism"
+
+#: archive-patient-form.php:255
+#: patient-form.php:74
+#: single-patient-form.php:220
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Add On:"
+msgstr "Add-On:"
+
+#: archive-patient-form.php:265
+#: patient-form.php:84
+#: single-patient-form.php:230
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Lente Fáquica ICL:&nbsp;&nbsp;"
+msgstr "ICL Faquic Lens:&nbsp;&nbsp;"
+
+#: archive-patient-form.php:270
+#: patient-form.php:89
+#: single-patient-form.php:235
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Lente Fáquica Verisyse:"
+msgstr "Faquic Lens Verisyse:"
+
+#: como-elegir-la-lente-intraocular.php:67
+#@ iol_Test
+msgctxt "page_name"
+msgid "Resultado del test de paciente"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:73
+#@ iol_test
+msgctxt "test"
+msgid "<span class=\"titTab1\">PRIMER BLOQUE</span> <br ><span class=\"titTab2\"> de Preguntas</span>"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:74
+#@ iol_test
+msgctxt "test"
+msgid "<span class=\"titTab1\">SEGUNDO BLOQUE</span> <br ><span class=\"titTab2\"> de Preguntas</span>"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:75
+#@ iol_test
+msgctxt "test"
+msgid "<span class=\"titTab1\">TERCER BLOQUE</span> <br ><span class=\"titTab2\"> de Preguntas</span>"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:97
+#@ iol_test
+msgctxt "test"
+msgid "1.&nbsp; ¿Cómo de importante es para usted no depender de las gafas después de la cirugía?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:105
+#@ iol_test
+msgctxt "test"
+msgid "2.&nbsp; ¿Cuál es la graduación de sus gafas antes de las cataratas? O la actual de no tener opacificación del cristalino?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:107
+#@ iol_test
+msgctxt "test"
+msgid "Más de -4 dioptrías de miopía"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:108
+#@ iol_test
+msgctxt "test"
+msgid "De - 0,5 a - 4 dioptrías de miopía"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:109
+#@ iol_test
+msgctxt "test"
+msgid "Entre + 0,5 y + 3 dioptrías de hipermetropía"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:110
+#@ iol_test
+msgctxt "test"
+msgid "Más de + 3 dioptrías de hipermetropía"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:120
+#@ iol_test
+msgctxt "test"
+msgid "3.&nbsp; ¿Tiene otras enfermedades oculares?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:132
+#@ iol_test
+msgctxt "test"
+msgid "4.&nbsp; Tras la cirugía ¿cómo de importante es para usted ver de lejos sin gafas: conduciendo, jugando al golf...?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:141
+#@ iol_test
+msgctxt "test"
+msgid "5.&nbsp; Tras la cirugía ¿cómo de importante es para usted ver de cerca sin gafas: leyendo?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:156
+#@ iol_test
+msgctxt "test"
+msgid "6.&nbsp; Si necesitase gafas tras la cirugía, ¿en cuál de las siguientes actividades podrías aceptar gafas?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:165
+#@ iol_test
+msgctxt "test"
+msgid "7.&nbsp; Si vieses bien tanto de lejos como de cerca durante el día, ¿podrías aceptar efectos como halos y destellos durante la noche?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:173
+#@ iol_test
+msgctxt "test"
+msgid "8.&nbsp; Si viese bien durante el día sin necesidad de gafas, tanto de lejos como de cerca, incluso trabajando con el ordendor, ¿podría aceptar las gafas para leer letra muy pequeña?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:181
+#@ iol_test
+msgctxt "test"
+msgid "9.&nbsp; Hay muchas situaciones en las que es necesario ver bien a diferentes distancias. En el caso de que decidiese eliminar la dependencia de las gafas, ¿en qué tipo de escenario consideraría más importante lograr una independendencia total?"
+msgstr ""
+
+#: como-elegir-la-lente-intraocular.php:192
+#@ iol_test
+msgctxt "test"
+msgid "En cuanto a su personalidad... ¿Cómo se considera usted?"
+msgstr ""
+
+#: iolTestProcesor.php:339
+#@ iol
+msgctxt "taxo-multitrifocal-slug"
+msgid "multifocal-trifocal"
+msgstr "multifocal-trifocal"
+
+#: iolTestProcesor.php:355
+#@ iol
+msgctxt "taxo-bifocal-slug"
+msgid "multifocal-bifocal"
+msgstr "multifocal-bifocal"
+
+#: iolTestProcesor.php:372
+#@ iol
+msgctxt "taxo-acomoda-slug"
+msgid "acomodativa"
+msgstr "Accommodative"
+
+#: iolTestProcesor.php:382
+#@ iol
+msgctxt "taxo-acomoda-slug"
+msgid "asferica"
+msgstr "aspheric"
+
+#: iolTestProcesor.php:392
+#@ iol
+msgctxt "taxo-acomoda-slug"
+msgid "torica"
+msgstr "toric"
+
+#: iolTestProcesor.php:402
+#@ iol
+msgctxt "taxo-acomoda-slug"
+msgid "luz-azul"
+msgstr "blue-light"
+
+#: lente-intraocular.php:156
+#@ iol
+msgctxt "admin_display"
+msgid "Forma de la óptica (D)"
+msgstr "Optic Design (D)"
+
+#: lente-intraocular.php:244
+#@ iol
+msgctxt "admin_display"
+msgid "Esfera Intervalos 0,5 diopt Desde (D)"
+msgstr "0.5 Sphere Steps diopt From (D)"
+
+#: lente-intraocular.php:249
+#@ iol
+msgctxt "admin_display"
+msgid "Esfera Intervalos 0,5 diopt Hasta (D)"
+msgstr "0.5 diopt Sphere Steps To (D)"
+
+#: lente-intraocular.php:271
+#@ iol
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la lente (Ascendente)"
+msgstr ""
+
+#: lente-intraocular.php:288
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/tipo-lente"
+msgstr "intraocular-lens/lens-type"
+
+#: lente-intraocular.php:295
+#@ iol
+msgctxt "admin_display"
+msgid "Tipo de lente Intraocular"
+msgstr "Type of Intraocular Lens"
+
+#: lente-intraocular.php:296
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Nuevo Tipo de lente intraocular"
+msgstr "Add New Type of Intraocular Lens"
+
+#: lente-intraocular.php:297
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo Tipo de lente intraocular"
+msgstr "New Type of Intraocular Lens"
+
+#: lente-intraocular.php:330
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/fabricante-lente"
+msgstr "intraocular-lens/lens-manufacturer"
+
+#: lente-intraocular.php:538
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/plegable"
+msgstr "intraocular-lens/foldable"
+
+#: lente-intraocular.php:544
+#@ iol
+msgctxt "admin_display"
+msgid "plegable"
+msgstr "foldable"
+
+#: lente-intraocular.php:545
+#@ iol
+msgctxt "admin_display"
+msgid "Añadir Característica sobre Plegable"
+msgstr "Add foldable feature"
+
+#: lente-intraocular.php:546
+#@ iol
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Plegable"
+msgstr "New name of foldable feature"
+
+#: lente-intraocular.php:599
+#@ iol
+msgctxt "slug"
+msgid "lente-intraocular/iol-test"
+msgstr "intraocular-lens/iol-test"
+
+#: lente-intraocular.php:606
+#@ iol
+msgctxt "admin_display"
+msgid "Exclusiones de las restricciones Test de IOL"
+msgstr ""
+
+#: lente-intraocular.php:858
+#: lente-intraocular.php:876
+#: lente-intraocular.php:909
+#@ iol
+msgctxt "admin_display"
+msgid "diseno-optica"
+msgstr "optic-design"
+
+#: lente-intraocular.php:859
+#: lente-intraocular.php:877
+#@ iol
+msgctxt "admin_display"
+msgid "fabricante-lente"
+msgstr "lens-manufacturer"
+
+#: patient-form.php:21
+#: single-patient-form.php:24
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "BUSCADOR DE LENTES PARA PACIENTES:"
+msgstr "LENS SEARCHER FOR PATIENTS:"
+
+#: right-archive-lente-intraocular.php:48
+#: right-single-lente-intraocular.php:33
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Características Generales"
+msgstr "General Features"
+
+#: right-archive-lente-intraocular.php:74
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Tipo de lente intraocular:"
+msgstr "Intraocular Lens Type:"
+
+#: right-archive-lente-intraocular.php:182
+#@ iol
+msgctxt "taxo-torici-value"
+msgid "torica"
+msgstr "toric"
+
+#: right-archive-lente-intraocular.php:383
+#: right-single-lente-intraocular.php:375
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Bordes, Material, Hápticos..."
+msgstr "Borders, Material, Haptics..."
+
+#: right-archive-lente-intraocular.php:708
+#@ iol
+msgctxt "taxo-precargada-value-slug"
+msgid "si"
+msgstr "yes"
+
+#: right-archive-lente-intraocular.php:1139
+#: right-single-lente-intraocular.php:1042
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Tamaño de Incisión:"
+msgstr "Incision Size:"
+
+#: right-single-lente-intraocular.php:81
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Tipo de Lente Intraocular:"
+msgstr "Intraocular Lens Type:"
+
+#: right-single-lente-intraocular.php:805
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Afericidad, Diámetros y Dioptrías"
+msgstr "Asphericity, Diameter & Diopters"
+
+#: right-archive-lente-intraocular.php:784
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Asfericid., Diámetros..."
+msgstr "Aspheri., Diameters..."
+
+#: archive-patient-form.php:25
+#: filterIolEngine.php:14
+#: lente-intraocular.php:287
+#: right-archive-lente-intraocular.php:58
+#: right-archive-lente-intraocular.php:60
+#: right-archive-lente-intraocular.php:65
+#: right-archive-lente-intraocular.php:75
+#: right-archive-lente-intraocular.php:78
+#: right-archive-lente-intraocular.php:79
+#: right-archive-lente-intraocular.php:81
+#: right-archive-lente-intraocular.php:85
+#: right-archive-lente-intraocular.php:86
+#: right-archive-lente-intraocular.php:89
+#: right-single-lente-intraocular.php:43
+#: right-single-lente-intraocular.php:82
+#: single-patient-form.php:49
+#@ iol
+msgctxt "taxo-name"
+msgid "tipo-lente-intraocular"
+msgstr "intraocular-lens-type"
+
+#: archive-patient-form.php:17
+#: archive-patient-form.php:227
+#: archive-patient-form.php:228
+#: archive-patient-form.php:229
+#: archive-patient-form.php:230
+#: archive-patient-form.php:231
+#: content-lente-intraocular.php:52
+#: filterIolEngine.php:35
+#: lente-intraocular.php:309
+#: right-archive-lente-intraocular.php:112
+#: right-archive-lente-intraocular.php:115
+#: right-archive-lente-intraocular.php:119
+#: right-archive-lente-intraocular.php:126
+#: right-archive-lente-intraocular.php:130
+#: right-archive-lente-intraocular.php:132
+#: right-archive-lente-intraocular.php:133
+#: right-archive-lente-intraocular.php:136
+#: right-single-lente-intraocular.php:111
+#: right-single-lente-intraocular.php:131
+#: single-patient-form.php:42
+#: single-patient-form.php:192
+#: single-patient-form.php:193
+#: single-patient-form.php:194
+#: single-patient-form.php:195
+#: single-patient-form.php:196
+#@ iol
+msgctxt "taxo-name"
+msgid "diseno-optica"
+msgstr "optic-design"
+
+#: content-lente-intraocular.php:92
+#: filterIolEngine.php:178
+#: lente-intraocular.php:329
+#: right-archive-lente-intraocular.php:338
+#: right-archive-lente-intraocular.php:339
+#: right-archive-lente-intraocular.php:342
+#: right-archive-lente-intraocular.php:351
+#: right-archive-lente-intraocular.php:354
+#: right-archive-lente-intraocular.php:356
+#: right-single-lente-intraocular.php:325
+#: right-single-lente-intraocular.php:347
+#: single-lente-intraocular.php:48
+#@ iol
+msgctxt "taxo-name"
+msgid "fabricante-lente"
+msgstr "lens-manufacturer"
+
+#: content-lente-intraocular.php:143
+#: filterIolEngine.php:435
+#: lente-intraocular.php:406
+#: right-archive-lente-intraocular.php:593
+#: right-archive-lente-intraocular.php:596
+#: right-archive-lente-intraocular.php:598
+#: right-archive-lente-intraocular.php:599
+#: right-archive-lente-intraocular.php:602
+#: right-single-lente-intraocular.php:580
+#: right-single-lente-intraocular.php:600
+#@ iol
+msgctxt "taxo-name"
+msgid "material"
+msgstr "material"
+
+#: content-lente-intraocular.php:132
+#: filterIolEngine.php:416
+#: lente-intraocular.php:424
+#: right-archive-lente-intraocular.php:536
+#: right-archive-lente-intraocular.php:537
+#: right-archive-lente-intraocular.php:540
+#: right-archive-lente-intraocular.php:547
+#: right-archive-lente-intraocular.php:550
+#: right-archive-lente-intraocular.php:553
+#: right-archive-lente-intraocular.php:556
+#: right-archive-lente-intraocular.php:571
+#: right-single-lente-intraocular.php:526
+#@ iol
+msgctxt "taxo-name"
+msgid "diseno"
+msgstr "design"
+
+#: content-lente-intraocular.php:122
+#: filterIolEngine.php:359
+#: lente-intraocular.php:442
+#: right-archive-lente-intraocular.php:474
+#: right-archive-lente-intraocular.php:483
+#: right-archive-lente-intraocular.php:520
+#: right-archive-lente-intraocular.php:521
+#: right-archive-lente-intraocular.php:524
+#: right-single-lente-intraocular.php:450
+#@ iol
+msgctxt "taxo-name"
+msgid "principio-optico"
+msgstr "optical-principle"
+
+#: content-lente-intraocular.php:102
+#: filterIolEngine.php:304
+#: lente-intraocular.php:480
+#: right-archive-lente-intraocular.php:402
+#: right-archive-lente-intraocular.php:403
+#: right-archive-lente-intraocular.php:406
+#: right-archive-lente-intraocular.php:415
+#: right-archive-lente-intraocular.php:425
+#: right-archive-lente-intraocular.php:428
+#: right-archive-lente-intraocular.php:435
+#: right-archive-lente-intraocular.php:438
+#: right-archive-lente-intraocular.php:442
+#: right-archive-lente-intraocular.php:443
+#: right-archive-lente-intraocular.php:446
+#: right-single-lente-intraocular.php:390
+#@ iol
+msgctxt "taxo-name"
+msgid "bordes-cuadrados"
+msgstr "square-edges"
+
+#: content-lente-intraocular.php:165
+#: filterIolEngine.php:468
+#: lente-intraocular.php:519
+#: right-archive-lente-intraocular.php:680
+#: right-archive-lente-intraocular.php:681
+#: right-archive-lente-intraocular.php:684
+#: right-archive-lente-intraocular.php:692
+#: right-archive-lente-intraocular.php:702
+#: right-archive-lente-intraocular.php:705
+#: right-archive-lente-intraocular.php:712
+#: right-archive-lente-intraocular.php:715
+#: right-archive-lente-intraocular.php:719
+#: right-archive-lente-intraocular.php:720
+#: right-archive-lente-intraocular.php:722
+#: right-single-lente-intraocular.php:687
+#@ iol
+msgctxt "taxo-name"
+msgid "precargada"
+msgstr "preloaded"
+
+#: lente-intraocular.php:537
+#@ iol
+msgctxt "taxo-name"
+msgid "plegable"
+msgstr "foldable"
+
+#: content-lente-intraocular.php:176
+#: filterIolEngine.php:485
+#: lente-intraocular.php:557
+#: right-single-lente-intraocular.php:748
+#: right-single-lente-intraocular.php:768
+#@ iol
+msgctxt "taxo-name"
+msgid "diseno-hapticos"
+msgstr "haptic-design"
+
+#: right-single-lente-intraocular.php:391
+#@ iol
+msgctxt "taxo-slug"
+msgid "bordes-cuadrados"
+msgstr "square-edges"
+
+#: right-archive-lente-intraocular.php:420
+#: right-archive-lente-intraocular.php:697
+#: right-single-lente-intraocular.php:417
+#: right-single-lente-intraocular.php:428
+#: right-single-lente-intraocular.php:713
+#: right-single-lente-intraocular.php:724
+#@ iol-scaffold
+#@ iol
+msgctxt "taxo-value-slug"
+msgid "si"
+msgstr "yes"
+
+#: filterIolEngine.php:360
+#: right-archive-lente-intraocular.php:459
+#: right-archive-lente-intraocular.php:461
+#: right-archive-lente-intraocular.php:463
+#: right-archive-lente-intraocular.php:488
+#: right-archive-lente-intraocular.php:493
+#: right-archive-lente-intraocular.php:496
+#: right-single-lente-intraocular.php:473
+#@ iol-scaffold
+#@ iol
+msgctxt "taxo-value-slug"
+msgid "refractiva"
+msgstr "refractive"
+
+#: filterIolEngine.php:361
+#: right-archive-lente-intraocular.php:459
+#: right-archive-lente-intraocular.php:465
+#: right-archive-lente-intraocular.php:466
+#: right-archive-lente-intraocular.php:499
+#: right-archive-lente-intraocular.php:503
+#: right-archive-lente-intraocular.php:506
+#: right-single-lente-intraocular.php:475
+#@ iol-scaffold
+#@ iol
+msgctxt "taxo-value-slug"
+msgid "difractiva"
+msgstr "diffractive"
+
+#: right-archive-lente-intraocular.php:459
+#: right-archive-lente-intraocular.php:469
+#: right-archive-lente-intraocular.php:470
+#: right-archive-lente-intraocular.php:509
+#: right-archive-lente-intraocular.php:513
+#: right-archive-lente-intraocular.php:516
+#: right-single-lente-intraocular.php:477
+#@ iol-scaffold
+#@ iol
+msgctxt "taxo-value-slug"
+msgid "mixta"
+msgstr "mixed"
+
+#: right-single-lente-intraocular.php:540
+#: right-single-lente-intraocular.php:547
+#@ iol
+msgctxt "taxo-input-name"
+msgid "diseno-lente"
+msgstr "lens-design"
+
+#: right-single-lente-intraocular.php:42
+#: single-patient-form.php:54
+#@ iol
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "pseudofaquica"
+msgstr "pseudophakic"
+
+#: archive-patient-form.php:92
+#: archive-patient-form.php:241
+#: right-archive-lente-intraocular.php:172
+#: right-single-lente-intraocular.php:181
+#: right-single-lente-intraocular.php:191
+#: single-patient-form.php:109
+#: single-patient-form.php:206
+#@ iol-scaffold
+#@ iol
+msgctxt "taxo-value-slug"
+msgid "torica"
+msgstr "toric"
+
+#: archive-patient-form.php:112
+#: archive-patient-form.php:125
+#: archive-patient-form.php:249
+#: filterIolEngine.php:70
+#: right-archive-lente-intraocular.php:213
+#: right-archive-lente-intraocular.php:215
+#: right-archive-lente-intraocular.php:216
+#: right-archive-lente-intraocular.php:240
+#: right-archive-lente-intraocular.php:243
+#: right-archive-lente-intraocular.php:246
+#: right-single-lente-intraocular.php:238
+#: single-patient-form.php:134
+#: single-patient-form.php:214
+#@ iol-scaffold
+#@ iol
+msgctxt "taxo-value-slug"
+msgid "luz-ultravioleta"
+msgstr "ultraviolet-light"
+
+#: archive-patient-form.php:106
+#: archive-patient-form.php:119
+#: archive-patient-form.php:250
+#: filterIolEngine.php:71
+#: right-archive-lente-intraocular.php:213
+#: right-archive-lente-intraocular.php:220
+#: right-archive-lente-intraocular.php:221
+#: right-archive-lente-intraocular.php:249
+#: right-archive-lente-intraocular.php:253
+#: right-archive-lente-intraocular.php:256
+#: right-single-lente-intraocular.php:239
+#: single-patient-form.php:128
+#: single-patient-form.php:215
+#@ iol-scaffold
+#@ iol
+msgctxt "taxo-value-slug"
+msgid "luz-azul"
+msgstr "blue-light"
+
+#: right-single-lente-intraocular.php:472
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "refractiva"
+msgstr "refractive"
+
+#: right-archive-lente-intraocular.php:643
+#: right-single-lente-intraocular.php:653
+#: right-single-lente-intraocular.php:664
+#@ iol-scaffold
+#@ iol
+msgctxt "taxo-value-slug"
+msgid "con"
+msgstr "with"
+
+#: content-lente-intraocular.php:55
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Diseño de Óptica"
+msgstr "Optic Design"
+
+#: content-lente-intraocular.php:65
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Toricidad de la Lente"
+msgstr "Lens Toricity"
+
+#: content-lente-intraocular.php:75
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Filtros de la Lente"
+msgstr "Lens Filters"
+
+#: content-lente-intraocular.php:85
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Adicción de la Lente"
+msgstr "Lens Addition"
+
+#: content-lente-intraocular.php:95
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Fabricante de la Lente"
+msgstr "Lens Manufacturer"
+
+#: content-lente-intraocular.php:105
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Bordes Cuadrados"
+msgstr "Square Edges"
+
+#: content-lente-intraocular.php:115
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Afericidad de la Lente"
+msgstr "Lens Asphericity"
+
+#: content-lente-intraocular.php:125
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Principio Óptico"
+msgstr "Optical Principle"
+
+#: content-lente-intraocular.php:135
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Diseño-Estructura de la Lente"
+msgstr "Lens Structure-Design"
+
+#: content-lente-intraocular.php:146
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Material de la Lente"
+msgstr "Lens Material"
+
+#: content-lente-intraocular.php:157
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Inyector"
+msgstr "Injector"
+
+#: content-lente-intraocular.php:168
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Precargada"
+msgstr "Preloaded"
+
+#: content-lente-intraocular.php:179
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Diseño de Hápticos"
+msgstr "Haptic Design"
+
+#: content-lente-intraocular.php:190
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Diámetro Óptico"
+msgstr "Optic Diameter"
+
+#: content-lente-intraocular.php:201
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Diámetro Total"
+msgstr "Overall DIameter"
+
+#: content-lente-intraocular.php:212
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Intervalo de Dioptrías Esfera"
+msgstr "Spheric Dipter Step"
+
+#: content-lente-intraocular.php:223
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Rango Dioptrías Esfera desde"
+msgstr "Spheric Dipoter Range From"
+
+#: content-lente-intraocular.php:234
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Rango Dioptrías Esfera hasta"
+msgstr "Spheric Diopter Range to"
+
+#: content-lente-intraocular.php:245
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Rango 0,5 Dioptrías Esfera desde"
+msgstr "0.5 Step Sph. Diopt. Range From"
+
+#: content-lente-intraocular.php:256
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Rango 0,5 Dioptrías Esfera hasta"
+msgstr "0.5 Step Spheric Diopter range to"
+
+#: content-lente-intraocular.php:267
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Cilindro Dioptrías desde"
+msgstr "Cilinder Diopters from"
+
+#: content-lente-intraocular.php:278
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Cilindro Dioptrías hasta"
+msgstr "Cilinder Diopters to"
+
+#: content-lente-intraocular.php:287
+#@ iol_display
+msgctxt "Single_Template"
+msgid "Intervalos cilindro"
+msgstr "Cilinder Step"
+
+#: ajax/ajax-change-filters.php:43
+#: ajax/ajax-change-filters.php:63
+#: archive-lente-intraocular.php:228
+#: archive-lente-intraocular.php:240
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Filtro Avanzado"
+msgstr "Advanced Filter"
+
+#: ajax/ajax-change-filters.php:44
+#: ajax/ajax-change-filters.php:64
+#: archive-lente-intraocular.php:229
+#: archive-lente-intraocular.php:241
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Filtro Sencillo"
+msgstr "Basic Filter"
+
+#: archive-patient-form.php:37
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "add-on"
+msgstr "add-on"
+
+#: archive-patient-form.php:38
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "faquica"
+msgstr "faquica"
+
+#: archive-patient-form.php:39
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "icl"
+msgstr "icl"
+
+#: archive-patient-form.php:40
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "cachet"
+msgstr "cachet"
+
+#: archive-patient-form.php:41
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "verisyse"
+msgstr "verisyse"
+
+#: archive-patient-form.php:47
+#: archive-patient-form.php:134
+#: single-patient-form.php:57
+#: single-patient-form.php:144
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "monofocal"
+msgstr "monofocal"
+
+#: archive-patient-form.php:54
+#: archive-patient-form.php:227
+#: single-patient-form.php:64
+#: single-patient-form.php:192
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "monofocal-asferica"
+msgstr "monofocal-aspheric"
+
+#: archive-patient-form.php:61
+#: archive-patient-form.php:228
+#: single-patient-form.php:72
+#: single-patient-form.php:193
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal"
+msgstr "multifocal-bifocal"
+
+#: archive-patient-form.php:61
+#: single-patient-form.php:72
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal-asferica"
+msgstr "multifocal-bifocal-aspheric"
+
+#: archive-patient-form.php:61
+#@ iol-scaffold
+msgctxt "taxo-value-sllug"
+msgid "multifocal-bifocal-esferica"
+msgstr "multifocal-bifocal-spheric"
+
+#: archive-patient-form.php:67
+#: archive-patient-form.php:229
+#: single-patient-form.php:79
+#: single-patient-form.php:194
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal"
+msgstr "multifocal-trifocal"
+
+#: archive-patient-form.php:67
+#: single-patient-form.php:79
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal-asferica"
+msgstr "multifocal-trifocal-aspheric"
+
+#: archive-patient-form.php:67
+#: single-patient-form.php:79
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal-esferica"
+msgstr "multifocal-trifocal-spheric"
+
+#: archive-patient-form.php:73
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "acomodativa"
+msgstr "accommodative"
+
+#: archive-patient-form.php:79
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "ajustable-por-luz"
+msgstr "light-adjustable"
+
+#: archive-patient-form.php:87
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "toricidad"
+msgstr "toricity"
+
+#: archive-patient-form.php:98
+#: archive-patient-form.php:242
+#: single-patient-form.php:115
+#: single-patient-form.php:207
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "no-torica"
+msgstr "not toric"
+
+#: archive-patient-form.php:134
+#: archive-patient-form.php:140
+#: single-patient-form.php:144
+#: single-patient-form.php:150
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "add-on"
+msgstr "add-on"
+
+#: archive-patient-form.php:140
+#: single-patient-form.php:150
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal"
+msgstr "multifocal"
+
+#: right-single-lente-intraocular.php:379
+#: right-single-lente-intraocular.php:808
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "No aplicar estos filtros"
+msgstr "Do not apply these filters"
+
+#: right-single-lente-intraocular.php:381
+#: right-single-lente-intraocular.php:810
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Aplicar estos filtros"
+msgstr "Apply these filters"
+
+#: right-single-lente-intraocular.php:880
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Diámetro de Óptica"
+msgstr "Optic Diameter"
+
+#: single-patient-form.php:72
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal-esferica"
+msgstr "multifocal-bifocal-spheric"
+
+#: archive-patient-form.php:230
+#: single-patient-form.php:86
+#: single-patient-form.php:195
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "acomodativa"
+msgstr "accommodative"
+
+#: archive-patient-form.php:231
+#: single-patient-form.php:93
+#: single-patient-form.php:196
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "ajustable-por-luz"
+msgstr "light-ajustable"
+
+#: archive-patient-form.php:149
+#: single-patient-form.php:158
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "icl"
+msgstr "icl"
+
+#: archive-patient-form.php:155
+#: single-patient-form.php:164
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "verisyse"
+msgstr "verisyse"
+
+#: archive-patient-form.php:227
+#: single-patient-form.php:192
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Monofocal Asférica"
+msgstr "Monofocal Aspheric"
+
+#: archive-patient-form.php:228
+#: single-patient-form.php:193
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Multifocal Bifocal"
+msgstr "Multifocal Bifocal"
+
+#: archive-patient-form.php:229
+#: single-patient-form.php:194
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Multifocal Trifocal"
+msgstr "Multifocal Trifocal"
+
+#: archive-patient-form.php:230
+#: single-patient-form.php:195
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Acomodativa"
+msgstr "Accommodative"
+
+#: archive-patient-form.php:231
+#: single-patient-form.php:196
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Ajustable por luz"
+msgstr "Light Adjustable"
+
+#: archive-patient-form.php:249
+#: single-patient-form.php:214
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Ultravioleta"
+msgstr "Ultraviolet"
+
+#: archive-patient-form.php:257
+#: single-patient-form.php:222
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Monofocal"
+msgstr "Monofocal"
+
+#: single-patient-form.php:223
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Multifocal"
+msgstr "Multifocal"
+
+#: single-patient-form.php:215
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Protección Macular"
+msgstr "Macular Protection"
+
+#: filterIolEngine.php:28
+#@ iol_display
+msgctxt "info-mens"
+msgid "El tipo de LIO: Pseudofáquica, fáquica..."
+msgstr "The IOL Type: Pseudophakic, phakic..."
+
+#: filterIolEngine.php:45
+#@ iol_display
+msgctxt "info-mens"
+msgid "El diseño de la óptica: monofocal, multifocal..."
+msgstr "The optic design: monofocal, multifocal..."
+
+#: filterIolEngine.php:63
+#@ iol_display
+msgctxt "info-mens"
+msgid "La toricidad de la lente"
+msgstr "The lens toricity"
+
+#: filterIolEngine.php:106
+#@ iol_display
+msgctxt "info-mens"
+msgid "Los filtros"
+msgstr "The Filters"
+
+#: filterIolEngine.php:172
+#@ iol_display
+msgctxt "info-mens"
+msgid "Adición de cerca de la lente"
+msgstr "Lens Near Addition"
+
+#: filterIolEngine.php:188
+#@ iol_display
+msgctxt "info-mens"
+msgid "El fabricante"
+msgstr "The Manufacturer"
+
+#: filterIolEngine.php:222
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diámetro de la óptica"
+msgstr "Optic Diameter"
+
+#: filterIolEngine.php:258
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diámetro total"
+msgstr "Overall Diameter"
+
+#: filterIolEngine.php:295
+#@ iol_display
+msgctxt "info-mens"
+msgid "Tamaño de la incisión"
+msgstr "Incision Size"
+
+#: filterIolEngine.php:319
+#@ iol_display
+msgctxt "info-mens"
+msgid "Bordes"
+msgstr "Edges"
+
+#: filterIolEngine.php:353
+#@ iol_display
+msgctxt "info-mens"
+msgid "Valor numérico de Asfericidad"
+msgstr "Asphericity Numeric Value"
+
+#: filterIolEngine.php:362
+#@ iol-scaffold
+msgctxt "taxo-value-mixta"
+msgid "difractiva"
+msgstr "diffractive"
+
+#: filterIolEngine.php:411
+#@ iol_display
+msgctxt "info-mens"
+msgid "Principio Óptico"
+msgstr "Optical Principle"
+
+#: filterIolEngine.php:419
+#@ iol_display
+msgctxt "info-mens"
+msgid "-se"
+msgstr "-se"
+
+#: filterIolEngine.php:428
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diseño de la lente: Monobloque, 3-piezas..."
+msgstr "Lens Design: 1 piece, 3-piece..."
+
+#: filterIolEngine.php:447
+#@ iol_display
+msgctxt "info-mens"
+msgid "El Material"
+msgstr "The Material"
+
+#: filterIolEngine.php:464
+#@ iol_display
+msgctxt "info-mens"
+msgid "Uso de Inyector"
+msgstr "Use of Injector"
+
+#: filterIolEngine.php:481
+#@ iol_display
+msgctxt "info-mens"
+msgid "Si es precargada"
+msgstr "If it is preloaded"
+
+#: filterIolEngine.php:490
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diseño de Hápticos:"
+msgstr "Haptic Design:"
+
+#: filterIolEngine.php:498
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diseño de los hápticos"
+msgstr "Haptics Design"
+
+#: filterIolEngine.php:547
+#@ iol_display
+msgctxt "info-mens"
+msgid "Dioptrías de esfera"
+msgstr "Sphere Diopters"
+
+#: filterIolEngine.php:595
+#@ iol_display
+msgctxt "info-mens"
+msgid "Dioptrías cilíndricas"
+msgstr "Cylindrical Diopters"
+
+#: right-archive-lente-intraocular.php:23
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Vista"
+msgstr "View"
+
+#: right-archive-lente-intraocular.php:78
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "pseudofaquica"
+msgstr "pseudophakic"
+
+#: right-archive-lente-intraocular.php:654
+#@ iol-scaffold
+msgctxt "taxo-value"
+msgid "con"
+msgstr "with"
+
+#: right-archive-lente-intraocular.php:738
+#: right-archive-lente-intraocular.php:739
+#: right-archive-lente-intraocular.php:742
+#: right-archive-lente-intraocular.php:749
+#: right-archive-lente-intraocular.php:752
+#: right-archive-lente-intraocular.php:754
+#: right-archive-lente-intraocular.php:755
+#: right-archive-lente-intraocular.php:757
+#@ iol
+msgctxt "taxo-name"
+msgid "diseno-Hapticos"
+msgstr "haptic-design"
+
+#: filterIolEngine.php:19
+#@ iol_display
+msgctxt "info-mens"
+msgid "Tipo de lente intraocular:"
+msgstr "Intraocular Lens Type:"
+
+#: filterIolEngine.php:40
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diseño de óptica:"
+msgstr "Optic Design:"
+
+#: filterIolEngine.php:57
+#@ iol_display
+msgctxt "info-mens"
+msgid "Toricidad:"
+msgstr "Toricity:"
+
+#: filterIolEngine.php:76
+#@ iol_display
+msgctxt "info-mens"
+msgid "Filtros incluidos:"
+msgstr "Included Filters:"
+
+#: filterIolEngine.php:119
+#@ iol_display
+msgctxt "info-mens"
+msgid "Adición <b>mayor o igual</b> a:"
+msgstr "Addition<b> greater or equal </b> than:"
+
+#: filterIolEngine.php:137
+#@ iol_display
+msgctxt "info-mens"
+msgid "Adición <b>menor o igual</b> a:"
+msgstr "Addition <b>lower or equal </b> than:"
+
+#: filterIolEngine.php:207
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diametro de óptica <b>igual o inferior</b> a:"
+msgstr "Optic Diameter <b> lower or equal </b> than:"
+
+#: filterIolEngine.php:232
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diámetro total <b>igual o superior</b> a:"
+msgstr "Overall Diameter<b>greater or equal</b> than:"
+
+#: filterIolEngine.php:241
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diámetro total <b>igual o inferior</b> a:"
+msgstr "Overall Diameter <b> lower or equal</b>  than:"
+
+#: filterIolEngine.php:267
+#@ iol_display
+msgctxt "info-mens"
+msgid "Tamaño de Incisión <b>igual o superior</b> a:"
+msgstr "Incision Size <b> greater or equal</b> than:"
+
+#: filterIolEngine.php:278
+#@ iol_display
+msgctxt "info-mens"
+msgid "Tamaño de Incisión <b>igual o inferior</b> a:"
+msgstr "Incision size <b> lower or equal</b> than:"
+
+#: filterIolEngine.php:311
+#@ iol_display
+msgctxt "info-mens"
+msgid "Bordes Cuadrados:"
+msgstr "Square Edges:"
+
+#: filterIolEngine.php:339
+#@ iol_display
+msgctxt "info-mens"
+msgid "Asfericidad igual o inferior a:"
+msgstr "Asphericity lower or equal than:"
+
+#: filterIolEngine.php:367
+#@ iol_display
+msgctxt "info-mens"
+msgid "Principios ópticos de lente incluidos:"
+msgstr "Optical Principles included:"
+
+#: filterIolEngine.php:421
+#@ iol_display
+msgctxt "info-mens"
+msgid "Diseño de la lente:"
+msgstr "Lens Design:"
+
+#: filterIolEngine.php:440
+#@ iol_display
+msgctxt "info-mens"
+msgid "Material:"
+msgstr "Material:"
+
+#: filterIolEngine.php:457
+#@ iol_display
+msgctxt "info-mens"
+msgid "Inyector:"
+msgstr "Injector:"
+
+#: filterIolEngine.php:474
+#@ iol_display
+msgctxt "info-mens"
+msgid "Precargada:"
+msgstr "Preloaded:"
+
+#: filterIolEngine.php:510
+#@ iol_display
+msgctxt "info-mens"
+msgid "Dioptrías esféricas disponibles inferiores o iguales a:"
+msgstr "Spheric diopters available lower or equal than:"
+
+#: filterIolEngine.php:521
+#@ iol_display
+msgctxt "info-mens"
+msgid "Dioptrías esféricas disponibles superiores o iguales a:"
+msgstr "Spheric Diopters available greater or equal than:"
+
+#: filterIolEngine.php:559
+#@ iol_display
+msgctxt "info-mens"
+msgid "Dioptrías Cilíndricas disponibles inferiores o iguales a:"
+msgstr "Cylindrical diopters lower or equal than:"
+
+#: filterIolEngine.php:570
+#@ iol_display
+msgctxt "info-mens"
+msgid "Dioptrías cilíndricas disponibles superiores o iguales a:"
+msgstr "Cylindrical diopters available greater or equal than:"
+
+#: filterIolEngine.php:183
+#@ iol_display
+msgctxt "info-mens"
+msgid "Fabricada por:"
+msgstr "Manufactured by:"
+
+#: right-archive-lente-intraocular.php:243
+#: right-archive-lente-intraocular.php:246
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "UV"
+msgstr "UV"
+
+#: right-archive-lente-intraocular.php:253
+#: right-archive-lente-intraocular.php:256
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Luz Azul"
+msgstr "Blue Light"
+
+#: archive-patient-form.php:250
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Luz Azul <br /> Protección Mácular"
+msgstr "Blue Light <br /> Macular Protection"
+
+#: archive-patient-form.php:258
+#@ default
+msgctxt "iol_display"
+msgid "Multifocal"
+msgstr ""
+
+#: archive-lente-intraocular.php:45
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "LAS LENTES INTRAOCULARES RESULTANTES DE SU BÚSQUEDA SON:"
+msgstr "THE INTRAOCULAR LENSES THAT MATCH YOUR SEARCH ARE:"
+
+#: archive-lente-intraocular.php:50
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Búsqueda de lente por nombre:"
+msgstr "Search IOL by name:"
+
+#: archive-lente-intraocular.php:59
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Resetear Búsqueda"
+msgstr "Reset Search"
+
+#: ajax/ajaxTemplate.php:33
+#: archive-lente-intraocular.php:131
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "No hay ninguna Lente Intraocular con los criterios de filtrado actuales."
+msgstr "No IOL with the current filter criteria."
+
+#: ajax/ajaxTemplate.php:34
+#: archive-lente-intraocular.php:132
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr "Proceed with a new search changing the criteria."
+
+#: archive-patient-form.php:167
+#: right-archive-lente-intraocular.php:6
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Realizar Filtrado"
+msgstr "Do a Search"
+
+#: archive-patient-form.php:188
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Vista:"
+msgstr "View:"
+
+#: right-archive-lente-intraocular.php:391
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "No aplicar estos filtros:"
+msgstr "Do not apply these filters:"
+
+#: right-archive-lente-intraocular.php:393
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Aplicar estos filtros:"
+msgstr "Apply these filters:"
+
+#: ajax/ajaxTemplate.php:115
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Hay &nbsp;   "
+msgstr ""
+
+#: ajax/ajaxTemplate.php:115
+#: archive-lente-intraocular.php:281
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "lentes encontradas"
+msgstr "IOLs found"
+
+#: ajax/ajaxTemplate.php:117
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Las lentes mostradas cumplen las siguientes características:"
+msgstr "The IOLs shown comply with the following features:"
+
+#: ajax/ajaxTemplate.php:130
+#: archive-lente-intraocular.php:296
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Variables que no se han especificado:"
+msgstr "Variables that are not specified:"
+
+#: ajax/ajaxTemplate.php:139
+#: archive-lente-intraocular.php:305
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "No hay ninguna restricción impuesta a las lentes, se están mostrando todas las disponibles."
+msgstr "There is no restriction on the lenses, all the lenses available are being shown. "
+
+#: archive-lente-intraocular.php:265
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Información sobre la Búsqueda realizada"
+msgstr "Information about the search made"
+
+#: archive-lente-intraocular.php:269
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Cerrar"
+msgstr "Close"
+
+#: archive-lente-intraocular.php:270
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Minimizar"
+msgstr "Minimize"
+
+#: archive-lente-intraocular.php:271
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Maximizar"
+msgstr "Maximize"
+
+#: archive-lente-intraocular.php:281
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Hay &nbsp;"
+msgstr ""
+
+#: archive-lente-intraocular.php:283
+#@ iol_display
+msgctxt "Filter_Template"
+msgid "Las lentes mostradas cumplen las siguientes características:."
+msgstr "The lenses shown comply with the following features:"
+

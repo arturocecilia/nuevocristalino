@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "dw_qa"
+msgid "Pregunta a los Cirujanos"
+msgstr "Pregunta a los Cirujanos"
+
+msgctxt "dw_qa"
+msgid "Editar Perfil"
+msgstr "Editar Perfil"
+
+msgctxt "dw_qa"
+msgid "lente-intraocular"
+msgstr "lente-intraocular"
+
+msgctxt "dw_qa"
+msgid "clinica"
+msgstr "clinica"

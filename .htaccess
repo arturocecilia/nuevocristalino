@@ -1,0 +1,242 @@
+# ----------------------------------------------------------------------
+# CORS-enabled images (@crossorigin)
+# ----------------------------------------------------------------------
+# Send CORS headers if browsers request them; enabled by default for images.
+# developer.mozilla.org/en/CORS_Enabled_Image
+# blog.chromium.org/2011/07/using-cross-domain-images-in-webgl-and.html
+# hacks.mozilla.org/2011/11/using-cors-to-load-webgl-textures-from-cross-domain-images/
+# wiki.mozilla.org/Security/Reviews/crossoriginAttribute
+<IfModule mod_setenvif.c>
+  <IfModule mod_headers.c>
+    # mod_headers, y u no match by Content-Type?!
+    <FilesMatch "\.(gif|png|jpe?g|svg|svgz|ico|webp)$">
+      SetEnvIf Origin ":" IS_CORS
+      Header set Access-Control-Allow-Origin "*" env=IS_CORS
+    </FilesMatch>
+  </IfModule>
+</IfModule>
+# ----------------------------------------------------------------------
+# Webfont access
+# ----------------------------------------------------------------------
+# Allow access from all domains for webfonts.
+# Alternatively you could only whitelist your
+# subdomains like "subdomain.example.com".
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css|js)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
+
+
+
+#block spam referrers
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteCond %{HTTP_REFERER} ^http://.*backgroundpictures\.net/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*embedle\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*extener\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*fbfreegifts\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*feedouble\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*feedouble\.net/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*joinandplay\.me/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*joingames\.org/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*kambasoft\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*musicprojectfoundation\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*myprintscreen\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*openfrost\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*openmediasoft\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*savetubevideo\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*semalt\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*softomix\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*softomix\.net/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*softomix\.ru/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*soundfrost\.org/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*srecorder\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*vapmedia\.org/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*videofrost\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*videofrost\.net/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*youtubedownload\.org/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*zazagames\.org/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*buttons\-for\-website\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*darodar\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*7makemoneyonline\.com/ [NC]
+RewriteRule ^(.*)$ � [F,L]
+</IfModule>
+
+#end block
+
+
+#Adding the www to the all the urls before the https
+RewriteCond %{HTTP_HOST} ^nuevocristalino.es$
+RewriteRule (.*) https://www.nuevocristalino.es/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^nuevocristalino.co$
+RewriteRule (.*) https://www.nuevocristalino.co/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^nuevocristalino.mx$
+RewriteRule (.*) https://www.nuevocristalino.mx/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^nuevocristalino.cl$
+RewriteRule (.*) https://www.nuevocristalino.cl/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^neuelinsen.com$
+RewriteRule (.*) https://www.neuelinsen.com/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^neuelinsen.at$
+RewriteRule (.*) https://www.neuelinsen.at/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^newlens.co.uk$
+RewriteRule (.*) https://www.newlens.co.uk/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^mylifestylelens.com$
+RewriteRule (.*) https://www.mylifestylelens.com/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^nouveaucristallin.com$
+RewriteRule (.*) https://www.nouveaucristallin.com/$1 [R=301,L]
+
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+
+# BEGIN W3TC Browser Cache
+<IfModule mod_deflate.c>
+        AddOutputFilterByType DEFLATE text/css text/x-component application/x-javascript application/javascript text/javascript text/x-js text/html text/richtext text/plain text/xsd text/xsl text/xml image/bmp application/java application/msword application/vnd.ms-fontobject application/x-msdownload image/x-icon application/json application/vnd.ms-access video/webm application/vnd.ms-project application/x-font-otf application/vnd.ms-opentype application/vnd.oasis.opendocument.database application/vnd.oasis.opendocument.chart application/vnd.oasis.opendocument.formula application/vnd.oasis.opendocument.graphics application/vnd.oasis.opendocument.presentation application/vnd.oasis.opendocument.spreadsheet application/vnd.oasis.opendocument.text audio/ogg application/pdf application/vnd.ms-powerpoint image/svg+xml application/x-shockwave-flash image/tiff application/x-font-ttf application/vnd.ms-opentype audio/wav application/vnd.ms-write application/font-woff application/font-woff2 application/vnd.ms-excel
+    <IfModule mod_mime.c>
+        # DEFLATE by extension
+        AddOutputFilter DEFLATE js css htm html xml
+    </IfModule>
+</IfModule>
+<FilesMatch "\.(css|htc|less|js|js2|js3|js4|CSS|HTC|LESS|JS|JS2|JS3|JS4)$">
+    FileETag MTime Size
+    <IfModule mod_headers.c>
+        Header set Pragma "public"
+        Header set Cache-Control "max-age=720000, public"
+         Header set X-Powered-By "W3 Total Cache/0.12.0"
+    </IfModule>
+</FilesMatch>
+<FilesMatch "\.(html|htm|rtf|rtx|txt|xsd|xsl|xml|HTML|HTM|RTF|RTX|TXT|XSD|XSL|XML)$">
+    FileETag MTime Size
+    <IfModule mod_headers.c>
+        Header set Pragma "public"
+        Header set Cache-Control "max-age=720000, public"
+         Header set X-Powered-By "W3 Total Cache/0.12.0"
+    </IfModule>
+</FilesMatch>
+<FilesMatch "\.(asf|asx|wax|wmv|wmx|avi|bmp|class|divx|doc|docx|eot|exe|gif|gz|gzip|ico|jpg|jpeg|jpe|webp|json|mdb|mid|midi|mov|qt|mp3|m4a|mp4|m4v|mpeg|mpg|mpe|webm|mpp|otf|_otf|odb|odc|odf|odg|odp|ods|odt|ogg|pdf|png|pot|pps|ppt|pptx|ra|ram|svg|svgz|swf|tar|tif|tiff|ttf|ttc|_ttf|wav|wma|wri|woff|woff2|xla|xls|xlsx|xlt|xlw|zip|ASF|ASX|WAX|WMV|WMX|AVI|BMP|CLASS|DIVX|DOC|DOCX|EOT|EXE|GIF|GZ|GZIP|ICO|JPG|JPEG|JPE|WEBP|JSON|MDB|MID|MIDI|MOV|QT|MP3|M4A|MP4|M4V|MPEG|MPG|MPE|WEBM|MPP|OTF|_OTF|ODB|ODC|ODF|ODG|ODP|ODS|ODT|OGG|PDF|PNG|POT|PPS|PPT|PPTX|RA|RAM|SVG|SVGZ|SWF|TAR|TIF|TIFF|TTF|TTC|_TTF|WAV|WMA|WRI|WOFF|WOFF2|XLA|XLS|XLSX|XLT|XLW|ZIP)$">
+    FileETag MTime Size
+    <IfModule mod_headers.c>
+        Header set Pragma "public"
+        Header set Cache-Control "max-age=720000, public"
+         Header set X-Powered-By "W3 Total Cache/0.12.0"
+    </IfModule>
+</FilesMatch>
+<FilesMatch "\.(bmp|class|doc|docx|eot|exe|ico|json|mdb|webm|mpp|otf|_otf|odb|odc|odf|odg|odp|ods|odt|ogg|pdf|pot|pps|ppt|pptx|svg|svgz|swf|tif|tiff|ttf|ttc|_ttf|wav|wri|woff|woff2|xla|xls|xlsx|xlt|xlw|BMP|CLASS|DOC|DOCX|EOT|EXE|ICO|JSON|MDB|WEBM|MPP|OTF|_OTF|ODB|ODC|ODF|ODG|ODP|ODS|ODT|OGG|PDF|POT|PPS|PPT|PPTX|SVG|SVGZ|SWF|TIF|TIFF|TTF|TTC|_TTF|WAV|WRI|WOFF|WOFF2|XLA|XLS|XLSX|XLT|XLW)$">
+    <IfModule mod_headers.c>
+         Header unset Last-Modified
+    </IfModule>
+</FilesMatch>
+# END W3TC Browser Cache
+# BEGIN WordPress
+
+RewriteRule "(^|/)\.(?!well-known\/)" - [F]
+
+#MIGRATION SPLIT REDIRECTION.
+
+#Root de FORUM.
+RewriteRule ^foros-de-lentes-intraoculares-presbicia-y-cataratas/?$ /foro/ [R=301,L]
+RewriteRule ^intraocular-lenses-prebyopia-and-cataract-forum/?$ /forum/ [R=301,L]
+RewriteRule ^forum-uber-linsen-intraokular-presbyopie-und-katarakt/?$ /forum/ [R=301,L]
+RewriteRule ^forum-sur-les-implants-intraoculaires-et-cataractes/?$ /forum/ [R=301,L]
+
+
+#Foros de FORUM.
+RewriteRule ^foros-de-lentes-intraoculares-presbicia-y-cataratas/foro/(.*) /foro/$1 [R=301,L]
+RewriteRule ^intraocular-lenses-prebyopia-and-cataract-forum/forum/(.*) /forum/$1 [R=301,L]
+RewriteRule ^forum-uber-linsen-intraokular-presbyopie-und-katarakt/forum/(.*) /forum/$1 [R=301,L]
+RewriteRule ^forum-sur-les-implants-intraoculaires-et-cataractes/forum/(.*) /forum/$1 [R=301,L]
+
+
+#Topics en Forum
+
+RewriteCond %{REQUEST_URI} !^foro
+RewriteCond %{REQUEST_URI} !^forum
+RewriteRule ^hilo/(.*) /foro/hilo/$1 [R=301,L]
+
+RewriteRule ^intraocular-lenses-prebyopia-and-cataract-forum/(.*) /forum/topic/$1 [R=301,L]
+RewriteRule ^forum-uber-linsen-intraokular-presbyopie-und-katarakt/(.*) /forum/topic/$1 [R=301,L]
+#No habia hilos en fr_FR
+
+#replies in Forum
+
+RewriteCond %{REQUEST_URI} ^/respuesta-foro
+RewriteRule ^respuesta-foro/(.*) /foro/respuesta/$1 [R=301,L]
+
+
+RewriteRule ^pregunte-al-cirujano/author/(.*)/ /pregunte-al-cirujano/?user=$1 [R=301,L]
+
+RewriteEngine On
+
+#Root y resto de pregunta al cirujano.
+RewriteCond %{REQUEST_URI} !^/preguntas-
+RewriteRule ^preguntas(.*)$ /pregunte-al-cirujano/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} !^/questions-
+RewriteRule ^questions(.*)$ /ask-the-surgeon/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} !^/fragen-
+RewriteRule ^fragen/(.*)$ /fragen-an-den-augenchirurgen/$1 [R=301,L]
+
+#RewriteCond %{REQUEST_URI} !^/questions-
+RewriteRule ^questions-sur-les-implants-intraoculaires-et-cataractes(.*)$ /demandez-au-chirurgien/$1 [R=301,L]
+
+
+
+#END MIGRATION SPLIT REDIRECTIONS
+
+
+
+
+#RewriteBase /
+#RewriteRule ^index\.php$ - [L]
+
+# add a trailing slash to /wp-admin
+#RewriteRule ^wp-admin$ wp-admin/ [R=301,L]
+
+#RewriteCond %{REQUEST_FILENAME} -f [OR]
+#RewriteCond %{REQUEST_FILENAME} -d
+#RewriteRule ^ - [L]
+#RewriteRule ^(wp-(content|admin|includes).*) $1 [L]
+#RewriteRule ^(.*\.php)$ $1 [L]
+#RewriteRule . index.php [L]
+
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+# add a trailing slash to /wp-admin
+RewriteRule ^wp-admin$ wp-admin/ [R=301,L]
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?(wp-(content|admin|includes).*) $2 [L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?(.*\.php)$ $2 [L]
+RewriteRule . index.php [L]
+
+
+# END WordPress
+
+
+# Wordfence WAF
+<Files ".user.ini">
+<IfModule mod_authz_core.c>
+	Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+	Order deny,allow
+	Deny from all
+</IfModule>
+</Files>
+
+# END Wordfence WAF

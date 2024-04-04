@@ -1,0 +1,787 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "taxo-value-name"
+msgid "Pseudofáquica"
+msgstr "Pseudophakic"
+
+msgctxt "taxo-value-slug"
+msgid "pseudofaquica"
+msgstr "pseudophakic"
+
+msgctxt "taxo-value-name"
+msgid "Lente Premium"
+msgstr "Premium Lens"
+
+msgctxt "taxo-value-slug"
+msgid "lente-premium"
+msgstr "premium-lens"
+
+msgctxt "taxo-value-name"
+msgid "Lente Estándar"
+msgstr "Standard Lens"
+
+msgctxt "taxo-value-slug"
+msgid "lente-estandar"
+msgstr "standard-lens"
+
+msgctxt "taxo-value-name"
+msgid "Add-On"
+msgstr "Add-On"
+
+msgctxt "taxo-value-slug"
+msgid "add-on"
+msgstr "add-on"
+
+msgctxt "taxo-value-name"
+msgid "Fáquica"
+msgstr "Phakic"
+
+msgctxt "taxo-value-slug"
+msgid "faquica"
+msgstr "phakic"
+
+msgctxt "taxo-value-name"
+msgid "ICL"
+msgstr "ICL"
+
+msgctxt "taxo-value-slug"
+msgid "icl"
+msgstr "icl"
+
+msgctxt "taxo-value-name"
+msgid "Cachet"
+msgstr "Cachet"
+
+msgctxt "taxo-value-slug"
+msgid "cachet"
+msgstr "cachet"
+
+msgctxt "taxo-value-name"
+msgid "Verisyse"
+msgstr "Verisyse"
+
+msgctxt "taxo-value-slug"
+msgid "verisyse"
+msgstr "verisyse"
+
+msgctxt "taxo-value-name"
+msgid "Monofocal"
+msgstr "Monofocal"
+
+msgctxt "taxo-value-slug"
+msgid "monofocal"
+msgstr "monofocal"
+
+msgctxt "taxo-value-name"
+msgid "Monofocal Asférica"
+msgstr "Aspheric Monofocal"
+
+msgctxt "taxo-value-slug"
+msgid "monofocal-asferica"
+msgstr "aspheric-monofocal"
+
+msgctxt "taxo-value-name"
+msgid "Monofocal Esférica"
+msgstr "Spheric Monofocal"
+
+msgctxt "taxo-value-slug"
+msgid "monofocal-esferica"
+msgstr "spheric-monofocal"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal"
+msgstr "Multifocal"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal"
+msgstr "multifocal"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal Bifocal"
+msgstr "Multifocal Bifocal"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal"
+msgstr "multifocal-bifocal"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal Bifocal Esférica"
+msgstr "Spheric Multifocal Bifocal"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal-esferica"
+msgstr "spheric-multifocal-bifocal"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal Bifocal Asférica"
+msgstr "Aspheric Multifocal Bifocal"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal-asferica"
+msgstr "aspheric-multifocal-bifocal"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal Trifocal"
+msgstr "Multifocal Trifocal"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal"
+msgstr "multifocal-trifocal"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal Trifocal Esférica"
+msgstr "Spheric Multifocal Trifocal"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal-esferica"
+msgstr "spheric-multifocal-trifocal"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal Trifocal Asférica"
+msgstr "Aspheric Multifocal Trifocal"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal-asferica"
+msgstr "aspheric-multifocal-trifocal"
+
+msgctxt "taxo-value-name"
+msgid "Acomodativa"
+msgstr "Accommodative"
+
+msgctxt "taxo-value-slug"
+msgid "acomodativa"
+msgstr "accommodative"
+
+msgctxt "taxo-value-name"
+msgid "Ajustable por Luz"
+msgstr "Light Adjustable"
+
+msgctxt "taxo-value-slug"
+msgid "ajustable-por-luz"
+msgstr "light-adjustable"
+
+msgctxt "taxo-value-name"
+msgid "1STQ"
+msgstr "1STQ"
+
+msgctxt "taxo-value-slug"
+msgid "1stq"
+msgstr "1stq"
+
+msgctxt "taxo-value-name"
+msgid "Alcon"
+msgstr "Alcon"
+
+msgctxt "taxo-value-slug"
+msgid "alcon"
+msgstr "alcon"
+
+msgctxt "taxo-value-name"
+msgid "Argonoptics"
+msgstr "Argonoptics"
+
+msgctxt "taxo-value-slug"
+msgid "argonoptics"
+msgstr "argonoptics"
+
+msgctxt "taxo-value-name"
+msgid "Zeiss"
+msgstr "Zeiss"
+
+msgctxt "taxo-value-slug"
+msgid "zeiss"
+msgstr "zeiss"
+
+msgctxt "taxo-value-name"
+msgid "Domilens"
+msgstr "Domilens"
+
+msgctxt "taxo-value-slug"
+msgid "domilens"
+msgstr "domilens"
+
+msgctxt "taxo-value-name"
+msgid "Morcher"
+msgstr "Morcher"
+
+msgctxt "taxo-value-slug"
+msgid "morcher"
+msgstr "morcher"
+
+msgctxt "taxo-value-name"
+msgid "Opthec"
+msgstr "Opthec"
+
+msgctxt "taxo-value-slug"
+msgid "opthec"
+msgstr "opthec"
+
+msgctxt "taxo-value-name"
+msgid "AMO"
+msgstr "AMO"
+
+msgctxt "taxo-value-slug"
+msgid "amo"
+msgstr "amo"
+
+msgctxt "taxo-value-name"
+msgid "Bausch+Lomb"
+msgstr "Bausch+Lomb"
+
+msgctxt "taxo-value-slug"
+msgid "bausch-lomb"
+msgstr "bausch-lomb"
+
+msgctxt "taxo-value-name"
+msgid "Croma Pharma"
+msgstr "Croma Pharma"
+
+msgctxt "taxo-value-slug"
+msgid "croma-pharma"
+msgstr "croma-pharma"
+
+msgctxt "taxo-value-name"
+msgid "Humanoptics"
+msgstr "Humanoptics"
+
+msgctxt "taxo-value-slug"
+msgid "humanoptics"
+msgstr "humanoptics"
+
+msgctxt "taxo-value-name"
+msgid "Hoya"
+msgstr "Hoya"
+
+msgctxt "taxo-value-slug"
+msgid "hoya"
+msgstr "hoya"
+
+msgctxt "taxo-value-name"
+msgid "Oculentis"
+msgstr "Oculentis"
+
+msgctxt "taxo-value-slug"
+msgid "oculentis"
+msgstr "oculentis"
+
+msgctxt "taxo-value-name"
+msgid "Rayner"
+msgstr "Rayner"
+
+msgctxt "taxo-value-slug"
+msgid "rayner"
+msgstr "rayner"
+
+msgctxt "taxo-value-name"
+msgid "W2O"
+msgstr "W2O"
+
+msgctxt "taxo-value-slug"
+msgid "w2o"
+msgstr "w2o"
+
+msgctxt "taxo-value-name"
+msgid "Tórica"
+msgstr "Toric"
+
+msgctxt "taxo-value-slug"
+msgid "torica"
+msgstr "toric"
+
+msgctxt "taxo-value-name"
+msgid "No Tórica"
+msgstr "Non Toric"
+
+msgctxt "taxo-value-slug"
+msgid "no-torica"
+msgstr "non-toric"
+
+msgctxt "taxo-value-name"
+msgid "Baja"
+msgstr "Low"
+
+msgctxt "taxo-value-slug"
+msgid "baja"
+msgstr "low"
+
+msgctxt "taxo-value-name"
+msgid "2.5"
+msgstr "2.5"
+
+msgctxt "taxo-value-name"
+msgid "Media"
+msgstr "Middle"
+
+msgctxt "taxo-value-slug"
+msgid "media"
+msgstr "middle"
+
+msgctxt "taxo-value-name"
+msgid "Alta"
+msgstr "High"
+
+msgctxt "taxo-value-slug"
+msgid "alta"
+msgstr "high"
+
+msgctxt "taxo-value-name"
+msgid "3.33"
+msgstr "3.33"
+
+msgctxt "taxo-value-name"
+msgid "3.5"
+msgstr "3.5"
+
+msgctxt "taxo-value-name"
+msgid "3.75"
+msgstr "3.75"
+
+msgctxt "taxo-value-name"
+msgid "Luz Azul"
+msgstr "Blue Light"
+
+msgctxt "taxo-value-slug"
+msgid "luz-azul"
+msgstr "blue-light"
+
+msgctxt "taxo-value-name"
+msgid "Luz Ultravioleta"
+msgstr "Ultraviolet Light"
+
+msgctxt "taxo-value-slug"
+msgid "luz-ultravioleta"
+msgstr "ultraviolet-light"
+
+msgctxt "taxo-value-name"
+msgid "Acrílica"
+msgstr "Acrylic"
+
+msgctxt "taxo-value-slug"
+msgid "acrilica"
+msgstr "acrylic"
+
+msgctxt "taxo-value-name"
+msgid "Acrílica Hidrófoba"
+msgstr "Hydrophobic Acrylic"
+
+msgctxt "taxo-value-slug"
+msgid "acrilica-hidrofoba"
+msgstr "hydrophobic-acrylic"
+
+msgctxt "taxo-value-name"
+msgid "Acrílica Hidrofílica"
+msgstr "Hydrophilic Acrylic"
+
+msgctxt "taxo-value-slug"
+msgid "acrilica-hidrofilica"
+msgstr "hydrophilic-acrylic"
+
+msgctxt "taxo-value-name"
+msgid "Acrílica Hidrofílica con Superficie Hidrófoba"
+msgstr "Hydrophilic Acrylic with Hydrophobic surface"
+
+msgctxt "taxo-value-slug"
+msgid "acrilica-hidrofilica-con-superficie-hidrofoba"
+msgstr "hydrophilic-acrylic-with-hydrophobic-surface"
+
+msgctxt "taxo-value-name"
+msgid "Acrílica Hidrofílica con Superficie Hidrofílica"
+msgstr "Hydrophilic Acrylic with Hydrophilic surface"
+
+msgctxt "taxo-value-slug"
+msgid "acrilica-hidrofilica-con-superficie-hidrofilica"
+msgstr "hydrophilic-acrylic-with-hydrophilic-surface"
+
+msgctxt "taxo-value-name"
+msgid "PMMA"
+msgstr "PMMA"
+
+msgctxt "taxo-value-slug"
+msgid "pmma"
+msgstr "pmma"
+
+msgctxt "taxo-value-name"
+msgid "Silicona"
+msgstr "Silicone"
+
+msgctxt "taxo-value-slug"
+msgid "silicona"
+msgstr "silicone"
+
+msgctxt "taxo-value-name"
+msgid "3 piezas"
+msgstr "3 piece"
+
+msgctxt "taxo-value-slug"
+msgid "3-piezas"
+msgstr "3-piece"
+
+msgctxt "taxo-value-name"
+msgid "2 piezas"
+msgstr "2 piece"
+
+msgctxt "taxo-value-slug"
+msgid "2-piezas"
+msgstr "2-piece"
+
+msgctxt "taxo-value-name"
+msgid "Monobloque"
+msgstr "Monoblock"
+
+msgctxt "taxo-value-slug"
+msgid "monobloque"
+msgstr "monoblock"
+
+msgctxt "taxo-value-name"
+msgid "Difractiva"
+msgstr "Diffractive"
+
+msgctxt "taxo-value-slug"
+msgid "difractiva"
+msgstr "diffractive"
+
+msgctxt "taxo-value-name"
+msgid "Mixta"
+msgstr "Mixed"
+
+msgctxt "taxo-value-slug"
+msgid "mixta"
+msgstr "mixed"
+
+msgctxt "taxo-value-name"
+msgid "Refractiva"
+msgstr "Refractive"
+
+msgctxt "taxo-value-slug"
+msgid "refractiva"
+msgstr "refractive"
+
+msgctxt "taxo-value-name"
+msgid "Asférica"
+msgstr "Aspheric"
+
+msgctxt "taxo-value-slug"
+msgid "asferica"
+msgstr "aspheric"
+
+msgctxt "taxo-value-name"
+msgid "Esférica"
+msgstr "Spheric"
+
+msgctxt "taxo-value-slug"
+msgid "esferica"
+msgstr "spheric"
+
+msgctxt "taxo-value-name"
+msgid "Sí"
+msgstr "Yes"
+
+msgctxt "taxo-value-slug"
+msgid "si"
+msgstr "yes"
+
+msgctxt "taxo-value-name"
+msgid "No"
+msgstr "No"
+
+msgctxt "taxo-value-slug"
+msgid "no"
+msgstr "no"
+
+msgctxt "taxo-value-name"
+msgid "Con"
+msgstr "With"
+
+msgctxt "taxo-value-slug"
+msgid "con"
+msgstr "with"
+
+msgctxt "taxo-value-name"
+msgid "Sin"
+msgstr "Without"
+
+msgctxt "taxo-value-slug"
+msgid "sin"
+msgstr "without"
+
+msgctxt "taxo-value-name"
+msgid "Abiertos"
+msgstr "Open"
+
+msgctxt "taxo-value-slug"
+msgid "abiertos"
+msgstr "open"
+
+msgctxt "taxo-value-name"
+msgid "C-Loop"
+msgstr "C-Loop"
+
+msgctxt "taxo-value-slug"
+msgid "c-loop"
+msgstr "c-loop"
+
+msgctxt "taxo-value-name"
+msgid "C-Loop Modificado"
+msgstr "Modified C-Loop"
+
+msgctxt "taxo-value-slug"
+msgid "c-loop-modificado"
+msgstr "modified-c-loop"
+
+msgctxt "taxo-value-name"
+msgid "en L"
+msgstr "L"
+
+msgctxt "taxo-value-slug"
+msgid "en-l"
+msgstr "l"
+
+msgctxt "taxo-value-name"
+msgid "tipo Plato"
+msgstr "Plate Type"
+
+msgctxt "taxo-value-slug"
+msgid "tipo-plato"
+msgstr "plate-type"
+
+msgctxt "taxo-value-name"
+msgid "1"
+msgstr "1"
+
+msgctxt "taxo-value-name"
+msgid "2"
+msgstr "2"
+
+msgctxt "taxo-value-name"
+msgid "3"
+msgstr "3"
+
+msgctxt "taxo-value-name"
+msgid "4"
+msgstr "4"
+
+msgctxt "taxo-value-name"
+msgid "5"
+msgstr "5"
+
+msgctxt "taxo-value-name"
+msgid "Tmonofocal"
+msgstr "Tmonofocal"
+
+msgctxt "taxo-value-name"
+msgid "Tmultifocal-trifocal"
+msgstr "Tmultifocal-trifocal"
+
+msgctxt "taxo-value-name"
+msgid "TBaja"
+msgstr "TBaja"
+
+msgctxt "taxo-value-name"
+msgid "Tmultifocal-bifocal"
+msgstr "Tmultifocal-bifocal"
+
+msgctxt "taxo-value-name"
+msgid "TMedia"
+msgstr "TMedia"
+
+msgctxt "taxo-value-name"
+msgid "TAlta"
+msgstr "TAlta"
+
+msgctxt "taxo-value-name"
+msgid "Tacomodativa"
+msgstr "Tacomodativa"
+
+msgctxt "taxo-value-name"
+msgid "Tasferica"
+msgstr "Tasferica"
+
+msgctxt "taxo-value-name"
+msgid "Ttorica"
+msgstr "Ttorica"
+
+msgctxt "taxo-value-name"
+msgid "Tluz-azul"
+msgstr "Tluz-azul"
+
+msgctxt "taxo-value-name"
+msgid "no aprobada"
+msgstr "not approved"
+
+msgctxt "taxo-value-name"
+msgid "en estudio"
+msgstr "in study"
+
+msgctxt "taxo-value-name"
+msgid "en mercado"
+msgstr "in market"
+
+msgctxt "taxo-value-name"
+msgid "retirada"
+msgstr "withdrawn-from-market"
+
+msgctxt "taxo-value-name"
+msgid "disponible"
+msgstr "available"
+
+msgctxt "taxo-value-name"
+msgid "no-disponible"
+msgstr "not-available"
+
+msgctxt "taxo-value-name"
+msgid "STAAR"
+msgstr "STAAR"
+
+msgctxt "taxo-value-slug"
+msgid "staar"
+msgstr "staar"
+
+msgctxt "taxo-value-slug"
+msgid "3.33"
+msgstr "3-33"
+
+msgctxt "taxo-value-slug"
+msgid "3.5"
+msgstr "3-5"
+
+msgctxt "taxo-value-slug"
+msgid "3.75"
+msgstr "3-75"
+
+msgctxt "taxo-value-slug"
+msgid "3"
+msgstr "3"
+
+msgctxt "taxo-value-slug"
+msgid "no-aprobada"
+msgstr "not-approved"
+
+msgctxt "taxo-value-slug"
+msgid "en-estudio"
+msgstr "in-study"
+
+msgctxt "taxo-value-slug"
+msgid "en-mercado"
+msgstr "in-market"
+
+msgctxt "taxo-value-slug"
+msgid "retirada"
+msgstr "withdrawn-from-market"
+
+msgctxt "taxo-value-slug"
+msgid "disponible"
+msgstr "available"
+
+msgctxt "taxo-value-slug"
+msgid "no-disponible"
+msgstr "not-available"
+
+msgctxt "taxo-value-name"
+msgid "Physiol"
+msgstr "Physiol"
+
+msgctxt "taxo-value-slug"
+msgid "physiol"
+msgstr "physiol"
+
+msgctxt "taxo-value-name"
+msgid "Calhoun Vision"
+msgstr "Calhoun Vision"
+
+msgctxt "taxo-value-slug"
+msgid "calhoun-vision"
+msgstr "calhoun-vision"
+
+msgctxt "taxo-value-name"
+msgid "1.5"
+msgstr "1.5"
+
+msgctxt "taxo-value-name"
+msgid "adapted-iol"
+msgstr "adapted-iol"
+
+msgctxt "taxo-value-slug"
+msgid "adapted-iol"
+msgstr "adapted-iol"
+
+msgctxt "taxo-value-name"
+msgid "translated-iol"
+msgstr "translated-iol"
+
+msgctxt "taxo-value-slug"
+msgid "translated-iol"
+msgstr "translated-iol"
+
+msgctxt "taxo-value-name"
+msgid "untranslated-iol"
+msgstr "untranslated-iol"
+
+msgctxt "taxo-value-slug"
+msgid "untranslated-iol"
+msgstr "untranslated-iol"
+
+msgctxt "taxo-value-name"
+msgid "en C"
+msgstr "C"
+
+msgctxt "taxo-value-slug"
+msgid "en-c"
+msgstr "c"
+
+msgctxt "taxo-value-name"
+msgid "C Modificado"
+msgstr "Modified C"
+
+msgctxt "taxo-value-slug"
+msgid "c-modificado"
+msgstr "modified-c"
+
+msgctxt "taxo-value-name"
+msgid "L-Loop"
+msgstr "L-Loop"
+
+msgctxt "taxo-value-slug"
+msgid "l-loop"
+msgstr "l-loop"
+
+msgctxt "taxo-value-name"
+msgid "L-Loop Modificado"
+msgstr "Modified L-Loop"
+
+msgctxt "taxo-value-slug"
+msgid "l-loop-modificado"
+msgstr "modified-l-loop"
+
+msgctxt "taxo-value-name"
+msgid "L Modificado"
+msgstr "Modified L"
+
+msgctxt "taxo-value-slug"
+msgid "l-modificado"
+msgstr "modified-l"
+
+msgctxt "taxo-value-name"
+msgid "Medicontur"
+msgstr "Medicontur"
+
+msgctxt "taxo-value-slug"
+msgid "medicontur"
+msgstr "medicontur"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal de rango extendido de visión"
+msgstr "Multifocal with extended range of vision"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal-de-rango-extendido-de-vision"
+msgstr "multifocal-with-extended-range-of-vision"
+
+msgctxt "taxo-value-name"
+msgid "Multifocal sectorizada"
+msgstr "multifocal with sectorshaped near vision segment"
+
+msgctxt "taxo-value-slug"
+msgid "multifocal-sectorizada"
+msgstr "multifocal-with-sectorshaped-near-vision-segment"

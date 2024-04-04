@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "Single Fabricante"
+msgid "CONTACTE CON EL FABRICANTE"
+msgstr "FRAGEN SIE UNS ÜBER DEN HERSTELLER"
+
+msgctxt "Archive Opinion Doctor"
+msgid "Comentarios de Doctores sobre Cataratas, Presbicia y Lentes Intraoculares"
+msgstr "Kommentare von Augenärzten über Katarakt, Presbyopie und Intraokularlinsen"
+
+msgctxt "Archive Opinion Doctor"
+msgid "Listado de especialistas en Cataratas y Presbicia"
+msgstr "Liste Katarakt und Presbyopie Spezialisten"

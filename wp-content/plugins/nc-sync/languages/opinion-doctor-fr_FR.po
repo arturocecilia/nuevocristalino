@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "opinion-doctor"
+msgstr "opinion-medecin"
+
+msgctxt "taxo-slug"
+msgid "opinion-oftalmologo"
+msgstr "opinion-ophtalmologue"
+
+msgctxt "slug"
+msgid "opiniones-oftalmologos"
+msgstr "opinions-ophtalmologue"
+
+msgctxt "admin_display"
+msgid "Testimonio de Doctor"
+msgstr "Témoignage du médecin"
+
+msgctxt "admin_display"
+msgid "Añadir Testimonio de Doctor"
+msgstr "Ajouter témoignage du médecin"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Testimonio de Doctor"
+msgstr "Ajouter nouveau témoignage du médecin"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Modifier"
+
+msgctxt "admin_display"
+msgid "Editar Testimonio de doctor"
+msgstr "Modifier témoignage du médecin"
+
+msgctxt "admin_display"
+msgid "Nuevo Testimonio de Doctor"
+msgstr "Nouveau témoignage du médecin"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Voir"
+
+msgctxt "admin_display"
+msgid "Ver testimonio de Doctor"
+msgstr "Voir témoignage du médecin"
+
+msgctxt "admin_display"
+msgid "Buscar testimonio de doctor"
+msgstr "Chercer témoignage du médecin"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ningun testimonio de doctor"
+msgstr "Aucun témoignage du médecin trouvé"
+
+msgctxt "admin_display"
+msgid "No hay testimonios de doctores en la papelera"
+msgstr "Aucun témoignage dans la corbeille"
+
+msgctxt "admin_display"
+msgid "Testimonio de Doctor padre"
+msgstr "Témoignage du médecin père"
+
+msgctxt "admin_display"
+msgid "Información adicional sobre el doctor que aporta su opinión"
+msgstr "Renseignements supplémentaires sur le médecin qui vous donne son avis"
+
+msgctxt "admin_display"
+msgid "Clínica 1 donde opera el doctor (D)"
+msgstr "Clinique 1 oú le médecin travaille"
+
+msgctxt "admin_display"
+msgid "Ciudad-dirección donde está la clínica 1 (D)"
+msgstr "Ville-adresse oú se situe la clinique 1 (D)"
+
+msgctxt "admin_display"
+msgid "Web de la clínica 1 donde opera el doctor (D)"
+msgstr "Web de la clinique 1 oú le médecin travaille (D)"
+
+msgctxt "admin_display"
+msgid "Clínicas 2 opera el doctor (D)"
+msgstr "Clinique 2 oú le médecin travaille"
+
+msgctxt "admin_display"
+msgid "Ciudad-dirección donde está la clínica 2 (D)"
+msgstr "Ville-adresse oú se situe la clinique 2 (D)"
+
+msgctxt "admin_display"
+msgid "Web de la clínica 2 donde opera el doctor (D)"
+msgstr "Web de la clinique 2 oú le médecin travaille (D)"

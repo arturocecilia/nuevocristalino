@@ -1,0 +1,179 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "iol_main"
+msgid "¿Estás pensando en Operarte de la Vista?"
+msgstr "Nachdenken über eine Augenoperation?"
+
+msgctxt "iol_main"
+msgid "Regístrate en NuevoCristalino. Es gratis"
+msgstr "Profitieren Sie von den Vorteilen von NeueLinsen. Es ist gratis"
+
+msgctxt "header"
+msgid "Tu Área Privada"
+msgstr "Dein privater Bereich"
+
+msgctxt "header"
+msgid "Editar Perfil"
+msgstr "Profil ausfüllen"
+
+msgctxt "interaction-home"
+msgid "Encuentra la mejor opción para tu operación ocular."
+msgstr "Finden Sie die besten Optionen für Ihre Augenoperation"
+
+msgctxt "interaction-home"
+msgid "Aprovecha las ventajas de NuevoCristalino. Es gratis."
+msgstr "Profitieren Sie von den Vorteilen von NeueLinsen. Es ist gratis."
+
+msgctxt "interaction-home"
+msgid "Con cualquier duda recuerda que puedes escribirnos también a info@nuevocristalino.es"
+msgstr "Bei Fragen kannst Du uns auch eine mail an info@neuelinsen.com senden"
+
+msgctxt "interaction-home"
+msgid "Soluciones para la Vista Cansada"
+msgstr "Lösungen zur Therapie der Alterssichtigkeit"
+
+msgctxt "interaction-home"
+msgid "Conozca que opciones hay hoy en día para no necesitar gafas de cerca."
+msgstr "Lernen Sie die Verfahren kennen, die Sie von der Lesebrille befreit."
+
+msgctxt "interaction-home"
+msgid "Nueva cirugía de cataratas con LÁSER"
+msgstr "Neue Laseroperation des Grauen Stars"
+
+msgctxt "interaction-home"
+msgid "Conozca la útima técnica disponible para quitar las cataratas con Láser."
+msgstr "Kennen Sie die neueste Technologie, um den Grauen Star mit einem Laser zu entfernen?"
+
+msgctxt "interaction-home"
+msgid "Clínicas especializadas en tu cirugía"
+msgstr "Spezialisierte Kliniken für Deine Operation"
+
+msgctxt "interaction-home"
+msgid "Vea una lista de clínicas especializadas en lentes intraoculares."
+msgstr "Liste von spezialisierten Kliniken für Intraokularlinsen"
+
+msgctxt "interaction-home"
+msgid "Vea las lentes adecuadas para su caso."
+msgstr "Geeignete Intraokularlinsen für Deine Operation"
+
+msgctxt "interaction-home"
+msgid "Realice el test para saber qué tipo de lente es la más adecuada para usted."
+msgstr "Machen Sie den Test, um die für Sie geeignete Linse zu finden."
+
+msgctxt "interaction-home"
+msgid "¿Te has operado? Cuéntanos como fue tu Operación"
+msgstr "Man hat Dich bereits operiert? Berichte uns über Deine Operationserfahrungen."
+
+msgctxt "interaction-home"
+msgid "Ayuda a otros pacientes con tu experiencia"
+msgstr "Helfe anderen Patienten mit Deinen Erfahrungen."
+
+msgctxt "interaction-home"
+msgid "Queremos saber si estás contento/a o no."
+msgstr "Wir möchten gerne erfahren, ob Du zufrieden bist oder nicht."
+
+msgctxt "interaction-home"
+msgid "Ir a la encuesta >>"
+msgstr "Gehe zum Fragebogen"
+
+msgctxt "interaction-home"
+msgid "Si conoces a alguien que ya se ha operado, invítale a dar su opinión sobre su operación:"
+msgstr "Kennst Du jemanden, der schon operiert wurde. Lade ihn ein, uns seine Erfahrungen zu übermitteln."
+
+msgctxt "iol_main"
+msgid "Foros de NuevoCristalino"
+msgstr "Forum von NeueLinsen"
+
+msgctxt "single-post"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog über Intraokularlinsen zur Korrektur der Alterssichtigkeit oder einer Katarakt."
+
+msgctxt "iol_main"
+msgid "Pregunta a los cirujanos"
+msgstr "Fragen an den Augenchirurgen"
+
+msgctxt "iol_main"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog über Intraokularlinsen zur Korrektur der Alterssichtigkeit oder einer Katarakt."
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según distancia a una ubicación concreta:"
+msgstr "Filter - Entfernung zu einem bestimmten Ort"
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según Lente y Comunidad:"
+msgstr "Filter - Linse und Region"
+
+msgctxt "template-buscador-clinicas"
+msgid "Ubicar la dirección introducida"
+msgstr "Finde den eingegebenen Ort"
+
+msgctxt "template-buscador-clinicas"
+msgid "Máxima distancia a ubicación:"
+msgstr "Maximale Entfernung vom Ort"
+
+msgctxt "template-buscador-clinicas"
+msgid "Detectar mi ubicación"
+msgstr "Identifiziere meinen Ort"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrando"
+msgstr "Zeigen"
+
+msgctxt "template-buscador-clinicas"
+msgid "ubicación seleccionada:"
+msgstr "ausgewählter Ort:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Distancia"
+msgstr "Entfernung"
+
+msgctxt "template-buscador-clinicas"
+msgid "km"
+msgstr "km"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrar Todas"
+msgstr "Zeige alles"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clinicas más visitadas"
+msgstr "Am häufigsten besuchte Kliniken"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clínicas según lente y Comunidad"
+msgstr "Kliniken nach Linse und Region"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Queremos saber cómo ves."
+msgstr "Wir möchten wissen, wie gut Du sehen kannst."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Cuéntanos tu opinión sobre el resultado de tu operación."
+msgstr "Berichte uns über das Ergebnis Deiner Operation"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Ayuda a otros usuarios interesados en tu operación."
+msgstr "Helfe anderen Usern, die sich über Deine Operation informieren möchten."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con reemplazo de cristalino sin cataratas"
+msgstr "Linsentausch ohne Vorliegen einer Katarakt"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación de cataratas (con cualquier tipo de lente intraocular)"
+msgstr "Operation des Grauen Stars (unabhängig vom verwendeten Linsentyp)"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con láser excímer sobre córnea (LASIK, PRK, etc.)"
+msgstr "Operation der Hornhaut mittels eines Excimerlasers (LASIK, PRK, etc. )"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con lente intraocular ICL"
+msgstr "Operation mit einer ICL"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Si conoces a alguien que ya se ha operado y puede dar el testimonio de su operación, compártelo esta página usando una red social:"
+msgstr "Falls Du jemanden kennst, der schon operiert wurde und über seine Erfahrungen berichten kann, teile diese Seite in den sozialen Netzwerken."

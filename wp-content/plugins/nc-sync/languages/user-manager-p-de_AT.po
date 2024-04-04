@@ -1,0 +1,219 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "ajax-link-generator"
+msgid "No ha seleccionado un formulario válido"
+msgstr "Sie haben kein validiertes Formular gewählt."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "No ha rellenado la dirección de email de envío."
+msgstr "Sie haben die email-Adresse nicht ausgefüllt."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "El email introducido no es correcto"
+msgstr "Die angegebene email ist nicht korrekt."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "No ha generado el link correctamente"
+msgstr "Es wurde kein korrekter Link angelegt."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "Cuestionario de satisfacción de Cirugía Ocular"
+msgstr "Fragebogen über die Zufriedenheit von Augenoperationen"
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "Estimado paciente, en el siguiente link:"
+msgstr "Sehr geehrter Patient, im folgenden Link"
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "podrá rellenar información sobre su visión actual."
+msgstr "können Sie Informationen über Ihr momentanes Sehen hinterlassen."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "Muchas gracias por su colaboración."
+msgstr "Vielen Dank für Ihre Zusammenarbeit."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "El email se ha enviado correctamente"
+msgstr "Die email wurde korrekt versendet."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "El email no se ha podido enviar con éxito, proceda a enviar el link manualmente"
+msgstr "Die email wurde nicht korrekt versendet, fahren Sie bitte fort, indem Sie den Link selbst versenden."
+
+msgctxt "user-email-manager"
+msgid "Vemos que está relacionada con la operación de cataratas."
+msgstr "Wir sehen, dass eine Verbindung zu einer Katarakt-Operation besteht."
+
+msgctxt "user-email-manager"
+msgid "Vemos que está relacionada con la operación de cristalino transparente."
+msgstr "Wir sehen, dass eine Verbindung zu einem Linsenaustausch besteht."
+
+msgctxt "user-email-manager"
+msgid "Vemos que está relacionada con la operación con lente ICL."
+msgstr "Wir sehen, dass eine Verbindung zu einer ICL Operation besteht."
+
+msgctxt "user-email-manager"
+msgid "Estimado usuario, hemos recibido su solicitud de información."
+msgstr "Sehr geehrter User, wir haben Ihre Anforderung für mehr Information erhalten."
+
+msgctxt "user-email-manager"
+msgid "En breve, un miembro del equipo de NuevoCristalino procederá a contactarte vía email para ver en que puede asistirte."
+msgstr "In Kürze wird sich ein Mitarbeiter von NeueLinsen mit Ihnen zur Unterstützung per email in Kontakt setzen."
+
+msgctxt "user-email-manager"
+msgid "Solo por si deseas tener una cuenta para poder aprovechar todas las ventajas de NuevoCristalino (ver resultados de su operación en otros pacientes, preguntar a cirujanos, etc), te hemos generado un usuario:"
+msgstr "Falls Sie eine Registrierung wünschen, um alle Vorteile von NeueLinsen nutzen zu können (Resultate anderer Patienten einsehen, Augenchirurgen Fragen stellen zu können etc.) haben wir die Möglichkeit der Usergenerierung geschaffen:"
+
+msgctxt "user-email-manager"
+msgid "Estimado usuario"
+msgstr "Sehr geehrter User"
+
+msgctxt "user-email-manager"
+msgid "hemos recibido el cuestionario con tus datos básicos."
+msgstr "Wir haben den Fragebogen mit Ihren Basisdaten erhalten."
+
+msgctxt "user-email-manager"
+msgid "Si no deseas tener un usuario, ignora este mensaje. Si no lo activas, se borrará automáticamente."
+msgstr "Falls Sie keinen Userstatus wünschen, ignorieren Sie diese Nachricht. Falls Sie keine Aktivierung durchführen, erfolgt eine automatische Löschung"
+
+msgctxt "user-email-manager"
+msgid "Con cualquier duda, contáctenos a este email."
+msgstr "Bitte kontaktieren Sie uns bei Fragen unter dieser Mailadresse."
+
+msgctxt "user-email-manager"
+msgid "Necesitamos que clickees el link que te ponemos a continuación para que la encuesta que rellenaste pase a ser tenida en cuenta."
+msgstr "Bitte klicken Sie diesen Link, damit Ihr ausgefüllter Fragebogen berücksichtigt werden kann."
+
+msgctxt "user-email-manager"
+msgid "En nombre de todos los pacientes que están valorando operarse desde el equpo de NuevoCristalino te damos las gracias."
+msgstr "Im Namen aller Patienten, die Information über eine Augenoperation wünschen, möchte sich das Team von NeueLinsen bei Ihnen bedanken. "
+
+msgctxt "user-email-manager"
+msgid "Para validar el formulario rellenado sólo tienes que clickear en este link:"
+msgstr "Um das ausgefüllte Formular zu validieren müssen Sie nur diesen Link anklicken:"
+
+msgctxt "user-email-manager"
+msgid "Gracias por tu tiempo."
+msgstr "Vielen Dank für Ihre Zeit."
+
+msgctxt "user-email-manager"
+msgid "Comprobación de tu email (Activación de cuenta de NuevoCristalino)"
+msgstr "Bestätigung Ihrer email (Aktivierung des NeueLinsen-Kontos)"
+
+msgctxt "user-email-manager"
+msgid "de Cataratas"
+msgstr "Über Katarakte"
+
+msgctxt "user-email-manager"
+msgid "de Cristalino transparente"
+msgstr "Über Linsenaustausch"
+
+msgctxt "user-email-manager"
+msgid "con lente ICL"
+msgstr "mit ICL"
+
+msgctxt "user-email-manager"
+msgid "Estimado usuario"
+msgstr "Sehr geehrter User"
+
+msgctxt "user-email-manager"
+msgid "Tu cuenta de usuario en NuevoCristalino ya está configurada, puedes acceder con las siguientes credenciales:"
+msgstr "Ihr Konto als User von NeueLinsen ist jetzt konfiguriert, Sie können es folgendermaßen erreichen:"
+
+msgctxt "user-email-manager"
+msgid "Usuario:"
+msgstr "User:"
+
+msgctxt "user-email-manager"
+msgid "Clave/Contraseña:"
+msgstr "Schlüssel/Kennwort:"
+
+msgctxt "user-email-manager"
+msgid "Vemos que todavía no te has operado %s, si quieres, puedes rellenar tu información de antes de la operación:"
+msgstr "Bis jetzt sind Sie noch nicht operiert worden %s, falls Sie wünschen, übermitteln Sie uns doch Ihre Daten vor der Operation."
+
+msgctxt "user-email-manager"
+msgid "Te permitirá obtener un listado de lentes idóneas, dará más datos al cirujano que vaya a contestar tus dudas, tendrás contenidos más personlizados etc."
+msgstr "Damit sind wir in der Lage, Ihnen eine Liste der für Sie geeigneten Linsen zu senden,  unser Augenspezialist kann Ihnen genauere Antworten auf Ihre Fragen gebend, wir können Ihnen genauer Informationen für Ihren Fall zusenden etc.  "
+
+msgctxt "user-email-manager"
+msgid "Vemos que todavía ya te has operado %s, si quieres, ayudarías a otros pacientes si rellenas el cuestionario de satisfacción tras la operación:"
+msgstr "Wir sehen, dass Sie sich haben operieren lassen %s, falls Sie wünschen, helfen Sie anderen Patienten indem Sie den Fragebogen zur Zufriedenheit nach der Operation ausfüllen."
+
+msgctxt "user-email-manager"
+msgid "Muchas gracias!!"
+msgstr "Vielen Dank!!"
+
+msgctxt "class-user-manager-userdata"
+msgid "Enviar"
+msgstr "Absenden"
+
+msgctxt "class-user-manager-userdata"
+msgid "No se ha podido enviar la información, por favor, compruebe que los campos están rellenadas y la política de privacidad aceptada."
+msgstr "Das Absenden der Information war nicht erfolgreich. Bitte überprüfen Sie, ob Sie alle Felder ausgefüllt und die Datenschutzbestimmungen akzeptiert haben."
+
+msgctxt "class-user-manager-userdata"
+msgid "La información se ha envíado correctamente. Tendrá un email con el siguiente paso para recibir la ayuda que necesite antes de su operación."
+msgstr "Die Information wurde erfolgreich versendet. In Kürze erhalten sie von uns eine mail, die Ihnen die weiteren Schritte erläutert, um notwendige für Sie passende Informationen vor Ihrer Operation zu erhalten."
+
+msgctxt "class-user-manager-userdata"
+msgid "Saludos,<br /> el equipo de NuevoCristalino."
+msgstr "Viele Grüße,<br /> Ihr NeueLinsen Team."
+
+msgctxt "class-user-manager-userdata"
+msgid "No se ha podido enviar la información, por favor, compruebe que los campos están rellenadas y la política de privacidad aceptada."
+msgstr "Das Absenden der Information war nicht erfolgreich. Bitte überprüfen Sie, ob Sie alle Felder ausgefüllt und die Datenschutzbestimmungen akzeptiert haben."
+
+msgctxt "class-user-manager-userdata"
+msgid "La información se ha envíado correctamente. Tendrá un email con el siguiente paso para recibir la ayuda que necesite antes de su operación."
+msgstr "Die Information wurde erfolgreich versendet. In Kürze erhalten sie von uns eine mail, die Ihnen die weiteren Schritte erläutert, um notwendige für Sie passende Informationen vor Ihrer Operation zu erhalten."
+
+msgctxt "class-user-manager-userdata"
+msgid "Seleccione el formulario que quiere sea rellenado:"
+msgstr "Wählen sie das Formular, das Sie ausfüllen möchten."
+
+msgctxt "class-user-manager-userdata"
+msgid "No hay formularios preconfigurados, póngase en contacto con nosotros."
+msgstr "Es liegen keine konfigurierten Formulare vor, bitte setzen sie sich mit uns in Verbindung."
+
+msgctxt "class-user-manager-userdata"
+msgid "Usted no está logueado como usuario profesional, sentimos decirle que no tiene acceso a este área. Con cualquier duda póngase en contacto con nosotros."
+msgstr "Sie sind nicht als professioneller User eingeloggt. Es tut uns leid, aber Sie haben keinen Zugang zu diesem Bereich. Bitte setzen sie sich mit uns in Verbindung."
+
+msgctxt "class-user-manager-userdata"
+msgid "Seleccione de sus centros, a cual quiere que se asigne:"
+msgstr "Wählen Sie die Zentren für Sie aus"
+
+msgctxt "class-user-manager-userdata"
+msgid "Usted no tiene centros asignados, póngase en contacto con nosotros."
+msgstr "Sie haben keine Zentren ausgewählt, bitte setzen sie sich mit uns in Verbindung."
+
+msgctxt "class-user-manager-userdata"
+msgid "Usted no tiene centros asignados, póngase en contacto con nosotros."
+msgstr "Sie haben keine Zentren ausgewählt, bitte setzen sie sich mit uns in Verbindung."
+
+msgctxt "class-user-manager-userdata"
+msgid "Seleccione la lente implantada"
+msgstr "Wählen Sie die implantierte Linse aus."
+
+msgctxt "class-user-manager-userdata"
+msgid "Incluya si lo desea el email del paciente (No es obligatorio, podrá utilizarlo para enviarle el link)"
+msgstr "Mailen Sie uns auch die email des Patienten (Nicht obligatorisch, kann aber dazu genutzt werden, den Link zu versenden)"
+
+msgctxt "class-user-manager-userdata"
+msgid "Generar el Enlace"
+msgstr "Generieren Sie einen Link"
+
+msgctxt "class-user-manager-userdata"
+msgid "Todavía no has generado el enlace para el paciente"
+msgstr "Bis jetzt haben Sie noch keinen Link mit der Adresse"
+
+msgctxt "class-user-manager-userdata"
+msgid "Enviar un email con el enlace a la dirección aportada:"
+msgstr "Senden Sie eine email mit dem Link an die übermittelte Adresse"
+
+msgctxt "class-user-manager-userdata"
+msgid "Enviar el enlace por email a la dirección aportada."
+msgstr "Senden Sie den Link per email an die übermittelte Adresse."

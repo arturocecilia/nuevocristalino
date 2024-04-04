@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "fabricante"
+msgstr "fabricante"
+
+msgctxt "taxo-slug"
+msgid "fabricante-de-lentes-intraoculares"
+msgstr "fabricante-de-lentes-intraoculares"
+
+msgctxt "slug"
+msgid "fabricantes-lentes-intraoculares-archive"
+msgstr "fabricantes-lentes-intraoculares-archive"
+
+msgctxt "admin_display"
+msgid "fabricante"
+msgstr "fabricante"
+
+msgctxt "admin_display"
+msgid "Añadir fabricante"
+msgstr "Añadir fabricante"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo fabricante"
+msgstr "Añadir Nuevo fabricante"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Editar"
+
+msgctxt "admin_display"
+msgid "Editar fabricante"
+msgstr "Editar fabricante"
+
+msgctxt "admin_display"
+msgid "Nuevo fabricante"
+msgstr "Nuevo fabricante"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Ver"
+
+msgctxt "admin_display"
+msgid "Ver fabricante"
+msgstr "Ver fabricante"
+
+msgctxt "admin_display"
+msgid "Buscar fabricante"
+msgstr "Buscar fabricante"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ningun fabricante"
+msgstr "No se ha encontrado ningun fabricante"
+
+msgctxt "admin_display"
+msgid "No hay fabricantes en la papelera"
+msgstr "No hay fabricantes en la papelera"
+
+msgctxt "admin_display"
+msgid "Fabricante padre"
+msgstr "Fabricante padre"
+
+msgctxt "admin_display"
+msgid "Distribuidor en el País (D)"
+msgstr "Distribuidor en el País (D)"
+
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr "Dirección (D)"
+
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr "Telf de Contacto (D)"
+
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr "Email de Contacto (D)"
+
+msgctxt "admin_display"
+msgid "Web (D)"
+msgstr "Web (D)"
+
+msgctxt "admin_display"
+msgid "Web Distribuidor (D)"
+msgstr "Web Distribuidor (D)"
+
+msgctxt "admin_display"
+msgid "Factor Ordenación (D)"
+msgstr "Factor Ordenación (D)"

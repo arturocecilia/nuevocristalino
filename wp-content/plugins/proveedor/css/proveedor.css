@@ -1,0 +1,16 @@
+
+
+.site-content-fabricantes .proveedor .entry-content img{
+	margin: 0px !important;
+	display: block;
+}
+.site-content-fabricantes .proveedor .entry-content p img{
+	margin-left: auto !important;
+	margin-right: auto !important;
+	max-width:99%  !important;
+}
+
+.proveedor .wp-video{
+	margin-left: auto !important;
+	margin-right: auto !important;
+}

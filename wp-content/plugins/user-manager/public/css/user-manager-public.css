@@ -1,0 +1,902 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .visible{
+ 		display:block;
+ 	}
+
+ .hidden{
+ 	display:none;
+ 	}
+
+ 	/*-- We are going to style the supersocializer elements as it is "part" of the approach --*/
+
+ 	#theChampGoogleButton{
+ 		width:95px;
+ 		}
+ ss.theChampLoginSvg.theChampGoogleLoginSvg,
+ ss.theChampLoginSvg.theChampFacebookLoginSvg,
+ ss.theChampLoginSvg.theChampTwitterLoginSvg,
+ ss.theChampLoginSvg.theChampLinkedinLoginSvg
+ {
+ 			 font-size:14px;
+       font-weight:bold;
+       color:#fff;
+       height:30px;
+       padding-top:6px;
+       padding-left:40px;
+ 			}
+ ss.theChampLoginSvg.theChampFacebookLoginSvg{
+
+ 	}
+
+ .theChampFacebookBackground{
+ 	width:110px !important;
+ 	}
+.theChampTwitterBackground{
+	width:115px !important;
+	}
+ .theChampLinkedinBackground{
+ 	width:115px !important;
+ 	}
+
+ /*-- ??--*/
+
+ .theChampFacebookLogin, .theChampGoogleLogin, .theChampLinkedinLogin, .theChampVkontakteLogin{
+ 	display:block !important;
+ 	}
+
+ 	/*-- --*/
+
+/* 	#widgetblog ul.the_champ_login_ul li,
+ 	#widget-forum  ul.the_champ_login_ul li{
+ 		width:98% !important;
+ 		margin-left:auto;
+ 		margin-right:auto;
+ 		float:none;
+ 		}*/
+ 		#widget-forum  ul.the_champ_login_ul li,
+ 		#widgetblog ul.the_champ_login_ul li,
+ 		#block-qa ul.the_champ_login_ul li{
+ 			width:48% !important;
+ 		margin-left:auto;
+ 		margin-right:auto;
+ 			}
+
+
+ 	#widgetblog ul.the_champ_login_ul li	.theChampLogin,
+ 	#widget-forum ul.the_champ_login_ul li	.theChampLogin,
+ 	#block-qa ul.the_champ_login_ul li	.theChampLogin
+ 	{
+ 		width:47% !important;
+ 		overflow:hidden;
+ 		margin-right:1%;
+ 		}
+  #widget-forum ul.the_champ_login_ul li	.theChampLogin,
+  #widgetblog ul.the_champ_login_ul li	.theChampLogin,
+  #block-qa  ul.the_champ_login_ul li	.theChampLogin{
+  	width:98% !important;
+  	}
+
+
+  #widgetblog ul.the_champ_login_ul li:nth-child(1),
+ 	#widget-forum ul.the_champ_login_ul li:nth-child(1),
+ 	#block-qa ul.the_champ_login_ul li:nth-child(1)
+ 	{
+ 		 float:left;
+ 		}
+ 		  #widgetblog ul.the_champ_login_ul li:nth-child(3),
+ 	#widget-forum ul.the_champ_login_ul li:nth-child(3),
+ 	#block-qa ul.the_champ_login_ul li:nth-child(3)
+ 	{
+ 		 float:left;
+
+ 		}
+
+ 		#widgetblog ul.the_champ_login_ul li:nth-child(2),
+ 	#widget-forum ul.the_champ_login_ul li:nth-child(2),
+ 	#block-qa ul.the_champ_login_ul li:nth-child(2)
+ 	{
+ 		 float:right;
+ 		 margin-right:1% !important;
+ 		}
+ 		#widgetblog ul.the_champ_login_ul li:nth-child(4),
+ 	#widget-forum ul.the_champ_login_ul li:nth-child(4),
+ 	#block-qa ul.the_champ_login_ul li:nth-child(4)
+ 	{
+ 		 float:right;
+ 		 margin-right:1% !important;
+ 		}
+
+
+  #widgetblog ul.the_champ_login_ul li	.theChampLoginSvg,
+  #widget-forum  ul.the_champ_login_ul li	.theChampLogin,
+  #block-qa ul.the_champ_login_ul li	.theChampLogin {
+  	padding-left:40px;
+  	padding-top:10px;
+  	}
+
+   #widget-forum  ul.the_champ_login_ul li	.theChampLogin{
+  	padding-left:35px;
+  }
+
+
+
+ 	#widgetblog ul.the_champ_login_ul li ss,
+ 	#widget-forum  ul.the_champ_login_ul li ss,
+ 	#block-qa ul.the_champ_login_ul li ss
+ 	{
+ 		font-family:"Open Sans";
+ 	}
+
+ 	#widgetsqa ul.the_champ_login_ul{
+ 		padding-left:0px;
+ 		padding-right:0px;
+ 		}
+ 		#widgetsqa aside.widget_thechamplogin{
+ 			padding:5px !important;
+ 			}
+
+ 		aside.widget_thechamplogin	h3.widget-title{
+ 			line-height:1.5;
+ 			padding-top:10px;
+ 			}
+
+ 		aside.widget_thechamplogin	h3.widget-title-blog{
+ 			/*text-align:center;*/
+ 			}
+
+
+ 	.ui-progressbar-value.ui-widget-header.ui-corner-left{
+ 		background:url("../img/progress-bar.gif");
+ 		}
+
+
+ 		span.message{
+ 			  display: block;
+    		float: right;
+    		font-size: 13px;
+    		font-weight: bold;
+
+ 			}
+ 		span.message.ok{
+ 				color:#fea63c;
+ 			}
+
+ 		span.message.empty{
+ 				color:red;
+ 			}
+
+.question_bloq.addedquestion{
+  margin-left: 5%;
+  width: 90%;
+}
+
+
+
+/*ahora el wizard*/
+
+/*
+  SmartWizard 2.0 plugin
+  jQuery Wizard control Plugin
+  by Dipu
+
+  http://www.techlaboratory.net
+  http://tech-laboratory.blogspot.com
+*/
+.swMain {
+  position:relative;
+  display:block;
+  margin:0;
+  padding:0;
+  border: 0 solid #CCC;
+  overflow:visible;
+  float:left;
+  width:100%;/*980px;ARTURO*/
+}
+.swMain .stepContainer {
+  display:block;
+  position: relative;
+  margin: 0;
+  padding:0;
+  border: 1PX solid #CCC;
+  overflow-x: hidden;
+  overflow-y: hidden;; /* scroll; ARTURO */
+  clear:both;
+  height:auto;/*500px;/*300px;ARTURO */
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+}
+
+.swMain .stepContainer div.content {
+  display:block;
+  position: absolute;
+  float:left;
+  margin: 0;
+  padding:5px;
+  border: 0px;/*1px solid #CCC; ARTURO */
+  font: normal 12px Verdana, Arial, Helvetica, sans-serif;
+  color:#5A5655;
+  background-color:#FFFFFF;/*#F8F8F8; ARTURO*/
+  height:auto;/*500px;/*300px;ARTURO*/
+  text-align:left;
+  overflow:visible;
+  z-index:88;
+  -webkit-border-radius: 5px;
+  -moz-border-radius  : 5px;
+  width:98%;/*968px; ARTURO */
+ margin-left: auto;
+ margin-right: auto;
+  clear:both;
+  border-radius: 3px;  /*ARTURO*/
+}
+
+
+div.stepContainer > div.content > div.question_bloq:last-child{
+  border-bottom: 0px !important;
+}
+
+.swMain div.actionBar {
+  display:block;
+  position: relative;
+  clear:both;
+  margin:             3px 0 0 0;
+  border:             1px solid #CCC;
+  padding:            0;
+  color:              #5A5655;
+  background-color:   #F8F8F8;
+  height:auto;/*40px; ARTURO */
+  text-align:left;
+  overflow:auto;
+  z-index:88;
+  border-radius: 3px;
+/*  -webkit-border-radius: 5px;
+  -moz-border-radius  : 5px;*/
+  left:0;
+}
+
+.swMain .stepContainer .StepTitle {
+  display:block;
+  position: relative;
+  margin:0;
+  border:1px solid #E0E0E0;
+  padding:5px;
+  font: bold 16px Verdana, Arial, Helvetica, sans-serif;
+  color:#5A5655;
+  background-color:#E0E0E0;
+  clear:both;
+  text-align:left;
+  z-index:88;
+  -webkit-border-radius: 5px;
+  -moz-border-radius  : 5px;
+}
+.swMain ul.anchor {
+  position: relative;
+  display:block;
+  float:left;
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+  clear: both;
+  border: 0 solid #CCCCCC;
+  background: transparent; /*#EEEEEE */
+}
+.swMain ul.anchor li{
+  position: relative;
+  display:block;
+  margin: 0;
+  padding: 0 3px;
+  border: 0 solid #E0E0E0;
+  float: left;
+}
+/* Anchor Element Style */
+.swMain ul.anchor li a {
+  display:block;
+  position:relative;
+  float:left;
+  margin: 5px 0 0 0;
+  padding:3px;
+  height:60px;
+  width:230px;
+  text-decoration: none;
+  outline-style:none;
+  border-radius: 3px;
+/*  -moz-border-radius  : 5px;
+  -webkit-border-radius: 5px;*/
+  z-index:99;
+}
+.swMain ul.anchor li a .stepNumber{
+  position:relative;
+  float:left;
+  width:30px;
+  text-align: center;
+  padding: 0 5px 5px;
+  font: bold 45px Verdana, Arial, Helvetica, sans-serif;
+}
+.swMain ul.anchor li a .stepDesc{
+  position:relative;
+  display:block;
+  float:left;
+  text-align: left;
+  padding:5px;
+  font-family: 'Roboto-Bold';
+  font-size: 20px;
+  padding-top: 1px;
+  /*font: bold 20px Verdana, Arial, Helvetica, sans-serif;*/
+}
+.swMain ul.anchor li a .stepDesc small{
+  /*font: normal 12px Verdana, Arial, Helvetica, sans-serif;*/
+  font-family: 'Roboto-Light';
+  display: block;
+  font-size: 12px;
+}
+.swMain ul.anchor li a.selected{
+  color:#ffffff;/*#F8F8F8;*/
+  background: #fea63c;/*#EA8511;ARTURO  /* EA8511 */
+  border: 0px solid #EA8511;/*ARTURO*/
+  cursor:text;
+  -moz-box-shadow: 5px 5px 8px #888;
+  -webkit-box-shadow: 5px 5px 8px #888;
+  box-shadow: 5px 5px 8px #888;
+}
+.swMain ul.anchor li a.selected:hover {
+  color:#F8F8F8;
+  /*background: #EA8511;*/
+
+}
+
+.swMain ul.anchor li a.done {
+  position:relative;
+  color: #767676; /*#FFF; ARTURO*/
+  background: #FFFFFF;/*#8CC63F; ARTURO*/
+  border: 1px solid #ccc;/*#8CC63F;*/
+  z-index:99;
+}
+.swMain ul.anchor li a.done:hover {
+  color:#5A5655;
+  background: #ffffff;/*#8CC63F;*/
+  border: 1px solid #5A5655;
+}
+.swMain ul.anchor li a.disabled {
+  color:#CCCCCC;
+  background: #F8F8F8;
+  border: 0px solid #CCC;/*arturo*/
+  cursor:text;
+}
+
+.stepContainer div.question_comun_title{
+  margin-top: 20px;
+}
+
+
+.swMain ul.anchor li a.disabled:hover {
+  color:#CCCCCC;
+  background: #ebebeb;/*#F8F8F8; arturo */
+}
+
+.swMain ul.anchor li a.error {
+  color:#6c6c6c !important;
+  background: #f08f75 !important;
+  border: 1px solid #fb3500 !important;
+}
+.swMain ul.anchor li a.error:hover {
+  color:#000 !important;
+}
+
+.swMain .buttonNext {
+  display:block;
+  float:right;
+  margin:5px 3px 0 3px;
+  padding:5px;
+  text-decoration: none;
+  text-align: center;
+  /*font: bold 13px Verdana, Arial, Helvetica, sans-serif; ARTURO */
+  font-family: 'Roboto-Bold';
+  width:100px;
+  color:#FFF;
+  outline-style:none;
+  background-color:  #fea63c;/* #5A5655; ARTURO*/
+  border: 1px solid #fea63c;/*#5A5655; ARTURO */
+  -moz-border-radius  : 5px;
+  -webkit-border-radius: 5px;
+  margin-bottom: 5px;
+}
+.swMain .buttonDisabled {
+  color:#F8F8F8  !important;
+  background-color: #CCCCCC !important;
+  border: 1px solid #CCCCCC  !important;
+  cursor:text;
+}
+.swMain .buttonPrevious {
+  display:block;
+  float:right;
+  margin:5px 3px 0 3px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding:5px;
+  text-decoration: none;
+  text-align: center;
+  /*font: bold 13px Verdana, Arial, Helvetica, sans-serif; ARTURO*/
+  font-family: 'Roboto-Bold';
+  width:100px;
+  color:#fea63c;/*#fff*/
+  outline-style:none;
+  background-color:  #ffffff;/*#fea63c;/*ARTURO #5A5655;*/
+  border: 1px solid #ffffff;/*#5A5655;*/
+  -moz-border-radius  : 5px;
+  -webkit-border-radius: 5px;
+}
+.swMain .buttonFinish {
+  display:block;
+  float:right;
+  margin:5px 10px 0 3px;
+  margin-bottom:5px;/*ARTURO*/
+  padding:5px;
+  text-decoration: none;
+  text-align: center;
+  /*font: bold 13px Verdana, Arial, Helvetica, sans-serif;*/
+  font-family: 'Roboto-Bold';
+  width:100px;
+  color:#FFF;
+  outline-style:none;
+  background-color:   #fea63c;/* #5A5655;*/
+  border: 1px solid #fea63c;/* #5A5655;*/
+  -moz-border-radius  : 5px;
+  -webkit-border-radius: 5px;
+}
+
+#wizard input[type="submit"]{
+  display: none;
+}
+
+
+/* Form Styles */
+
+.txtBox {
+  border:1px solid #CCCCCC;
+  color:#5A5655;
+  font:13px Verdana,Arial,Helvetica,sans-serif;
+  padding:2px;
+  width:430px;
+}
+.txtBox:focus {
+  border:1px solid #EA8511;
+}
+
+.swMain .loader {
+  position:relative;
+  display:none;
+  float:left;
+  margin: 2px 0 0 2px;
+  padding:8px 10px 8px 40px;
+  border: 1px solid #FFD700;
+  font: bold 13px Verdana, Arial, Helvetica, sans-serif;
+  color:#5A5655;
+  background: #FFF url(../images/loader.gif) no-repeat 5px;
+  -moz-border-radius  : 5px;
+  -webkit-border-radius: 5px;
+  z-index:998;
+}
+.swMain .msgBox {
+  position:relative;
+  display:none;
+  float:left;
+  margin: 4px 0 0 5px;
+  padding:5px;
+  border: 1px solid #FFD700;
+  background-color: #FFFFDD;
+  font: normal 12px Verdana, Arial, Helvetica, sans-serif;
+  color:#5A5655;
+  -moz-border-radius  : 5px;
+  -webkit-border-radius: 5px;
+  z-index:999;
+  min-width:200px;
+}
+.swMain .msgBox .content {
+  font: normal 12px Verdana,Arial,Helvetica,sans-serif;
+  padding: 0;
+  float:left;
+}
+.swMain .msgBox .close {
+  border: 1px solid #CCC;
+  border-radius: 3px;
+  color: #CCC;
+  display: block;
+  float: right;
+  margin: 0 0 0 5px;
+  outline-style: none;
+  padding: 0 2px 0 2px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+}
+.swMain .msgBox .close:hover{
+  color: #EA8511;
+  border: 1px solid #EA8511;
+}
+
+
+/*Ahora el star rating*/
+div.stars {
+  display: inline-block;
+  float: left;
+  margin-left: 5% !important;
+  max-width: 80%;
+  width: 300px; /*270px*/
+}
+
+input.star { display: none; }
+
+label.star {
+  float: right;
+  padding: 10px;
+  font-size: 47px;/*36px;*/
+  width: 35px;/*New*/
+  height: 50px;/*New*/
+  overflow: hidden;/*New*/
+  color: #444;
+  transition: all .2s;
+  line-height: 1.2;
+}
+
+
+
+input.star:checked ~ label.star:before,
+label.amarilleada:before
+ {
+  content: '\f005';
+  color: #FD4;
+  transition: all .25s;
+}
+
+.question_inputs label.amarilleada:before{
+  content: '\f005';
+}
+
+input.star-5:checked ~ label.star:before {
+  color: #FE7;
+  text-shadow: 0 0 20px #952;
+}
+
+input.star-1:checked ~ label.star:before { color: #F62; }
+
+label.star:hover {
+  /*transform: rotate(-15deg) scale(1.3); */
+transform: scale(1.3); /*ARTURO no me gusta la rotación*/
+}
+
+label.star:before {
+  content: '\f006';
+  font-family: FontAwesome;
+}
+
+
+.starexpla{
+  float: left;
+font-family: Roboto-Regular;
+font-size: 20px;
+font-weight: normal;
+line-height: 1.2;
+margin-left: 10px;
+padding-top: 25px;
+width: 250px;
+}
+
+/*-- Stilo del slider--*/
+
+.radios-to-slider{
+	background-color:#e0e0e0;
+	display:block;
+	position:relative;
+	margin-bottom:80px;
+	-webkit-box-sizing:content-box;
+	   -moz-box-sizing:content-box;
+	     -o-box-sizing:content-box;
+	        box-sizing:content-box;
+}
+
+
+.radios-to-slider.medium{
+	height:22px;
+	-webkit-border-radius:25px;
+	-moz-border-radius:25px;
+	-o-border-radius:25px;
+	border-radius:25px;
+	padding:5px;
+}
+
+/* Levels */
+.radios-to-slider .slider-level{
+	background-color:#fff;
+	cursor:pointer;
+	position:absolute;
+	display:block;
+}
+
+.radios-to-slider .slider-level.slider-lower-level{
+	opacity:0.2;
+}
+
+.radios-to-slider.medium .slider-level{
+	width:22px;
+	height:22px;
+	-webkit-border-radius:22px;
+	-moz-border-radius:22px;
+	-o-border-radius:22px;
+	border-radius:22px;
+	z-index:2;
+}
+
+/* Labels */
+.slider-label{
+	position:absolute;
+	display:block;
+	cursor:pointer;
+	color:#5e5e5e;
+	text-align:center;
+}
+
+.slider-label-active
+{
+    font-weight: bold;
+}
+
+.radios-to-slider.medium .slider-label{
+	top:50px;
+	width:44px;
+}
+
+/* Slider bar */
+.radios-to-slider .slider-bar{
+	background-color:#00b4f1;
+	float:left;
+	height:100%;
+	width:0;
+	pointer-events:none;
+	display:none;
+	position:absolute;
+	left:0;
+	top:0;
+}
+
+.slider-bar.transition-enabled{
+	-webkit-transition:.2s;
+	-moz-transition:.2s;
+	-o-transition:.2s;
+	transition:.2s;
+}
+
+.radios-to-slider.medium .slider-bar{
+	-webkit-border-radius:22px;
+	-moz-border-radius:22px;
+	-o-border-radius:22px;
+	border-radius:22px;
+}
+
+/* Slider Knob */
+.slider-knob{
+	float:right;
+	background-color:#0977B5;
+}
+
+.radios-to-slider.medium .slider-knob{
+	width:32px;
+	height:32px;
+	-webkit-border-radius:25px;
+	-moz-border-radius:25px;
+	-o-border-radius:25px;
+	border-radius:25px;
+}
+
+.radios-to-slider .slider-bar{
+/*background-color: #fea63c;*/
+
+background: rgba(105,249,98,1);
+background: -moz-linear-gradient(left, rgba(105,249,98,1) 0%, rgba(242,8,66,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(105,249,98,1)), color-stop(100%, rgba(242,8,66,1)));
+background: -webkit-linear-gradient(left, rgba(105,249,98,1) 0%, rgba(242,8,66,1) 100%);
+background: -o-linear-gradient(left, rgba(105,249,98,1) 0%, rgba(242,8,66,1) 100%);
+background: -ms-linear-gradient(left, rgba(105,249,98,1) 0%, rgba(242,8,66,1) 100%);
+background: linear-gradient(to right, rgba(105,249,98,1) 0%, rgba(242,8,66,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#69f962', endColorstr='#f20842', GradientType=1 );
+
+
+}
+
+.slider-knob{
+  background-color: transparent;/*#fea63c;*/
+}
+
+/*-- Bars Expla --*/
+
+.br-theme-bars-movie .br-widget {
+  height: 10px;
+  white-space: nowrap;
+}
+.br-theme-bars-movie .br-widget a {
+  display: block;
+  width: 60px;
+  height: 8px;
+  float: left;
+  background-color: #bbcefb;
+  margin: 1px;
+}
+.br-theme-bars-movie .br-widget a.br-active,
+.br-theme-bars-movie .br-widget a.br-selected {
+  background-color: #4278F5;
+}
+.br-theme-bars-movie .br-widget .br-current-rating {
+  clear: both;
+  width: 240px;
+  text-align: center;
+  font-weight: 600;
+  display: block;
+  padding: .5em 0;
+  color: #4278F5;
+  font-weight: 400;
+}
+.br-theme-bars-movie .br-readonly a {
+  cursor: default;
+}
+.br-theme-bars-movie .br-readonly a.br-active,
+.br-theme-bars-movie .br-readonly a.br-selected {
+  background-color: #729bf8;
+}
+.br-theme-bars-movie .br-readonly .br-current-rating {
+  color: #729bf8;
+}
+/*-- Bars 1to10--*/
+.br-theme-bars-1to10 .br-widget {
+  height: 50px;
+  white-space: nowrap;
+}
+.br-theme-bars-1to10 .br-widget a {
+  display: block;
+  width: 12px;
+  padding: 5px 0;
+  height: 28px;
+  float: left;
+  background-color: #fbedd9;
+  margin: 1px;
+  text-align: center;
+}
+.br-theme-bars-1to10 .br-widget a.br-active,
+.br-theme-bars-1to10 .br-widget a.br-selected {
+  background-color: #EDB867;
+}
+.br-theme-bars-1to10 .br-widget .br-current-rating {
+  font-size: 20px;
+  line-height: 2;
+  float: left;
+  padding: 0 20px 0 20px;
+  color: #EDB867;
+  font-weight: 400;
+}
+.br-theme-bars-1to10 .br-readonly a {
+  cursor: default;
+}
+.br-theme-bars-1to10 .br-readonly a.br-active,
+.br-theme-bars-1to10 .br-readonly a.br-selected {
+  background-color: #f2cd95;
+}
+.br-theme-bars-1to10 .br-readonly .br-current-rating {
+  color: #f2cd95;
+}
+
+/*-- Vamos ahora con el css para obtener imágenes en lugar de los inputs --*/
+/*-- No lo puedo hacer con css3 porque tengo el label antes que el input...-- */
+/*-- Meteré la imágen dentro del label --*/
+.question_inputs.images .input_hidden {
+    position: absolute;
+    left: -9999px;
+}
+
+.question_inputs.images .selected {
+    background-color: #ccc;
+}
+
+.question_inputs.images label {
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.question_inputs.images label:hover {
+    /*background-color: #efefef;*/
+    opacity: 1;
+}
+
+.question_inputs.images label img {
+    padding: 3px;
+
+}
+
+/*-- Vamos a ver con la solución css3--*/
+.question_inputs.images input{
+    margin:0;padding:0;
+    -webkit-appearance:none;
+       -moz-appearance:none;
+            appearance:none;
+            display: none;;
+}
+.visa{background-image:url(http://i.imgur.com/lXzJ1eB.png);}
+.mastercard{background-image:url(http://i.imgur.com/SJbRQF7.png);}
+
+.question_inputs.images input:active + label{opacity: .9;}
+.question_inputs.images input:checked + label{
+    -webkit-filter: none;
+       -moz-filter: none;
+            filter: none;
+
+}
+.question_inputs.images label{
+    cursor:pointer;
+    background-size:contain;
+    background-repeat:no-repeat;
+    display:inline-block;
+    width:100px;height:70px;
+    -webkit-transition: all 100ms ease-in;
+       -moz-transition: all 100ms ease-in;
+            transition: all 100ms ease-in;
+    -webkit-filter: brightness(1.8) grayscale(1) opacity(.7);
+       -moz-filter: brightness(1.8) grayscale(1) opacity(.7);
+            filter: brightness(1.8) grayscale(1) opacity(.7);
+}
+.question_inputs.images label{
+    -webkit-filter: brightness(1.2) grayscale(.5) opacity(.9);
+       -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
+            filter: brightness(1.2) grayscale(.5) opacity(.9);
+
+            background-position: top; /*ARTURO*/
+    padding-top: 50px;/*ARTURO*/
+    background-size: auto;/*ARTURO*/
+    width: 70px;/*ARTURO*/
+    line-height: 1;/*ARTURO*/
+    background-repeat: no-repeat;/*ARTURO*/
+    font-family: Roboto-Bold;/*ARTURO*/
+    font-size: 15px;/*ARTURO*/
+}
+
+
+label.imageBold{
+  opacity: 1;
+}
+label.imageLight{
+  opacity: 0.2;
+}
+
+/*-- Vamos a meter unos tweaks para que se vea bien en móvil --*/
+
+@media (max-width: 640px){
+
+#primary.simple-patient-form-data{
+  width: 90%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+div.stars{
+  max-width: 96%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  float: none;
+
+}
+
+.starexpla{
+float: none;
+font-family: Roboto-Regular;
+font-size: 20px;
+font-weight: normal;
+line-height: 1.2;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 20px;
+padding-top: 5px;
+width: 250px;}
+
+
+}

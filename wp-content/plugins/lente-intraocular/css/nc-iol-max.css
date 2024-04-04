@@ -1,0 +1,2167 @@
+.entry-header .entry-title {
+    font-size: 1.57143rem;
+}
+
+.gridcontainer h2 a{color: #333; font-size: 13px;}
+.gridcontainer .griditemleft{float: left; width: 150px; margin: 0 30px 20px 0;}
+.gridcontainer .griditemright{float: left; width: 150px;}
+.gridcontainer .postimage{margin: 0 0 5px 0;}
+.gridcontainer .postimage-title {text-align: center;}
+
+
+#left{
+  float: left;}
+
+
+#right{
+  float: right;
+  width: 20%;
+}
+
+div.site-content-single{
+   float: left;
+   padding-left: 4%;
+   padding-right: 3%;
+   width: 51%;/*54%;*/  
+}
+
+/*Ponemos los estilos de los selectores de Lentes*/
+  .custom-combobox {
+   position: relative;
+    display: inline-block; 
+  }
+  .custom-combobox-toggle {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-left: -1px;
+    padding: 0;
+    /* support: IE7 */
+    *height: 1.7em;
+    *top: 0.1em;
+  }
+  .custom-combobox-input {
+    margin: 0;
+    /*padding: 0.3em;*/
+  }
+  
+/*
+lo que comentado porque interfería en la maquetación de fabricantes. No he descubierto todavía para qué servía.
+.entry-content .bloq .value {
+    display: inline;
+}*/
+
+
+#ppOpticoFilter .ui-button-text-only .ui-button-text {
+    padding: 0.4em 0.7em;
+}
+
+#comboboxMatLente {
+   /*font-size: 0.7em;*/
+}
+
+#subAcc {
+  width: 100%;
+}
+
+
+#opticDiameterDisabler, #totalDiameterDisabler, #asfericityDisabler , #dioptEsfDisabler,#dioptCilDisabler {
+  font-size: 0.7em;
+}
+
+#advancedFiltersDisabler, #advancedFiltersEnabler,#surgeonFiltersDisabler, #surgeonFiltersEnabler {
+float: right ;
+font-size: 0.7em;
+display: block;
+}
+#spanAdvFilEnabler, #spanAdvFilDisabler, #spanSurgeonFilEnabler, #spanSurgeonFilDisabler  {
+    color: #EE6363;
+    display: block;
+    float: left;
+    font-size: 0.8em;
+    margin-bottom: 8px;
+    margin-top: 2px;
+    padding-top: 4px;/*9px;*/
+    width: auto;/*81%;*/
+}
+
+#spanAdvFilEnabler,#spanSurgeonFilEnabler{
+color: #6CB98D
+}
+
+div.spanH4Wrapper {
+    margin-bottom: 0px;/*10px;*/
+    margin-top:2px;
+}
+
+#loadingGif {
+    display: none;
+}
+
+#loaderDiv img{/*Cambio para evitar salto en paginación superior*/
+    margin-left: 40%;
+    margin-top: 20%;
+}
+
+#IOL_Filtradas {
+    min-height: 520px;
+}
+
+
+
+
+/*Tamaño de letra para el widget de la derecha*/
+
+.ui-widget {
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 0.95em;
+}
+
+div.site-content-single{
+	margin-top: 1.71429rem;}
+	
+div.site-content-left, div.site-content-right{
+	margin-top: 60px;}
+	
+/*left-single-lentes-intraoculares*/
+
+#left{
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 15px;
+    font-weight: normal;
+    margin-bottom: 15px;
+    width: 19%;}
+
+#left span{	
+	text-decoration: underline;
+	text-transform:uppercase;}
+	
+#left li a{
+	font-family: 'source_sans_proregular';
+    font-size: 13px;
+    font-weight: normal;
+	text-decoration:none;
+	color: #505050;}
+	
+#left li a:hover{
+	color:#fea63c;}
+	
+#lista-lentes-single ul {
+    font-family: 'source_sans_proregular',Arial,Helvetica,sans-serif;
+    font-size: 13px;/* 15px;*/
+    font-weight: normal;
+    list-style-image: url("/images/lista.png");
+	list-style:url(../images/lista.png);
+    margin-top: 15px;
+    padding-left: 16px;
+	color: #505050;}
+	
+#lista-lentes-single h4{
+	font-family: 'source_sans_proregular';
+    font-size: 14px;
+    font-weight: normal;
+	text-decoration:none;
+	color: #505050;}
+	
+#lista-lentes-single h3 span{
+	text-decoration:none;
+	text-transform:none;}
+	
+#left .beers{
+	margin-bottom: 20px;}
+	
+#lista-lentes-single{
+	margin-bottom: 20px;}
+	
+#left h3{
+	color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 15px;
+    font-weight: normal;}
+	
+/*formulario de contacto de single lentes*/
+	
+#contact-single-lente{
+	width: 99%;
+	border: 1px solid #DCDCDC;
+    border-radius: 2px 2px 2px 2px;
+    padding: 4px;
+	margin-top: 20px;}
+	
+#contact-single-lente form {
+    background-color: #F6F6F6;
+    border: 1px solid #DCDCDC;
+    border-radius: 2px 2px 2px 2px;
+    margin: auto;
+    padding: 7px;
+    width: auto;}
+	
+#contact-single-lente form label {
+    color: #505050;
+    font-family: 'source_sans_proregular';
+    font-size: 12px;
+    font-weight: normal;
+    margin-bottom: 7px;}
+	
+#contact-single-lente form input {
+    border-radius: 0 0 0 0;
+    margin-bottom: 5px;
+    width: 95%;}
+	
+#contact-single-lente form textarea {
+    border-radius: 0 0 0 0;
+    width: 95%;}
+	
+#contact-single-lente input.submit{
+	width: 30%;
+	margin-left: 35%;
+	font-family: 'source_sans_proregular';
+    font-size: 12px;
+    font-weight: normal;
+	border-radius: 2px;
+	background-color: #ecab3c;
+	background: -moz-linear-gradient(center top , #fea336, #ff8c03);
+	background: -webkit-gradient(linear from(#fea336), to(#ff8c03));
+	background: -moz-linear-gradient(top,  #fea336,  #ff8c03);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fea336', endColorstr='#ff8c03');
+	color:#fff;
+	box-shadow:none;
+	border-color: #f29b33;}
+	
+/*CONTENT-SINGLE-LENTE-INTRAOCULAR*/
+
+.site-content-single h1 {
+    border-bottom: 2px solid #FEA63C;
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 1.5rem !important;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    width: 100%;
+	/*text-transform:uppercase; De momento lo quitamos y se pondrá en mayúscula o minúscula a criterio*/
+	}
+	
+.site-content-single p {
+    color: #505050;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+    line-height: 1.9;
+    margin: 0 0 10px;
+    text-align: justify;}
+	
+.site-content-single .entry-content img{
+	box-shadow:none;
+	border-radius: 0;}
+	
+.site-content-single footer.entry-meta {
+	display:none;}
+	
+.site-content-single article a.singleIOLFeatImage img{
+	box-shadow: none;
+	border-radius: 0;
+	float: left;
+    height: auto;
+    margin: 0 26px 14px 0;
+    width: 186px;
+    /*max-height: 186px;!!!!ESTO HACE QUE NO SALGA BIEN GOOGLE MAPS¡¡¡¡ NO PONERLO*/
+	border: 4px solid #CDCDCD;}
+	
+#campos-lentes{
+	margin-top: 10px;}
+	
+.bloq-single-lente {
+	width: 100%;
+	background-color:#0F6;}
+
+.label{
+	color: #505050;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+    line-height: 1.9;
+	float:left;
+	width: 50%;}
+	
+.value{
+	color: #505050;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+    line-height: 1.9;
+	float:left;
+	width: 50%;
+	text-decoration:none;}
+	
+.site-content-single article{
+	margin-bottom: 20px;}
+	
+.site-content-single div.title-ptp{
+	width: 100%;}
+	
+/*RIGHT*/
+
+#right h2{
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 10px;/*5px;*/
+    width: 100%;}
+	
+#right h3{
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 14px;/*Desde 15px*/
+    font-weight: normal;
+    padding-bottom: 10px;/*7px;/*10px;*/
+}
+	
+#right form h3{
+    color: #505050;
+    font-family: 'negotiatefree';
+    font-size: 12px;
+    font-weight: normal;
+	text-transform:uppercase;
+	border-radius:0;
+	padding-bottom: 6px;
+    padding-top: 9px;
+    padding-left: 17px;/*añadido*/
+}
+	
+#right form .ui-widget {
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 0.95em; /*12px;*/}
+	
+#right form input[type="button"]{
+	font-family: 'source_sans_proregular';
+	color:#fff;
+    font-weight: normal;
+	background: #fea336; /* Old browsers */
+	background: -moz-linear-gradient(top, #fea336 69%, #ff8c03 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(69%,#fea336), color-stop(100%,#ff8c03)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fea336 69%,#ff8c03 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fea336 69%,#ff8c03 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fea336 69%,#ff8c03 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #fea336 69%,#ff8c03 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fea336', endColorstr='#ff8c03',GradientType=0 ); /* IE6-9 */ 	border: 1px solid #fea336;}
+	
+#right form input.custom-combobox-input{
+	color: #505050;
+	background:url(../images/fondo-caja.jpg) repeat-x scroll 50% 50% #E6E6E6;
+    border: 1px solid #c3c3c3;
+    font-family: 'source_sans_proregular';
+    padding-bottom: 5px; /*Últimos retoques*/
+    padding-top: 5px;
+}
+	
+#right form .ui-accordion-content {
+    min-width: 199px;  /*Por la nueva actualización de Chrome en windows...*/
+    border-top: 0 none;
+    display: none;
+    margin-bottom: 2px;
+    /*margin-top: 0px;/*-2px;Lo quito a causa del Drag And Drop */
+    /*z-index: 1500;/*También por el drag and drop*/
+    padding-top: 0px;
+    overflow: auto;
+    padding-left: 0.8em;
+    padding-right: 0.7em;
+    padding-bottom: 9px;
+    position: relative;
+    /*top: 1px;Al hacer el drag and drop deja un hueco en blanco*/
+	border-color:#c3c3c3;}
+	
+#right..page-patient form .ui-accordion-content {
+	min-width:100px;}
+	
+#right form span.ui-button-text {
+	background-image:none;
+	background-color:transparent;
+    color: #505050;
+    font-weight: normal;
+	font-family: 'source_sans_proregular';    
+}
+	
+#right form .ui-button-icon-only{
+     background: url("../images/fondo-caja.jpg") repeat-x scroll 50% 50% #E6E6E6;
+    border: 1px solid #C3C3C3;
+    font-weight: normal;
+    height: 25px;/*27px;/*27px; CLAVEEE*/
+    vertical-align: bottom;
+}
+	
+#right form .ui-button-text-only{
+	margin-top: 4px;}
+	
+#right form .custom-combobox{
+	margin-top: 4px;/*10px;*/}
+	
+#right form div.ui-widget label{
+	color: #505050;
+    display: inline-block;
+    font-size: 12px;
+    /*padding-bottom: 5px; */
+}
+	
+#right form div.ui-widget{
+   /*	margin-bottom: 20px;*/
+   
+}
+
+label.labelTitle {
+    margin-top: 8px;
+}
+
+label.labelTitleFirst {
+    margin-top: 4px;
+}
+	
+#right form #amount-add, #right form #amount-asferic, #right form #amount-diamOptic,#right form #amount-tamaInci, #right form #amount-diamTot, #right form #amount-cilinder,#right form #amount-esfera{
+	background-color:transparent;
+	background:none;
+	color: #505050;
+	font-family: 'source_sans_proregular';
+	margin-bottom: 0px;/*5px;*/
+	margin-left: 12%;
+    margin-top: 0;
+    width: 75%;
+    font-size: 11px;
+    
+}
+/*Tamaño de los sliders*/
+#right form div#slider-range-add,
+#right form div#slider-range-asferic,
+#right form div#slider-range-diamOptic,
+#right form div#slider-range-diamTot,
+#right form div#slider-range-esfera,
+#right form div#slider-range-cilinder,
+#right form div#slider-range-tamaInci
+ {
+    font-size: 8px;
+}	
+/*Tamaño de los botones que deshabilitan sliders*/
+#right form #asfericityDisabler.ui-button-icon-only,
+#right form #opticDiameterDisabler.ui-button-icon-only,
+#right form #totalDiameterDisabler.ui-button-icon-only,
+#right form #dioptEsfDisabler.ui-button-icon-only,
+#right form #dioptCilDisabler.ui-button-icon-only,
+#right form #addDisabler.ui-button-icon-only,
+#right form #tamaInciDisabler.ui-button-icon-only
+ {
+    height: 20px;
+    width: 20px;
+}
+#right form div.slideWButton {
+    margin-top: 6px;
+}
+
+#right form div.slideWButton input{
+    font-size: 10px;
+}
+
+
+
+
+#right form .ui-accordion .ui-accordion-header .ui-icon {
+    left: 0.05em;
+}
+
+#right form .ui-state-default{
+	background:url(../images/fondo-caja.jpg) repeat-x scroll 50% 50%;
+	
+   
+}
+
+#right form h3.ui-accordion-header{
+	height: 15px;}
+	
+#right form .ui-state-active{
+	background: none;
+	background-color:white;
+	/*border-radius:0px; Ojo-Cambio*/
+	border-color:#c3c3c3;}
+	
+#right form .ui-accordion-header {
+	z-index: 1500;/*También por el draggable*/	}
+
+#right form #simpleAccordionFilter .ui-accordion-header {
+    z-index: 500;
+}
+#right #clinica_filter_form #accordionFilterSecond .ui-accordion-header {
+    z-index: 500;
+}
+
+
+#right form .ui-accordion-header-active{
+	border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+	height: 15px;}
+	
+#right form label.ui-state-active span{
+	color: #fea63c;}
+
+#right form h4 {
+        font-style: italic;
+    font-weight: normal;
+    margin-bottom: 2px;
+    padding-bottom: 0;
+    padding-top: /*10px;*/
+}
+
+div.lastAccordionInput {
+    margin-bottom: 20px;
+}
+
+/*ARCHIVE*/
+
+.site-content-archive-lentes footer.entry-meta {
+	display:none;}
+
+.site-content-archive-lentes{
+	float: left;
+	margin: 1.71429rem 0 0;
+	padding-bottom: 40px;
+	padding-right: 1%;/*por el tema del grid 3%;*/
+	width: 70%;
+	overflow: visible; /*No me preguntes por qué pero sin o pones esto se descuadra*/
+	}
+	
+
+
+.site-content-archive-lentes .archive-header{
+    border-bottom: none;
+    margin-bottom: 20px;
+    padding-bottom:0px;}
+	
+.site-content-archive-lentes article{
+	background-color: #f6f6f6;/*#fff;*/
+	border: 1px solid #cecece;
+	height: 176px;
+	margin-bottom: 30px;}
+	
+.site-content-archive-lentes article .entry-header {
+    margin-bottom:0;
+	background-color:#f6f6f6;
+	padding: 20px 30px;
+	/*float:left;
+	width: 20%;*/}
+	
+.site-content-archive-lentes article .entry-content {
+    margin-bottom: 0;
+	background-color:#f6f6f6;
+	padding: 10px 30px 0px 30px;
+	height: 125px;
+	/*width: 80%;*/}
+	
+.site-content-archive-lentes article .entry-content p{
+    color: #505050;
+	font-family: 'source_sans_proregular';
+    font-size: 13px;}
+	
+.site-content-archive-lentes .featured-iol-archive-image img{
+	display:block;
+	box-shadow:none;
+	border-radius:1px;
+	border: 1px solid #d6d6d6;
+	width: 168px;
+	height:auto;
+	float:left;
+	margin-right: 10px;}
+
+
+.site-content-archive-lentes h1 {
+    border-bottom: 2px solid #FEA63C;
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 1.5rem !important;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    padding-top: 0px;
+    width: 100%;}
+	
+.site-content-archive-lentes article .entry-header h1{
+	width: 500px;
+	float:right;
+	color:#f18504;
+	font-family: 'negotiatefree';
+	font-weight:normal;
+	font-size: 15px;
+	text-transform:uppercase;
+	text-decoration:none;
+	border:none;
+	margin-top: -165px;}
+	
+.site-content-archive-lentes article .entry-header h1 a{
+	width: auto;
+	color:#f18504;
+	font-family: 'negotiatefree';
+	font-weight:normal;
+	font-size: 15px;
+	text-transform:uppercase;
+	text-decoration:none;}
+
+
+.ui-menu .ui-menu-item a {
+    font-size: 0.8em;
+}
+
+
+/* Añadidos para el plugin de iol*/
+#primary.single-lente {
+ 
+}
+
+#left.site-single-iol-left {
+    margin-top: 90px;
+}
+
+#right.filter-right {
+    margin-top: 70px;
+    width: 23%;
+}
+
+#right.filter-right li.ui-menu-item a{
+    font-size: 0.9em;
+}
+
+
+#right.filter-right.ui-widget button {
+    height:20px;
+    position:relative;
+    top:15px;
+}
+#right form input.submitArchive{
+    margin-top: 0px;/*12px; cambiado por posición de botón*/
+    margin-bottom: 10px;
+	margin-left: 25%;
+} 
+
+#right form input.submitSingle {
+    /*margin-left: 25%;*/
+    margin-top: 0px;/*12px; cambiado por posición de botón*/
+    margin-bottom: 10px;
+}
+
+#right form input.submitArchive{
+    margin-bottom: 10px;
+    margin-top: 0;
+	margin-left: 0px;
+	padding: 6px 6px;
+}
+
+#right form div.ui-widget span.custom-combobox input{
+	float: none;
+    /*color: #FEA63C;--> Color de letra de los items seleccionados en los comboboxes*/
+    }
+/* PONEMOS LA PARTE DEL ARCHIVE */
+
+#advancedAccordionFilter, #surgeonAccordionFilter {
+  margin-top: 4px;
+}
+
+header.featured-iol-archive-image {
+    float: left;
+}
+div.iol-entry-header {
+ float: left;
+ width: 215px;
+}
+
+div.archive-lente-wrapper {
+    background: none repeat scroll 0 0 white;
+    height: auto;/*209px;*/
+    padding: 4px;
+    border: 1px solid #cecece;
+    margin-bottom: 32px;
+}
+div.archive-lente-wrapper div.iolCrossLang { /* div.type-lente-intraocular*/
+    background: #f6f6f6;
+    overflow: hidden;
+    max-height: 30%;/*260px;*/
+    }
+
+div.iol-entry-content {
+    float: left;
+    width: 60%;/*420px;*/
+    margin-left: 0px;
+	margin-top: 20px;
+}
+
+div.iol-entry-content h1.archive-iol-title {
+    border-bottom: 0px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+div.iol-entry-content h1.archive-iol-title a{
+    color: #FEA63C;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+div.iol-entry-header .featured-iol-archive-image {
+    margin-left: 20px;
+    margin-top: 23px;
+}
+
+div.iol-entry-content p {
+    font-size: 12px;
+}
+
+div.iol-entry-content div.iol-entry-meta {
+    text-align: right;
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+div.iol-entry-content div.iol-entry-meta a{
+    color: #FEA63C;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#right form  div#comboTipoLente {
+   /* margin-top: 0px; */
+ }
+
+
+/*Pagination del Archive */
+
+#PaginationWrapper {
+    text-align: center;
+}
+
+#LinkPages {
+    width: auto;
+    margin-left: 200px;
+    margin-top: 10px;  
+}
+#LinkPages a  {
+    background: url("../images/PagButtons/off.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 22px;
+    padding-top: 5px;
+    text-decoration: none;
+    width: 28px;
+    color: #717171;
+}
+
+#LinkPages span.current {
+    background: url("../images/PagButtons/current.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 22px;
+    padding-top: 5px;
+    text-decoration: none;
+    width: 28px;
+    color: white;
+}
+
+#LinkPages a:hover {
+    background: url("../images/PagButtons/hover.png") no-repeat scroll 0 0 transparent;
+}
+
+
+/* El del pagination Bis */
+#PaginationWrapperBis{
+    left: 368px; /*360px;*/
+    position: absolute;
+    top: -33px; /*-35px;*/
+}
+
+#LinkPagesBis span.current {
+    background: url("../images/PagButtons/current.png") no-repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 22px;
+    padding-top: 5px;
+    text-decoration: none;
+    width: 28px;
+	text-align:center;}
+	
+#LinkPagesBis a {
+    background: url("../images/PagButtons/off.png") no-repeat scroll 0 0 transparent;
+    color: #717171;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 22px;
+    padding-top: 5px;
+    text-decoration: none;
+    width: 28px;
+	text-align:center;
+}
+
+
+
+h3.clinicsIntro{
+    border-bottom: 2px solid #FEA63C;
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 1em !important;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+div.sugClinic {
+    background: #F6F6F6;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+
+div.sugClinicImage {
+    float: left;
+	
+}
+
+ul.sugClinicList li{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CECECE;
+    height: 137px;
+    margin-bottom: 32px;
+    padding: 4px;
+}
+
+div.sugClinicImage img {
+    height: 100px;
+    width: 100px;
+    box-shadow:none;
+    border-radius:0px;
+	border: 2px solid #d6d6d6;
+}
+
+div.sugClinic div.metaDataBlog {
+    float: right;
+    width:333px;
+}
+
+div.sugClinic div.metaDataBlog .sugClinicTitle {
+    /*font-weight: bold*/
+      font-size: 13px;
+}
+
+div.metaDataBlog span {
+    display: block;
+    margin-top: 8px;
+	color: #505050;
+	font-family: 'source_sans_proregular';
+    font-size: 13px;
+}
+
+div.metaDataBlog span a {
+    text-decoration: none;
+    color: #fea63c;
+}
+
+div.metaDataBlog span.sugClinicTitle a {
+    text-decoration: none;
+    color: #fea63c;
+	font-family: 'negotiatefree';
+	text-transform:uppercase;
+}
+
+div.metaDataBlog span.sugClinicMas a{
+    margin-top: 10px;
+    float: right;
+    color: #FEA63C;
+    text-decoration: underline;
+}
+
+ul.clinicPage div.metaDataBlog {
+    width: 505px;
+}
+ul.clinicPage div.metaDataBlog span.sugClinicMas a {
+    text-decoration: none;
+}
+
+
+#singleLensClinics div.sugClinic {
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+#singleLensClinics div.sugClinic img {
+    max-width: 110px;
+    width: auto;
+    height: auto;
+    max-height: 100px;
+    max-height: 110px;
+}
+
+#singleLensClinics ul.sugClinicList li {
+    height: auto;
+}
+
+
+#singleLensClinics div.sugClinicImage {
+    margin-top: 10px;
+}
+
+/* Retoques Ajax */
+
+#content {
+    /*min-height: 675px;*/
+    position: relative;/* esto es para ubicar la paginationbis*/
+}
+
+.NoIol {
+    background: none repeat scroll 0 0 #F6F6F6;
+    color: #8E8E8E;
+    float: right;
+    min-height: 130px;
+    padding-top: 7%;
+    text-transform: uppercase;
+    width: 78%;
+}
+
+div.NoIol p {
+    font-family: negotiatefree;
+    font-size: 19px !important;
+    font-weight: normal;
+}
+
+.mensNotTitle {
+    font-family: 'source_sans_proregular';
+    font-size: 15px;
+    
+}
+
+div.NoIol .mensNotMessage {
+    color: #505050;
+    font-family: Arial, Verdana;
+    font-size: 15px !important;
+    font-style: italic;
+    font-weight: bold;
+    height: 50px;
+    margin-top: 10px;
+    padding-left: 4px;
+    padding-right: 8px;
+    text-transform: none;
+    width: 95%;
+}
+
+.NoIolWrapper{
+    background: none repeat scroll 0 0 white;
+    border: 1px solid #CECECE;
+    height: auto;
+    margin-bottom: 32px;
+    padding: 4px;
+    }
+
+div.startsUgly {
+    display: none;
+}
+
+/*CAMPOS LENTES*/
+
+div.bloq-single-lente .label{
+    border-color: #F0F0F0;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+	border-right: none;
+    color: #505050;
+    float: left;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+    line-height: 2;
+    margin-bottom: 4px;
+    padding-left: 8px;
+    width: 41%;}
+	
+div.bloq-single-lente .value{
+	border: 1px solid #F0F0F0;
+    color: #505050;
+    float: left;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+    line-height: 2;
+    margin-bottom: 4px;
+    padding-left: 8px;
+    text-decoration: none;
+    width: 54%;}
+
+#NoIolImg {
+    float: left;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+.innerNoneIolWrapper {
+  background: #F6F6F6;
+}
+
+div.onlyImg {
+    text-align: center;
+}
+div.onlyImg img{
+    margin: 10px auto 20px;
+}
+
+div.severalImg img {
+    float: left;
+    margin-left: 30px;
+}
+
+
+.submitArchive {
+    
+}
+
+
+/*Estilos del iolInfoPannel*/
+
+div.draggable { /*#iolInfoPannel*/
+    display: none;
+    /*Los siguientes son para hacerlo fijo respecto al scroll*/
+    background-color: #fafafa !important;
+    border: 1px solid #CECECE;
+    border-radius: 3px 3px 3px 3px;
+    display: none;
+    font-family: sans-serif;
+    font-size: 12px;
+    left: 0;/*30px;/*30px*/
+    padding: 10px;
+    position: fixed;
+    top: 83px;;/*20px;*/
+}
+
+div.resizable {
+    box-sizing: content-box;
+
+}
+
+#expanderSign {
+    float: right;
+    margin-right: 25px;
+    margin-left: 10px;
+}
+
+#expanderContent {
+    display: block;
+    height: auto;
+    overflow: visible;
+    padding: 25px;
+    max-height: 650px;
+	/*width: 80px;/* 380px Para que no se auto amplie con el resultado*/
+}
+
+
+.resizable {
+    min-width: 315px;
+}
+
+.ui-resizable-handle {
+   /* top: 1px;*/
+}
+
+h4#expanderHead {
+    clear: none;
+    color: #FEA63C;
+    float: left;
+    padding-bottom: 3px;
+    padding-top: 5px;
+    width: 300px;
+}
+
+#dragger {
+    display: block;
+    float: left;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+#dragger:hover {
+     cursor: move;
+  cursor: -webkit-grab; /* NOT WORKING */
+}
+
+#resizableTitle {
+width: 430px;/*390px;*/
+}
+
+#iolInfoPannel{
+    z-index: 1500;
+    max-height: 650px;
+}
+
+#titleExplanation, #titleNotIncludedExplanation{
+    font-family: 'negotiatefree';
+    font-size: 14px;
+    height: 20px;
+    width: 390px;
+}
+
+
+.infoIolHeaderTitle {
+
+}
+
+#numLentes {
+    font-size: 13px;
+    height: 20px;
+    width: 390px;
+}
+
+
+#expanderContent ul li {
+    margin-left: 20px;
+    font-size: 12px;
+    min-height: 17px;
+    display: block;
+}
+
+#AJAXiolInfoPannel {
+    display: none;
+}
+
+#infoQuery{
+	width: 350px;
+}
+
+/*Botón del iolInfoPannelDisabler */
+
+#iolActionsContainer{
+    float: right;
+    margin-right: 20px;
+    margin-top: 3px;
+}
+
+#iolInfoPannelDisabler{
+}
+
+
+#iolInfoPannelClose{
+	height:20px;
+	width: 20px;
+}
+
+#iolInfoPannelMini{
+	height:20px;
+	width: 20px;
+}
+
+#iolInfoPannelMaxi{
+	height:20px;
+	width: 20px;
+	}
+
+/*Estilo de los botones que cambian el filtro */
+#changeFilter{
+	margin-top: -50px;
+	margin-bottom: 20px;
+	/*text-align: right;*/
+	float: right;
+	width: auto;
+}
+
+#changeFilter a {
+    color: #003B61;
+    display: block;
+    font-family: 'source_sans_proregular';
+    font-size: 13px;
+    margin-left: 40px;
+    padding-top: 3px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/*#changeFilter button{ 
+	margin-left: 1px; antes 4px;
+    padding: 3px;
+	color: #003B61;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   	background-color: #F0F0F0; Lo ponemos para que se vea ok en Chrome
+}*/
+
+#changeFilter button{
+	color: #fff;
+    padding: 5px 5px;
+	background-color:#898989;
+	background: -moz-linear-gradient(center top , #999999, #767676);
+	background: -webkit-gradient(linear from(#999999), to(#767676));
+	background: -moz-linear-gradient(top,  #999999,  #767676);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#999999', endColorstr='#767676');
+	border: none;
+}
+
+#changeFilter button#advLoader {
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	margin-right: 3px;
+	min-height: 28px;
+	font-size: 11px; /*Habrá que aumentar*/
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+    
+        /* IE10 */ 
+    background-image: -ms-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #999999), color-stop(1, #767676));
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Proposed W3C Markup */ 
+    background-image: linear-gradient(top, #999999 0%, #767676 100%); 
+	}
+	
+#changeFilter button#patientLoader{
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+	min-height: 28px;
+	font-size: 11px; /*Habrá que aumentar*/
+	padding-top: 6px;
+	padding-bottom: 6px;
+    
+        /* IE10 */ 
+    background-image: -ms-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #999999), color-stop(1, #767676));
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Proposed W3C Markup */ 
+    background-image: linear-gradient(top, #999999 0%, #767676 100%); 
+	}
+
+/*Tratamos de fijar el div de id="IOL_Filtradas" para que el efecto del scrollToTop sea más estético*/
+
+#IOL_Filtradas{
+	min-height: 860px; /* Antes estaba sin "min" */
+}
+
+div#right.single-lente #changeFilter button {
+    font-size: 12px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+div#right.single-lente #changeFilter button:first-child {
+    padding-left: 0px;
+}
+
+/* Vamos a añadir los estilos necesarios para el tipo de vista */
+
+#comboViewType {
+	left: -157px;
+    margin-bottom: -32px;
+    position: relative;
+    top: -63px;
+    width: 100px;
+}
+/*
+#comboboxViewType {
+    width: 100px;
+}*/
+
+#comboViewType .ui-autocomplete-input {
+    width: 35px;
+    font-size: 11px;
+    padding: 2px;
+}
+
+#comboViewType .ui-button {
+    height: 20px !important;
+    width: 17px;
+}
+#titleViewType {
+    font-size: 11px;
+}
+
+#comboViewType .ui-menu .ui-menu-item a {
+    font-size: 11px;
+
+}
+/*#simpleAccordionFilter {
+    margin-top: -20px;
+}*/
+
+div#comboViewType.patient {
+    /*top: -119px;/*-95X*/
+    left: -163px;
+    top: -62px;
+}
+
+/*Estilos para el Grid*/
+
+div#iolGridWrapper{
+	background-color:#fff;
+	padding: 4px;
+	border: 1px solid #cecece;
+	width: 198px;
+	height:200px;
+	float: left;
+	margin-right: 14px;
+	margin-bottom: 25px;}
+
+a.iolGridUnit{
+	
+	text-decoration: none;
+	/*Degradado*/
+		background-color:#f0f0f0;
+	/*background: -moz-linear-gradient(center top , #f0f0f0, #b2b2b2);
+	background: -webkit-gradient(linear from(#f0f0f0), to(#b2b2b2));
+	background: -moz-linear-gradient(top,  #f0f0f0,  #b2b2b2);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#b2b2b2');
+	
+	background-color: #b2b2b2;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#f0f0f0), to(#b2b2b2));
+	background-image: -webkit-linear-gradient(top, #f0f0f0, #b2b2b2);
+	background-image:    -moz-linear-gradient(top, #f0f0f0, #b2b2b2);
+	background-image:      -o-linear-gradient(top, #f0f0f0, #b2b2b2);
+	background-image:         linear-gradient(to bottom, #f0f0f0, #b2b2b2);
+	
+	border: 1px solid #cecece;
+	border-bottom: 1px solid #969696;
+	padding: 4px;*/
+	display:block;
+	width:100%;
+	height: 100%;
+	
+}
+/*En los "terceros" no queremos margin right */
+.iolGridUnit:nth-child(3n+3){
+	margin-right: 0px;
+}
+
+
+a.iolGridUnit:hover{
+	background-color:#e8e8e8;
+	/*background: -moz-linear-gradient(center top , #f0f0f0, #d5d5d5);
+	background: -webkit-gradient(linear from(#f0f0f0), to(#d5d5d5));
+	background: -moz-linear-gradient(top,  #f0f0f0,  #d5d5d5);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#d5d5d5');
+	border: 1px solid #b5b5b5;
+	border-bottom: 1px solid #969696;*/
+	cursor: pointer;}
+
+.iolGridImage{
+	text-align: center;
+    /*height:150px;*/
+}
+
+
+div.iolGridImage  img{
+	width: 175px;
+	margin-top: 11px;
+	box-shadow: none;
+	border-radius: 0px;
+    max-height: 140px;
+    max-width: 175px;
+}
+
+.iolGridTitle{
+   margin-top: 5px;
+    text-align: center;
+    color: #FEA63C;
+    text-transform: uppercase;
+    font-size: 13px;
+	font-family: 'source_sans_proregular';
+	 /*position: absolute;
+    top: 160px;*/
+}
+
+.iolGridFabricante{
+	color: #505050;
+    margin-bottom: 8px;
+    margin-top: 5px;
+    text-align: center;
+	font-size: 13px;
+	font-family: 'source_sans_proregular';
+}
+
+/* Búsqueda de Lente por Nombre */
+
+.labelIolName{
+	font-size: 12px;
+}
+input#iolName{
+	padding:0.15rem;
+    width: 135px;
+}
+
+/*Draggers*/
+
+#right form .ui-accordion .ui-accordion-header  #dragger-simpleAccordionFilter,
+#right form .ui-accordion .ui-accordion-header  #dragger-advancedAccordionFilter,
+#right form .ui-accordion .ui-accordion-header  #dragger-surgeonAccordionFilter
+ {
+	left: 190px;
+	cursor: move;
+	top:10px;
+	float: right;
+}
+
+#right form .ui-accordion .ui-accordion-header  #reseter-simpleAccordionFilter,
+#right form .ui-accordion .ui-accordion-header  #reseter-advancedAccordionFilter,
+#right form .ui-accordion .ui-accordion-header  #reseter-surgeonAccordionFilter
+ {
+	left: 190px;
+	cursor: cursor;
+	top:23px;
+	float: right;
+}
+
+
+
+
+
+
+#iolInfoPannel{ /*3px desde 5px*/
+-moz-box-shadow: 0 0 3px #888;
+-webkit-box-shadow: 0 0 3px#888;
+box-shadow: 0 0 3px #888;
+}
+
+.ui-autocomplete{
+	z-index: 1700;
+}
+#helpTitle{
+    left: 490px;
+    position: relative;
+    top: -22px;
+    width: 35px; /*Este era el que estaba produciendo el descuadre*/
+}
+
+/*#helpTitle a{
+    color: #FF0000;
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    text-decoration: none;
+    width: 100px;
+}*/
+
+#helpTitle a {
+    display: block;
+    text-decoration: none;
+    width: 30px;
+	height: 30px;
+	background-image: url(../images/filter-info.png);
+	left: 247px;
+    position: relative;
+	top: -62px;/* -64px*/
+	font-size: 11px;
+}
+
+#searchReset{
+    left: 848px;/*840px;*/
+    position: relative;
+    top: -39px;/*42px;*/
+}
+
+#preButtonSet{
+	height: 22px;
+	margin-bottom: 10px;
+}
+
+#preButtonSet #searchReset{
+	font-size: 11px;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-top: 0;
+    padding: 6px 6px;
+	font-family: 'source_sans_proregular';
+	color:#fff;
+    font-weight: normal;
+	background-color:#898989;
+	background: -moz-linear-gradient(center top , #999999, #767676);
+	background: -webkit-gradient(linear from(#999999), to(#767676));
+	background: -moz-linear-gradient(top,  #999999,  #767676);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#999999', endColorstr='#767676');
+    /* Lo añadimos*/
+        /* IE10 */ 
+    background-image: -ms-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #999999), color-stop(1, #767676));
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Proposed W3C Markup */ 
+    background-image: linear-gradient(top, #999999 0%, #767676 100%); 
+    /* Fin añadido*/
+	border: 1px solid #898989;}
+
+
+#preButtonSetSingle #helpTitle {
+    top: 0px;
+    left: 0px;
+}
+
+#preButtonSetSingle #helpTitle a {
+    left: 520px;
+    top: -5px;
+}
+
+
+
+/*Metemos ahora los estilos correspondientes al test post operatorio */
+
+#post-op-form span.ui-button-text{
+	font-size: 14px;
+	font-family: Arial;
+}
+
+#post-op-form label{
+	font-size: 14px;
+}
+
+#post-op-form .bloq{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#post-op-form .bloq .bl{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+#post-op-form .bloq .4bl{
+	margin-top: 7px;
+	margin-bottom: 7px;
+	display: block;
+}
+
+#post-op-form .bloq div{
+	margin-left: 75px;
+}
+
+#post-op-form #surgeryIol {
+	margin-left: 175px;
+}
+
+.post-op-test-content{
+	float: left;
+	width: 75%;
+}
+#right.rightSurgeryPostOp{
+	width: 22%;
+	float: right;
+}
+
+
+.post-op-test-content h1 {
+    border-bottom: 2px solid #FEA63C;
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 1.5rem !important;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.b4bloq{
+	margin-left: 15px;
+}
+
+.b4bloq label{
+	margin-top: 10px;
+	margin-bottom: 10px;  
+	margin-left: 15px;
+}
+
+.b4bloq div{
+	margin-left: 80px;
+}
+
+.t4bEntry{
+	    margin-bottom: 10px;
+    	margin-top: 20px;
+}
+
+#right form #comboViewType .ui-button-icon-only {
+	min-height:27px;
+}
+
+/* TAB MENU */
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-tabs-active a,
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-state-disabled a,
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-tabs-loading a {
+    height: auto;
+    background-image: #fff,/*linear-gradient(to bottom, #F9FAFA 0%, #EFEFEF 100%);*/
+    color: #404040;
+    font-family: arial;
+    margin: 0;
+    width: 100%;
+}
+
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-tabs-active a,
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-state-disabled a, 
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-tabs-loading a {
+    padding: 0.5em;
+    display: block;
+    width: auto;
+    font-size: 12px;
+
+}
+
+div.resultsTest .ui-tabs .ui-tabs-nav li a {
+    padding: 0.5em;
+    font-size: 12px;
+    background: white;
+    font-family: Arial;
+    border-radius: 3px;
+    color: #003B61;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+   
+}
+.ui-tabs .ui-tabs-nav li {
+    border-bottom-width: 0;
+    float: left;
+    list-style: none outside none;
+    margin: 1px 0.2em 0 0;
+    padding: 0;
+    position: relative;
+    top: 0;
+    white-space: nowrap;
+}
+
+
+/*Layout de resultado de cirugía*/
+
+div#content.site-content-testResult {
+    width: 77%;
+    float: left;
+}
+
+div#right.test-result {
+    width: 20%;
+    float: right;
+}
+
+/*.ui-state-default .ui-icon { background-image: none; }
+
+.ui-button-icon-only .ui-icon {
+    left: 60%;
+    margin-left: -8px;
+}
+
+#iolInfoPannel .ui-state-default .ui-icon { background-image: none; }*/
+
+#iolInfoPannel button#iolInfoPannelClose, #iolInfoPannel button#iolInfoPannelMini, #iolInfoPannel button#iolInfoPannelMaxi{
+	border-radius: 0px;
+	background:none;
+	border: none;}
+	
+#iolInfoPannel button#iolInfoPannelClose span.ui-icon{
+	background-image: url(../images/panel-cerrar.jpg);
+	height: 18px;
+	width: 18px;
+	background-position: 0px 0px;}
+	
+#iolInfoPannel button#iolInfoPannelMini span.ui-icon{
+	background-image: url(../images/panel-min.jpg);
+	height: 18px;
+	width: 18px;
+	background-position: 0px 0px;}
+	
+#iolInfoPannel button#iolInfoPannelMaxi span.ui-icon{
+	background-image: url(../images/panel-max.jpg);
+	height: 18px;
+	width: 18px;
+	background-position: 0px 0px;}
+	
+#right form span.custom-combobox input.custom-combobox-input {
+    background: url("../images/fondo-caja.jpg") repeat-x scroll 50% 50% #E6E6E6;
+    border: 1px solid #C3C3C3;
+    color: #505050;
+    font-family: 'source_sans_proregular';
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#IOL_Filtradas div.archive-lente-wrapper div.entry-header {
+	margin-bottom: 0px;}
+	
+div.archive-lente-wrapper div.entry-content p{
+    line-height: 1.71429;
+    margin-bottom: 10px;
+}
+
+div.archive-lente-wrapper div.bloq-single-lente .label {
+    border:none;
+    color: #fea63c;
+    float: left;
+    font-family: 'source_sans_proregular';
+    font-size: 13px;
+    line-height: 2;
+    margin-bottom: 4px;
+    padding-left: 0px;
+    width: auto;
+}
+
+div.archive-lente-wrapper div.bloq-single-lente .value {
+    border: none;
+    color: #505050;
+    float: left;
+    font-family: 'source_sans_proregular';
+    font-size: 13px;
+    line-height: 2;
+    margin-bottom: 4px;
+    padding-left: 8px;
+    text-decoration: none;
+    width: auto;
+}
+
+/*Estilo para los resultados del test*/
+
+.panel{
+	max-height: 295px !important; 
+}
+
+.grafico{
+	margin-left: 100px;
+	font-size: 11px;
+}
+
+.tabLabel{
+    font-family: arial;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+div#resultPosOpTitle{
+    border-bottom: 2px solid #FEA63C;
+    margin-bottom: 0;
+    margin-top: 30px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    width: 70%;
+}
+
+.tabLoader{
+    margin-bottom: 105px;
+    margin-top: 105px;
+ 
+}
+.tabLoader img{
+	margin-left: 300px;
+}
+/**/
+#resultPosOpTitle h1{
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 18px !important;
+    font-weight: 400;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+/*Retoques maquetacion*/
+#iol_filter_form{
+	display: block;
+}
+
+#right form span.title-filter{
+	display:block;
+	width: auto;
+	float:left;}
+
+
+/*auto; cambiado buscando compatibildad*/
+#buscadorIol #right form span.title-filter {
+    width: 300px;
+}
+
+#right #filtrosFilter .ui-button-text-only .ui-button-text,
+#right #selectToricidadLente .ui-button-text-only .ui-button-text{
+     padding: 0.4em 0.7em;
+     width: auto;
+}
+/* ------------------- PARTE DEL SIMULADOR ------------------------- */
+
+
+
+.site-content-simulator{
+    float: left;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    width: 75%;}
+	
+.site-content-simulator h1{
+	border-bottom: 2px solid #FEA63C;
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 1.5rem !important;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    text-transform: uppercase;
+    width: 100%;}
+
+.site-content-simulator #content{
+	width: 808px;}
+
+#sym-control{
+	text-align: center;
+	font-size: 0.9em;
+}
+
+#scenarios{
+	background-color: #ececec;
+	width: 310px;
+	height: 33px;
+	border: solid 1px #003c61;
+	padding: 3px;}
+	
+#scenarios label{
+	border: solid 1px #003c61;
+	width: 150px;
+	height: 30px;
+	background-color: #ececec;
+	border-radius: 0px;}
+	
+#scenarios label.ui-corner-left {
+    margin-right: 1px;}
+	
+#scenarios label.ui-button-text {
+    padding-right: 0px;
+	margin-right: 0px;
+}
+
+.ui-buttonset .ui-button {
+	margin-bottom: 0px;
+	padding-bottom: 0px;}
+	
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active{
+	background: none;}
+	
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+	background: none;}
+	
+#scenarios label span.ui-button-text{
+	color: #003c61;
+	font-family: 'negotiatefree';
+	text-transform:uppercase;
+	font-size: 14px;
+	font-weight: normal;
+    padding-top: 9px;
+}
+	
+#sym{
+	border: 5px solid #003c61;
+    min-height: 450px;
+    }
+	
+#conditions{}
+
+simulator-options-conditions{}
+	
+#conditions label, #vision-result label{
+	font-size: 0.95em;
+	border-radius: 0px;
+	border-bottom: 1px solid #737373;
+	border-right: 1px solid #737373;
+    color: #626262;
+    font-weight: normal;
+	text-decoration: none;
+	cursor: pointer;
+    display: inline-block;
+    line-height: normal;
+    overflow: visible;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+	padding: 21px 0px; /*6px 0px;*/
+	width: 49.5%; /*49.75%;*/
+	font-family: 'source_sans_proregular';
+    font-size: 13px;
+	float:left;}
+	
+#conditions label{
+	font-size: 0.95em;
+	border-radius: 0px;
+	border:none;
+    color: #626262;
+    font-weight: normal;
+	text-decoration: none;
+	cursor: pointer;
+    display: inline-block;
+    line-height: normal;
+    overflow: visible;
+    position: relative;
+    text-align: left;
+    vertical-align: middle;
+	padding: 13px 0px; /* 6px*/
+	width: 100%;
+	font-family: 'source_sans_proregular';
+    font-size: 13px;
+	float:left;
+	text-align:center;
+	border-bottom: 1px solid #737373;}
+	
+#cataractSliderWrapper label{
+	border:none;
+	}
+	
+#cataractSliderWrapper{
+	margin-left: 23%;
+	text-align:center;}
+	
+label.ui-state-active{
+	color: #fea63c;}
+	
+#conditions label:hover, #vision-result label:hover, #vision-result button:hover {
+	/*color: #fea63c;*/
+    background-color: #ECECEC;
+}
+
+#conditions label:active, #vision-result label:active, #vision-result button:active {
+     color: green;
+
+}
+
+#conditions label:last-child {
+    border-bottom: none;
+}
+
+#vision-result button{
+	font-size: 0.95em;
+	border-radius: 0px;
+	border-bottom: 1px solid #737373;
+	border-right: 1px solid #737373;
+    color: #626262;
+    font-weight: normal;
+	text-decoration: none;
+	cursor: pointer;
+    display: inline-block;
+    line-height: normal;
+    overflow: visible;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+	padding: 6px 0px;
+	width: 50%;
+	font-family: 'source_sans_proregular';
+    font-size: 13px;
+	float:left;
+	background:none;
+	box-shadow:none;
+	border-top: none;
+	border-left: none;}
+	
+#vision-result input, #conditions input{
+	border: 0 none;
+    border-radius: 0 0 0 0;
+    padding: 0;
+	clip: rect(0px, 0px, 0px, 0px);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+	line-height: normal;
+	text-align:center;
+	}
+
+input#astigmatismo {
+   /* clip: auto; */
+}
+
+#simulator-options-conditions {
+    border-bottom: 1px solid #737373;
+    height: 130px;
+}
+
+#astigButtons {
+  /*  margin-left: 40px;
+    margin-top: 8px;*/
+    font-family: 'source_sans_proregular';
+    height: 45px;
+    margin-top: 0px;
+}
+
+#astigButtons label{
+    border:1px solid #737373;
+    height: 100%;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+#astigButtons label span {
+    display: block;
+    height: 100%;
+    line-height: 44px;
+    padding-bottom: 0;
+    padding-top: 0;
+    font-family: 'source_sans_proregular';
+}
+
+#astigButtons label[for='astigmatismo'] {
+    border-left: 0px;
+    width: 50px;
+}
+
+#astigButtons label[for='astigmatismo_no'] {
+    width: 50px;
+    border-radius: 0px;
+}
+
+
+span.astigText {
+    margin-left: 10px;
+}
+
+#astigButton input {
+  /*  position: relative;
+    clip: auto;*/
+}
+
+#astigButton label {
+ /*   border-bottom: medium none;
+    display: inline;
+    float: none;
+    width: auto;*/
+}
+
+/*#conditions input{
+    margin: -1px;
+    padding: 0;
+    position: absolute;
+	line-height: normal;
+	width:15px;
+	height:15px;
+	border-radius: 3px;
+	background-color:cacaca;
+	box-shadow:none;}*/
+	
+#simulatorForm input[type="radio"]:checked + label {
+    color: #FEA63C;
+}
+
+
+#vision-result label #monofocal_Torica, #vision-result label[for="monofocal_Torica"], #vision-result #multifocal_Torica,#vision-result label[for="multifocal_Torica"]
+  {
+    display: none;
+}
+
+#menu-simulator-container{
+	width:100%;}
+	
+#menu-simulator-title{
+	background-color: #fea63C;
+	width: 99%;
+	height: 36px;
+	border: solid 1px #003c61;
+	padding: 3px;}
+	
+#menu-title-conditions{
+	float:left;
+	width: 42%;}
+
+#menu-title-vision{
+	width: 57%;
+	float:right;}
+	
+.simulator-title{
+	padding: 10px 0px;
+	text-align:center;
+	border: solid 1px #003c61;
+	color: #fff;
+	font-family: 'negotiatefree';
+	text-transform:uppercase;
+	font-size: 14px;
+	font-weight: normal;}
+	
+#conditionsWrapper{
+	float:left;
+	width: 42%;
+	height: 176px;
+	border-left:solid 1px #7a7a7a;
+	border-bottom:solid 1px #7a7a7a;
+	border-right:solid 1px #7a7a7a;}
+
+
+
+#vision-result{
+	width: 57%;
+	float:right;
+	height: 217px;
+	/*border-left:solid 1px #7a7a7a;*/
+	
+	/*border-bottom:solid 1px #7a7a7a;*/
+}
+
+#vision-result label[for="monofocal_Esferica"],
+#vision-result label[for="multifocal_Bifocal"],
+#vision-result label[for="monofocal_Torica"] {
+    border-left:solid 1px #7a7a7a;
+}
+	
+#cataractSliderWrapper{
+	margin-top: 20px;}
+	
+#cataractSliderWrapper label{
+	width: 90%;
+	margin-top: 20px;
+	height:auto;
+	padding:0;}
+/*RETOQUE PARA QUE FUNCIONE BIEN GMAPS*/
+
+/* Responsive images */
+ .entry-content img,
+.comment-content img,
+ .widget img {
+	max-width: none !IMPORTANT; /* Fluid images for posts, comments, and widgets */
+}
+
+/* Parte del simulador*/
+
+/*Recolocación de templates */
+
+#content.single-content-lente-intraocular {
+    margin-top: -30px;
+}
+
+#filtrosInputs label[for="luz-ultravioleta"] {
+    padding: 4px;
+}
+#filtrosInputs label[for="luz-azul"] {
+    padding: 3px;
+}
+
+/*-- Cambios por validación */
+#lista-lentes-single ul li {
+    height: auto;
+    margin-bottom: 15px;
+}

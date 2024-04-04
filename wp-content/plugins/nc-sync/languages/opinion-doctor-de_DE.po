@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "opinion-doctor"
+msgstr "meinung-arzt"
+
+msgctxt "taxo-slug"
+msgid "opinion-oftalmologo"
+msgstr "meinung-augenarzt"
+
+msgctxt "slug"
+msgid "opiniones-oftalmologos"
+msgstr "meinungen-augenaerzte"
+
+msgctxt "admin_display"
+msgid "Testimonio de Doctor"
+msgstr "Testimonials von Ärzten"
+
+msgctxt "admin_display"
+msgid "Añadir Testimonio de Doctor"
+msgstr "Arzttestimonial hinzufügen"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Testimonio de Doctor"
+msgstr "neues Arzttestimonial hinzufügen"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Ansicht"
+
+msgctxt "admin_display"
+msgid "Editar Testimonio de doctor"
+msgstr "Ansicht Testimonial Arzt"
+
+msgctxt "admin_display"
+msgid "Nuevo Testimonio de Doctor"
+msgstr "Neues Arzt Testimonial"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Ansicht"
+
+msgctxt "admin_display"
+msgid "Ver testimonio de Doctor"
+msgstr "Ansicht Testimonial Arzt"
+
+msgctxt "admin_display"
+msgid "Buscar testimonio de doctor"
+msgstr "Suche Arzt Testimonial"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ningun testimonio de doctor"
+msgstr "Kein Arzt Testimonial gefunden"
+
+msgctxt "admin_display"
+msgid "No hay testimonios de doctores en la papelera"
+msgstr "Kein Arzt Testimonoal im Papierkorb"
+
+msgctxt "admin_display"
+msgid "Testimonio de Doctor padre"
+msgstr "Testimonial vorgänger Arzt"
+
+msgctxt "admin_display"
+msgid "Información adicional sobre el doctor que aporta su opinión"
+msgstr "Information über den kommentierenden Arzt"
+
+msgctxt "admin_display"
+msgid "Clínica 1 donde opera el doctor (D)"
+msgstr "Klinik 1, in der der Arzt arbeitet (D)"
+
+msgctxt "admin_display"
+msgid "Ciudad-dirección donde está la clínica 1 (D)"
+msgstr "Adresse von Klinik 1 (D)"
+
+msgctxt "admin_display"
+msgid "Web de la clínica 1 donde opera el doctor (D)"
+msgstr "Klinik 1 Webseite (D)"
+
+msgctxt "admin_display"
+msgid "Clínicas 2 opera el doctor (D)"
+msgstr "Klinik 2, in der der Arzt arbeitet (D)"
+
+msgctxt "admin_display"
+msgid "Ciudad-dirección donde está la clínica 2 (D)"
+msgstr "Adresse von Klinik 2 (D)"
+
+msgctxt "admin_display"
+msgid "Web de la clínica 2 donde opera el doctor (D)"
+msgstr "Klinik 2 Webseite (D)"

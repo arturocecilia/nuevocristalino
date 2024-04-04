@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "iol_proms"
+msgid "Pregunta a los Cirujanos"
+msgstr "Pregunta a los Cirujanos"
+
+msgctxt "iol_proms"
+msgid "Editar Perfil"
+msgstr "Editar Perfil"
+
+msgctxt "iol_proms"
+msgid "lente-intraocular"
+msgstr "lente-intraocular"
+
+msgctxt "iol_proms"
+msgid "clinica"
+msgstr "clinica"

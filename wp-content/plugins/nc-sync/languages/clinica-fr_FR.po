@@ -1,0 +1,235 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "clinica"
+msgstr "clinique"
+
+msgctxt "taxo-slug"
+msgid "clinica-oftalmologica-lente-intraocular"
+msgstr "clinique-ophtalmologique-implant-intraoculaire"
+
+msgctxt "slug"
+msgid "clinicas-oftalmologicas-lente-intraocular"
+msgstr "cliniques-ophtalmologiques-implants-intraoculaires"
+
+msgctxt "taxo-name"
+msgid "ubicacion"
+msgstr "Localisation"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/ubicacion"
+msgstr "clinique-ophtalmologique-implant-intraoculaire/localisation"
+
+msgctxt "taxo-name"
+msgid "seguros"
+msgstr "assurance"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/seguros"
+msgstr "clinique-ophtalmologique-implant-intraoculaire/assurance"
+
+msgctxt "taxo-name"
+msgid "equipamiento-clinica"
+msgstr "équipement-clinique"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/tecnologia-equipos"
+msgstr "clinique-ophtalmologique-implant-intraoculaire/equipement-clinique"
+
+msgctxt "taxo-name"
+msgid "mas-info-clinica"
+msgstr "plus-d'info-clinique"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/mas-info-clinica"
+msgstr "clinique-ophtalmologique-implant-intraoculaire/plus-dinfo-clinique"
+
+msgctxt "taxo-name"
+msgid "femto-faco"
+msgstr "femto-phaco"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/femto-faco"
+msgstr "clinique-ophtalmologique-implant-intraoculaire/femto-phaco"
+
+msgctxt "taxo-name"
+msgid "financiacion"
+msgstr "financement"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/financiacion"
+msgstr "clinique-ophtalmologique-implant-intraoculaire/financement"
+
+msgctxt "taxo-name"
+msgid "nivel-pref-clinica"
+msgstr "niveau-pref-clinique"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/nivel-pref-clinica"
+msgstr "clinique-ophtalmologique-implant-intraoculaire/niveau-pref-clinique"
+
+msgctxt "admin_display"
+msgid "clinica"
+msgstr "clinique"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva"
+msgstr "Ajouter nouvelle "
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Clínica Oftalmológica"
+msgstr "Ajouter nouvelle clinique ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Editar Clínica Oftalmológica"
+msgstr "Modifier Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Nueva Clínica Oftalmológica"
+msgstr "Nouvelle Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Ver Clínica Oftamológica"
+msgstr "Voir Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Buscar Clínica Oftamológica"
+msgstr "Chercher Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ninguna Clínica Oftamológica"
+msgstr "Auncune Clinique Ophtalmologique trouvée"
+
+msgctxt "admin_display"
+msgid "No hay Clínicas Oftalmológicas en la papelera"
+msgstr "Aucune Clinique Ophtalmologique dans la corbeille"
+
+msgctxt "admin_display"
+msgid "Clínica Oftamológica padre"
+msgstr "Clinique Ophtalmologique père"
+
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr "Adresse (D)"
+
+msgctxt "admin_display"
+msgid "Latitud"
+msgstr "latitude"
+
+msgctxt "admin_display"
+msgid "Longitud"
+msgstr "longitude"
+
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr "téléphone de contact (D)"
+
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr "Email de contact (D)"
+
+msgctxt "admin_display"
+msgid "Horario (D)"
+msgstr "Horaire (D)"
+
+msgctxt "admin_display"
+msgid "Director Médico (D)"
+msgstr "Directeur médical (D)"
+
+msgctxt "admin_display"
+msgid "Doctores (D)"
+msgstr "Médecins (D)"
+
+msgctxt "admin_display"
+msgid "Website (D)"
+msgstr "Website (D)"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica (Ascendente)"
+msgstr "Niveau de préférence de la clinique (Ascendant)"
+
+msgctxt "admin_display"
+msgid "Ubicación de la clínica"
+msgstr "Emplacement de la clinique"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Ubicacion"
+msgstr "Ajouter nouvel emplacement"
+
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Ubicacion"
+msgstr "Nouveau nom de l'emplacement"
+
+msgctxt "admin_display"
+msgid "Seguros de la Clínica Oftalmológica"
+msgstr "Assurances de la Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Añadir Seguro de Clínica Oftalmológica"
+msgstr "Ajouter assurance de la clinique ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Nuevo Nomre de Seguro Médico"
+msgstr "Nouveau nom de l'assurance medicale"
+
+msgctxt "admin_display"
+msgid "Equipamiento de la Clínica Oftalmológica"
+msgstr "Équipement de la Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Añadir equipamientos de la Clínica Oftalmológica"
+msgstr "Ajouter équipements de la Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre  de equipamiento de la clínica."
+msgstr "Nouveau nom de l'équipement de la Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Informacion Adicional de la Clínica Oftalmológica"
+msgstr "Informations cliniques supplémentaires"
+
+msgctxt "admin_display"
+msgid "Añadir Más Info de la Clínica Oftalmológica"
+msgstr "Ajouter plus d'info sur la Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de información adicional de la clínica."
+msgstr "Nouveau nom de l'information clinique supplémentaire"
+
+msgctxt "admin_display"
+msgid "Información sobre el femto faco de la clínica"
+msgstr "Information sur le femto phaco de la Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Añadir Info del femto faco de Clínica Oftalmológica"
+msgstr "Ajouter info du femto phaco de la Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Nueva Info del femto faco"
+msgstr "Nouvelle info du femto phaco"
+
+msgctxt "admin_display"
+msgid "Información sobre la financiación de la clínica"
+msgstr "Information sur le financement de la Clinique"
+
+msgctxt "admin_display"
+msgid "Añadir Info de la financiación de la Clínica Oftalmológica"
+msgstr "Ajouter info du financement de la Clinique Ophtalmologique"
+
+msgctxt "admin_display"
+msgid "Nueva Info de la financiación"
+msgstr "Nouvelle info du financement"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica"
+msgstr "Niveau de préférence de la clinique"
+
+msgctxt "admin_display"
+msgid "Añadir Nivel de preferencia de la Clínica"
+msgstr "Ajouter niveau de préférence de la clinique"
+
+msgctxt "admin_display"
+msgid "Nuevo Nivel de preferencia"
+msgstr "Nouveau niveau de préférence"

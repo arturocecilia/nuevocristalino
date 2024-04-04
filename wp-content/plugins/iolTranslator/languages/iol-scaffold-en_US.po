@@ -1,0 +1,930 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iolTranslator v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-15 18:22:43+0000\n"
+"Last-Translator: admin <cris_mr_crc@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: iol-scaffold-moVariables.php:6
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Pseudofáquica"
+msgstr "Pseudophakic"
+
+#: iol-scaffold-moVariables.php:9
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Lente Premium"
+msgstr "Premium Lens"
+
+#: iol-scaffold-moVariables.php:15
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Add-On"
+msgstr "Add-On"
+
+#: iol-scaffold-moVariables.php:18
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Fáquica"
+msgstr "Phakic"
+
+#: iol-scaffold-moVariables.php:21
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "ICL"
+msgstr "ICL"
+
+#: iol-scaffold-moVariables.php:24
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Cachet"
+msgstr "Cachet"
+
+#: iol-scaffold-moVariables.php:27
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Verisyse"
+msgstr "Verisyse"
+
+#: iol-scaffold-moVariables.php:30
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Monofocal"
+msgstr "Monofocal"
+
+#: iol-scaffold-moVariables.php:33
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Monofocal Asférica"
+msgstr "Aspheric Monofocal"
+
+#: iol-scaffold-moVariables.php:36
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Monofocal Esférica"
+msgstr "Spheric Monofocal"
+
+#: iol-scaffold-moVariables.php:39
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Multifocal"
+msgstr "Multifocal"
+
+#: iol-scaffold-moVariables.php:42
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Multifocal Bifocal"
+msgstr "Multifocal Bifocal"
+
+#: iol-scaffold-moVariables.php:45
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Multifocal Bifocal Esférica"
+msgstr "Spheric Multifocal Bifocal"
+
+#: iol-scaffold-moVariables.php:48
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Multifocal Bifocal Asférica"
+msgstr "Aspheric Multifocal Bifocal"
+
+#: iol-scaffold-moVariables.php:51
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Multifocal Trifocal"
+msgstr "Multifocal Trifocal"
+
+#: iol-scaffold-moVariables.php:54
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Multifocal Trifocal Esférica"
+msgstr "Spheric Multifocal Trifocal"
+
+#: iol-scaffold-moVariables.php:57
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Multifocal Trifocal Asférica"
+msgstr "Aspheric Multifocal Trifocal"
+
+#: iol-scaffold-moVariables.php:60
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Acomodativa"
+msgstr "Accommodative"
+
+#: iol-scaffold-moVariables.php:63
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Ajustable por Luz"
+msgstr "Light Adjustable Lens"
+
+#: iol-scaffold-moVariables.php:66
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "1STQ"
+msgstr "1STQ"
+
+#: iol-scaffold-moVariables.php:69
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Alcon"
+msgstr "Alcon"
+
+#: iol-scaffold-moVariables.php:72
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Argonoptics"
+msgstr "Argonoptics"
+
+#: iol-scaffold-moVariables.php:75
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Zeiss"
+msgstr "Zeiss"
+
+#: iol-scaffold-moVariables.php:78
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Domilens"
+msgstr "Domilens"
+
+#: iol-scaffold-moVariables.php:81
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Morcher"
+msgstr "Morcher"
+
+#: iol-scaffold-moVariables.php:84
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Opthec"
+msgstr "Opthec"
+
+#: iol-scaffold-moVariables.php:93
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Croma Pharma"
+msgstr "Croma Pharma"
+
+#: iol-scaffold-moVariables.php:96
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Humanoptics"
+msgstr "Humanoptics"
+
+#: iol-scaffold-moVariables.php:99
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Hoya"
+msgstr "Hoya"
+
+#: iol-scaffold-moVariables.php:102
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Oculentis"
+msgstr "Oculentis"
+
+#: iol-scaffold-moVariables.php:105
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Rayner"
+msgstr "Rayner"
+
+#: iol-scaffold-moVariables.php:108
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "W2O"
+msgstr "W2O"
+
+#: iol-scaffold-moVariables.php:111
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Tórica"
+msgstr "Toric"
+
+#: iol-scaffold-moVariables.php:114
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "No Tórica"
+msgstr "Not toric"
+
+#: iol-scaffold-moVariables.php:117
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Baja"
+msgstr "Low"
+
+#: iol-scaffold-moVariables.php:120
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "2.5"
+msgstr "2.5"
+
+#: iol-scaffold-moVariables.php:122
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Media"
+msgstr "Medium"
+
+#: iol-scaffold-moVariables.php:125
+#: iol-scaffold-moVariables.php:215
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "3"
+msgstr "3"
+
+#: iol-scaffold-moVariables.php:127
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Alta"
+msgstr "High"
+
+#: iol-scaffold-moVariables.php:130
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "3.33"
+msgstr "3.33"
+
+#: iol-scaffold-moVariables.php:131
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "3.5"
+msgstr "3.5"
+
+#: iol-scaffold-moVariables.php:132
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "3.75"
+msgstr "3.75"
+
+#: iol-scaffold-moVariables.php:133
+#: iol-scaffold-moVariables.php:216
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "4"
+msgstr "4"
+
+#: iol-scaffold-moVariables.php:135
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Luz Azul"
+msgstr "Blue Light"
+
+#: iol-scaffold-moVariables.php:141
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Acrílica"
+msgstr "Acrylic"
+
+#: iol-scaffold-moVariables.php:144
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Acrílica Hidrófoba"
+msgstr "Hydrophobic Acrylic"
+
+#: iol-scaffold-moVariables.php:147
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Acrílica Hidrofílica"
+msgstr "Hydrophilic Acrylic"
+
+#: iol-scaffold-moVariables.php:150
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Acrílica Hidrofílica con Superficie Hidrófoba"
+msgstr "Hydrophilic Acrylic with Hydrophobic Surface"
+
+#: iol-scaffold-moVariables.php:153
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Acrílica Hidrofílica con Superficie Hidrofílica"
+msgstr "Hydrophilic Acrylic with Hydrophilic Surface"
+
+#: iol-scaffold-moVariables.php:156
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "PMMA"
+msgstr "PMMA"
+
+#: iol-scaffold-moVariables.php:159
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Silicona"
+msgstr "Silicone"
+
+#: iol-scaffold-moVariables.php:162
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "3 piezas"
+msgstr "3 piece"
+
+#: iol-scaffold-moVariables.php:165
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "2 piezas"
+msgstr "2 piece"
+
+#: iol-scaffold-moVariables.php:168
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Monobloque"
+msgstr "1 piece"
+
+#: iol-scaffold-moVariables.php:171
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Difractiva"
+msgstr "Diffractive"
+
+#: iol-scaffold-moVariables.php:174
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Mixta"
+msgstr "Mixed"
+
+#: iol-scaffold-moVariables.php:177
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Refractiva"
+msgstr "Refractive"
+
+#: iol-scaffold-moVariables.php:180
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Asférica"
+msgstr "Aspheric"
+
+#: iol-scaffold-moVariables.php:183
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Esférica"
+msgstr "Spheric"
+
+#: iol-scaffold-moVariables.php:186
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Sí"
+msgstr "Yes"
+
+#: iol-scaffold-moVariables.php:189
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "No"
+msgstr "No"
+
+#: iol-scaffold-moVariables.php:192
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Con"
+msgstr "With"
+
+#: iol-scaffold-moVariables.php:195
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Sin"
+msgstr "Without"
+
+#: iol-scaffold-moVariables.php:198
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Abiertos"
+msgstr "Open"
+
+#: iol-scaffold-moVariables.php:201
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "C-Loop"
+msgstr "C-Loop"
+
+#: iol-scaffold-moVariables.php:204
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "C-Loop Modificado"
+msgstr "C-Loop Modified"
+
+#: iol-scaffold-moVariables.php:207
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "en L"
+msgstr "L-shaped"
+
+#: iol-scaffold-moVariables.php:210
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "tipo Plato"
+msgstr "plate"
+
+#: iol-scaffold-moVariables.php:213
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "1"
+msgstr "1"
+
+#: iol-scaffold-moVariables.php:214
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "2"
+msgstr "2"
+
+#: iol-scaffold-moVariables.php:217
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "5"
+msgstr "5"
+
+#: iol-scaffold-moVariables.php:218
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Tmonofocal"
+msgstr "Tmonofocal"
+
+#: iol-scaffold-moVariables.php:219
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Tmultifocal-trifocal"
+msgstr "Tmultifocal-trifocal"
+
+#: iol-scaffold-moVariables.php:220
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "TBaja"
+msgstr "TBaja"
+
+#: iol-scaffold-moVariables.php:221
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Tmultifocal-bifocal"
+msgstr "Tmultifocal-bifocal"
+
+#: iol-scaffold-moVariables.php:222
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "TMedia"
+msgstr "TMedia"
+
+#: iol-scaffold-moVariables.php:223
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "TAlta"
+msgstr "TAlta"
+
+#: iol-scaffold-moVariables.php:224
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Tacomodativa"
+msgstr "Tacomodativa"
+
+#: iol-scaffold-moVariables.php:225
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Tasferica"
+msgstr "Tasferica"
+
+#: iol-scaffold-moVariables.php:226
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Ttorica"
+msgstr "Ttorica"
+
+#: iol-scaffold-moVariables.php:227
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Tluz-azul"
+msgstr "Tluz-azul"
+
+#: iol-scaffold-moVariables.php:87
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "AMO"
+msgstr "amo"
+
+#: iol-scaffold-moVariables.php:12
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Lente Estándar"
+msgstr "Standar IOL"
+
+#: iol-scaffold-moVariables.php:138
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Luz Ultravioleta"
+msgstr "Ultraviolet Light"
+
+#: iol-scaffold-moVariables.php:7
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "pseudofaquica"
+msgstr "pseudophakic"
+
+#: iol-scaffold-moVariables.php:10
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "lente-premium"
+msgstr "premium-lens"
+
+#: iol-scaffold-moVariables.php:13
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "lente-estandar"
+msgstr "standard-lens"
+
+#: iol-scaffold-moVariables.php:16
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "add-on"
+msgstr "add-on"
+
+#: iol-scaffold-moVariables.php:19
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "faquica"
+msgstr "phakic"
+
+#: iol-scaffold-moVariables.php:22
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "icl"
+msgstr "icl"
+
+#: iol-scaffold-moVariables.php:25
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "cachet"
+msgstr "cachet"
+
+#: iol-scaffold-moVariables.php:28
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "verisyse"
+msgstr "verisyse"
+
+#: iol-scaffold-moVariables.php:31
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "monofocal"
+msgstr "monofocal"
+
+#: iol-scaffold-moVariables.php:34
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "monofocal-asferica"
+msgstr "monofocal-aspheric"
+
+#: iol-scaffold-moVariables.php:37
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "monofocal-esferica"
+msgstr "monofocal-spheric"
+
+#: iol-scaffold-moVariables.php:40
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal"
+msgstr "multifocal"
+
+#: iol-scaffold-moVariables.php:43
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal"
+msgstr "multifocal-bifocal"
+
+#: iol-scaffold-moVariables.php:46
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal-esferica"
+msgstr "multifocal-bifocal-spheric"
+
+#: iol-scaffold-moVariables.php:49
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-bifocal-asferica"
+msgstr "multifocal-bifocal-aspheric"
+
+#: iol-scaffold-moVariables.php:52
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal"
+msgstr "multifocal-trifocal"
+
+#: iol-scaffold-moVariables.php:55
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal-esferica"
+msgstr "multifocal-trifocal-spheric"
+
+#: iol-scaffold-moVariables.php:58
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "multifocal-trifocal-asferica"
+msgstr "multifocal-trifocal-aspheric"
+
+#: iol-scaffold-moVariables.php:61
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "acomodativa"
+msgstr "accommodative"
+
+#: iol-scaffold-moVariables.php:64
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "ajustable-por-luz"
+msgstr "light-adjustable"
+
+#: iol-scaffold-moVariables.php:67
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "1stq"
+msgstr "1stq"
+
+#: iol-scaffold-moVariables.php:70
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "alcon"
+msgstr "alcon"
+
+#: iol-scaffold-moVariables.php:73
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "argonoptics"
+msgstr "argonoptics"
+
+#: iol-scaffold-moVariables.php:76
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "zeiss"
+msgstr "zeiss"
+
+#: iol-scaffold-moVariables.php:79
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "domilens"
+msgstr "domilens"
+
+#: iol-scaffold-moVariables.php:82
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "morcher"
+msgstr "morcher"
+
+#: iol-scaffold-moVariables.php:85
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "opthec"
+msgstr "opthec"
+
+#: iol-scaffold-moVariables.php:88
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "amo"
+msgstr "amo"
+
+#: iol-scaffold-moVariables.php:94
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "croma-pharma"
+msgstr "croma-pharma"
+
+#: iol-scaffold-moVariables.php:97
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "humanoptics"
+msgstr "humanoptics"
+
+#: iol-scaffold-moVariables.php:100
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "hoya"
+msgstr "hoya"
+
+#: iol-scaffold-moVariables.php:103
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "oculentis"
+msgstr "oculentis"
+
+#: iol-scaffold-moVariables.php:106
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "rayner"
+msgstr "rayner"
+
+#: iol-scaffold-moVariables.php:109
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "w2o"
+msgstr "w2o"
+
+#: iol-scaffold-moVariables.php:112
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "torica"
+msgstr "toric"
+
+#: iol-scaffold-moVariables.php:115
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "no-torica"
+msgstr "not-toric"
+
+#: iol-scaffold-moVariables.php:118
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "baja"
+msgstr "low"
+
+#: iol-scaffold-moVariables.php:123
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "media"
+msgstr "medium"
+
+#: iol-scaffold-moVariables.php:128
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "alta"
+msgstr "high"
+
+#: iol-scaffold-moVariables.php:136
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "luz-azul"
+msgstr "blue-light"
+
+#: iol-scaffold-moVariables.php:139
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "luz-ultravioleta"
+msgstr "ultraviolet-light"
+
+#: iol-scaffold-moVariables.php:142
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "acrilica"
+msgstr "acrylic"
+
+#: iol-scaffold-moVariables.php:145
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "acrilica-hidrofoba"
+msgstr "hydrophobic-acrylic"
+
+#: iol-scaffold-moVariables.php:148
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "acrilica-hidrofilica"
+msgstr "acrylic-hydrophilic"
+
+#: iol-scaffold-moVariables.php:151
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "acrilica-hidrofilica-con-superficie-hidrofoba"
+msgstr "acrylic-hydrophilic-with-hydrophobic-surface"
+
+#: iol-scaffold-moVariables.php:154
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "acrilica-hidrofilica-con-superficie-hidrofilica"
+msgstr "acrylic-hydrophilic-with-hydrophilic-surface"
+
+#: iol-scaffold-moVariables.php:157
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "pmma"
+msgstr "pmma"
+
+#: iol-scaffold-moVariables.php:160
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "silicona"
+msgstr "silicone"
+
+#: iol-scaffold-moVariables.php:163
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "3-piezas"
+msgstr "3-piece"
+
+#: iol-scaffold-moVariables.php:166
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "2-piezas"
+msgstr "2-piece"
+
+#: iol-scaffold-moVariables.php:169
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "monobloque"
+msgstr "1-piece"
+
+#: iol-scaffold-moVariables.php:172
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "difractiva"
+msgstr "diffractive"
+
+#: iol-scaffold-moVariables.php:175
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "mixta"
+msgstr "mixed"
+
+#: iol-scaffold-moVariables.php:178
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "refractiva"
+msgstr "refractive"
+
+#: iol-scaffold-moVariables.php:181
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "asferica"
+msgstr "aspheric"
+
+#: iol-scaffold-moVariables.php:184
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "esferica"
+msgstr "spheric"
+
+#: iol-scaffold-moVariables.php:187
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "si"
+msgstr "yes"
+
+#: iol-scaffold-moVariables.php:190
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "no"
+msgstr "no"
+
+#: iol-scaffold-moVariables.php:193
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "con"
+msgstr "with"
+
+#: iol-scaffold-moVariables.php:196
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "sin"
+msgstr "without"
+
+#: iol-scaffold-moVariables.php:199
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "abiertos"
+msgstr "open"
+
+#: iol-scaffold-moVariables.php:202
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "c-loop"
+msgstr "c-loop"
+
+#: iol-scaffold-moVariables.php:205
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "c-loop-modificado"
+msgstr "c-loop-modified"
+
+#: iol-scaffold-moVariables.php:208
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "en-l"
+msgstr "l-shaped"
+
+#: iol-scaffold-moVariables.php:211
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "tipo-plato"
+msgstr "plate"
+
+#: iol-scaffold-moVariables.php:90
+#@ iol-scaffold
+msgctxt "taxo-value-name"
+msgid "Bausch+Lomb"
+msgstr "Busch+Lomb"
+
+#: iol-scaffold-moVariables.php:91
+#@ iol-scaffold
+msgctxt "taxo-value-slug"
+msgid "bausch-lomb"
+msgstr "bausch-lomb"
+

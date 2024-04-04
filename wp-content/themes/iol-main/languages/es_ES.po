@@ -1,0 +1,179 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "iol_main"
+msgid "¿Estás pensando en Operarte de la Vista?"
+msgstr "¿Estás pensando en Operarte de la Vista?"
+
+msgctxt "iol_main"
+msgid "Regístrate en NuevoCristalino. Es gratis"
+msgstr "Regístrate en NuevoCristalino. Es gratis"
+
+msgctxt "header"
+msgid "Tu Área Privada"
+msgstr "Tu Área Privada"
+
+msgctxt "header"
+msgid "Editar Perfil"
+msgstr "Editar Perfil"
+
+msgctxt "interaction-home"
+msgid "Encuentra la mejor opción para tu operación ocular."
+msgstr "Encuentra la mejor opción para tu operación ocular."
+
+msgctxt "interaction-home"
+msgid "Aprovecha las ventajas de NuevoCristalino. Es gratis."
+msgstr "Aprovecha las ventajas de NuevoCristalino. Es gratis."
+
+msgctxt "interaction-home"
+msgid "Con cualquier duda recuerda que puedes escribirnos también a info@nuevocristalino.es"
+msgstr "Con cualquier duda recuerda que puedes escribirnos también a info@nuevocristalino.es"
+
+msgctxt "interaction-home"
+msgid "Soluciones para la Vista Cansada"
+msgstr "Soluciones para la Vista Cansada"
+
+msgctxt "interaction-home"
+msgid "Conozca que opciones hay hoy en día para no necesitar gafas de cerca."
+msgstr "Conozca que opciones hay hoy en día para no necesitar gafas de cerca."
+
+msgctxt "interaction-home"
+msgid "Nueva cirugía de cataratas con LÁSER"
+msgstr "Nueva cirugía de cataratas con LÁSER"
+
+msgctxt "interaction-home"
+msgid "Conozca la útima técnica disponible para quitar las cataratas con Láser."
+msgstr "Conozca la útima técnica disponible para quitar las cataratas con Láser."
+
+msgctxt "interaction-home"
+msgid "Clínicas especializadas en tu cirugía"
+msgstr "Clínicas especializadas en tu cirugía"
+
+msgctxt "interaction-home"
+msgid "Vea una lista de clínicas especializadas en lentes intraoculares."
+msgstr "Vea una lista de clínicas especializadas en lentes intraoculares."
+
+msgctxt "interaction-home"
+msgid "Vea las lentes adecuadas para su caso."
+msgstr "Vea las lentes adecuadas para su caso."
+
+msgctxt "interaction-home"
+msgid "Realice el test para saber qué tipo de lente es la más adecuada para usted."
+msgstr "Realice el test para saber qué tipo de lente es la más adecuada para usted."
+
+msgctxt "interaction-home"
+msgid "¿Te has operado? Cuéntanos como fue tu Operación"
+msgstr "¿Te has operado? Cuéntanos como fue tu Operación"
+
+msgctxt "interaction-home"
+msgid "Ayuda a otros pacientes con tu experiencia"
+msgstr "Ayuda a otros pacientes con tu experiencia"
+
+msgctxt "interaction-home"
+msgid "Queremos saber si estás contento/a o no."
+msgstr "Queremos saber si estás contento/a o no."
+
+msgctxt "interaction-home"
+msgid "Ir a la encuesta >>"
+msgstr "Ir a la encuesta >>"
+
+msgctxt "interaction-home"
+msgid "Si conoces a alguien que ya se ha operado, invítale a dar su opinión sobre su operación:"
+msgstr "Si conoces a alguien que ya se ha operado, invítale a dar su opinión sobre su operación:"
+
+msgctxt "iol_main"
+msgid "Foros de NuevoCristalino"
+msgstr "Foros de NuevoCristalino"
+
+msgctxt "single-post"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog de lentes intraoculares Presbicia y cataratas"
+
+msgctxt "iol_main"
+msgid "Pregunta a los cirujanos"
+msgstr "Pregunta a los cirujanos"
+
+msgctxt "iol_main"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog de lentes intraoculares Presbicia y cataratas"
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según distancia a una ubicación concreta:"
+msgstr "Filtrado según distancia a una ubicación concreta:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según Lente y Comunidad:"
+msgstr "Filtrado según Lente y Comunidad:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Ubicar la dirección introducida"
+msgstr "Ubicar la dirección introducida"
+
+msgctxt "template-buscador-clinicas"
+msgid "Máxima distancia a ubicación:"
+msgstr "Máxima distancia a ubicación:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Detectar mi ubicación"
+msgstr "Detectar mi ubicación"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrando"
+msgstr "Mostrando"
+
+msgctxt "template-buscador-clinicas"
+msgid "ubicación seleccionada:"
+msgstr "ubicación seleccionada:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Distancia"
+msgstr "Distancia"
+
+msgctxt "template-buscador-clinicas"
+msgid "km"
+msgstr "km"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrar Todas"
+msgstr "Mostrar Todas"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clinicas más visitadas"
+msgstr "Clinicas más visitadas"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clínicas según lente y Comunidad"
+msgstr "Clínicas según lente y Comunidad"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Queremos saber cómo ves."
+msgstr "Queremos saber cómo ves."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Cuéntanos tu opinión sobre el resultado de tu operación."
+msgstr "Cuéntanos tu opinión sobre el resultado de tu operación."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Ayuda a otros usuarios interesados en tu operación."
+msgstr "Ayuda a otros usuarios interesados en tu operación."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con reemplazo de cristalino sin cataratas"
+msgstr "Operación con reemplazo de cristalino sin cataratas"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación de cataratas (con cualquier tipo de lente intraocular)"
+msgstr "Operación de cataratas (con cualquier tipo de lente intraocular)"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con láser excímer sobre córnea (LASIK, PRK, etc.)"
+msgstr "Operación con láser excímer sobre córnea (LASIK, PRK, etc.)"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con lente intraocular ICL"
+msgstr "Operación con lente intraocular ICL"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Si conoces a alguien que ya se ha operado y puede dar el testimonio de su operación, compártelo esta página usando una red social:"
+msgstr "Si conoces a alguien que ya se ha operado y puede dar el testimonio de su operación, compártelo esta página usando una red social:"

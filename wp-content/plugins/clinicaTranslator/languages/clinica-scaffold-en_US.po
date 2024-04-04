@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: clinicaTranslator v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-17 10:47:17+0000\n"
+"Last-Translator: admin <cris_mr_crc@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: clinica-scaffold-moVariables.php:6
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "menos de 300 al año"
+msgstr "less than 300 per year"
+
+#: clinica-scaffold-moVariables.php:7
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "menos-de-300-al-ano"
+msgstr "less-than-300-per-year"
+
+#: clinica-scaffold-moVariables.php:9
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "entre 300 y 800 al año"
+msgstr "between 300 and 800 per year"
+
+#: clinica-scaffold-moVariables.php:10
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "entre-300-y-800-al-ano"
+msgstr "between-300-and-800-per-year"
+
+#: clinica-scaffold-moVariables.php:12
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "más de 800 al año"
+msgstr "more than 800 per year"
+
+#: clinica-scaffold-moVariables.php:13
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "más-de-800-al-ano"
+msgstr "more-than-800-per-year"
+
+#: clinica-scaffold-moVariables.php:15
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Refractiva Láser"
+msgstr "Refractive Laser"
+
+#: clinica-scaffold-moVariables.php:16
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "refractiva-laser"
+msgstr "refractive-laser"
+
+#: clinica-scaffold-moVariables.php:18
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Cataratas/Remplazo de cristalino"
+msgstr "Cataracts/Lens Replacement"
+
+#: clinica-scaffold-moVariables.php:19
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "cataratas/remplazo-de-cristalino"
+msgstr "cataracts/lens-replacement"
+
+#: clinica-scaffold-moVariables.php:21
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Lentes Fáquicas"
+msgstr "Phakic Lenses"
+
+#: clinica-scaffold-moVariables.php:22
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-fáquicas"
+msgstr "phakic-lenses"
+
+#: clinica-scaffold-moVariables.php:24
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "lentes Multifocales"
+msgstr "Multifocal Lenses"
+
+#: clinica-scaffold-moVariables.php:25
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-multifocales"
+msgstr "multifocal-lenses"
+
+#: clinica-scaffold-moVariables.php:27
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "lentes Tóricas"
+msgstr "toric-lenses"
+
+#: clinica-scaffold-moVariables.php:28
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-toricas"
+msgstr "toric-lenses"
+
+#: clinica-scaffold-moVariables.php:30
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Lentes Acomodativas"
+msgstr "Accommodative Lenses"
+
+#: clinica-scaffold-moVariables.php:31
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-acomodativas"
+msgstr "accommodative-lenses"
+
+#: clinica-scaffold-moVariables.php:33
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Monovisión"
+msgstr "Monovision"
+
+#: clinica-scaffold-moVariables.php:34
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "monovision"
+msgstr "monovision"
+
+#: clinica-scaffold-moVariables.php:36
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Lentes Ajustables por Luz"
+msgstr "Light Adjustable Lenses"
+
+#: clinica-scaffold-moVariables.php:37
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-ajustables por Luz"
+msgstr "light-adjustable-lenses"
+
+#: clinica-scaffold-moVariables.php:39
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Lentes de Filtro Azul"
+msgstr "Blue LIght Filter Lenses"
+
+#: clinica-scaffold-moVariables.php:40
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-de-filtro-azul"
+msgstr "blue-light-filter-lenses"
+
+#: clinica-scaffold-moVariables.php:42
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Lentes Asféricas"
+msgstr "Aspheric Lenses"
+
+#: clinica-scaffold-moVariables.php:43
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-asfericas"
+msgstr "aspheric-lenses"
+
+#: clinica-scaffold-moVariables.php:45
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Faco Microincisión"
+msgstr "Micro-Incision Phaco"
+
+#: clinica-scaffold-moVariables.php:46
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "faco-microincision"
+msgstr "micro-incision-phaco"
+
+#: clinica-scaffold-moVariables.php:48
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Femto-faco"
+msgstr "Femto-Phaco"
+
+#: clinica-scaffold-moVariables.php:49
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "femto-faco"
+msgstr "femto-phaco"
+
+#: clinica-scaffold-moVariables.php:51
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Biómetros"
+msgstr "Biometers"
+
+#: clinica-scaffold-moVariables.php:52
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "biometros"
+msgstr "biometers"
+
+#: clinica-scaffold-moVariables.php:54
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "IOL Master"
+msgstr "IOL Master"
+
+#: clinica-scaffold-moVariables.php:55
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "iol-master"
+msgstr "iol-master"
+
+#: clinica-scaffold-moVariables.php:57
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Lenstar"
+msgstr "Lenstar"
+
+#: clinica-scaffold-moVariables.php:58
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lenstar"
+msgstr "lenstar"
+
+#: clinica-scaffold-moVariables.php:60
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Posibilidad de Financiación"
+msgstr "Possibility of Finance"
+
+#: clinica-scaffold-moVariables.php:61
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "posibilidad-de-financiacion"
+msgstr "possibility-of-finance"
+
+#: clinica-scaffold-moVariables.php:63
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Seguros"
+msgstr "Insurances"
+
+#: clinica-scaffold-moVariables.php:64
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "seguros"
+msgstr "insurances"
+
+#: clinica-scaffold-moVariables.php:66
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Cirugía Intraocular Bilateral"
+msgstr "Bilateral Intraocular Surgery"
+
+#: clinica-scaffold-moVariables.php:67
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "cirugia-intraocular-bilateral"
+msgstr "bilateral-intraocular-surgery"
+
+#: clinica-scaffold-moVariables.php:69
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Posibilidad de Hospitalización"
+msgstr "Possibility of Hospitalization"
+
+#: clinica-scaffold-moVariables.php:70
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "posibilidad-de-hospitalizacion"
+msgstr "possibility-of-hospitalization"
+
+#: clinica-scaffold-moVariables.php:72
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Quirófanos Propios"
+msgstr "Own Operating Rooms"
+
+#: clinica-scaffold-moVariables.php:73
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "quirofanos-propios"
+msgstr "own-operating-rooms"
+
+#: clinica-scaffold-moVariables.php:75
+#@ clinica-scaffold
+msgctxt "taxo-value-name"
+msgid "Láser Propio"
+msgstr "Own Laser"
+
+#: clinica-scaffold-moVariables.php:76
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "laser-propio"
+msgstr "own-laser"
+

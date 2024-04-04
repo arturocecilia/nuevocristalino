@@ -1,0 +1,551 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "admin_display"
+msgid "lente-intraocular"
+msgstr "implant-intraoculaire"
+
+msgctxt "CustomPostType Name"
+msgid "lente-intraocular"
+msgstr "implant-oculaire"
+
+msgctxt "slug"
+msgid "lente-intraocular"
+msgstr "implant-intraoculaire"
+
+msgctxt "slug"
+msgid "lentes-intraoculares"
+msgstr "implants-intraoculaires"
+
+msgctxt "taxo-name"
+msgid "tipo-lente-intraocular"
+msgstr "type-dimplant-intraoculaire"
+
+msgctxt "slug"
+msgid "lente-intraocular/tipo-lente"
+msgstr "implant intraoculaire/type-dimplant"
+
+msgctxt "taxo-name"
+msgid "diseno-optica"
+msgstr "design-optique"
+
+msgctxt "slug"
+msgid "lente-intraocular/diseño-optica"
+msgstr "implant intraoculaire/design-optique"
+
+msgctxt "taxo-name"
+msgid "fabricante-lente"
+msgstr "fabricant-implant"
+
+msgctxt "slug"
+msgid "lente-intraocular/fabricante-lente"
+msgstr "implant-intraoculaire/fabricant-implant"
+
+msgctxt "taxo-name"
+msgid "toricidad"
+msgstr "toricite"
+
+msgctxt "slug"
+msgid "lente-intraocular/toricidad"
+msgstr "implant-intraoculaire/toricite"
+
+msgctxt "taxo-name"
+msgid "adicion-cerca"
+msgstr "addition-pres"
+
+msgctxt "slug"
+msgid "lente-intraocular/adicion-cerca"
+msgstr "implant-intraoculaire/addition-pres"
+
+msgctxt "taxo-name"
+msgid "filtros"
+msgstr "filtres"
+
+msgctxt "slug"
+msgid "lente-intraocular/filtros"
+msgstr "implant-intraoculaire/filtres"
+
+msgctxt "taxo-name"
+msgid "material"
+msgstr "materiel"
+
+msgctxt "slug"
+msgid "lente-intraocular/material"
+msgstr "implant-intraoculaire/materiel"
+
+msgctxt "taxo-name"
+msgid "diseno"
+msgstr "design"
+
+msgctxt "slug"
+msgid "lente-intraocular/diseño"
+msgstr "implant-intraoculaire/design"
+
+msgctxt "taxo-name"
+msgid "principio-optico"
+msgstr "principe-optique "
+
+msgctxt "slug"
+msgid "lente-intraocular/principio-optico"
+msgstr "implant-intraoculaire/principe-optique"
+
+msgctxt "taxo-name"
+msgid "asfericidad"
+msgstr "asphericite"
+
+msgctxt "slug"
+msgid "lente-intraocular/asfericidad"
+msgstr "implant-intraoculaire/asphericite"
+
+msgctxt "taxo-name"
+msgid "bordes-cuadrados"
+msgstr "bords-carres"
+
+msgctxt "slug"
+msgid "lente-intraocular/bordes-cuadrados"
+msgstr "implant-intraoculaire/bords-carres"
+
+msgctxt "taxo-name"
+msgid "inyector"
+msgstr "injecteur"
+
+msgctxt "slug"
+msgid "lente-intraocular/inyector"
+msgstr "implant-intraoculaire/injecteur"
+
+msgctxt "taxo-name"
+msgid "precargada"
+msgstr "precharge"
+
+msgctxt "slug"
+msgid "lente-intraocular/precargada"
+msgstr "implant-intraoculaire/precharge"
+
+msgctxt "taxo-name"
+msgid "plegable"
+msgstr "pliable"
+
+msgctxt "slug"
+msgid "lente-intraocular/plegable"
+msgstr "implant-intraoculaire/pliable"
+
+msgctxt "taxo-name"
+msgid "diseno-hapticos"
+msgstr "design-haptiques"
+
+msgctxt "slug"
+msgid "lente-intraocular/diseño-hapticos"
+msgstr "implant-intraoculaire/design-haptiques"
+
+msgctxt "taxo-name"
+msgid "estatus-comercial"
+msgstr "status-commercial"
+
+msgctxt "slug"
+msgid "lente-intraocular/estatus-comercial"
+msgstr "implant-intraoculaire/status-commercial"
+
+msgctxt "slug"
+msgid "lente-intraocular/nivel-pref-lente"
+msgstr "implant-intraoculaire/niveau-pref-implant"
+
+msgctxt "taxo-name"
+msgid "implantada-en-clinicas"
+msgstr "implante-en-cliniques"
+
+msgctxt "slug"
+msgid "lente-intraocular/implantada-en-clinicas"
+msgstr "implant-intraoculaire/implante-en-cliniques"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva"
+msgstr "Ajouter Nouveau"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Lente intraocular"
+msgstr "Ajouter nouveau implant intraoculaire"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Modifier"
+
+msgctxt "admin_display"
+msgid "Editar lente intraocular"
+msgstr "Modifier implant intraoculaire"
+
+msgctxt "admin_display"
+msgid "Nueva lente intraocular"
+msgstr "Nouveau implant intraoculaire"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Voir"
+
+msgctxt "admin_display"
+msgid "Ver lente intraocular"
+msgstr "Voir implant intraoculaire"
+
+msgctxt "admin_display"
+msgid "Buscar lente intraocular"
+msgstr "Chercher implant intraoculaire"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ninguna lente intraocular"
+msgstr "Pas d'implant intraoculaire trouvé"
+
+msgctxt "admin_display"
+msgid "No hay lentes intraoculares en la papelera"
+msgstr "Pas d'implant intraoculaie dans la corbeille"
+
+msgctxt "admin_display"
+msgid "lente intraocular padre"
+msgstr "implant intraoculaire père"
+
+msgctxt "admin_display"
+msgid "Fabricante (D)"
+msgstr "Fabricant (D)"
+
+msgctxt "admin_display"
+msgid "Distribuidor (D)"
+msgstr "Distributeur (D)"
+
+msgctxt "admin_display"
+msgid "Descripción (D)"
+msgstr "Description (D)"
+
+msgctxt "admin_display"
+msgid "Diámetro Óptica (D)"
+msgstr "Diamètre Optique (D)"
+
+msgctxt "admin_display"
+msgid "Diámetro Total (D)"
+msgstr "Diamètre Total (D)"
+
+msgctxt "admin_display"
+msgid "Forma de la óptica (D)"
+msgstr "Forme de l'optique (D)"
+
+msgctxt "admin_display"
+msgid "Material Hápticos (D)"
+msgstr "Matériel Haptiques (D)"
+
+msgctxt "admin_display"
+msgid "Angulación Hápticos (D)"
+msgstr "Angulation Haptiques (D)"
+
+msgctxt "admin_display"
+msgid "Asfericidad (D)"
+msgstr "Asphéricité (D)"
+
+msgctxt "admin_display"
+msgid "Tamaño de la Inicisión (D)"
+msgstr "Taille de l'incision (D)"
+
+msgctxt "admin_display"
+msgid "Constante A (D)"
+msgstr "Constante A (D)"
+
+msgctxt "admin_display"
+msgid "ACD (D)"
+msgstr "ACD (D)"
+
+msgctxt "admin_display"
+msgid "Surgeon Factor (D)"
+msgstr "Surgeon Factor (D)"
+
+msgctxt "admin_display"
+msgid "Inyector (D)"
+msgstr "Injecteur (D)"
+
+msgctxt "admin_display"
+msgid "Esfera Desde (D)"
+msgstr "Sphère depuis (D)"
+
+msgctxt "admin_display"
+msgid "Esfera Hasta (D)"
+msgstr "Sphère jusqu'à (D)"
+
+msgctxt "admin_display"
+msgid "Intervalos Esfera"
+msgstr "Intervalles Sphère (D)"
+
+msgctxt "admin_display"
+msgid "Esfera Intervalos 0,5 diopt Desde (D)"
+msgstr "Sphère intervalle 0,5 Diopt depuis (D)"
+
+msgctxt "admin_display"
+msgid "Esfera Intervalos 0,5 diopt Hasta (D)"
+msgstr "Sphère intervalle 0,5 Diopt jusqu'à (D)"
+
+msgctxt "admin_display"
+msgid "Cil Desde (D)"
+msgstr "Cyl Depuis (D)"
+
+msgctxt "admin_display"
+msgid "Cil  Hasta (D)"
+msgstr "Cyl justqu'à (D)"
+
+msgctxt "admin_display"
+msgid "Intervalos Cilindro"
+msgstr "Intervalles Cylindre"
+
+msgctxt "admin_display"
+msgid "Fecha de lanzamiento de la lente al mercado"
+msgstr "Date de sortie de l'implant au marché"
+
+msgctxt "admin_display"
+msgid "Fecha de retirarda de la lente del mercado"
+msgstr "Date de retrait du marché de l'implant"
+
+msgctxt "admin_display"
+msgid "Website Fuente de la Información"
+msgstr "Website Source de l'Information"
+
+msgctxt "admin_display"
+msgid "Documento Fuente de la Información"
+msgstr "Document Source de l'Information"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la lente (Ascendente)"
+msgstr "Niveau de préférence de l'implant (Ascendant)"
+
+msgctxt "admin_display"
+msgid "Tipo de lente Intraocular"
+msgstr "Type d'implant intraoculaire"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Tipo de lente intraocular"
+msgstr "Ajouter Nouveau Type d'Implant Intraoculaire"
+
+msgctxt "admin_display"
+msgid "Nuevo Tipo de lente intraocular"
+msgstr "Nouveau type d'implant intraoculaire"
+
+msgctxt "admin_display"
+msgid "Diseño de Óptica"
+msgstr "Design Optique"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Diseño de Óptica"
+msgstr "Ajouter Nouveau Design Optique"
+
+msgctxt "admin_display"
+msgid "Nuevo Diseño de Óptica"
+msgstr "Nouveau Design Optique"
+
+msgctxt "admin_display"
+msgid "Fabricante"
+msgstr "Fabricant"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Fabricante"
+msgstr "Ajouter nouveau fabricant"
+
+msgctxt "admin_display"
+msgid "Nombre del Nuevo Fabricante"
+msgstr "Nom du Nouveau Fabricant"
+
+msgctxt "admin_display"
+msgid "Toricidad"
+msgstr "Toricité"
+
+msgctxt "admin_display"
+msgid "Añadir tipo de Toricidad"
+msgstr "Ajouter type de toricité"
+
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Tipo de Toricidad"
+msgstr "Ajouter Nom du Type de Toricité"
+
+msgctxt "admin_display"
+msgid "Añadir adición de cerca"
+msgstr "Ajouter Addicion de Près"
+
+msgctxt "admin_display"
+msgid "Nueva adición de cerca"
+msgstr "Nouvelle Addition de Près"
+
+msgctxt "admin_display"
+msgid "Filtros"
+msgstr "Filtres"
+
+msgctxt "admin_display"
+msgid "Añadir tipo de Filtro"
+msgstr "Ajouter Type de Filtre"
+
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Filtro de Toricidad"
+msgstr "Nouveau nom de Filtre de Toricité"
+
+msgctxt "admin_display"
+msgid "Material"
+msgstr "Matériel"
+
+msgctxt "admin_display"
+msgid "Añadir material de la lente"
+msgstr "Ajouter Matériel de l'implant"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de material de lente"
+msgstr "Nouveau nom du matériel de l'implant"
+
+msgctxt "admin_display"
+msgid "Estructura"
+msgstr "Structure"
+
+msgctxt "admin_display"
+msgid "Añadir diseño de lente"
+msgstr "Ajouter design de l'implant"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de diseño de lente"
+msgstr "Nouveau nom du design de l'implant"
+
+msgctxt "admin_display"
+msgid "Principio óptico"
+msgstr "Principe optique"
+
+msgctxt "admin_display"
+msgid "Añadir principio óptico de la lente"
+msgstr "Ajouter principe optique de l'implant"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre principio óptico de lente"
+msgstr "Nouveau principe optique de l'implant"
+
+msgctxt "admin_display"
+msgid "Asfericidad"
+msgstr "Asphéricité"
+
+msgctxt "admin_display"
+msgid "Añadir asfericidad de la lente"
+msgstr "Ajouter asphéricité de l'implant"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de asfericidad de lente"
+msgstr "Nouveau nom de l'asphéricité de l'implant"
+
+msgctxt "admin_display"
+msgid "Bordes Cuadrados"
+msgstr "Bords Carrés"
+
+msgctxt "admin_display"
+msgid "Añadir Característica de Bordes Cuadrados"
+msgstr "Ajouter Caractéristique de Bords Carrés"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Bordes Cuadrados"
+msgstr "Nouveau nom de caractéristique de bords carrés"
+
+msgctxt "admin_display"
+msgid "inyector"
+msgstr "Injecteur"
+
+msgctxt "admin_display"
+msgid "Añadir Característica sobre inyector"
+msgstr "Ajouter une nouvelle Caractéristique d'injection"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de inyector"
+msgstr "Nouveau nom de caractéristique d'injection"
+
+msgctxt "admin_display"
+msgid "precargada"
+msgstr "préchargé"
+
+msgctxt "admin_display"
+msgid "Añadir Característica sobre Precargada"
+msgstr "Ajouter caractéristique sur préchargé"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Precargada"
+msgstr "Nouveau nom de caractéristique préchargé"
+
+msgctxt "admin_display"
+msgid "plegable"
+msgstr "Pliable"
+
+msgctxt "admin_display"
+msgid "Añadir Característica sobre Plegable"
+msgstr "Ajouter Caractéristique sur Pliable"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Plegable"
+msgstr "Nouveau nom de catactéristique pliable"
+
+msgctxt "admin_display"
+msgid "Diseño de Hápticos"
+msgstr "Design des haptiques"
+
+msgctxt "admin_display"
+msgid "Añadir tipo de diseño de hápticos"
+msgstr "Ajouter type de design des haptiques"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Diseño de Hápticos"
+msgstr "Nouveau nom de caractéristique de design des haptiques"
+
+msgctxt "admin_display"
+msgid "Estatus Comercial de la lente"
+msgstr "Statut Commercial de l'implant"
+
+msgctxt "admin_display"
+msgid "Añadir nuevo estatus comercial de la lente"
+msgstr "Ajouter nouveau statut commercial de l'implant"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de estatus comercial para la lente"
+msgstr "Nouveau nom du statut commercial de l'implant"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la lente"
+msgstr "Niveau de préférence de l'implant"
+
+msgctxt "admin_display"
+msgid "Añadir tipo de nivel de preferencia para la lente"
+msgstr "Ajouter type de niveau de préférence pour l'implant"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de nivel de preferencia para la lente"
+msgstr "Nouveau nom de niveau de préférence pour l'implant"
+
+msgctxt "admin_display"
+msgid "Implantada en clinicas "
+msgstr "Implanté en clinique"
+
+msgctxt "admin_display"
+msgid "Añadir valor de implantada en clinicas"
+msgstr "Ajouter valeur d'implanté en clinique"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de valor de implantada en clinicas"
+msgstr "Nouveau nom de valeur d'implanté en clinique"
+
+msgctxt "admin_display"
+msgid "Exclusiones de las restricciones Test de IOL"
+msgstr "Exclusions des restrictions des tests de LIO"
+
+msgctxt "admin_display"
+msgid "Añadir nueva inclusión-exclusión de lentes en Test"
+msgstr "Ajouter nouvelle inclusion-exclusion du test d'implants"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de inclusión-exclusión de lentes en Test"
+msgstr "Nouveau nom d'inclusion-exclusion du test d'implants"
+
+msgctxt "admin_display"
+msgid "Estado de la traducción de IOL"
+msgstr "État de la traduction de LIO"
+
+msgctxt "admin_display"
+msgid "Añadir nuevo estado de la traducción de IOL"
+msgstr "Ajouter nouveau état de la traduction de LIO"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de estado de traducción de IOL"
+msgstr "Nouveau nom de l'état de la traduction de LIO"
+
+msgctxt "taxo-name"
+msgid "translation-iol"
+msgstr "translation-iol"

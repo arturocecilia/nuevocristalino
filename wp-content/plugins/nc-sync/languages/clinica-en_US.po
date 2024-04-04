@@ -1,0 +1,235 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "clinica"
+msgstr "clinic"
+
+msgctxt "taxo-slug"
+msgid "clinica-oftalmologica-lente-intraocular"
+msgstr "intraocular-lens-eye-clinic"
+
+msgctxt "slug"
+msgid "clinicas-oftalmologicas-lente-intraocular"
+msgstr "intraocular-lens-eye-clinics"
+
+msgctxt "taxo-name"
+msgid "ubicacion"
+msgstr "location"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/ubicacion"
+msgstr "intraocular-lens-eye-clinic/location"
+
+msgctxt "taxo-name"
+msgid "seguros"
+msgstr "insurances"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/seguros"
+msgstr "intraocular-lens-eye-clinic/insurances"
+
+msgctxt "taxo-name"
+msgid "equipamiento-clinica"
+msgstr "clinic-equipment"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/tecnologia-equipos"
+msgstr "intraocular-lens-eye-clinic/equipment"
+
+msgctxt "taxo-name"
+msgid "mas-info-clinica"
+msgstr "more-clinic-info"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/mas-info-clinica"
+msgstr "intraocular-lens-eye-clinic/more-clinic-info"
+
+msgctxt "taxo-name"
+msgid "femto-faco"
+msgstr "femto-phaco"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/femto-faco"
+msgstr "intraocular-lens-eye-clinic/femto-phaco"
+
+msgctxt "taxo-name"
+msgid "financiacion"
+msgstr "financing"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/financiacion"
+msgstr "intraocular-lens-eye-clinic/financing"
+
+msgctxt "taxo-name"
+msgid "nivel-pref-clinica"
+msgstr "clinic-preference-level"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/nivel-pref-clinica"
+msgstr "intraocular-lens-eye-clinic/clinic-preference-level"
+
+msgctxt "admin_display"
+msgid "clinica"
+msgstr "clinic"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva"
+msgstr "Add New"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Clínica Oftalmológica"
+msgstr "Add New Eye Clinic"
+
+msgctxt "admin_display"
+msgid "Editar Clínica Oftalmológica"
+msgstr "Edit Eye Clinic"
+
+msgctxt "admin_display"
+msgid "Nueva Clínica Oftalmológica"
+msgstr "New Eye Clinic"
+
+msgctxt "admin_display"
+msgid "Ver Clínica Oftamológica"
+msgstr "View Eye Clinic"
+
+msgctxt "admin_display"
+msgid "Buscar Clínica Oftamológica"
+msgstr "Search Eye Clinic"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ninguna Clínica Oftamológica"
+msgstr "No Eye Clinics Found"
+
+msgctxt "admin_display"
+msgid "No hay Clínicas Oftalmológicas en la papelera"
+msgstr "No Eye Clinics in the Trash"
+
+msgctxt "admin_display"
+msgid "Clínica Oftamológica padre"
+msgstr "Eye Clinic Parent"
+
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr "Address (D)"
+
+msgctxt "admin_display"
+msgid "Latitud"
+msgstr "Latitude"
+
+msgctxt "admin_display"
+msgid "Longitud"
+msgstr "Longitude"
+
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr "Contact Phone (D)"
+
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr "Contact e-Mail (D)"
+
+msgctxt "admin_display"
+msgid "Horario (D)"
+msgstr "Opening hours (D)"
+
+msgctxt "admin_display"
+msgid "Director Médico (D)"
+msgstr "Medical Director (D)"
+
+msgctxt "admin_display"
+msgid "Doctores (D)"
+msgstr "Doctors (D)"
+
+msgctxt "admin_display"
+msgid "Website (D)"
+msgstr "Website (D)"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica (Ascendente)"
+msgstr "Clinic Preference Level (Ascendant)"
+
+msgctxt "admin_display"
+msgid "Ubicación de la clínica"
+msgstr "Clinic Location"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Ubicacion"
+msgstr "Add New Location"
+
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Ubicacion"
+msgstr "New Location Name"
+
+msgctxt "admin_display"
+msgid "Seguros de la Clínica Oftalmológica"
+msgstr "Eye Clinic Insurances"
+
+msgctxt "admin_display"
+msgid "Añadir Seguro de Clínica Oftalmológica"
+msgstr "Add Eye Clinic Insurance"
+
+msgctxt "admin_display"
+msgid "Nuevo Nomre de Seguro Médico"
+msgstr "New Insurance Name"
+
+msgctxt "admin_display"
+msgid "Equipamiento de la Clínica Oftalmológica"
+msgstr "Eye Clinic Equipment"
+
+msgctxt "admin_display"
+msgid "Añadir equipamientos de la Clínica Oftalmológica"
+msgstr "Add Eye Clinic Equipment"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre  de equipamiento de la clínica."
+msgstr "New name of Clinic Equipment"
+
+msgctxt "admin_display"
+msgid "Informacion Adicional de la Clínica Oftalmológica"
+msgstr "Additional Clinic Info"
+
+msgctxt "admin_display"
+msgid "Añadir Más Info de la Clínica Oftalmológica"
+msgstr "Add More Eye Clinic Info"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de información adicional de la clínica."
+msgstr "New name of additional eye clinic info"
+
+msgctxt "admin_display"
+msgid "Información sobre el femto faco de la clínica"
+msgstr "Info about the eye clinic femto phaco"
+
+msgctxt "admin_display"
+msgid "Añadir Info del femto faco de Clínica Oftalmológica"
+msgstr "Add info about the eye clinic femto phaco"
+
+msgctxt "admin_display"
+msgid "Nueva Info del femto faco"
+msgstr "New femto faco Info"
+
+msgctxt "admin_display"
+msgid "Información sobre la financiación de la clínica"
+msgstr "Additional Financing info about the clinic"
+
+msgctxt "admin_display"
+msgid "Añadir Info de la financiación de la Clínica Oftalmológica"
+msgstr "Add financing info about the clinic"
+
+msgctxt "admin_display"
+msgid "Nueva Info de la financiación"
+msgstr "New Financing info"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica"
+msgstr "Clinic Preference Level"
+
+msgctxt "admin_display"
+msgid "Añadir Nivel de preferencia de la Clínica"
+msgstr "Add Clinic Preference Level"
+
+msgctxt "admin_display"
+msgid "Nuevo Nivel de preferencia"
+msgstr "New Clinic Preference Level"

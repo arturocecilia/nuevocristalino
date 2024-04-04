@@ -1,0 +1,22 @@
+
+
+<top-header>
+	<top-header-wrapper
+		<top-header-menu
+		<top-header-countries
+
+<main-header
+	<main-header-wrapper
+		<main-header-logo
+		<main-header-login-menu
+		<main-header-main-menu
+
+
+
+/*Tags removed => Styles to remove*/
+headerWrapper -> top-header-wrapper
+headerRelative
+countrySitesList -> top-header-countries
+iconosWrapper -> ''
+wsIcon => top-header-countries
+iconosLoginHeader => main-header

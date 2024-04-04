@@ -1,0 +1,253 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgctxt "create_quick_form_signup"
+msgid "Nombre de Usuario"
+msgstr "Username"
+
+msgctxt "nc_login_registration"
+msgid "Operación de Cataratas"
+msgstr "Cataract surgery"
+
+msgctxt "nc_login_registration"
+msgid "Operación de cristalino sin catarata"
+msgstr "IOL surgery without cataracts"
+
+msgctxt "nc_login_registration"
+msgid "Operación con ICL"
+msgstr "ICL surgery"
+
+msgctxt "nc_login_registration"
+msgid "Otra Operación"
+msgstr "Other surgery"
+
+msgctxt "nc_login_registration"
+msgid "España"
+msgstr "Spain"
+
+msgctxt "nc_login_registration"
+msgid "Méjico"
+msgstr "Mexico"
+
+msgctxt "nc_login_registration"
+msgid "Chile"
+msgstr "Chile"
+
+msgctxt "nc_login_registration"
+msgid "Colombia"
+msgstr "Colombia"
+
+msgctxt "nc_login_registration"
+msgid "Estados Unidos"
+msgstr "United States"
+
+msgctxt "nc_login_registration"
+msgid "Gran Bretaña"
+msgstr "Great Britain"
+
+msgctxt "nc_login_registration"
+msgid "Alemania"
+msgstr "Germany"
+
+msgctxt "nc_login_registration"
+msgid "Austria"
+msgstr "Austria"
+
+msgctxt "nc_login_registration"
+msgid "Otro"
+msgstr "Other"
+
+msgctxt "nc_login_registration"
+msgid "Su usuario se ha creado correctamente. Habrá recibido un email para activar el usuario. De no ver el email en su bandeja de entrada no olvide chequear la carpeta spam."
+msgstr "Your user has been created successfully. We have already sent you an email for activating the user. In case you do not see our email in your inbox, please do not forget to check your spam folder."
+
+msgctxt "nc_login_registration"
+msgid "Saludos del equipo de NuevoCristalino."
+msgstr "Greetings from the NewLens team."
+
+msgctxt "nc_login_registration"
+msgid "Tipo de usuario del sistema"
+msgstr "User type"
+
+msgctxt "nc_login_registration"
+msgid "Paciente"
+msgstr "Patient"
+
+msgctxt "nc_login_registration"
+msgid "Profesional"
+msgstr "Professional"
+
+msgctxt "nc_login_registration"
+msgid "Nombre de Usuario"
+msgstr "Username"
+
+msgctxt "nc_login_registration"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "nc_login_registration"
+msgid "Contraseña"
+msgstr "Password"
+
+msgctxt "nc_login_registration"
+msgid "Repita Contraseña"
+msgstr "Repeat the password"
+
+msgctxt "nc_login_registration"
+msgid "País relacionado con la cirugía"
+msgstr "Country related to the surgery"
+
+msgctxt "nc_login_registration"
+msgid "Región"
+msgstr "Region"
+
+msgctxt "nc_login_registration"
+msgid "¿Te has operado ya?"
+msgstr "Have you been operated already?"
+
+msgctxt "nc_login_registration"
+msgid "Todavía no me he operado"
+msgstr "I have not undergone the surgery yet"
+
+msgctxt "nc_login_registration"
+msgid "Ya me he operado"
+msgstr "I have already been operated"
+
+msgctxt "nc_login_registration"
+msgid "Operación en la que estás interesado"
+msgstr "Surgery you are interested in"
+
+msgctxt "nc_login_registration"
+msgid "Tiene que hacer login en el sistema"
+msgstr "You have to log in"
+
+msgctxt "nc_login_registration"
+msgid "Su usuario se ha editado correctamente"
+msgstr "Your user has been edited successfully"
+
+msgctxt "nc_login_registration"
+msgid "Acepto las condiciones"
+msgstr "I accept the conditions"
+
+msgctxt "nc_login_registration"
+msgid "Responsable de los datos"
+msgstr "Responsible of the data"
+
+msgctxt "nc_login_registration"
+msgid "Finalidad"
+msgstr "Purpose"
+
+msgctxt "nc_login_registration"
+msgid "Envío de información personalizada junto con las credenciales de acceso y uso del sistema como usuario registrado."
+msgstr "Sending taylored information together with the access credentials as registered user."
+
+msgctxt "nc_login_registration"
+msgid "Legitimizacion"
+msgstr "Legitimization"
+
+msgctxt "nc_login_registration"
+msgid "La aceptación de la"
+msgstr "The acceptation of the"
+
+msgctxt "nc_login_registration"
+msgid "Política de Privacidad"
+msgstr "Privacy Policy"
+
+msgctxt "nc_login_registration"
+msgid "Destino"
+msgstr "Destination"
+
+msgctxt "nc_login_registration"
+msgid "Una base de datos gestionada por Andomed SL"
+msgstr "A database managed by Andomed SL"
+
+msgctxt "nc_login_registration"
+msgid "Derechos"
+msgstr "Rights"
+
+msgctxt "nc_login_registration"
+msgid "Tienes derecho al derecho al acceso, rectificación, supresión, limitación, portabilidad y olvido de sus datos"
+msgstr "You have right to access, modify, delete and migrate your given data"
+
+msgctxt "nc_login_registration"
+msgid "Lo sentimos no se han rellenado correctamente los datos"
+msgstr "We are sorry the provided data are not correct"
+
+msgctxt "nc_login_registration"
+msgid "Lo sentimos, tiene que hacer login"
+msgstr "We are sorry, you have to login"
+
+msgctxt "nc_login_registration"
+msgid "Tiene que aceptar la Política de Protección de Datos"
+msgstr "You need to accept the Privacy Policy"
+
+msgctxt "nc_login_registration"
+msgid "email no válido"
+msgstr "invalid e-mail"
+
+msgctxt "nc_login_registration"
+msgid "el email aportado ya está en uso"
+msgstr "the provided email is already in use"
+
+msgctxt "nc_login_registration"
+msgid "nombre de usuario no válido"
+msgstr "invalid username"
+
+msgctxt "nc_login_registration"
+msgid "el nombre de usuario aportado ya está en uso"
+msgstr "the user name given is already in use"
+
+msgctxt "nc_login_registration"
+msgid "tiene que aportar un email y nombre de usuario correctos"
+msgstr "you have to provide us with email and username"
+
+msgctxt "nc_login_registration"
+msgid "Enviar"
+msgstr "Submit"
+
+msgctxt "nc_login_registration"
+msgid "El usuario con el que está logueado y el usuario que corresponde al link de activación no coinciden"
+msgstr "The user you are logged in with do not match the one of the activation link"
+
+msgctxt "nc_login_registration"
+msgid "Su usuario ya ha sido activado"
+msgstr "Your user has already been activated"
+
+msgctxt "nc_login_registration"
+msgid "Su usuario se ha activado satisfactoriamente"
+msgstr "Your user has been successfully activated"
+
+msgctxt "nc_login_registration"
+msgid "Lo sentimos mucho, no hemos podido activar su usuario"
+msgstr "Sorry, we have been unable to activate your user"
+
+msgctxt "nc_login_registration"
+msgid "Para poder realizar esta acción necesita activar su usuario. Al registrarse se le envío un email con un enlace de activación (No olvide chequear la carpeta spam)."
+msgstr "In order to perform this action you need to activate your user. When you registered your user an email was sent with an activation link (Do not forget to check the spam folder)."
+
+msgctxt "nc_login_registration"
+msgid "Reenvíar email con link de activación de usuario."
+msgstr "Resend the email with the activation link."
+
+msgctxt "nc_login_registration"
+msgid "Email de activación de usuario"
+msgstr "User Activation Email"
+
+msgctxt "nc_login_registration"
+msgid "Estatus de usuario OK. Su usuario está activado"
+msgstr "User status OK. Your user is activated"
+
+msgctxt "nc_login_registration"
+msgid "No tiene activado el usuario. Recuerde que se le enviará un email de activación"
+msgstr "The user is not activated. Remember that an email will be sent with an activation link"

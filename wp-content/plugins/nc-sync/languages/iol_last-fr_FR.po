@@ -1,0 +1,695 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "header"
+msgid "Tu Área Privada"
+msgstr ""
+
+msgctxt "header"
+msgid "Editar Perfil"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Encuentra la mejor opción para tu operación ocular."
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Aprovecha las ventajas de NuevoCristalino. Es gratis."
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Con cualquier duda recuerda que puedes escribirnos también a info@nuevocristalino.es"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Soluciones para la Vista Cansada"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Conozca que opciones hay hoy en día para no necesitar gafas de cerca."
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Nueva cirugía de cataratas con LÁSER"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Conozca la útima técnica disponible para quitar las cataratas con Láser."
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Clínicas especializadas en tu cirugía"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Vea una lista de clínicas especializadas en lentes intraoculares."
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Vea las lentes adecuadas para su caso."
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Realice el test para saber qué tipo de lente es la más adecuada para usted."
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "¿Te has operado? Cuéntanos como fue tu Operación"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Ayuda a otros pacientes con tu experiencia"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Si no quieres, no es necesario registrarte"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Queremos saber si estás contento/a o no."
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Ir a la encuesta >>"
+msgstr ""
+
+msgctxt "interaction-home"
+msgid "Si conoces a alguien que ya se ha operado, invítale a dar su opinión sobre su operación:"
+msgstr ""
+
+msgctxt "single-forum"
+msgid "Foros de NuevoCristalino"
+msgstr ""
+
+msgctxt "single-post"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr ""
+
+msgctxt "single-question"
+msgid "Pregunta a los cirujanos"
+msgstr ""
+
+msgctxt "template-blog"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según distancia a una ubicación concreta:"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según Lente y Comunidad:"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Ubicar la dirección introducida"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Máxima distancia a ubicación:"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Detectar mi ubicación"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrando"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "ubicación seleccionada:"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Distancia"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "km"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrar Todas"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Clinicas más visitadas"
+msgstr ""
+
+msgctxt "template-buscador-clinicas"
+msgid "Clínicas según lente y Comunidad"
+msgstr ""
+
+msgctxt "template-mycontents"
+msgid "Para poder disfrutar de unos datos filtrados de acuerdo a su perfil ha de haberse registrado e iniciado sesión"
+msgstr ""
+
+msgctxt "template-mycontents"
+msgid "PÁGINAS"
+msgstr ""
+
+msgctxt "template-mycontents"
+msgid "ARTÍCULOS"
+msgstr ""
+
+msgctxt "template-mycontents"
+msgid "PREGUNTAS"
+msgstr ""
+
+msgctxt "template-mycontents"
+msgid "HILOS DE FOROS"
+msgstr ""
+
+msgctxt "template-mycontents"
+msgid "La información de su perfil básico:"
+msgstr ""
+
+msgctxt "template-myinteraction"
+msgid "PREGUNTAS REALIZADAS"
+msgstr ""
+
+msgctxt "template-myinteraction"
+msgid "RESPUESTAS REALIZADAS"
+msgstr ""
+
+msgctxt "template-myinteraction"
+msgid "HILOS CREADOS"
+msgstr ""
+
+msgctxt "template-myinteraction"
+msgid "RESPUESTAS DADAS EN LOS FOROS"
+msgstr ""
+
+msgctxt "template-myinteraction"
+msgid "COMENTARIOS REALIZADOS"
+msgstr ""
+
+msgctxt "template-myinteraction"
+msgid "Para que puedas ver tu actividad tienes que haber iniciado sesión"
+msgstr ""
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Queremos saber cómo ves."
+msgstr ""
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Cuéntanos tu opinión sobre el resultado de tu operación."
+msgstr ""
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Ayuda a otros usuarios interesados en tu operación."
+msgstr ""
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con reemplazo de cristalino sin cataratas"
+msgstr ""
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación de cataratas (con cualquier tipo de lente intraocular)"
+msgstr ""
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con láser excímer sobre córnea (LASIK, PRK, etc.)"
+msgstr ""
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con lente intraocular ICL"
+msgstr ""
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Si conoces a alguien que ya se ha operado y puede dar el testimonio de su operación, compártelo esta página usando una red social:"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Volver a la página inicial de sus resultados"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Estimado usuario"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "los datos que ve a continuación son de pacientes que han seleccionado la clínica:"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "como lugar de la operación en el formulario postoperatorio."
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Esta clínica tiene los siguientes centros asociados, los pacientes operados en los siguientes centros también se incluirán:"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Lo sentimos pero no tiene permisos para ver los resultados de esta clínica de manera diferenciada."
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "A continuación le mostramos los resultados de los pacientes que han sido operados por usted:"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Son pacientes que han rellenado un form en su clínica o mediante un enlace enviado por usted."
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Podemos prepararle la visualización de información que quiera, en cuanto tenga datos suficientes póngase en contacto con nostros y lo preparamos."
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccione el cuestionario que desea analizar:"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccionar Cuestionario"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccione pregunte a analizar:"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccionar Pregunta"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Ningún filtro: Ver sólo resultado de la pregunta"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Para filtros más avanzados por ejemplo con exclusiones de pacientes, campos combinados por favor escríbanos un email."
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Recuerde que has de estar registrado y haber iniciado sesión para poder ver sus resultados los de su clínica."
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Una vez logueado diríjase a la página:"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccionar visualización de mis resultados"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "para ver los resultados que tiene a su disposición"
+msgstr ""
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Como siempre con cualquier duda, contáctenos."
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Volver a la página inicial de encuestas"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Estimado usuario:"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "los datos que ve a continuación son de pacientes que han seleccionado la clínica:"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "como lugar de la operación en el formulario postoperatorio."
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Esta clínica tiene los siguientes centros asociados, los pacientes operados en los siguientes centros también se incluirán:"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Lo sentimos pero no tiene permisos para ver los resultados de esta clínica de manera diferenciada."
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "A continuación le mostramos las encuestas de los pacientes que han sido operados por usted:"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Son pacientes que han rellenado un form en su clínica o mediante un enlace enviado por usted."
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Podemos prepararle la visualización de información que quiera, en cuanto tenga datos suficientes póngase en contacto con nostros y lo preparamos."
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Formulario cuyas encuestas desea visualizar:"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Seleccionar Cuestionario"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Se han encontrado:"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "pacientes"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "con el cuestionario seleccionado rellenado."
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Paciente cuya encuesta desea ver:"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Seleccionar Paciente"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Para visualizaciones de encuestas más avanzadas, por favor escríbanos un email."
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Visualizar encuesta del paciente"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Tiene que seleccionar un paciente"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Recuerde que has de estar registrado y haber iniciado sesión para poder ver sus resultados los de su clínica.,"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Una vez logueado diríjase a la página:"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Seleccionar visualización de mis resultados"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "para ver los resultados que tiene a su disposición"
+msgstr ""
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Como siempre con cualquier duda, contáctenos."
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "Usted no está logeado como usuario profesional, por favor proceda a editar su:"
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "información básica"
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "o póngase en contacto con nosotros"
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "Estimado usuario:"
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "según la info aportada, usted no tiene permiso para ver resultados específicos de una clínica."
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "según la info aportada, puedes ver los datos asociados a las siguientes clínicas:"
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "En el siguiente link podrá ver los resultados de los pacientes que han sido operados por usted:"
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "Info rellenada por sus pacientes"
+msgstr ""
+
+msgctxt "template-uda-displayprofresults"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tu operación en otros usuarios."
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "Usted no está logeado como usuario profesional, por favor proceda a editar su:"
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "información básica"
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "o póngase en contacto con nosotros."
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "Estimado usuario:"
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "según la info aportada, usted no tiene permiso para ver las encuestas realizadas por una clínica."
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "según la info aportada, puedes ver las encuestas de las siguientes clínicas:"
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "En el siguiente link podrás ver las encuestas de los pacientes operados por usted:"
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "Info rellenada por sus pacientes"
+msgstr ""
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tu operación."
+msgstr ""
+
+msgctxt "template-uda-displayprofuserresults"
+msgid "A continuación le ponemos unos ejemplos de la visualización de información que puede tener configurada para usted."
+msgstr ""
+
+msgctxt "template-uda-displayprofuserresults"
+msgid "Sin estar filtrados por clínica podrá decirnos que visualizaciones desea y se las configuraremos."
+msgstr ""
+
+msgctxt "template-uda-displayprofuserresults"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tu operación."
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccione el formulario que desea analizar:"
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccionar Cuestionario"
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccione pregunta a analizar:"
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccionar Pregunta"
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Ningún filtro: Ver solo resultado de la pregunta"
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccione filtro:"
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Para filtros más avanzados por ejemplo con exclusiones de pacientes, campos combinados por favor escríbanos un email."
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Visualizar"
+msgstr ""
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tus operaciones."
+msgstr ""
+
+msgctxt "template-uda-displayuserresults"
+msgid "Estimado usuario"
+msgstr ""
+
+msgctxt "template-uda-displayuserresults"
+msgid "según la info aportada en tu perfil básico estás interesado en la operación de:"
+msgstr ""
+
+msgctxt "template-uda-displayuserresults"
+msgid "Según la información que hemos recibido de los usuarios hasta el momento (hemos incluido esta sección recientemente). La gente que se ha sometido a su operación tienen los siguientes niveles de satisfacción con los resultados"
+msgstr ""
+
+msgctxt "template-uda-displayuserresults"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tu operación en otros usuarios."
+msgstr ""
+
+msgctxt "template-uda-proiolselector"
+msgid "A continuación le mostramos &nbsp;<strong>%d</strong>&nbsp; lentes intraoculares recomendadas de acuerdo a sus respuestas."
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Tu Área Personal"
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Area de NuevoCristalino para Profesionales"
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Su clínica principal asociada es:"
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "No tiene clínica principal asociada"
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Enhorabuena vemos que: <strong> %1$s </strong> está dada de alta. Puede ver el <a href=\"%2$s\">perfil de la clínica </a>."
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Estimado usuario: <strong> %s </strong> según la info aportada, puedes ver los datos asociados a las siguientes clínicas:"
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Ver resultados de:"
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Estimado usuario: <strong> %s </strong> según la info aportada, usted no tiene permiso para ver resultados específicos de ninguna clínica."
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Recuerde que para ver los resultados no basta con rellenar el campo de clínica, tiene que ponerse en contacto con nosotros. Usted o algún responsable de su clínica."
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Estimado usuario: %s, usted está logeado como usuario de tipo profesional."
+msgstr ""
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Recuerde que puede cambiarlo en cualquier momento en la <a href=\"%s\"> página de perfil básico</a>"
+msgstr ""
+
+msgctxt "widget-advregister"
+msgid "Registrate en NuevoCristalino:"
+msgstr ""
+
+msgctxt "widget-advregister"
+msgid "Preguntar a nuestros <span class=\"bold\">cirujanos colaboradores</span>"
+msgstr ""
+
+msgctxt "widget-advregister"
+msgid "Acceder a <span class=\"bold\">resultados de usuarios operados</span> de tu misma cirugía"
+msgstr ""
+
+msgctxt "widget-advregister"
+msgid "Verás una lista de <span class=\"bold\">contenidos del portal filtrados de acuerdo a tu situación</span>."
+msgstr ""
+
+msgctxt "widget-advregister"
+msgid "Hasta y mientras que lo desees recibirás comunicaciones</span> con la información de interés para tu situación."
+msgstr ""
+
+msgctxt "widget-advregister"
+msgid "Recibirás una <span class=\"bold\">lista de lentes intraoculares de acuerdo a tu perfil</a> preoperatorio"
+msgstr ""
+
+msgctxt "widget-advregister"
+msgid "Podrás <span class=\"bold\">comprobar si dispones de los conocimientos mínimos</span> para entender tus opciones de cirugía y lente."
+msgstr ""
+
+msgctxt "calltoaction-home"
+msgid "<span class=\"orange-text bold\">Ventajas de registrarse</span> <span class=\"black-text bold\">en NuevoCristalino</span>"
+msgstr ""
+
+msgctxt "calltoaction-home"
+msgid "Registrarse"
+msgstr ""
+
+msgctxt "calltoaction-home"
+msgid "<span class=\"icon\">&nbsp;</span>Preguntarás tus dudas a <span class=\"bold\">cirujanos colaboradores</span>"
+msgstr ""
+
+msgctxt "calltoaction-home"
+msgid "Verás <span class=\"bold\">resultados de usuarios operados</span> de tu cirugía"
+msgstr ""
+
+msgctxt "calltoaction-home"
+msgid "Verás <span class=\"bold\">información seleccionada</span> para tí."
+msgstr ""
+
+msgctxt "calltoaction-home"
+msgid "<span class=\"bold\">Mientras que lo desees podrás recibir</span> información de interés para tu situación."
+msgstr ""
+
+msgctxt "calltoaction-home"
+msgid "Recibirás una <span class=\"bold\">lista de lentes intraoculares </span> para tí."
+msgstr ""
+
+msgctxt "calltoaction-home"
+msgid "Comprobarás si <span class=\"bold\">sabes lo suficiente</span> para entender tu cirugía."
+msgstr ""
+
+msgctxt "header-clinicas"
+msgid "BUSCADOR DE CLÍNICAS PARA OPERACIÓN CON LENTE INTRAOCULAR"
+msgstr ""
+
+msgctxt "page-ask-question"
+msgid "Pregunta a los cirujanos"
+msgstr ""
+
+msgctxt "profile-info-graph"
+msgid "Perfil básico de usuario"
+msgstr ""
+
+msgctxt "profile-info-graph"
+msgid "Información preoperatoria"
+msgstr ""
+
+msgctxt "profile-info-graph"
+msgid "Información postoperatoria"
+msgstr ""
+
+msgctxt "profile-info-graph"
+msgid "Questionario Catquest-9SF"
+msgstr ""
+
+msgctxt "profile-info-graph"
+msgid "Usuario:"
+msgstr ""
+
+msgctxt "profile-info-graph"
+msgid "faltan"
+msgstr ""
+
+msgctxt "profile-info-graph"
+msgid "Recuerde que tiene que salvar el cuestionario al acabar apretando el botón que pone Save/Guardar"
+msgstr ""
+
+msgctxt "profile-info-graph"
+msgid "Tiene que logearse para ver la información sobre su perfil."
+msgstr ""
+
+msgctxt "displayresults-getuserresults"
+msgid "Filtro Aplicado"
+msgstr ""
+
+msgctxt "displayresults-getuserresults"
+msgid "Ninguno"
+msgstr ""
+
+msgctxt "displayresults-getuserresults"
+msgid "Pregunta:"
+msgstr ""

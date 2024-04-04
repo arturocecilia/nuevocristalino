@@ -1,0 +1,219 @@
+div#menu-main aside.widget #menu-menu-site > li:nth-child(5) > a {
+  width: 75px !important;
+}
+
+#logo h1 {
+  /*  margin-top: 15px !important;*/
+}
+
+#searchReset {
+  left: 870px !important;
+}
+
+#right form input.submitSingle {
+  padding-left: 2px !important;
+  padding-right: 2px !important;
+}
+/*
+#menu-menu-blog li:nth-child(2) a {
+    padding-left: 5px !important;
+    width: 100px !important;
+}
+
+#menu-menu-blog li:nth-child(3) a {
+    width: 115px !important;
+    padding-right: 12px!important;
+}
+
+#menu-menu-blog li:nth-child(4) a {
+    width: 90px !important;
+    padding-left: 5px !important;
+}
+
+#menu-menu-blog li:nth-child(5) a {
+    width: 100px !important;
+    padding-left: 5px !important;
+}
+
+#menu-menu-blog li:nth-child(6) a {
+    width: 50px !important;
+}
+
+#menu-menu-blog li:nth-child(7) a {
+    width: 60px !important;
+}
+*/
+
+.blockDestacadoTitle1 {
+  font-size: 17px !important;
+}
+
+#primary.site-content-fabricantes .bloq {
+  height: auto;
+  overflow: visible;
+}
+
+#primary.site-content-fabricantes .bloq label {
+}
+
+/*
+@-moz-document url-prefix() {
+
+
+
+@font-face {
+    font-family: 'negotiatefree';
+    src: url('http://www.mylifestylelens.com/wp-content/themes/iol/negotiate_free-webfont.eot');
+    src: url('http://www.mylifestylelens.com/wp-content/themes/iol/negotiate_free-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.mylifestylelens.com/wp-content/themes/iol/negotiate_free-webfont.woff') format('woff'),
+         url('http://www.mylifestylelens.com/wp-content/themes/iol/negotiate_free-webfont.ttf') format('truetype'),
+         url('http://www.mylifestylelens.com/wp-content/themes/iol/negotiate_free-webfont.svg#negotiatefree') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'source_sans_proregular';
+    src: url('http://www.mylifestylelens.com/wp-content/themes/iol/sourcesanspro-regular-webfont.eot');
+    src: url('http://www.mylifestylelens.com/wp-content/themes/iol/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.mylifestylelens.com/wp-content/themes/iol/sourcesanspro-regular-webfont.woff') format('woff'),
+         url('http://www.mylifestylelens.com/wp-content/themes/iol/sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('http://www.mylifestylelens.com/wp-content/themes/iol/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+ }
+
+@font-face {
+    font-family: 'sample-delicious';
+    src: url('delicious-roman-webfont.eot');
+    src: url('delicious-roman-webfont?#iefix') format('embedded-opentype'),
+         url('delicious-roman-webfont.woff') format('woff'),
+         url('delicious-roman-webfont.ttf') format('truetype'),
+         url('delicious-roman-webfont.svg#delicious-roman-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+} */
+
+ol.numerada li {
+  font-size: 14px;
+  color: #444444;
+  text-align: justify;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  font-family: "source_sans_proregular";
+}
+
+ul.ui-autocomplete {
+  z-index: 10000 !important;
+}
+
+#lensClinics a.ui-button {
+  position: absolute;
+}
+#buscadorIol #PaginationWrapperBis {
+  left: 338px !important;
+}
+
+div.resultsTest .ui-tabs .ui-tabs-nav li a {
+  padding: 0.46em !important;
+}
+
+#contact-post form input.submit {
+  background: linear-gradient(to bottom, #fea336 69%, #ff8c03 100%);
+}
+
+#right.rightTestColumn
+  div#contacto-test
+  div.formulario-test
+  form
+  input[type="checkbox"] {
+  float: left;
+  margin-right: 3% !important;
+  margin-top: 3% !important;
+  width: 13px !important;
+}
+
+div#bloq-post-right2 div#contact-post input[type="checkbox"] {
+  float: left;
+  margin-right: 3% !important;
+  margin-top: 3% !important;
+  width: 13px !important;
+}
+
+div#single-fab #contacto-fab .formulario-fab input[type="checkbox"] {
+  float: left;
+  margin-right: 3% !important;
+  margin-top: 3% !important;
+  width: 13px !important;
+}
+
+#left #contact-single-lente input[type="checkbox"] {
+  float: left;
+  margin-right: 3% !important;
+  margin-top: 8% !important;
+  width: 13px !important;
+}
+
+div.lista-quienes-somos #contacto input[type="checkbox"] {
+  float: left;
+  margin-right: 3% !important;
+  margin-top: 1% !important;
+  width: 13px !important;
+}
+div.lista-quienes-somos #contact-form form div:last-child label {
+  display: block;
+  float: right;
+  font-size: 12px;
+  margin-bottom: 25px;
+  margin-top: 2.6% !important;
+  width: 90%;
+}
+
+#betaSymbol {
+  width: 35px;
+}
+
+@media (max-width: 640px) {
+  #iconosWrapper #foroIcon {
+    display: none;
+  }
+}
+
+@media (max-width: 450px) {
+  #buscadorIol .ui-buttonset {
+    margin-right: 3px !important;
+  }
+
+  #buscadorIol #right #filtrosFilter .ui-button-text-only .ui-button-text,
+  #buscadorIol
+    #right
+    #selectToricidadLente
+    .ui-button-text-only
+    .ui-button-text {
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+    font-size: 11px;
+  }
+
+  #buscadorIol .ui-button-text-only .ui-button-text {
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+  }
+
+  #pageBuscadorIolWrapper.en_GB #buscadorIol #selectPrincOpticLens.ui-widget {
+    width: 62% !important;
+    float: left;
+  }
+
+  #buscadorIol #right form #sliderRangeSphLens.ui-widget label,
+  #buscadorIol #right form #sliderRangeCilLens.ui-widget label {
+    font-size: 10px !important;
+  }
+
+  #buscadorIolLogo .subtitle {
+    font-size: 12px !important;
+  }
+}

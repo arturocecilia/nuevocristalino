@@ -1,0 +1,695 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "header"
+msgid "Tu Área Privada"
+msgstr "Dein privater Bereich"
+
+msgctxt "header"
+msgid "Editar Perfil"
+msgstr "Profil ausfüllen"
+
+msgctxt "interaction-home"
+msgid "Encuentra la mejor opción para tu operación ocular."
+msgstr "Finden Sie die besten Optionen für Ihre Augenoperation"
+
+msgctxt "interaction-home"
+msgid "Aprovecha las ventajas de NuevoCristalino. Es gratis."
+msgstr "Profitieren Sie von den Vorteilen von NeueLinsen. Es ist gratis."
+
+msgctxt "interaction-home"
+msgid "Con cualquier duda recuerda que puedes escribirnos también a info@nuevocristalino.es"
+msgstr "Bei Fragen kannst Du uns auch eine mail an info@neuelinsen.com senden"
+
+msgctxt "interaction-home"
+msgid "Soluciones para la Vista Cansada"
+msgstr "Lösungen zur Therapie der Alterssichtigkeit"
+
+msgctxt "interaction-home"
+msgid "Conozca que opciones hay hoy en día para no necesitar gafas de cerca."
+msgstr "Lernen Sie die Verfahren kennen, die Sie von der Lesebrille befreit."
+
+msgctxt "interaction-home"
+msgid "Nueva cirugía de cataratas con LÁSER"
+msgstr "Neue Laseroperation des Grauen Stars"
+
+msgctxt "interaction-home"
+msgid "Conozca la útima técnica disponible para quitar las cataratas con Láser."
+msgstr "Kennen Sie die neueste Technologie, um den Grauen Star mit einem Laser zu entfernen? "
+
+msgctxt "interaction-home"
+msgid "Clínicas especializadas en tu cirugía"
+msgstr "Spezialisierte Kliniken für Deine Operation"
+
+msgctxt "interaction-home"
+msgid "Vea una lista de clínicas especializadas en lentes intraoculares."
+msgstr "Liste von spezialisierten Kliniken für Intraokularlinsen"
+
+msgctxt "interaction-home"
+msgid "Vea las lentes adecuadas para su caso."
+msgstr "Geeignete Intraokularlinsen für Deine Operation"
+
+msgctxt "interaction-home"
+msgid "Realice el test para saber qué tipo de lente es la más adecuada para usted."
+msgstr "Machen Sie den Test, um die für Sie geeignete Linse zu finden."
+
+msgctxt "interaction-home"
+msgid "¿Te has operado? Cuéntanos como fue tu Operación"
+msgstr "Man hat Dich bereits operiert? Berichte uns über Deine Operationserfahrungen. "
+
+msgctxt "interaction-home"
+msgid "Ayuda a otros pacientes con tu experiencia"
+msgstr "Helfe anderen Patienten mit Deinen Erfahrungen."
+
+msgctxt "interaction-home"
+msgid "Si no quieres, no es necesario registrarte"
+msgstr "Falls nicht gewünscht ist eine Registrierung nicht erforderlich. "
+
+msgctxt "interaction-home"
+msgid "Queremos saber si estás contento/a o no."
+msgstr "Wir möchten gerne erfahren, ob Du zufrieden bist oder nicht. "
+
+msgctxt "interaction-home"
+msgid "Ir a la encuesta >>"
+msgstr "Gehe zum Fragebogen"
+
+msgctxt "interaction-home"
+msgid "Si conoces a alguien que ya se ha operado, invítale a dar su opinión sobre su operación:"
+msgstr "Kennst Du jemanden, der schon operiert wurde. Lade ihn ein, uns seine Erfahrungen zu übermitteln. "
+
+msgctxt "single-forum"
+msgid "Foros de NuevoCristalino"
+msgstr "Forum von NeueLinsen"
+
+msgctxt "single-post"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog über Intraokularlinsen zur Korrektur der Alterssichtigkeit oder einer Katarakt."
+
+msgctxt "single-question"
+msgid "Pregunta a los cirujanos"
+msgstr "Fragen an den Augenchirurgen"
+
+msgctxt "template-blog"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog über Intraokularlinsen zur Korrektur der Alterssichtigkeit oder einer Katarakt."
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según distancia a una ubicación concreta:"
+msgstr "Filter - Entfernung zu einem bestimmten Ort"
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según Lente y Comunidad:"
+msgstr "Filter - Linse und Region"
+
+msgctxt "template-buscador-clinicas"
+msgid "Ubicar la dirección introducida"
+msgstr "Finde den eingegebenen Ort"
+
+msgctxt "template-buscador-clinicas"
+msgid "Máxima distancia a ubicación:"
+msgstr "Maximale Entfernung vom Ort"
+
+msgctxt "template-buscador-clinicas"
+msgid "Detectar mi ubicación"
+msgstr "Identifiziere meinen Ort"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrando"
+msgstr "Zeigen"
+
+msgctxt "template-buscador-clinicas"
+msgid "ubicación seleccionada:"
+msgstr "ausgewählter Ort:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Distancia"
+msgstr "Entfernung"
+
+msgctxt "template-buscador-clinicas"
+msgid "km"
+msgstr "km"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrar Todas"
+msgstr "Zeige alles"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clinicas más visitadas"
+msgstr "Am häufigsten besuchte Kliniken"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clínicas según lente y Comunidad"
+msgstr "Kliniken nach Linse und Region"
+
+msgctxt "template-mycontents"
+msgid "Para poder disfrutar de unos datos filtrados de acuerdo a su perfil ha de haberse registrado e iniciado sesión"
+msgstr "Um den Datenfilter entsprechend Deines Profils zu nutzen, musst Du Dich registrieren."
+
+msgctxt "template-mycontents"
+msgid "PÁGINAS"
+msgstr "SEITEN"
+
+msgctxt "template-mycontents"
+msgid "ARTÍCULOS"
+msgstr "ARTIKEL"
+
+msgctxt "template-mycontents"
+msgid "PREGUNTAS"
+msgstr "FRAGEN"
+
+msgctxt "template-mycontents"
+msgid "HILOS DE FOROS"
+msgstr "THEMEN DES FORUMS"
+
+msgctxt "template-mycontents"
+msgid "La información de su perfil básico:"
+msgstr "Die Information Deines Basisprofils"
+
+msgctxt "template-myinteraction"
+msgid "PREGUNTAS REALIZADAS"
+msgstr "GESTELLTE FRAGEN"
+
+msgctxt "template-myinteraction"
+msgid "RESPUESTAS REALIZADAS"
+msgstr "ANTWORTEN"
+
+msgctxt "template-myinteraction"
+msgid "HILOS CREADOS"
+msgstr "ERSTELLTE THEMEN"
+
+msgctxt "template-myinteraction"
+msgid "RESPUESTAS DADAS EN LOS FOROS"
+msgstr "ANTWORTEN IM FORUM"
+
+msgctxt "template-myinteraction"
+msgid "COMENTARIOS REALIZADOS"
+msgstr "KOMMENTARE"
+
+msgctxt "template-myinteraction"
+msgid "Para que puedas ver tu actividad tienes que haber iniciado sesión"
+msgstr "Um Deine Aktivitäten zu sehen, musst Du erst Deine Sitzung beginnen"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Queremos saber cómo ves."
+msgstr "Wir möchten wissen, wie gut Du sehen kannst."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Cuéntanos tu opinión sobre el resultado de tu operación."
+msgstr "Berichte uns über das Ergebnis Deiner Operation"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Ayuda a otros usuarios interesados en tu operación."
+msgstr "Helfe anderen Usern, die sich über Deine Operation informieren möchten."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con reemplazo de cristalino sin cataratas"
+msgstr "Linsentausch ohne Vorliegen einer Katarakt"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación de cataratas (con cualquier tipo de lente intraocular)"
+msgstr "Operation des Grauen Stars (unabhängig vom verwendeten Linsentyp)"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con láser excímer sobre córnea (LASIK, PRK, etc.)"
+msgstr "Operation der Hornhaut mittels eines Excimerlasers (LASIK, PRK, etc. )"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con lente intraocular ICL"
+msgstr "Operation mit einer ICL"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Si conoces a alguien que ya se ha operado y puede dar el testimonio de su operación, compártelo esta página usando una red social:"
+msgstr "Falls Du jemanden kennst, der schon operiert wurde und über seine Erfahrungen berichten kann, teile diese Seite in den sozialen Netzwerken."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Volver a la página inicial de sus resultados"
+msgstr "Zurück zur ersten Seite Deiner Resultate"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Estimado usuario"
+msgstr "Sehr geehrter User"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "los datos que ve a continuación son de pacientes que han seleccionado la clínica:"
+msgstr "die nachfolgenden Daten sind von Patienten, die diese Klinik ausgesucht haben."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "como lugar de la operación en el formulario postoperatorio."
+msgstr "wie finde ich die Operation im postoperativen Formular"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Esta clínica tiene los siguientes centros asociados, los pacientes operados en los siguientes centros también se incluirán:"
+msgstr "Diese Klinik ist mit folgenden Zentren assoziiert. Die Patienten, die in folgenden Zentren operiert wurden, sind ebenfalls eingeschlossen."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Lo sentimos pero no tiene permisos para ver los resultados de esta clínica de manera diferenciada."
+msgstr "Es tut uns leid, Du hast keine Berechtigung differenzierte Resultate dieser Klinik einzusehen."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "A continuación le mostramos los resultados de los pacientes que han sido operados por usted:"
+msgstr "Resultate Ihrer Patienten"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Son pacientes que han rellenado un form en su clínica o mediante un enlace enviado por usted."
+msgstr "Patienten, die ein Formular in Ihrer Klinik ausgefüllt haben oder über einen von Ihnen versandten Link."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Podemos prepararle la visualización de información que quiera, en cuanto tenga datos suficientes póngase en contacto con nostros y lo preparamos."
+msgstr "Wir können die Ergebnisse wie von Ihnen gewünscht darstellen. Wenn Sie genügend Daten eingegeben haben setzen Sie sich bitte mit uns in Verbindung. "
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccione el cuestionario que desea analizar:"
+msgstr "Wählen Sie den Fragebogen, den Sie analysieren möchten."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccionar Cuestionario"
+msgstr "Wählen Sie den Fragebogen"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccione pregunte a analizar:"
+msgstr "Wählen Sie die Frage, die Sie analysieren möchten."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccionar Pregunta"
+msgstr "Wählen Sie die Frage"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Ningún filtro: Ver sólo resultado de la pregunta"
+msgstr "Kein Filter: Sehen Sie nur das Ergebnis der Frage"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Para filtros más avanzados por ejemplo con exclusiones de pacientes, campos combinados por favor escríbanos un email."
+msgstr "Für erweiterte Filter z.B. Ausschluss bestimmter Patienten oder Kombination bestimmter Felder,  schreiben Sie uns bitte eine mail."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Recuerde que has de estar registrado y haber iniciado sesión para poder ver sus resultados los de su clínica."
+msgstr "Um die Ergebnisse Ihrer Klinik sehen zu können, müssen Sie registriert sein und die Sitzung eröffnet haben."
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Una vez logueado diríjase a la página:"
+msgstr "Einmal eingeloggt, können Sie die Seite verwenden"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Seleccionar visualización de mis resultados"
+msgstr "Wählen Sie die Visualisierung meiner Resultate"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "para ver los resultados que tiene a su disposición"
+msgstr "um die zur Verfügung stehenden Resultate zu sehen"
+
+msgctxt "template-uda-displayownresultsengine"
+msgid "Como siempre con cualquier duda, contáctenos."
+msgstr "Bei Fragen kontaktieren Sie uns bitte."
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Volver a la página inicial de encuestas"
+msgstr "Kehren Sie zur Anfangsseite zurück"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Estimado usuario:"
+msgstr "Sehr geehrter User"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "los datos que ve a continuación son de pacientes que han seleccionado la clínica:"
+msgstr "Die gezeigten Daten sind von Patienten, die die Klinik ausgesucht haben."
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "como lugar de la operación en el formulario postoperatorio."
+msgstr "wie finde ich die Operation im postoperativen Formular"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Esta clínica tiene los siguientes centros asociados, los pacientes operados en los siguientes centros también se incluirán:"
+msgstr "Diese Klinik ist mit folgenden Zentren assoziiert. Die Patienten, die in folgenden Zentren operiert wurden, sind ebenfalls eingeschlossen."
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Lo sentimos pero no tiene permisos para ver los resultados de esta clínica de manera diferenciada."
+msgstr "Es tut uns leid, Du hast keine Berechtigung differenzierte Resultate dieser Klinik einzusehen."
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "A continuación le mostramos las encuestas de los pacientes que han sido operados por usted:"
+msgstr "Resultate Ihrer Patienten"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Son pacientes que han rellenado un form en su clínica o mediante un enlace enviado por usted."
+msgstr "Patienten, die ein Formular in Ihrer Klinik ausgefüllt haben oder über einen von Ihnen versandten Link."
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Podemos prepararle la visualización de información que quiera, en cuanto tenga datos suficientes póngase en contacto con nostros y lo preparamos."
+msgstr "Wir können die Ergebnisse wie von Ihnen gewünscht darstellen. Wenn Sie genügend Daten eingegeben haben setzen Sie sich bitte mit uns in Verbindung. "
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Formulario cuyas encuestas desea visualizar:"
+msgstr "Wählen Sie das Formular, deren Ergebnisse Sie visualisieren möchten."
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Seleccionar Cuestionario"
+msgstr "Wählen Sie den Fragebogen"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Se han encontrado:"
+msgstr "Nicht gefunden"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "pacientes"
+msgstr "Patienten"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "con el cuestionario seleccionado rellenado."
+msgstr "mit ausgefülltem Fragebogen"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Paciente cuya encuesta desea ver:"
+msgstr "Patienten, deren Fragebögen sie sehen möchten"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Seleccionar Paciente"
+msgstr "Wähle Patienten"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Para visualizaciones de encuestas más avanzadas, por favor escríbanos un email."
+msgstr "Um Ergebnisse erweiterter Fragebögen zu visualisieren, schreiben Sie uns bitte eine mail. "
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Visualizar encuesta del paciente"
+msgstr "Visualisieren Sie die Ergebnisse der Fragebögen von Patienten"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Tiene que seleccionar un paciente"
+msgstr "Sie müssen einen Patienten wählen"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Recuerde que has de estar registrado y haber iniciado sesión para poder ver sus resultados los de su clínica.,"
+msgstr "Um die Ergebnisse Ihrer Klinik sehen zu können, müssen Sie registriert sein und die Sitzung eröffnet haben."
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Una vez logueado diríjase a la página:"
+msgstr "Einmal eingeloggt, können Sie die Seite verwenden"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Seleccionar visualización de mis resultados"
+msgstr "Wählen Sie die Visualisierung meiner Resultate"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "para ver los resultados que tiene a su disposición"
+msgstr "um die zur Verfügung stehenden Resultate zu sehen"
+
+msgctxt "template-uda-displayownsurveysengine"
+msgid "Como siempre con cualquier duda, contáctenos."
+msgstr "Bei Fragen kontaktieren Sie uns bitte."
+
+msgctxt "template-uda-displayprofresults"
+msgid "Usted no está logeado como usuario profesional, por favor proceda a editar su:"
+msgstr "Sie sind nicht als professioneller User registriert, bitte fahren Sie mit dem Ausfüllen fort"
+
+msgctxt "template-uda-displayprofresults"
+msgid "información básica"
+msgstr "Basisinformationen"
+
+msgctxt "template-uda-displayprofresults"
+msgid "o póngase en contacto con nosotros"
+msgstr "oder setzen Sie sich mit uns in Verbindung"
+
+msgctxt "template-uda-displayprofresults"
+msgid "Estimado usuario:"
+msgstr "Sehr geehrter User"
+
+msgctxt "template-uda-displayprofresults"
+msgid "según la info aportada, usted no tiene permiso para ver resultados específicos de una clínica."
+msgstr "entsprechend  der übermittelten Information haben Sie keine Autorisation, spezifische Resultate einer Klinik einzusehen."
+
+msgctxt "template-uda-displayprofresults"
+msgid "según la info aportada, puedes ver los datos asociados a las siguientes clínicas:"
+msgstr "entsprechend  der übermittelten Information, können Sie Daten folgender Kliniken einsehen."
+
+msgctxt "template-uda-displayprofresults"
+msgid "En el siguiente link podrá ver los resultados de los pacientes que han sido operados por usted:"
+msgstr "Im nachfolgende Link können Sie die Resultate Ihrer Patienten sehen."
+
+msgctxt "template-uda-displayprofresults"
+msgid "Info rellenada por sus pacientes"
+msgstr "Von Ihren Patienten übermittelte Informationen"
+
+msgctxt "template-uda-displayprofresults"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tu operación en otros usuarios."
+msgstr "Sie müssen registriert sein und die Sitzung eröffnet haben, um den Grad der Zufriedenheit mit der Operation von anderen Usern zu sehen."
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "Usted no está logeado como usuario profesional, por favor proceda a editar su:"
+msgstr "Sie sind nicht als professioneller User registriert, bitte fahren Sie mit dem Ausfüllen fort"
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "información básica"
+msgstr "Basisinformationen"
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "o póngase en contacto con nosotros."
+msgstr "oder setzen Sie sich mit uns in Verbindung"
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "Estimado usuario:"
+msgstr "Sehr geehrter User"
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "según la info aportada, usted no tiene permiso para ver las encuestas realizadas por una clínica."
+msgstr "entsprechend der übermittelten Information haben Sie keine Autorisation, ausgefüllte Fragebögen einer Klinik einzusehen. ."
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "según la info aportada, puedes ver las encuestas de las siguientes clínicas:"
+msgstr "entsprechend der übermittelten Information, können Sie ausgefüllte Fragebögen folgender Kliniken einsehen. ."
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "En el siguiente link podrás ver las encuestas de los pacientes operados por usted:"
+msgstr "Im nachfolgende Link können Sie die Resultate Ihrer Patienten sehen."
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "Info rellenada por sus pacientes"
+msgstr "Von Ihren Patienten übermittelte Informationen"
+
+msgctxt "template-uda-displayprofsurveys"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tu operación."
+msgstr "Sie müssen registriert sein und die Sitzung eröffnet haben, um den Grad der Zufriedenheit mit Ihrer Operation zu sehen."
+
+msgctxt "template-uda-displayprofuserresults"
+msgid "A continuación le ponemos unos ejemplos de la visualización de información que puede tener configurada para usted."
+msgstr "Nachfolgend einige Beispiele, wie wir Information für Sie visualisieren können."
+
+msgctxt "template-uda-displayprofuserresults"
+msgid "Sin estar filtrados por clínica podrá decirnos que visualizaciones desea y se las configuraremos."
+msgstr "Ohne Klinikfilter können Sie uns mitteilen, welche Visualisierungen Sie wünschen."
+
+msgctxt "template-uda-displayprofuserresults"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tu operación."
+msgstr "Sie müssen registriert sein und die Sitzung eröffnet haben, um den Grad der Zufriedenheit mit Ihrer Operation zu sehen."
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccione el formulario que desea analizar:"
+msgstr "Wählen Sie das Formular, das Sie analysieren möchten"
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccionar Cuestionario"
+msgstr "Wählen sie den Fragebogen"
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccione pregunta a analizar:"
+msgstr "Wählen sie die Frage, die Sie analysieren möchten"
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccionar Pregunta"
+msgstr "Wählen sie die Frage"
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Ningún filtro: Ver solo resultado de la pregunta"
+msgstr "Kein Filter: Sehen Sie nur das Resultat der Frage"
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Seleccione filtro:"
+msgstr "Wählen Sie einen Filter"
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Para filtros más avanzados por ejemplo con exclusiones de pacientes, campos combinados por favor escríbanos un email."
+msgstr "Um Ergebnisse erweiterter Fragebögen zu visualisieren, schreiben Sie uns bitte eine mail. "
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Visualizar"
+msgstr "Visualisieren"
+
+msgctxt "template-uda-displayresultsengine"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tus operaciones."
+msgstr "Sie müssen registriert sein und die Sitzung eröffnet haben, um den Grad der Zufriedenheit mit Ihrer Operation zu sehen."
+
+msgctxt "template-uda-displayuserresults"
+msgid "Estimado usuario"
+msgstr "Sehr geehrter User"
+
+msgctxt "template-uda-displayuserresults"
+msgid "según la info aportada en tu perfil básico estás interesado en la operación de:"
+msgstr "Entsprechend Ihrer übermittelten Informationen sind Sie an folgender Operation interessiert :"
+
+msgctxt "template-uda-displayuserresults"
+msgid "Según la información que hemos recibido de los usuarios hasta el momento (hemos incluido esta sección recientemente). La gente que se ha sometido a su operación tienen los siguientes niveles de satisfacción con los resultados"
+msgstr "Ergebnisse von Patienten, die sich bisher dieser Operation unterzogen haben."
+
+msgctxt "template-uda-displayuserresults"
+msgid "Recuerda que has de estar registrado y haber iniciado sesión para poder ver los niveles de satisfacción de tu operación en otros usuarios."
+msgstr "Sie müssen registriert sein und die Sitzung eröffnet haben, um den Grad der Zufriedenheit anderer User mit Ihrer Operation zu sehen."
+
+msgctxt "template-uda-proiolselector"
+msgid "A continuación le mostramos &nbsp;<strong>%d</strong>&nbsp; lentes intraoculares recomendadas de acuerdo a sus respuestas."
+msgstr "Nachfolgend zeigen wir &nbsp;<strong>%d</strong>&nbsp; empfohlene Intraokularlinsen entsprechend Ihrer Antworten"
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Tu Área Personal"
+msgstr "Dein persönlicher Bereich"
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Area de NuevoCristalino para Profesionales"
+msgstr "Bereich von NeueLinsen für Augenärzte/Optiker"
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Su clínica principal asociada es:"
+msgstr "Ihre präferierte Klinik ist:"
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "No tiene clínica principal asociada"
+msgstr "Ich habe keine präferierte Klinik"
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Enhorabuena vemos que: <strong> %1$s </strong> está dada de alta. Puede ver el <a href=\"%2$s\">perfil de la clínica </a>."
+msgstr "Wir sehen, dass <strong> %1$s </strong> aktiviert ist. Sie können das <a href=\"%2$s\">Profil der Klinik </a>sehen."
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Estimado usuario: <strong> %s </strong> según la info aportada, puedes ver los datos asociados a las siguientes clínicas:"
+msgstr "Sehr geehrter User: <strong> %s </strong> entsprechend der übermittelten Informationen, können Sie die Daten folgender assoziierter Kliniken sehen:"
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Ver resultados de:"
+msgstr "Sehen Sie Resultate von:"
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Estimado usuario: <strong> %s </strong> según la info aportada, usted no tiene permiso para ver resultados específicos de ninguna clínica."
+msgstr "Sehr geehrter User: <strong> %s </strong> entsprechend der übermittelten Informationen, haben Sie keine Berechtigung spezifische Resultate einer Klinik zu sehen."
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Recuerde que para ver los resultados no basta con rellenar el campo de clínica, tiene que ponerse en contacto con nosotros. Usted o algún responsable de su clínica."
+msgstr "Bitte beachten Sie: Um Ergebnisse sehen zu können, ist es nicht ausreichend, das Feld mit den Klinikdaten auszufüllen. Sie oder einer Ihrer Mitarbeiter müssen sich mit uns zusätzlich in Verbindung setzen. "
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Estimado usuario: %s, usted está logeado como usuario de tipo profesional."
+msgstr "Sehr geehrter User: %s, Sie sind als professioneller User eingeloggt."
+
+msgctxt "template-udm-profiles-leftmenu"
+msgid "Recuerde que puede cambiarlo en cualquier momento en la <a href=\"%s\"> página de perfil básico</a>"
+msgstr "Sie können zu jedem Zeitpunkt wechseln in <a href=\"%s\"> Seite des Basisprofils de perfil básico</a>"
+
+msgctxt "widget-advregister"
+msgid "Registrate en NuevoCristalino:"
+msgstr "Registrieren sie sich bei NeueLinsen"
+
+msgctxt "widget-advregister"
+msgid "Preguntar a nuestros <span class=\"bold\">cirujanos colaboradores</span>"
+msgstr "Fragen Sie unsere <span class=\"bold\">Augenchirurgen </span>"
+
+msgctxt "widget-advregister"
+msgid "Acceder a <span class=\"bold\">resultados de usuarios operados</span> de tu misma cirugía"
+msgstr "Schauen Sie sich die <span class=\"bold\">Resultate operierter User </span>an, die sich dem gleichen Eingriff unterzogen haben. "
+
+msgctxt "widget-advregister"
+msgid "Verás una lista de <span class=\"bold\">contenidos del portal filtrados de acuerdo a tu situación</span>."
+msgstr "Schauen Sie sich eine Liste der <span class=\"bold\">Informationen an, die entsprechend der zu Ihrer Situation eingestellten Filter angezeigt werden </span>."
+
+msgctxt "widget-advregister"
+msgid "Hasta y mientras que lo desees recibirás comunicaciones</span> con la información de interés para tu situación."
+msgstr "Bis und während des Zeitraumes, den Sie wünschen, erhalten Sie Nachrichten </span>mit Informationen über Ihre operative Ausgangssituation. "
+
+msgctxt "widget-advregister"
+msgid "Recibirás una <span class=\"bold\">lista de lentes intraoculares de acuerdo a tu perfil</a> preoperatorio"
+msgstr "Sie erhalten eine <span class=\"bold\"> Liste von Intraokularlinsen, die entsprechend Ihrem präoperativen Profil </a> gefiltert sind. "
+
+msgctxt "widget-advregister"
+msgid "Podrás <span class=\"bold\">comprobar si dispones de los conocimientos mínimos</span> para entender tus opciones de cirugía y lente."
+msgstr "Sie können <span class=\"bold\"> überprüfen, ob Sie genügend Kenntnisse haben, Ihre Operations- und Linsenoptionen zu verstehen. "
+
+msgctxt "calltoaction-home"
+msgid "<span class=\"orange-text bold\">Ventajas de registrarse</span> <span class=\"black-text bold\">en NuevoCristalino</span>"
+msgstr "<span class=\"orange-text bold\">Vorteile der Registrierung</span> <span class=\"black-text bold\">bei NeueLinsen</span>"
+
+msgctxt "calltoaction-home"
+msgid "Registrarse"
+msgstr "Registrieren Sie sich"
+
+msgctxt "calltoaction-home"
+msgid "<span class=\"icon\">&nbsp;</span>Preguntarás tus dudas a <span class=\"bold\">cirujanos colaboradores</span>"
+msgstr "<span class=\"icon\">&nbsp;</span>Stellen Sie Ihre Fragen an unsere <span class=\"bold\">kollaborierenden Augenchirurgen</span>"
+
+msgctxt "calltoaction-home"
+msgid "Verás <span class=\"bold\">resultados de usuarios operados</span> de tu cirugía"
+msgstr "Verás <span class=\"bold\">Resultate operierter User</span> Ihrer Operation"
+
+msgctxt "calltoaction-home"
+msgid "Verás <span class=\"bold\">información seleccionada</span> para tí."
+msgstr "Sehen Sie <span class=\"bold\">ausgewählte Informationen</span> für Sie."
+
+msgctxt "calltoaction-home"
+msgid "<span class=\"bold\">Mientras que lo desees podrás recibir</span> información de interés para tu situación."
+msgstr "<span class=\"bold\">Zwischendurch können Sie für Sie passende </span>  Informationen erhalten"
+
+msgctxt "calltoaction-home"
+msgid "Recibirás una <span class=\"bold\">lista de lentes intraoculares </span> para tí."
+msgstr "Sie erhalten<span class=\"bold\">eine Liste von Intraokularlinsen </span> für Sie."
+
+msgctxt "calltoaction-home"
+msgid "Comprobarás si <span class=\"bold\">sabes lo suficiente</span> para entender tu cirugía."
+msgstr "Überprüfen Sie<span class=\"bold\">ob Sie genug wissen</span>um Ihre Operation verstehen zu können."
+
+msgctxt "header-clinicas"
+msgid "BUSCADOR DE CLÍNICAS PARA OPERACIÓN CON LENTE INTRAOCULAR"
+msgstr "KLINIKSUCHE FÜR OPERATIONEN MIT INTRAOKULARLINSEN"
+
+msgctxt "page-ask-question"
+msgid "Pregunta a los cirujanos"
+msgstr "Fragen Sie den Augenchirurgen"
+
+msgctxt "profile-info-graph"
+msgid "Perfil básico de usuario"
+msgstr "Basisprofil des Users"
+
+msgctxt "profile-info-graph"
+msgid "Información preoperatoria"
+msgstr "Präoperative Informationen"
+
+msgctxt "profile-info-graph"
+msgid "Información postoperatoria"
+msgstr "Postoperative Informationen"
+
+msgctxt "profile-info-graph"
+msgid "Questionario Catquest-9SF"
+msgstr "Fragebogen Catquest-9SF"
+
+msgctxt "profile-info-graph"
+msgid "Usuario:"
+msgstr "User"
+
+msgctxt "profile-info-graph"
+msgid "faltan"
+msgstr "fehlt"
+
+msgctxt "profile-info-graph"
+msgid "Recuerde que tiene que salvar el cuestionario al acabar apretando el botón que pone Save/Guardar"
+msgstr "Vergessen Sie nicht den Fragebogen zu sichern"
+
+msgctxt "profile-info-graph"
+msgid "Tiene que logearse para ver la información sobre su perfil."
+msgstr "Sie müssen eingeloggt sein, um Informationen über Ihr Profil einsehen zu können."
+
+msgctxt "displayresults-getuserresults"
+msgid "Filtro Aplicado"
+msgstr "Angewandter Filter"
+
+msgctxt "displayresults-getuserresults"
+msgid "Ninguno"
+msgstr "Keiner"
+
+msgctxt "displayresults-getuserresults"
+msgid "Pregunta:"
+msgstr "Frage:"

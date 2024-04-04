@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clinica Oftalmologica v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-12-12 09:17:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: ajax/ajax-Clinic-Maps-Handler.php:6
+#: ajax/ajax-Clinic-Maps-Handler.php:81
+#@ clinica
+msgctxt "CustomPostType Name"
+msgid "clinica"
+msgstr ""
+
+#: ajax/ajax-Clinic-Maps-Handler.php:43
+#@ clinica_display
+msgctxt "Filter_template"
+msgid "No hay clínicas todavía"
+msgstr ""
+
+#: ajax/ajax-Clinic-Maps-Handler.php:121
+#@ clinica_display
+msgctxt "Filter_template"
+msgid "No hay clínicas dentro de la distancia seleccionada"
+msgstr ""
+
+#: ajax/ajax-Clinic-Maps-Handler.php:191
+#: ajax/ajax-Clinic-Maps-Handler.php:200
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "ubicacion"
+msgstr ""
+
+#: ajax/ajax-Clinic-Maps-Handler.php:236
+#@ iol_display
+msgctxt "template"
+msgid "Ver información de la clínica"
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "No hay ninguna Clínica que cumpla con los criterios de filtrado actuales."
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "Proceda a realizar una nueva bœsqueda cambiando los criterios."
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "Hay &nbsp;"
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "clínicas encontradas"
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "Las lentes mostradas cumplen las siguientes caracter’sticas:"
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "Su nombre contiene los caracteres: "
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "No hay ninguna restricción impuesta a las clínicas, se están mostrando todas las disponibles."
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "Variables que no se han especificado:"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "LAS CLÍNICAS QUE CUMPLEN CON LOS CRITERIOS DE SU BÚSQUEDA:"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Buscar clínica por nombre:"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Resetear Búsqueda"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "No hay ninguna Lente Intraocular con los criterios de filtrado actuales."
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Información sobre la Búsqueda de Clínicas realizada"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Cerrar"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Minimizar"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Maximizar"
+msgstr ""
+
+#, php-format
+msgctxt "Archive Clinica"
+msgid "Hay &nbsp; %d clínicas encontradas"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Las clínicas mostradas cumplen las siguientes características:"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "Variables que no se han especificado:"
+msgstr ""
+
+msgctxt "Archive Clinica"
+msgid "No hay ninguna restricción impuesta a las clínicas, se están mostrando todas las disponibles."
+msgstr ""
+
+msgctxt "taxo-slug"
+msgid "clinica-oftalmologica-lente-intraocular"
+msgstr ""
+
+msgctxt "slug"
+msgid "clinicas-oftalmologicas-lente-intraocular"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "clinica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir Nueva"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "clinica"
+msgid "admin_display"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Editar Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nueva Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Ver Clínica Oftamológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Buscar Clínica Oftamológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ninguna Clínica Oftamológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "No hay Clínicas Oftalmológicas en la papelera"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Clínica Oftamológica padre"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Latitud"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Longitud"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Horario (D)"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Director Médico (D)"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Doctores (D)"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Website (D)"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica (Ascendente)"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "ubicacion"
+msgstr ""
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/ubicacion"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Ubicación de la clínica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Ubicacion"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Ubicacion"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "seguros"
+msgstr ""
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/seguros"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Seguros de la Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir Seguro de Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nuevo Nomre de Seguro Médico"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "equipamiento-clinica"
+msgstr ""
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/tecnologia-equipos"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Equipamiento de la Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir equipamientos de la Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nuevo nombre  de equipamiento de la clínica."
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "mas-info-clinica"
+msgstr ""
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/mas-info-clinica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Informacion Adicional de la Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir Más Info de la Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de información adicional de la clínica."
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "femto-faco"
+msgstr ""
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/femto-faco"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Información sobre el femto faco de la clínica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir Info del femto faco de Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nueva Info del femto faco"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "financiacion"
+msgstr ""
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/financiacion"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Información sobre la financiación de la clínica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir Info de la financiación de la Clínica Oftalmológica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nueva Info de la financiación"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "nivel-pref-clinica"
+msgstr ""
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/nivel-pref-clinica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Añadir Nivel de preferencia de la Clínica"
+msgstr ""
+
+msgctxt "admin_display"
+msgid "Nuevo Nivel de preferencia"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "numero-cirugias-intraoculares"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "tipo-operaciones-intraoculares"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "tipo-de-implante"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "VOLVER A PÁGINA PRINCIPAL DE CLÍNICAS"
+msgstr ""
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Dirección:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Telefóno de Contacto:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Email de contacto:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Horario:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Director Médico:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Doctores:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Sitio Web:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Este centro oftalmológico forma parte del grupo de clínicas"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Clínicas :"
+msgstr ""
+
+#, php-format
+msgctxt "Content Clinica"
+msgid "Vea&nbsp;%s &nbsp;en el mapa:"
+msgstr ""
+
+msgctxt "Content Clinica'"
+msgid "Detectar ubicación"
+msgstr ""
+
+msgctxt "Content Clinica'"
+msgid "Ubicarme"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Mostrar ruta a la clínica desde ubicación"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Mostrando:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Ubicación seleccionada:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Distancia:"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "km"
+msgstr ""
+
+msgctxt "Content Clinica"
+msgid "Mostrar clínica en mapa"
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Dispone de Femto faco: "
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Disponibilidad de operación de femto faco."
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Tiene el seguro concertado: "
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Seguros concertados."
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Posibilidad de financiación: "
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Posibilidad de financiacion."
+msgstr ""
+
+msgctxt "param-name"
+msgid "lente-implantada"
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Lente Intraocular a implantar: "
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Modelo de Lente Intraocular a Implantar"
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Numero de cirugías intraoculares al año: "
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Número de operaciones intraoculares."
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de operación intraocular: "
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Ubicación de la Clínica."
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Equipamiento de la clínica: "
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Equipamiento de la clínica"
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de implante de interés: "
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de implante de interés"
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Más información sobre la clínica: "
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "posibilidad-de-hospitalizacion"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "laser-propio"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "quirofanos-propios"
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Información adicional de la clínica."
+msgstr ""
+
+msgctxt "FilterClinicaEngine"
+msgid "Localizacion: "
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "fabricante-lente"
+msgstr ""
+
+#, php-format
+msgctxt "Left Clinica Oftalmologica"
+msgid "MÁS LENTES DE %s"
+msgstr ""
+
+msgctxt "CustomPostType Name"
+msgid "lente-intraocular"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "BUSCAR CLÍNICAS"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Realizar Filtrado"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Vista:"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Ubicación/Características"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Disponibilidad de Láser de Femtosegundo (femto-faco):"
+msgstr ""
+
+msgctxt "Filter_Template"
+msgid "No"
+msgstr ""
+
+msgctxt "taxo-name"
+msgid "implantada-en-clinicas"
+msgstr ""
+
+msgctxt "taxo-value"
+msgid "disponible"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Lente Intraocular de Interés:"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Sin especificar"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Comunidad Autónoma:"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Sin Especificar"
+msgstr ""
+
+msgctxt "Filter_Template"
+msgid "Provincia:"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Características básicas"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "posibilidad-de-financiacion"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "cirugia-intraocular-bilateral"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "seguros"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Datos adicionales de la clínica"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "faco-microincision"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "femto-faco"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "biometros"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "iol-master"
+msgstr ""
+
+msgctxt "taxo-value-slug"
+msgid "lenstar"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Equipos de la clínica"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Seguros:"
+msgstr ""
+
+msgctxt "Filter_Template"
+msgid "Sin Especificar"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "Posibilidad de Financiación:"
+msgstr ""
+
+msgctxt "Right Archive Clinica"
+msgid "No"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "BUSCAR CLÍNICAS:"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Ubicación/Características"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Disponibilidad de Láser de Femtosegundo (femto-faco):"
+msgstr ""
+
+msgctxt "Filter_Template"
+msgid "S/E"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Comunidad Autónoma:"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Sin Especificar"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Provincia:"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Características básicas"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Datos adicionales de la clínica"
+msgstr ""
+
+msgctxt "filter_template"
+msgid "Sin Especificar"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Equipos de la clínica"
+msgstr ""
+
+msgctxt "Filter_template"
+msgid "Sin Especificar"
+msgstr ""
+
+msgctxt "Right Single Clinica"
+msgid "Posibilidad de Financiación:"
+msgstr ""
+

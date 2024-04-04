@@ -1,0 +1,3485 @@
+@media (max-width: 640px){
+
+
+.page-template-template-noregistered-questionnaire #wizard{
+	float: none;
+}
+
+	#mega-menu-wrap-menu-mync .mega-menu-toggle {
+	    font-family: Roboto-Bold;
+	    font-size: 15px;
+	    margin-top: 10px;
+	}
+
+	#mega-menu-wrap-menu-mync .mega-menu-toggle .mega-toggle-block-1:after,
+	#mega-menu-wrap-menu-myprofile-professional .mega-menu-toggle .mega-toggle-block-left {
+	    content: 'Ver Secciones del Área Personal';
+	    color: #353535;
+			margin-top:10px;
+			margin-bottom: 10px;
+	    float: left;
+	    font-family: Roboto-Bold;
+	    FONT-WEIGHT: normal;
+	}
+
+#mega-menu-wrap-menu-mync #mega-menu-menu-mync > li.mega-menu-item > a.mega-menu-link,
+#mega-menu-wrap-menu-myprofile-professional #mega-menu-menu-myprofile-professional > li.mega-menu-item > a.mega-menu-link{
+	background: none;
+}
+
+ul.mega-sub-menu div.textwidget,
+ul.mega-sub-menu li.widget_text{
+	display: none !important;
+}
+
+
+div#form-to-analyze-wrapper span.custom-combobox,
+#field-to-analyze-wrapper span.custom-combobox,
+#field-to-analyze-filter-wrapper span.custom-combobox{
+	clear: both;
+display: block;
+float: none;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+max-width: 98%;
+width: 98%;
+}
+
+div#form-to-analyze-wrapper label,
+#field-to-analyze-wrapper label,
+#field-to-analyze-filter-wrapper label{
+	clear: both;
+display: block;
+float: none;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+max-width: 98%;
+width: 98%;
+
+}
+form#display-engine-form{
+		max-width: 96%;
+}
+
+#engineformWrapper input[type="submit"]{
+	max-width: 90%;
+	width: auto;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active{
+	max-width: 90%;
+	word-wrap: break-word;
+}
+
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-tabs-active a,
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-state-disabled a,
+div.resultsTest .ui-tabs .ui-tabs-nav li.ui-tabs-loading a{
+	max-width: 95%;
+	word-wrap: break-word;
+
+}
+
+.ui-tabs .ui-tabs-nav li{
+	white-space: normal;
+}
+
+.form-progress-bar.ui-progressbar{
+	display: none;
+}
+
+.swMain ul.anchor li{
+	margin-left: auto;
+	margin-right: auto;
+	width: 96%;
+	float: none;
+	clear: both;
+}
+
+.swMain ul.anchor li a{
+	margin-left: auto;
+	margin-right: auto;
+	width: 96%;
+	float: none;
+	clear: both;
+}
+
+.swMain ul.anchor{
+	width: 100%;
+}
+
+	div.quickformwrapper {
+		background: white none repeat scroll 0 0;
+    float: left;
+    margin-bottom: 45px;
+    margin-top: 6px;
+    max-width: 90%;
+    opacity: 0.8;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: auto;
+	}
+
+div.sliderMBlWrapp{
+	display: none;
+}
+
+	ul#menu-menu-cat-qa li {
+	    display: block;
+	    width: 90%;
+	    clear: both;
+	    float: none;
+			margin-left: auto;
+			margin-right:auto;
+
+	}
+
+	div.advRegisterWrapper ul.whyregisterlist li{
+		width: auto;
+		max-width: 90%;
+	}
+
+#top-header-countries{
+	left: auto;
+	right: 1px;
+}
+
+div.qa-custom-separator{
+	width: 90%;
+}
+
+#qa-content-wrapper  div.question-started 	div.question-tags{
+	margin-top: 7px;
+}
+
+#qa-content-wrapper  div.question-started 	div.question-tags a{
+	margin-top: 3px !important;
+
+}
+
+ul#menu-menu-cat-qa{
+	height: auto;
+
+}
+
+ul#menu-menu-cat-qa li:last-child{
+	float: none;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.cataractImg, .clinicImg, .presbImg, .iolImg{
+	float: none;
+	margin:0 auto;
+}
+
+#menu-site{
+float:none;
+clear:both;
+width:100%;
+margin: 0px;
+}
+
+div#main.wrapper{
+	width: 100%;
+	max-width: 100%;
+}
+#page{
+	width: 100%;
+	max-width: 100%;
+	min-width: 100%;
+
+}
+
+footer[role="contentinfo"] ul{
+	width:100%;
+	float: none;
+	clear: both;
+}
+
+#menu-main ul#mega-menu-primary > li > ul.mega-sub-menu{
+	margin-top: 0px !important;
+}
+
+#top-header-wrapper, #main-header-wrapper, #main-header,#top-header{
+	width:100%;
+	min-width: 100%;
+}
+
+#wsIcon a span{
+	display: none;
+}
+#logo{
+	margin-top: 10px;
+	height: 75px;
+	margin-left: 20px;
+}
+
+div.greyButton{
+	float: none;
+	clear: both;
+	max-width: 90%;
+}
+
+
+.no-mobile-show{
+	display:none;
+}
+
+#logo h1,
+#logo span{
+	display: none;
+}
+
+
+	#id_wrapper_pre_gradMedRec_OdSph, #id_wrapper_pre_gradMedRec_OdCil,
+	#id_wrapper_pre_gradMedRec_OiSph, #id_wrapper_pre_gradMedRec_OiCil,
+	#id_wrapper_pre_gradMedRec_Unknown {
+	    clear: both;
+	    float: none !important;
+	    font-size: 12px;
+	    margin-left: auto !important;
+	    margin-right: auto !important;
+	    text-align: center;
+	    width: 95% !important;
+	}
+#primary.udaDisplayUserResults{
+	width:100% !important;
+	float:none !important;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+
+.wp-caption{
+	width:96% !important;
+	max-width:96% !important;
+	float:none;
+	clear:both;
+	margin-left:auto !important;
+	margin-right:auto !important;
+	text-align:center;
+	}
+.wp-caption.aligncenter a img{
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+.archive-clinica-wrapper div.clinica-entry-content{
+	 float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 96%;
+	}
+
+
+
+#sLensClinics{
+	margin-left:auto;
+	margin-right:auto;
+	float:none;
+	clear:both;
+	width:55%;
+	}
+
+#caProvSLens label{
+	    display: block;
+    margin-bottom: 3px;
+    margin-top: 10px;
+	}
+
+div.sugClinic div.metaDataBlog{
+		width:100% !important;
+	}
+
+
+#caProvSLens div.ui-widget{
+	width:96%;
+	text-align:center;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	clear:both;
+	}
+
+
+#page.is-home{
+background-position: -1080px 0px;
+
+}
+
+
+div.qatemplatebottom input.qa-edit-submit{
+	max-width:75% !important;
+	}
+	#question-form > label{
+		max-width:80% !important;
+		}
+
+#versionSwitcher{
+	display: block !important;
+	display: block;
+    font-size: 12px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    text-align: center;
+}
+#versionSwitcher a{
+	text-decoration: none;
+}
+
+#buscadorIolLogo {
+	margin-top: 10px !important;
+}
+
+/*-- aspectos del qa integrado--*/
+div.qatemplatebottom .quicktags-toolbar{
+	display: none;
+}
+div.qatemplatebottom #question-taxonomies{
+	display: none;
+}
+
+/*-- Aspectos del Q&A--*/
+
+.question-summary {
+    float: none;
+    margin: 10px auto;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 10px;
+    text-align: left;
+    width: 97%;
+		clear: both;
+}
+
+#single-question .question-summary{}
+
+#qa-content-wrapper h3 a{
+	line-height: 1.2;
+	display: block;
+	padding-top: 10px;
+}
+
+#question-list div.question #cataractImg{
+	float: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#qa-content-wrapper .question-stats{
+	margin-left: auto;
+	margin-top: auto;
+	display: block;
+	clear: both;
+	float: none;
+}
+#qa-content-wrapper .question-stats .question-status,
+#qa-content-wrapper .question-stats .question-score{
+	float: right;
+}
+
+#single-question .header-single-question-container h1{
+	display:inline;
+	float:none;
+	font-size:14px;
+}
+
+.header-single-question-container{
+	height:auto;
+	}
+
+li.qa-search form button{
+	width:70%;
+	}
+
+div.header-single-question-container > div:first-child{
+	margin-left: auto;
+margin-right: auto;
+float: none;
+	}
+
+	div.preAnswerBody{
+		margin-left: 25px;
+	}
+	.qa-user-box{
+		width: auto;
+	}
+
+#qa-menu button {
+    clear: both;
+    float: none;
+    margin-top: 5px;
+    margin-bottom:10px;
+    width: 70% !important;
+    margin-left:auto;
+    margin-right:auto;
+}
+#qa-menu li.qa-search form input{
+	float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#qa-page-wrapper #ask-question{
+	width:96%;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+/*-- Creo que el por qu� NC lo voy a quitar por el momento de la versi�n m�vil... Por simplificar la p�gina --*/
+
+#whyNC{
+	display: none;
+}
+
+/* Lo mismo con el loginStuff */
+#loginStuff{
+float:none;
+clear:both;
+text-align: left;
+margin-top: 0px;
+margin-left: 20px;
+}
+#spanUserName{
+	margin-left: 0px;
+}
+#userName{
+	text-align: left;
+	float: left;
+	margin-left: 5px;
+}
+
+#loginStuff a{
+	margin-top: 2px;
+	float:left;
+	font-size:13px;
+	margin-left: 5px;
+}
+
+#loginStuff a:nth-child(2){
+	padding-right: 6px;
+	border-right:1px solid #dc8c2f;
+}
+
+#iconosWrapper{
+	max-height: 30px;
+}
+#iconosLoginHeader{
+	max-height:27px;
+}
+
+#logo{
+}
+
+#countrySitesList{
+	left: auto !important;
+	right: 1% !important;
+}
+
+#fakeDiv{
+	display: none !important;
+	min-width: 0px;
+}
+
+/*-- OTROS ELEMENTOS DE LA P�GINA --*/
+#top-header{
+	min-width: 0%;
+	background:none;
+	background-color: orange;
+}
+
+#iconosWrapper img:nth-child(1){
+	display: none;
+}
+
+#whyNC{
+	margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+/*-- Cambio para la versi�n alemana--*/
+
+#de_DE #menu-header-foro ul li{
+	margin-right: 1%;
+	margin-left: 2%;
+
+}
+
+#de_DE ul.forum-titles li.bbp-forum-info{
+	width: 25%;
+}
+
+#de_DE ul.forum-titles li.bbp-forum-topic-count{
+	width: 17%;
+}
+#de_DE #menu-header-foro ul li a{
+	font-size: 12px;
+}
+
+form#bbp-search-form{
+    margin: 0 !important;
+    overflow: hidden;
+    padding: 0 !important;
+    width: 98%;
+    }
+
+#de_DE ul.forum-titles li.bbp-forum-freshness{
+	width: 29%;
+}
+
+#logo-header-foro img{
+	margin-top: 15px;
+}
+
+#de_DE #buscadorBloqC{
+	max-width: 175px !important;
+}
+
+#de_DE #buscadorBloqC .roscoTitle{
+    padding-left: 1px !important;
+    padding-right: 3px !important;
+    padding-top: 3px !important;
+    width: 77%;/*140px;*/
+}
+#de_DE a#informacion{
+	/*margin-right: 20px;*/
+}
+
+#de_DE #informacionBloqC span.innerTitle{
+	margin-right: 20px;
+}
+
+#de_DE #simuladorBloqC {
+    float: right;
+    margin-right: 23px;
+    }
+#de_DE #testBloqC{
+	left: -20px !important;
+	top: -20px !important;
+}
+
+#de_DE a#buscador{
+	width: 180px;
+}
+
+
+#de_DE #buscadorBloqC .roscoTitle .innerTitle{
+	font-size: 13px;
+}
+
+
+#de_DE #menu-menu-blog li:nth-child(7) a{
+	width: auto;
+}
+
+
+
+
+#pageBuscadorIolWrapper.de_DE #buscadorIol #selectPrincOpticLens{
+	width: 54% !important;
+}
+
+#pageBuscadorIolWrapper.de_DE #opticDiameterDisabler,
+#pageBuscadorIolWrapper.de_DE #totalDiameterDisabler,
+#pageBuscadorIolWrapper.de_DE #asfericityDisabler,
+#pageBuscadorIolWrapper.de_DE #dioptEsfDisabler,
+#pageBuscadorIolWrapper.de_DE #dioptCilDisabler{
+float: right;
+margin-top: 15px;
+margin-right: 3px;
+}
+#pageBuscadorIolWrapper.de_DE #buscadorIol #selectToricidadLente{
+	width: 56% !important;
+}
+
+#pageBuscadorIolWrapper.de_DE #buscadorIol #selectFiltrosLente{
+	width: 41% !important;
+}
+
+#pageBuscadorIolWrapper.de_DE #buscadorIol #comboFabricanteLente{
+	width: 41% !important;
+}
+#pageBuscadorIolWrapper.de_DE #buscadorIolLogo{
+	margin-top: 20px;
+}
+
+div.dcjq-mega-menu ul#menu-menu-site > li:nth-child(2) > a{
+	width: 100% !important;
+}
+div#menu-main aside.widget #menu-menu-site > li:nth-child(3) > a{
+	width: 100% !important;
+}
+div.dcjq-mega-menu ul#menu-menu-site > li:nth-child(4) > a{
+	width: 100% !important;
+}
+
+div#menu-main aside.widget #menu-menu-site > li:nth-child(5) > a{
+	width: 100% !important;
+}
+
+div#menu-main aside.widget #menu-menu-site > li:nth-child(7) > a{
+	width: 100% !important;
+}
+div#menu-main aside.widget #menu-menu-site > li:nth-child(8) > a{
+	width: 100% !important;
+}
+
+#de_DE #menu-menu-blog li a.selected{
+	background: none;
+}
+#de_DE  #conditions label:last-child{
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+#de_DE  #astigButtons label span{
+	line-height: 24px;
+}
+#de_DE  #astigButtons label{
+	border: none;
+	font-size: 12px;
+}
+
+#de_DE  #PaginationWrapperBis{
+	top:50px;
+	left: 101%;
+}
+
+#de_DE  #toricidadFilter{
+	margin-left: 1px;
+	margin-right: 1px;
+}
+
+#de_DE  #ppOpticoFilter{
+	margin-left: 1px;
+	margin-right: 1px;
+}
+#de_DE  #ppOpticoFilter label{
+	font-size: 10px;
+}
+#de_DE  #spanSurgeonFilDisabler,
+#de_DE  #spanAdvFilDisabler{
+	width: 115px !important;
+}
+
+#de_DE  #spanSurgeonFilEnabler,
+#de_DE  #spanAdvFilEnabler{
+	width: 115px !important;
+}
+
+#de_DE  label.labelTitle[for="amount-esfera"],
+#de_DE  label.labelTitle[for="amount-cilinder"]{
+ width: 82%;
+}
+
+#de_DE  #slider-range-esfera,
+#de_DE  #slider-range-cilinder,
+#de_DE  #slider-range-asferic,
+#de_DE  #slider-range-diamOptic,
+#de_DE  #slider-range-diamTot,
+#de_DE  #slider-range-tamaInci{
+	max-width: 92% !important;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#de_DE  #right form h3.ui-accordion-header{
+
+}
+
+#de_DE  #surgeonAccordionFilter h3{
+	font-size: 11px;
+}
+
+#de_DE  #toricidadFilter label{
+	font-size: 10px;
+}
+
+#de_DE  label.geoLabel{
+	width: 50%;
+}
+
+#de_DE #right.filter-right.right-archive-clinica{
+	margin-top: 0px;
+}
+
+/*-- Fin ALEMAN--*/
+
+
+/*-- Inicio Ingl�s --*/
+
+#en_GB #buscadorBloqC .roscoTitle{
+	padding-bottom: 6px;
+}
+
+#en_GB .blockDestacadoTitle1{
+	font-size: 16px !important;
+}
+
+#en_GB span.modeProf{
+	font-size: 12px;
+	margin-right: 3px;
+}
+#en_GB .grey-first a{
+	font-size: 15px;
+}
+
+#en_GB #right.filter-right.right-archive-clinica{
+	margin-top: 0px;
+}
+
+#en_GB #logo-blog{
+	width: 41% !important;
+	}
+
+/*-- Fin Ingl�s--*/
+
+div.sugClinicImage {
+    clear: both;
+    float: none;
+    text-align: center;
+}
+
+div.sugClinic div.metaDataBlog {
+    clear: both;
+    float: none;
+    width: 95%;
+}
+
+label.labelTitle{
+	min-width: 55%;
+}
+
+.site-content.lista-quienes-somos #contact-form{
+	background: #f5f5f5;
+}
+
+
+
+
+#content.template-clinicas{
+	margin-top: 0px !important;
+}
+
+#divSingleClinicMapa, div#divMapa{
+	height: 300px !important;/*El mapa era demasiado grande*/
+}
+
+
+
+
+.site-content.lista-quienes-somos #contact-info{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+.site-content.lista-quienes-somos #contact-form{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+.site-content.lista-quienes-somos #contact-form input,
+.site-content.lista-quienes-somos #contact-form textarea{
+	width: 90%;
+}
+div#content-quienes header.entry-header h1, div#contacto h2{
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.3em !important;
+}
+
+.site-content.lista-quienes-somos article{
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a#buscador{
+	background: none;
+	max-width: 49%;
+	max-height: 130px;
+	margin-top: 10px;
+}
+#buscadorBloqC{
+	left: 0px;
+	top:0px;
+
+}
+
+
+a#informacion{
+	background: none;
+	max-width: 49%;
+	max-height: 130px;
+	margin-top: 10px;
+}
+
+#informacionBloqC{
+	left: 0px;
+	top:0px;
+
+}
+
+a#test{
+	background: none;
+	max-width: 49%;
+	max-height: 130px;
+	margin-top: -34px;
+}
+#testBloqC{
+	left: 0px;
+	top: 0px;
+}
+#testBloqC .roscoTitle{
+	width: 120px;
+}
+
+
+a#simulador{
+	background: none;
+	max-width: 49%;
+	max-height: 130px;
+	margin-top: -50px;
+}
+#simuladorBloqC{}
+
+body .site{
+	width: 100%;
+}
+
+#headerWrapper{
+	width: 100%;
+	background: orange;
+	height: auto;
+}
+#iconosWrapper span{
+	margin-left: 0px;/*3px;*/
+	margin-right: 1px !important;
+}
+
+
+#block1.redesign a{
+	padding-top:2px;
+	padding-left:4px;
+	}
+span.bloqs-subtitles{
+	padding-top:3px;
+	}
+span.bloqs-titles{
+	padding-top:2px;
+	}
+
+#bbpress-forums fieldset.bbp-form{
+	    padding: 0 10px 10px;
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+	}
+
+#bbpress-forums fieldset.bbp-form input,
+#bbpress-forums fieldset.bbp-form legend,
+#bbpress-forums fieldset.bbp-form p{
+	width:96%;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:0px;
+	padding-right:0px;
+	}
+
+#bbpress-forums div.bbp-the-content-wrapper{
+	width:100%;
+	}
+
+
+li.bbp-header > div{
+	display:none;
+	}
+
+
+span.iol-icon, span.blog-icon, span.foro-icon, span.qa-icon{
+	background: none;
+	display: none;
+	width: 0px !important;
+}
+
+#bbpress-forums .forum-titles li.bbp-topic-title img{
+	clear: both;
+	float: none;
+	margin: 5px auto 0;
+	max-width: 65px !important;
+	width: auto;
+}
+
+span.spectitle{
+	margin-bottom: 5px;
+	margin-top: 0;
+	text-align: center;
+	width: 100%;
+}
+
+span#favorite-toggle{
+	display: none;
+}
+
+
+div.sliderMBlWrapp{
+	height: 322px;
+}
+
+#slider{
+	max-height: 322px;
+	background-position: -310px;
+}
+
+#block-grey{
+	margin-top: 0px;
+}
+
+#guiaContainer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;/*400px;*/
+}
+
+
+#destacados{
+	width: 100%;
+	float: none;
+}
+
+#news{
+	float: none;
+	width: 100%;
+}
+
+div#testimonios-home{
+    width: 42%;
+    margin-left: 5%;
+    float: left;
+}
+
+
+div#grey-in{
+	width: 100% !important;
+	background: #e9e9e9;
+	padding-bottom: 10px;
+}
+
+.grey,.grey-last {
+	width: 43% !important;
+	margin-left: 1% !important;
+	margin-top: 10px;
+	float: left;
+}
+
+
+#blockpic1 a, #blockpic2 a{
+	max-width: 100%;
+
+}
+
+.block1{
+	width: 40%;
+	max-width: 240px;
+	margin-left: 3%;
+}
+
+#block1left {
+    float: right;
+    margin-left: 0;
+    margin-right: 3%;
+}
+
+.blocktext{
+	width: 100%;
+}
+
+.blocktext a{
+	max-width: 90%;
+	height: 120px;
+	text-align: center;
+}
+
+.grey-first{
+	padding-left: 70px;
+	max-width: 60%;
+}
+.blockDestacadoTitle1{
+	height: 50px;
+}
+
+.grey:nth-child(1){
+margin-left: 3% !important;
+margin-right: 0px;
+
+}
+
+
+.grey:nth-child(2),
+.grey-last{
+	margin-right: 3% !important;
+	margin-left: 0px;
+	float: right !important;
+}
+
+.grey:nth-child(4){
+	float: right;
+}
+
+
+.grey:nth-child(3){
+	margin-right: 0px;
+	margin-left: 3% !important;
+	clear: left;
+}
+
+#grey1{
+	background-position: 50% 7px;
+}
+#grey2{
+	background-position: 50% -93px;
+}
+
+#grey3 {
+    background-position: 50% -193px;
+}
+
+#grey4 {
+    background-position: 50% -293px;
+}
+
+.grey h2{
+	display: block;
+	background: #ffffff;
+	padding-bottom: 0px;
+	min-height: 53px;
+	text-align: center;
+}
+
+#grey1, #grey2, #grey3, #grey4{
+	padding-left: 7px;
+	padding-top: 65px;
+	max-width: 94%;
+	height: auto;
+	min-height: 0px;
+	padding-bottom: 0px;
+	width: 94%;
+	padding-right: 7px;
+	margin-left: 1px;
+}
+#grey4 h2{
+	text-align: center;
+	min-height: 53px;
+}
+
+.grey-second{
+	max-width: 94%;/*90%;*/
+	height: 120px;
+	padding-left: 7px;
+	padding-right: 7px;
+	width: 94%;
+
+}
+
+#pregunte-cirujano{
+	width: 42%;
+	float: right;
+	margin-right: 5%;
+	margin-top: 0px;
+}
+
+#mVisitedIols {
+ /*   float: left;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    width: 47%;*/
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width: 90%;
+}
+
+#mVisitedClinics{
+   /* float: right;
+    margin-left: 1.5%;
+    margin-right: 1.5%; RENEW*/
+    /*width: 47%;*/
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width: 90%;
+    }
+#corporativeLinks {
+    clear: both;
+    /*float: left;
+    margin-left: 3%; RENEW */
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width: 90%;
+}
+
+#footer-wrap{
+	min-width: 100%;
+	background: none;
+	background-color: orange;
+}
+#loadingGif.loadingGeneral{
+	width: 100%;
+}
+
+.site-content-home{
+	width: 100%;
+}
+
+footer[role="contentinfo"] h3{
+	padding-top: 16px;
+	height: auto;
+}
+
+#masNCfooter {
+    float: left;
+    margin-left: 3%;
+    min-height: 140px;
+    width: 95%;
+    overflow: hidden;/*quick control*/
+}
+
+span.priortitlefooter{
+	margin-top: 27px;
+}
+span.aftertitlefooter{
+	margin-top: 33px;
+}
+
+#foro{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+div#MBloq5,div#MBloq4{
+    background-repeat: no-repeat;
+
+    max-width: 226px;
+    text-align: center;
+
+}
+#block2{
+	width: 100% !important;
+}
+
+#destacados {
+    float: none;
+
+    width: 90%;
+    margin-left: auto;
+    text-align: center;
+}
+
+.leer-mas a{
+    font-size: 10px;
+    margin-bottom: 20px;
+    margin-top: -25px;
+    }
+
+#foro h2 a, #pregunte-cirujano h2 a, #testimonios-home h2 a{
+	text-align: center;
+}
+.content-destacado img{
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 17px;
+}
+
+.content-destacado{
+	margin-left: auto;
+	width: 98%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+footer[role="contentinfo"]{
+	width: 100%;
+}
+
+.menu-menu-footer2-container{
+	/*max-width: 90%;*/
+}
+
+
+footer[role="contentinfo"] ul li {
+	max-width: 96%;
+}
+
+footer[role="contentinfo"] ul li a{
+	max-width: 96%;
+}
+
+#headerRelative{
+	padding-right: 5px;
+}
+
+
+#iconosLoginHeader{
+	max-width: 100%;/*80%;/*74%;*/
+}
+
+li#qaIcon{
+	display: blok;/*none;*/
+}
+
+#betaSymbol{
+	display: none;
+}
+#linkToClinicProfile{
+	display: none;
+}
+
+
+
+
+
+
+
+/*Vamos template por template */
+
+/* MAPA WEB */
+
+.siteMapBlock {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 2%;
+    width: 95%;
+}
+
+/* FABRICANTES */
+
+
+
+#subfabri{
+	width: 96%;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+
+#subfabri aside li a{
+	background: #f5f4f4;
+	background-image: none;
+	text-align: center;
+}
+
+.site-content-fabri-archi{
+	padding-left: 3%;
+	padding-right: 3%;
+	width: 92%;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* P�GINA MODELOS LENTES y POSTERIOR ARCHIVE*/
+#primary.site-content-modelos-lentes{
+	padding-left: 2%;
+    padding-right: 2%;
+    width: 45%;
+        padding-left: 2%;
+    padding-right: 2%;
+    width: 96%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#primary.site-content-modelos-lentes #preButtonSet{
+	display: none !important;
+}
+
+.site-content-modelos-lentes h1{
+	text-align: center;
+	margin-top: 5px !important;
+}
+
+#masNCfooter{
+	clear: both;
+	float: none;
+}
+
+.site-content-archive-lentes{
+	/*width: 44%;
+	margin-left: 1%;RENEW*/
+		width: 96% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important;
+
+}
+
+#right form input.submitArchive{
+    clear: both;
+    display: block;
+    float: none;
+    margin: 0 auto 10px !important;
+    padding: 6px;
+    width: 50%;
+}
+
+h3.right-filter-title{
+	margin-left: 20%;
+	width: 75%;
+	display: block;
+}
+
+#LinkPagesBis span.current,
+#LinkPagesBis a{
+	font-size: 11px;
+	height: 15px;
+	border-radius: 8px;
+	border-bottom: 1px solid #bebebe;
+	border-top: 1px solid #bebebe;
+}
+
+
+#right.filter-right{
+	width: 47% !important;
+	padding-right: 1%;
+}
+.entry-content img, .comment-content img, .widget img{
+	max-width: 97% !important;
+
+}
+li.bbp-forum-info img{
+margin-right: 17px;
+}
+
+
+#iol_filter_form{
+	font-size: 12px;
+}
+
+
+.filter-right.modelos-lente.pteNoDisplay #iol_filter_form{
+/*font-size: 12px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;*/
+    }
+
+ .filter-right.modelos-lente #iol_filter_form{
+ 		width:90%;
+ 		margin-left:auto;
+ 		margin-right:auto;
+ 	}
+
+
+
+.page-template-template-modelos-de-lente-intraocular div.qatemplatebottom{
+	display:none;
+	}
+
+	#changeFilter{
+		width:90% !important;
+		margin-left:auto;
+		margin-right:auto;
+		clear:both;
+		float:none !important;
+		}
+
+	#yarppBottomWrapper	#blockYarpp1,
+	#yarppBottomWrapper	#blockYarpp2,
+	#yarppBottomWrapper	#blockYarpp3,
+	#yarppBottomWrapper	#blockYarpp4
+	{
+		width:90%;
+		margin-left:auto;
+		margin-right:auto;
+		clear:both;
+		}
+
+
+	div#yarppBottomWrapper {
+    width: 92%;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+
+#right.filter-right.modelos-lente.pteNoDisplay  form #simpleAccordionFilter .ui-accordion-header{
+	padding-left:3px;
+
+	}
+
+#right form .custom-combobox{
+	margin-left: 3px;
+}
+#sliderMultifocalidadLente{
+	max-width: 90%;
+}
+/*--En version m�vile no sacamos los botones para mover los accordions --*/
+#right form .ui-accordion .ui-accordion-header .ui-icon,
+#right form .ui-accordion .ui-accordion-header .ui-icon,
+#right form .ui-accordion .ui-accordion-header .ui-icon,
+#reseter-advancedAccordionFilter,
+#dragger-advancedAccordionFilter,
+#ui-accordion-header-icon ui-icon ui-icon-triangle-1-s
+{
+	display: none !important;
+}
+
+#right form#patient_iol_filter_form .ui-accordion-content{
+	min-width: 0px;
+	display: block;
+    padding-left: 1px;
+    padding-right: 1px;
+    width: 98%;
+}
+
+#right form div.ui-widget label{
+	font-size: 11px;
+}
+
+label.labelTitleFirst{
+	display:block !important;
+	}
+
+#correccionAstig #correcAstigInputs{
+	text-align: center;
+	margin-left: 0px;
+}
+#estandar label:last-child{
+    margin-left: 1%;
+    margin-right: auto;
+    width: 96%;
+}
+
+#iclContainer label.ui-button,
+#verisyseContainer label.ui-button{
+	display: block;
+    max-width: 89%;
+    width: 88%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#premiumInputs, #filtrosInputs, #add-on #add-onInputs{
+	width: 96%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+
+#right form .ui-buttonset{
+	margin-left: 3px;
+}
+
+#preButtonSet{
+	display: none;
+}
+#PaginationWrapperBis{
+	/*left: 110%;
+	top:-20px; RENEW */
+	display:none;
+}
+
+div.iol-entry-header .featured-iol-archive-image{
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-top: 3px;
+}
+
+/*Creo que para m�viles lo mejor es que est� fuera*/
+#iolInfoPannel{
+	display: none !important;
+}
+
+.site-content-archive-lentes .featured-iol-archive-image img{
+	margin-bottom: 1px;
+}
+
+div.archive-lente-wrapper div.bloq-single-lente .label{
+	font-size: 12px;
+}
+
+div.iol-entry-content div.iol-entry-meta a{
+	font-size: 11px;
+}
+
+#comboViewType{
+	display: none !important; /*En version m�vil no damos opcion a resultados */
+}
+
+.archive-lente-wrapper div.iol-entry-content {
+	width: 93%;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 1px;
+}
+div.iol-entry-content div.iol-entry-meta a.nWindIol{
+	margin-left: 3%;;
+}
+#PaginationWrapper{
+	width: 96%;
+}
+#LinkPages{
+	margin-left: 2% !important;/*renew*/
+	margin-right: 2% !important;
+}
+
+div.archive-lente-wrapper div.iol-entry-header{
+	width: 98%;
+}
+
+
+/*-- Single Lente Intraocular--*/
+
+.noMobile{
+	display: none !important;
+}
+.mobile{
+	display: block !important;
+}
+
+#left.site-single-iol-left{
+	/* Pre Last change
+	width: 30%;
+	margin-left: 2px;*/
+	    clear: both;
+    float: none;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 95%;
+    margin-top: 70px;
+}
+
+#contact-single-lente input.submit{
+	margin-left: 10%;
+	width: 75%;
+}
+
+#left.site-single-iol-left h3{
+	text-align: center;
+	font-size: 12px;
+}
+#contact-single-lente{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 94%;
+    padding-left: 2px;
+    padding-right: 2px;
+    width: 65%;
+}
+#contact-single-lente form input{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#left.site-single-iol-left .beers.draught{
+	text-align: center;
+	font-size: 12px;
+}
+
+#left #contact-single-lente input[type="checkbox"]{
+	width: 20px !important;
+}
+
+div.bloq-single-lente .label{
+    clear: left ;
+    font-size: 12px !important;/*13*/
+    padding-left: 2px  !important;
+    padding-right: 1px !important ;
+    width: 46% !important;
+}
+div.bloq-single-lente .value{
+    font-size: 12px !important;/*13*/
+    padding-left: 2px;
+    padding-right: 1px;
+    width: 48% !important;
+}
+div.archive-lente-wrapper div.bloq-single-lente .value{
+	    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    float: none;
+    line-height: 1.1;
+    margin-bottom: 2px;
+    margin-top: 1px;
+    padding: 0;
+    text-align: center;
+    clear: both;
+}
+.bloq-single-lente{
+	background: none;
+}
+
+div.iol-entry-content div.iol-entry-meta{
+	margin-top: 10px;
+}
+
+#right form#patient_iol_filter_form{
+	margin-top: 25px;
+}
+
+#right.filter-right.pteDisplay h2 {
+
+    margin-left: 20%;
+    width: 73%;
+}
+#right form input.submitSingle{
+	margin-left: 17%;
+}
+
+#primary.site-content-single.single-lente{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 5px;
+    }
+
+#left.site-single-iol-left.pteNoDisplay .beers{
+	margin-bottom: 0px;
+}
+
+#rightBuscadorIol #right form .ui-accordion-content{
+	padding-left:2px;
+	padding-right:2px;
+	}
+
+
+
+
+
+#right.filter-right{
+	/*clear:both; Nos cargamos el de la p�gina de modelos lentes */
+	/*width: 65%;RENEW*/
+	  width: 90% !IMPORTANT;
+    FLOAT: NONE;
+    MARGIN-LEFT: auto;
+    margin-right: auto;
+}
+
+.filter-right label.labelTitle{
+	min-width:220px;
+	}
+
+
+.ui-tabs-vertical .ui-tabs-nav li{
+		border:0px !important;
+	}
+.titTab1{
+	white-space:pre-wrap;
+	}
+div.qatemplatebottom.templatecx{
+	width:96% !important;
+	clear:both;
+	margin-top:90px;
+	}
+
+
+#lista-lentes-single ul{
+    list-style-position: inside;
+    padding-left: 0;
+    padding-right: 2px;
+    width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#primary.lista-quienes-somos div.ccf-form-wrapper{
+	max-width: 95%;
+	width: 95%;
+	margin-bottom: 20px;
+}
+
+#primary.lista-quienes-somos .ccf-form-wrapper .field textarea{
+	width: 90%;
+}
+#primary.lista-quienes-somos .ccf-form-wrapper{
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+#right form #simpleAccordionFilter .ui-accordion-header{
+	width: 98%;
+	padding-left: 1px;
+	padding-right: 1px;
+}
+
+#right form .ui-accordion-content{
+	min-width: 0px;
+	/*width: 98%;*/
+	max-width: 98%;
+	padding-left: 1px;
+	padding-right: 1px;
+	overflow:hidden !important;
+}
+#rightBuscadorIol form .ui-accordion-content{
+
+	}
+
+
+#primary.site-content-single.single-lente #preButtonSetSingle{
+	display: none !important;
+}
+
+
+/*-- SALTAMOS AL TIPOS DE LENTE INTRAOCULAR --*/
+#primary.tipos-lente-intraocular,#primary.udm-profiles-left-menu{
+    clear: both;
+    float: none;
+    margin-top: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 95%;
+}
+#changeModeBloqTipoWrapper{
+    clear: both;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    }
+
+.submenu-pages{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 95%;}
+
+.menu-menu-tipos-lentes-container ul li a{
+	background-image: none;
+    }
+.submenu-pages .sub-menu li a{
+	background-image: none;
+}
+
+.menu-menu-tipos-lentes-container ul li a{
+	padding-right: 2px;
+}
+
+#callToQuestion div.contenidoCallToQuestion{
+    background-position: 50% 0;
+    padding: 195px 5% 5%;
+    width: 87%;
+}
+#leftWrapper{ /*De momento lo pongo gen�rico aunque igual luego hay que hacerlo por plantilla. */
+    float: none;
+    padding-left: 2%;
+    width: 96%;
+}
+
+a#changeModeHelp{
+    font-size: 13px;
+    margin-left: 3px;
+    padding-left: 22%;
+    padding-top: 4px;
+    width: 75%;
+    }
+
+#changeModeBloq.tipoIol{
+	width: auto;
+}
+/*-- En el de explicaci�n b�sica de tipos de lio vamos a intentar meter el menu...--*/
+
+#left-explicacion-lio h2{
+	font-size: 12px;
+}
+
+#left-explicacion-lio.menu-left{
+    /*margin-left: 1px;
+    padding: 0;
+    width: 26%;*/
+		display:none;
+}
+
+.site-content-tipos-de-lentes{
+	width: 94%;
+	margin-left:auto;
+	margin-right:auto;
+	float:none;
+}
+#left-explicacion-lio li a{
+	padding: 3px;
+	font-size: 11px;
+}
+#left-explicacion-lio .sub-menu li{
+	margin-left: 0px;
+	width: 99%;
+}
+
+.menu-menu-explicacion-tipos-lio-container{
+	padding: 0px;
+}
+
+#left-explicacion-lio .sub-menu li a{
+	padding: 3px;
+	font-size: 11px;
+}
+.groupLink .groupLinkToPage{
+	width: 30%;
+}
+
+#right.template-explicacion-basica-pacientes.patient-filter{
+	/*width: 60% !important;
+	margin-left: 5%;*/
+	    width: 80% !important;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+
+}
+#right.template-explicacion-basica-pacientes #estandar label:last-child{
+	margin-left: 3px;
+}
+#right.template-explicacion-basica-pacientes #iclContainer label:last-child,
+#right.template-explicacion-basica-pacientes #verisyseContainer label:last-child,
+#right.template-explicacion-basica-pacientes #filtrosInputs{
+	margin-left: 3px;
+}
+/*-- Vamos ahora a por los fabricantes --*/
+.site-content-fabricantes{
+	width:97%;
+	padding-left: 1%;
+	padding-right: 1%;
+
+}
+
+.site-content-fabricantes .label{
+    height: auto;
+    margin-left: 1%;
+    padding: 5px 0 0 5px;
+    width: 40%;
+    font-size: 12px;
+}
+
+.site-content-fabricantes .value{
+	width: 52%;
+	padding: 5px 0 0 5px;
+    font-size: 12px;
+}
+
+#changeModeBloqFabWrapper{
+	display: none;
+}
+#single-fab{
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 96%;
+    margin-top: 0px;
+	}
+
+#contacto-fab{
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 96%;
+}
+
+#volver a{
+margin-top: -20px;
+margin-bottom: 5px;
+
+}
+
+#contacto-fab .formulario-fab{
+	width: auto;
+}
+
+/*-- VAMOS CON EL SINGLE LENTE --*/
+
+/*#main.single-lente-iol #right.filter-right*/
+#right.single-lente{
+    clear: both;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: 95% !important;
+    margin-top: 0px;
+    padding-top: 0px;
+    display: none !important; /*es muy saturado creo para m�vil*/
+}
+
+h3.contactSingleLente, h3.contactSingleLente .span{
+    color: #fea63c;
+    display: none !important; /*muy saturado para el m�vil*/
+    font-family: "negotiatefree";
+    font-size: 15px;
+    font-weight: normal;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 95%;
+}
+
+#contact-single-lente{
+	display: none !important;
+}
+
+
+h3.contactSingleLente .span{
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+
+#right.single-lente.pteNoDisplay{
+	width: 65% !important;
+}
+
+#right.single-lente #slider-range-add{
+	width: 95%;
+}
+
+#iolPatientInfo{
+clear: both;
+}
+
+span.firstPoint{
+	height: auto;
+}
+span.secondPoint{
+	height: auto;
+}
+span.thirdPoint{
+	height: auto;
+}
+
+.site-content-single article a.singleIOLFeatImage img{
+	float: none !important;
+	clear: both !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	width: 186px !important;
+	display: block !important;
+}
+/*-- Vamos con las p�ginas de cirug�a // Por el momento no vamos a incluir el men� de cirug�a: Raz�n solo vamos a incluir en la version m�vil submen�s que tengan que ver con la patolog�a que interese al paciente o con la t�cnic seleccionada, para navegar entre cirug�as ya tiene el  men� principal --*/
+
+#primary.site-content-cirugia-presbicia #menu-cirugia{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
+#menu-menu-cirugia{
+	height: auto;
+border-radius: 3px;
+}
+
+
+#menu-menu-cirugia li{
+	float: none;
+	padding: 5px;
+	width: 96%;
+	margin-left: auto;
+	margin-right:auto;
+}
+#menu-menu-cirugia li.current_page_item{
+	display: none;
+}
+
+#lateral-cirugia {
+    clear: both;
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 97%;
+}
+
+#menu-menu-cirugia li a{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: auto;
+}
+
+
+.grafico{
+	margin-left: auto !important;
+	margin-right: auto !important;
+	margin-top: 20px;
+}
+
+
+.tabLoader img {
+	    margin-left: auto !important;
+	    margin-right: auto !important;
+	    width: 75px;
+	    text-align: center;
+			display: block;
+}
+
+
+#menu-menu-cirugia li a.selected{
+	background-image: none;
+	background-color: #ffffff;
+	color: #003b61;
+	border-radius: 2px;
+	display: none;
+}
+
+.site-content-cirugia{
+	width: 97%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.site-content-cirugia #content {
+    clear: both;
+    float: none;
+    position: static;
+    width: 99%;
+}
+
+.site-content-cirugia h1{
+	font-size:1.3em !important;
+}
+
+#primary.site-content-cirugia-presbicia #lateral-presbicia{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+#primary.site-content-cirugia-presbicia  #leftFaqsPresbicia{
+	display: none;
+}
+
+#primary.site-content-cirugia-presbicia .yarpp-related{
+	display: none;
+}
+#primary.site-content-cirugia-presbicia hr.yarpp{
+	display: none;
+}
+#lateral-presbicia #menu-cirugia-submenu li a{
+	background-image: none;
+}
+
+.site-content-cirugia-presbicia #content{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+#primary.site-content-cirugia-presbicia #submenu-lateral-presbicia{
+	float: none;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+}
+
+#primary.site-content-cirugia-presbicia h1{
+    font-size: 17px !important;
+    margin-left: 1%;
+    margin-right: 1%;
+    text-align: center;
+    width: 96%;
+}
+
+#primary.site-content-cirugia-presbicia h1{
+	font-size: 14px;
+}
+
+#primary.site-content-not-menus{
+    margin-left: auto;
+    margin-right: auto;
+    width: 94%;
+}
+
+#primary.site-content-not-menus div#blockYarpp1{
+	width: 40%;
+	clear: left;
+}
+
+#primary.site-content-not-menus div#blockYarpp2{
+	width: 40%;
+	clear: right;
+}
+
+#primary.site-content-not-menus div#blockYarpp3{
+	width: 40%;
+	clear: left;
+}
+
+#primary.site-content-not-menus div#blockYarpp4{
+	width: 40%;
+	clear: right;
+}
+
+.site-content-not-menus p{
+	clear: both;
+}
+
+#primary.site-content-not-menus img{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#primary.site-content-not-menus div.alignleft {
+    clear: both;
+    float: none;
+    margin: auto;
+}
+
+#contact-single-lente form{
+	padding: 3px;
+}
+
+#contact-single-lente form textarea{
+	width: 85%;
+}
+
+/* Vamos con el template cataratas */
+.template-cataratas div.entry-content img{
+    height: auto;
+    max-width: none;
+    width: 98%;
+}
+
+.template-cataratas  p.wp-caption-text span.femto2Legend,
+.template-cataratas  p.wp-caption-text span.femto1Legend{
+	margin-left: auto;
+}
+
+/*-- Vamos con la del ojo y visi�n --*/
+
+#submisojos{
+
+}
+.submenu-pages li a{
+	background-image: none;
+}
+
+#primary.mis-ojos{
+	width: 95%;
+margin-left: auto;
+margin-right: 2%;
+float: none;
+}
+
+/*-- Post operatorio test --*/
+
+#primary.post-op-test-content{
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+
+
+#right.rightSurgeryPostOp{
+	float: none;
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+div.postOpYarpp #blockYarpp1{
+	margin-left: 2%;
+    width: 43%;
+	margin-left: 1%;
+}
+div.postOpYarpp #blockYarpp2{
+	    clear: right;
+    margin-right: 0;
+    width: 50%;
+
+	}
+div.postOpYarpp #blockYarpp3{
+	margin-left: 2%;
+    width: 43%;
+	margin-left: 1%;
+	}
+div.postOpYarpp #blockYarpp4{
+    clear: right;
+    margin-right: 0;
+    width: 50%;
+}
+
+div#main div.post-op-test-content form label.bl, div#main div.post-op-test-content form div.t4bEntry{
+	height: auto;
+}
+#post-op-form label{
+	display: block;
+	clear: both;
+}
+div#main div.post-op-test-content form#post-op-form div#post-check div.aditQuestion{
+	height: auto;
+}
+input#email{
+	float: none;
+}
+textarea#comments{
+	float: left;
+	margin-right: auto;
+}
+
+div#main div.post-op-test-content form#post-op-form div.bloq div#surgeryIol{
+	margin-left: auto;
+	margin-right: auto;
+}
+div#main div.post-op-test-content form#post-op-form div.bloq div.b4bloq div.ui-buttonset{
+	margin-left: auto;
+}
+div#main div#right.rightSurgeryPostOp{
+	text-align: center;
+	width:96%;
+	margin-left:auto;
+	margin-right:auto;
+}
+div#right.rightSurgeryPostOp div#bloq-post-right1 a img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+
+/*-- Parte de Opiniones--*/
+#left-opiniones .titleOpiniones{
+	font-size: 13px;
+}
+.listDoctorClinics{
+	margin-left: 3px;
+}
+#left-opiniones ul li a{
+	margin-left: 2px;
+}
+div.doctor-opinion-info{
+	margin-right: 3px;
+}
+
+#primary.single-opinion-doctor{
+	clear: both;
+}
+
+#single-opinion-doctor #content{
+	float: none;
+	clear: both;
+	width: 98%;
+}
+#left-single-opinion-doctor{
+	clear: both;
+	float: none;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.postThumbnailDoctorSingle{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	float: none;
+}
+div.single-doctor-opinion-info{
+	margin-left: 15%;
+}
+
+/*-- Vamos con la p�gina de cl�nicas --*/
+div#primary.site-content-clinicas{
+	width: 98%;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+div#primary.site-content-clinicas #divContenedor{
+	width: 90%;
+}
+div#geoSelectedListWrapper h3, div#sponsoredListWrapper h3{
+	height: 50px;
+}
+div.geoSelectedList li, div.sponsoredList li{
+	width: auto;
+}
+
+#right.filter-right.right-archive-clinica{
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90% !important;/*65%*/
+	margin-top: 10px;
+}
+#clinica_filter_form #accordionFilterSecond,
+#right #clinica_filter_form .ui-accordion-content,
+#clinica_filter_form #accordionFilterSimple{
+	padding-left: 3px;
+	padding-right: 3px;
+	width: 96%;
+}
+
+#right form h3.ui-accordion-header{
+	width: 96%;
+	padding-left: 3px;
+	/*padding-right: 3px; RENEW */
+}
+
+#right #clinica_filter_form #accordionFilterSecond .ui-accordion-header{
+	padding-right:3px;
+	}
+
+
+#clinica_filter_form #accordionFilterSimple div.ui-widget{
+	width: 95%;
+}
+
+div#geoSelectedListWrapper{
+	width: 45%;
+	margin-right: 1%;
+	margin-left: 1%;
+}
+div#sponsoredListWrapper{
+	float: left;
+width: 45%;
+	margin-right: 1%;
+	margin-left: 1%;
+}
+div.moreClinics{
+    position: relative;
+    /*top: -100px;*/
+    width: 95%;
+}
+
+div.buttonGeolocation {
+    float: none;
+    height: 30px;
+    text-align: center;
+    width: 95%;
+}
+
+.stringGeoLocation {
+    float: none;
+    height: 30px;
+    margin-top: 20px;
+    text-align: center;
+    width: 95%;
+}
+
+#routeClinic, .left-info-entry {
+    float: none;
+    height: 30px;
+    margin-top: 20px;
+    text-align: center;
+    width: 95%;
+}
+div.geoButtons{
+	width: 95%;
+}
+label.geoLabel {
+    color: #505050;
+    float: left;
+    font-family: source_sans_proregular;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 8px 5px 0 0;
+    width: 50%;
+}
+
+div.userGeoInfo{
+	margin-top: 10px;
+}
+
+.site-content-archive-clinica{
+	float: none;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#clinicaInfoPannel{
+	display: none !important;
+}
+#IOL_Filtradas{
+	min-height: 100px;
+
+}
+
+#right.filter-right.right-archive-clinica{
+	margin-top: -40px;/*-100px;*/
+}
+
+.NoIol{
+	width: 58%;
+	margin-bottom: 25px;
+}
+
+div#primary.single-clinica {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
+    width: 97%;
+}
+div#primary.single-clinica div.featured-image-content{
+    clear: both;
+    display: block;
+    float: none;
+    height: auto;
+    text-align: center;
+    width: 98%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div#primary.single-clinica div.featured-image-content img{
+    display: inline;
+    float: none;
+    text-align: center;
+}
+
+#campos-clinicas div.label-clinic{
+	padding-left: 3px;
+	font-size: 13px;
+}
+#campos-clinicas div.value-clinic{
+    font-size: 13px;
+    height: auto;
+    overflow: hidden;
+    padding-left: 4px;
+}
+div#mapSet{
+	width: 90%;
+}
+
+div#right.clinica{
+	width: 68% !important;
+	float: none;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -10px;
+	display: none;/* DE MOMENTO DEJAMOS ESTO AS� PARA NO DISUADIR CL�NICAS */
+}
+
+/*-- saltamos al blog --*/
+
+.site-blog{
+	min-width: 0px;
+	width: 100%;
+	max-width: 100%;
+}
+#top-header-blog{
+	width: 100%;
+	min-width: 100%;
+	height: 132px;
+}
+#footer-wrap-blog{
+	min-width: 100%;
+	height: auto;
+}
+
+#wrapper-header-blog{
+	width: 100%;
+	height: auto;
+}
+
+#menu-cirugia{
+	width: 100%;
+}
+
+
+.site-content-cirugia #pageClinics h3, .site-content-cirugia-presbicia #pageClinics h3{
+padding-top: 0px;
+}
+
+
+#pageClinics div.sugClinicImage {
+    margin: 0 auto 10px;
+    width: 90%;
+}
+
+
+#menu-menu-blog li{
+	clear: both;
+	float: none;
+	height: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	margin-top: 15px;
+}
+
+#menu-menu-blog li a{
+	height: auto;
+	font-size: 18px;
+}
+
+div.menu-menu-blog-container{
+	margin-bottom: 50px;
+}
+
+#logo-blog{
+    height: auto;
+    margin-top: 5px;
+    width: 43%;
+   }
+#footer-wrap-blog ul#menu-menu-footer li a{
+	font-size: 11px;
+}
+
+#footer-wrap-blog #logos{
+	display: none;
+}
+
+#logo-blog img{
+	width: 100%;
+	height: 127px;
+}
+#menu-menu-blog li:nth-child(2) a{
+	width: auto !important;
+}
+
+#menu-blog{
+	max-width: 55% !important;/*47%;*/
+	height: auto;
+	margin-top: 5px;
+}
+
+#raya{
+	width: 100%;
+	min-width: 100%;
+}
+
+#line-footer-blog{
+	min-width: 100%;
+}
+
+.title-blog-wrapper h1,
+.title-blog-wrapper div
+{
+	padding-left: 10px;
+	background: none;
+}
+
+#content-blog{
+	float: none;
+	width: 97%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#widgetblog {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 96%;
+}
+
+#primary.site-content-blog #content-blog .entry-content img{
+	    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu-menu-blog li a:hover{
+	background: none;
+	color: #003b61;
+}
+
+/*-- Vamos con el Q&A --*/
+
+#top-header-qa{
+	min-width: 100%;
+}
+
+#wrapper-header-qa{
+	min-width: 100%;
+	width: 100%;
+}
+div.menu-menu-qa-container{
+	width: 100%;
+}
+#qa-content-wrapper{
+    clear: both;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98% !important;
+    }
+#qa-menu ul li a{
+	font-size: 13px;
+
+}
+#qa-menu ul li{
+	width: 100% !important;
+	margin-top: 5px !important;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#qa-menu a{
+	padding-left: 5%;
+	width: 95%;
+	padding-right: 0%;
+}
+
+#qa-menu ul li:nth-child(1) {
+
+}
+#qa-menu li.qa-search{
+	float: none;
+	clear: both;
+	padding-top: 5px;
+}
+
+#menu-menu-cat-qa li a{
+	float: none;
+	clear: both;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+#qa-menu button{
+	width: 20%;
+}
+
+#qa-menu {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    clear: both;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 80%;
+}
+#qa-menu ul{
+	background: none;
+}
+
+#block-qa{
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+	clear: both;
+	width:96%;
+}
+
+div.site-info-qa #logos img{
+	display: none;
+}
+
+/*-- Ahora con el Foro --*/
+#bbp-container, #widget-forum{
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	float: none;
+	padding-left:0px;
+}
+
+#bbp_topic_content_ifr{
+	width:auto !important;
+	}
+
+		li.bbp-topic-reply-count{
+			min-width:70px;
+			}
+	li.bbp-topic-freshness{
+		margin-top:0px;
+		line-height:1.1;
+		padding-left:4px;
+		}
+	#bbpress-forums p.bbp-topic-meta span.bbp-topic-freshness-author > img.avatar{
+		margin-left:0px;
+		}
+
+#wrapper-header-foro{
+	min-width: 100%;
+}
+#menu-header-foro{
+	width: 100%;
+}
+
+
+#line-footer-forum{
+	min-width: 100%;
+}
+#footer-wrap-forum{
+	min-width: 100%;
+	}
+
+#top-header-foro{
+	width: 100%;
+}
+
+#logo-header-foro{
+	width: 55%;
+}
+
+#list-about-forum{
+	width: 85%;
+	float: none;
+	clear: both;
+}
+
+#widget-header-forum{
+	width: 43%;
+}
+
+#bbp_search{
+	width: 60%;
+}
+#logo-header-foro img{
+	width: 98%;
+}
+
+#bbp_search_submit{
+	width: 25%;
+}
+#menu-header-foro ul li {
+    float: left;
+    margin-left: 1%;
+    margin-right: 3%;
+}
+
+ul.forum-titles li.bbp-forum-reply-count{
+	margin-left: 1% !important;
+	width: 21%;
+}
+
+ul.forum-titles li.bbp-forum-topic-count{
+	margin-left: 1% !important;
+	width: 13%;
+}
+ul.forum-titles li.bbp-forum-freshness{
+	margin-left: 1% !important;
+	width: 20%;
+}
+
+ul.forum-titles li.bbp-forum-info{
+	margin-left: 1% !important;
+	width: 40%;
+}
+
+
+.bbp-topic-voice-count{
+	display:none;
+	}
+
+
+/*P�gin del test para pacientes */
+#right.rightTestColumn{
+ 	display: none;
+}
+div#test-title{
+    float: none !important;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95% !important;
+    clear: both;
+    margin-top: 20px;
+
+}
+
+div#primary.test #content {
+    float: none !important;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98% !important;
+}
+
+.ui-tabs-vertical .ui-tabs-nav li a{
+	font-size: 12px;
+}
+#pb1 span.pregunta, #pb3 span.pregunta, #pb6 span.pregunta{
+	font-size: 12px;
+}
+span.pregunta{
+	font-size: 12px;
+}
+
+div#primary.test .featured-iol-archive-image img{
+	margin-left: auto !important;
+	margin-right: auto !important;
+	float: none !important;
+	margin-bottom: 0px;
+}
+
+.site-content.test .archive-lente-wrapper p{
+	margin-bottom: 0px !important;
+}
+
+.site-content.test .archive-lente-wrapper .iol-entry-meta{
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+
+/*-- VAMOS AHORA CON EL BUSCADOR IOL --*/
+
+#pageBuscadorIolWrapper{
+	min-width: 100% !important;
+}
+#buscadorIol #main .site-content-archive-lentes{
+    margin-left: 1% !important; /*2px*/
+    margin-right: 1% !important; /*2px*/
+    width: 98% !important;
+}
+#buscadorIol #PaginationWrapperBis {
+    left: 1% !important;
+    top: -2% !important;
+}
+
+#buscadorIol #right form h3.ui-accordion-header{
+    min-width: 0;
+    padding-left: 2px !important;/*1*/
+    padding-right: 2px !important;/*1*/
+    width: 98% !important;
+}
+
+#buscadorIol #right form span.title-filter {
+    margin-left: 1%;
+    width: 90%;
+}
+
+#pageBuscadorIolWrapper{
+	background-image: none !important;
+}
+
+#buscadorIolLogo{
+	width: 56%;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+#buscadorIolBack{
+	width: 42%;
+}
+
+#buscadorIolBack a{
+	width: 98% !important;
+	background-image: none !important;
+	color: #ffffff !important;
+
+}
+#buscadorIolHeader {
+    background: orange;
+    height: 105px;
+}
+
+#buscadorIol #LinkPagesBis span.current, #buscadorIol #LinkPagesBis a{
+	border-radius: 0px;
+	height: 20px;
+	border: 0px;
+}
+
+hr.onlymobile{
+    background: #ffffff;
+    color: #ffffff;
+    display: block !important;
+    height: 2px;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 12px;}
+
+#pageBuscadorIolWrapper #page{
+	width: 100% !important;
+}
+#buscadorIol #AjaxContainerFixer div#iolGridWrapper{
+
+	margin-left: 1%;
+	margin-right: 1%;
+}
+#buscadorIol div#iolGridWrapper{
+	margin-right: auto;
+	    width: 42% !important;
+	    padding: 2px;
+	    margin-left: auto;
+	    text-align: center;
+}
+#buscadorIol div#iolGridWrapper:nth-child(even){
+	    margin-left: 4px !important;
+}
+
+
+#buscadorIol div.iolGridImage img{
+	width: 96% !important;
+}
+
+#buscadorIol #rightBuscadorIol{
+	width: 98%;
+	float: none;
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	overflow: hidden;
+}
+
+
+#buscadorIol #right.filter-right{
+	width: 98% !important;
+}
+
+#clinica_filter_form .ui-widget label.cliniBSetTitle{
+	min-width:65%;
+	}
+
+
+
+#buscadorIol #comboTipoLente{
+	width: 48% !important;
+	margin-left: 1%;
+}
+#buscadorIol #comboTipoOptica{
+	width: 48% !important;
+}
+#buscadorIol #selectToricidadLente{
+	width: 48% !important;
+	margin-left: 1%;
+}
+#buscadorIol #selectFiltrosLente{
+	width: 48% !important;
+}
+
+#buscadorIol #sliderMultifocalidadLente{
+	width: 48% !important;
+	margin-left: 1%;
+}
+#buscadorIol #comboFabricanteLente{
+	width: 48% !important;
+}
+
+#buscadorIol #advDisablerDiv, #buscadorIol #surgDisablerDiv{
+	width: 55% !important;
+	margin-left: 2%;
+}
+#buscadorIol #advEnablerDiv, #buscadorIol #surgEnablerDiv{
+    float: left !important;
+    margin-left: 2%;
+    width: 55% !important;
+}
+
+#buscadorIol #advEnablerDiv{
+	width: 55% !important;
+	float: left !important;
+	clear: left;
+}
+
+#buscadorIol #selectBordCuadLens{
+	width: 44% !important;
+	margin-left: 1%;
+}
+#buscadorIol #selectPrincOpticLens{
+	width: 53% !important;
+}
+#buscadorIol #comboDiseLente{
+	width: 48% !important;
+	margin-left: 1%;
+}
+
+#buscadorIol #comboMatLente{
+	width: 48% !important;
+	margin-left: 1%;
+}
+
+#buscadorIol #selectInjectorLente{
+	width: 48% !important;
+	margin-left: 1%;
+}
+#buscadorIol #selectPrecargadaLente{
+	width: 48% !important;
+	margin-left: 1%;
+
+}
+#buscadorIol #comboDiseHapticos{
+	width: 48% !important;
+	margin-left: 1%;
+
+}
+
+#buscadorIol #sliderRangeSphLens{
+	width: 48% !important;
+	margin-left: 1%;
+}
+#buscadorIol #sliderRangeCilLens{
+	width: 49% !important;
+	margin-left: 0%;
+}
+#buscadorIol #sliderAsphLens{
+	width: 48% !important;
+	margin-left: 1%;
+}
+#buscadorIol #sliderOpticDiamLens{
+	width: 48% !important;
+	margin-left: 1%;
+}
+#buscadorIol #sliderTotDiamLens{
+	width: 48% !important;
+	margin-left: 1%;
+}
+#buscadorIol #sliderIncisionSizeLens{
+	width: 48% !important;
+	margin-left: 1%;
+}
+
+
+
+#buscadorIol #right form div.ui-widget span.custom-combobox input, #buscadorIol #right form label.ui-state-active span{
+	width: 46%;
+}
+
+
+#buscadorIol .custom-combobox{
+	clear: left;
+	display: block;
+}
+
+
+
+.page-template-template-buscador-iol-php #footer-wrap{
+	min-width: 100% !important;
+}
+
+
+/*Vamos con el simulador y el resultado del test post op*/
+#primary.site-content-simulator{
+	width: 98%;
+}
+
+.site-content-simulator #content{
+	width: 98%;
+}
+#sym{
+	width: 98% !important;
+}
+#symlens-canvas{
+	width: 98% !important;
+
+}
+
+#conditionsWrapper{
+	height: auto;
+}
+ #vision-result label{
+    padding-bottom: 5px;
+    padding-left: 0;
+    padding-top: 5px;
+    width: 49%;
+}
+
+#astigButtons label span{
+	display: inline;
+	padding-left: 1px;
+	padding-right: 1px;
+
+}
+
+#menu-title-vision {
+    float: right;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    width: 54%;
+}
+
+#menu-title-conditions{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+#astigButtons label[for="astigmatismo"]{
+	background: none;
+	width: 18%;
+	border-right: 0px;
+}
+#astigButtons label[for="astigmatismo_no"]{
+	background: none;
+	width: 18%;
+}
+
+div#content.site-content-testResult{
+
+}
+
+
+#menu-simulator-container {
+    width: 99.3%;
+}
+
+#astigButtons{
+	margin-right: 0px;
+}
+
+span.astigText {
+    display: inline-block;
+    font-size: 12px;
+    margin-left: 10px;
+    text-align: center;
+    width: 40px;
+}
+#astigButtons label{
+	height: 95%;
+}
+
+
+/*M�s p�ginas*/
+#primary.site-content-not-menus.lista-sencilla ul.estilada{
+	margin-left: 0px;
+	padding-left: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+
+#primary.site-content-not-menus.lista-sencilla ul.estilada li{
+	margin-left: 0px;
+}
+
+#primary.site-content-not-menus.lista-sencilla span.figcaption{
+	font-size: 11px;
+	}
+
+#primary.site-content-not-menus.lista-sencilla #yarppBottomWrapper #blockYarpp1{
+	width: 45%;
+}
+
+#primary.site-content-not-menus.lista-sencilla #yarppBottomWrapper #blockYarpp2{
+	width: 45%;
+	float: right;
+}
+
+#primary.site-content-not-menus.lista-sencilla #yarppBottomWrapper #blockYarpp3{
+	clear: left;
+	width: 45%;
+}
+
+#primary.site-content-not-menus.lista-sencilla #yarppBottomWrapper #blockYarpp4{
+	width: 45%;
+	float: right;
+}
+
+.site-content-login{
+	width: 95%;
+	float: none;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+}
+#rightLogin.community{
+	clear: both;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+	text-align: center;
+}
+
+.site-content-register{
+	width: 95%;
+	float: none;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#community.rightProfile{
+	width: 95%;
+	float: none;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.site-content-fabricantes .featured-image-content{
+	float: none;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+/*la del perfil de cl�nicas*/
+
+#primary.clinic-profile .ccf-form-wrapper{
+	width: auto;
+}
+
+.clinic-profile .customcontactform input{
+	max-width: 90%;
+	margin-left: 10px;
+}
+.clinic-profile .customcontactform textarea{
+	width: 90%;
+	margin-left: 10px;
+}
+.clinic-profile .customcontactform{
+	padding-left: 5px;
+}
+
+#top-header-menu ul li:nth-child(1),
+#top-header-menu ul li:nth-child(2){
+	display: none;
+}
+
+
+
+
+/*-- La parte del buscador de cl�nicas --*/
+#pageBuscadorClinicaWrapper #page{
+	width: 100%;
+	padding-top: 10px;
+}
+#pageBuscadorClinicaWrapper #headerWrapper{
+	width: 100%;
+}
+
+#buscadorTitle{
+    margin-left: 2%;
+    margin-top: -10px;
+    text-align: left;
+    width: 95%;
+}
+
+#backFromClinics{
+	margin-bottom: 10px;
+}
+#top-header.buscador-clinicas-header{
+	height: auto;
+}
+
+div#primary.site-content-clinicas.primary-buscador-clinicas{
+	width: 98%;
+	float: none;
+	clear: both;
+}
+/*-- De momento s�lo ponemos uno de los filtros--*/
+#titleBlue{
+	display: none;
+}
+#titleOrange{
+	width: 80%;
+	float: none;
+}
+
+#pageBuscadorClinicaWrapper div#primary.site-content-clinicas #divContenedor{
+	display: none;
+}
+#pageBuscadorClinicaWrapper #right.filter-right{
+	width: 85% !important;
+	margin-top: 20px;
+
+}
+#pageBuscadorClinicaWrapper #showAll{
+ width: 30%;
+}
+
+#pageBuscadorClinicaWrapper div.clinicListsWrapper{
+	display: none;
+}
+
+#pageBuscadorClinicaWrapper #rightBuscadorClinicas{
+   clear: both;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    }
+
+#pageBuscadorClinicaWrapper div.moreClinics{
+	display: none;
+}
+
+#rightBuscadorClinicas div.userGeoInfo{
+	display: none;
+}
+
+/*-- Vamos a meter un par de reglas para el test --*/
+
+#primary #rightcustomcontent{
+	float: none;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+
+#primary.site-content-customuser #content{
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	float: none;
+}
+
+
+#bbpress-forums .bbp-forum-info .bbp-forum-content{
+	margin-left:5px;
+	}
+
+#bbpress-forums li.bbp-body ul.forum{
+	padding-left:5px;
+	}
+
+li.bbp-forum-info {
+	width:90%;
+	}
+li.bbp-forum-topic-count, li.bbp-forum-reply-count, li.bbp-forum-freshness{
+	display:none;
+	}
+
+li.bbp-topic-title{
+	width:90%;
+	}
+
+li.bbp-topic-reply-count, li.bbp-topic-freshness{
+	display:none;
+	}
+
+#bbpress-forums div.bbp-reply-author{
+	width:180px;
+	clear:both;
+	float:right;
+	margin-left:20px;
+	}
+#bbpress-forums div.bbp-reply-content{
+	width:90%;
+	clear:both;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+
+#bbpress-forums div.bbp-reply-author img.avatar{
+	position:static;
+	display:block;
+	float:left;
+	}
+
+/*Vamos a dejar lo mejor posible el simulador */
+
+.site-content-simulator #content{
+	max-width:98% !important;
+	}
+#symlens-canvas > img{
+	max-width:98% !important;
+	height:auto;
+	}
+
+#menu-title-vision {
+    width: auto;
+    font-size: 12px !important;
+    float: none;
+    display: block;
+    border: none;
+}
+
+#menu-title-conditions {
+    float: left;
+    width: 42%;
+    border: none;
+}
+#conditions label, #vision-result label{
+	width:47% !important;
+	}
+
+#simulator-options-conditions label{
+	width:100% !important;
+	}
+
+
+#primary.postOpTestResults #content,
+#primary.postOpTestResults #right,
+#primary.postOpTestResults #resultPosOpTitle{
+		width:98%;
+		margin-left:auto;
+  	margin-right:auto;
+  	float:none;
+	}
+
+
+#primary.postOpTestResults #right{
+	float:none;
+	clear:both;
+	text-align:center;
+	}
+
+.postOpTestResults .grafico {
+    max-width: 99%;
+    overflow: hidden;
+    padding: 0px;
+    width: 99%;
+    z-index: 100;
+}
+.postOpTestResults .panel{
+	width:100%;
+	padding:0px !important;
+	margin:0px !important;
+	max-height: 320px !important;
+	}
+
+div.podcastbanner-home{
+	float: none;
+	clear: both;
+	width: 90%;
+	margin: auto;
+	margin-bottom: 25px;
+}
+
+div.ebookbanner-home{
+	float: none;
+	clear: both;
+	width: 90%;
+	margin: auto;	
+}
+
+div.podcastebookWrapper{
+	height: 285px;
+	padding-top: 30px;
+}
+
+div.ebookpodcastvertical div.podcastebookWrapper{
+	height: auto;
+}
+
+div.podcastbanner-home{
+	margin-bottom: 15px;
+	max-width: 98%;
+	padding-top: 10px;
+	min-height: 100px;
+}
+div.ebookbanner-home{
+    max-width: 98%;
+    padding-top: 35px;
+    min-height: 100px;
+}
+
+/*Fin del Viewport*/
+}
+
+
+@media (max-width: 450px){
+#slider {
+    background-position: -510px center;
+    max-height: 322px;
+}
+
+#de_DE .site-content-archive-lentes h1{
+	font-size: 1.2em !important;
+}
+}
+
+#wpadminbar{
+/*	display: none !important;*/
+}

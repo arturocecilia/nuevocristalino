@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "user-analysis"
+msgid "Si no aparece el nombre de la IOL, Contáctenos por favor."
+msgstr "Falls kein Name einer IOL erscheint, kontaktieren Sie uns bitte."
+
+msgctxt "user-analysis"
+msgid "No especificado"
+msgstr "Nicht spezifiziert"
+
+msgctxt "user-analysis"
+msgid "Para poder ver la información ha de estar logeado"
+msgstr "Um diese Information zu sehen müssen Sie eingeloggt sein."
+
+msgctxt "user-data-checker"
+msgid "Perfil básico de usuario"
+msgstr "Basisprofils des Users"
+
+msgctxt "user-data-checker"
+msgid "Información preoperatoria"
+msgstr "Präoperative Informationen"
+
+msgctxt "user-data-checker"
+msgid "Información postoperatoria"
+msgstr "Postoperative Informationen"
+
+msgctxt "user-data-checker"
+msgid "Bien, has rellenado parcialmente el cuestionario <strong style=\"color:green\">%s</strong>, si lo deseas puedes"
+msgstr "Sie haben den Fragebogen teilweise ausgefüll <strong style=\"color:green\">%s</strong>,falls Sie wünschen können Sie"
+
+msgctxt "user-data-checker"
+msgid "rellenar las %s preguntas restantes"
+msgstr "die restlichen %s Fragen beantworten"
+
+msgctxt "user-data-checker"
+msgid "que son:"
+msgstr "das sind folgende:"
+
+msgctxt "user-data-checker"
+msgid "Genial, has rellenado satisfactoriamente el cuestionario:"
+msgstr "Herzlichen Glückwusch, Sie haben die Fragebogen komplett ausgefüllt."
+
+msgctxt "user-data-checker"
+msgid "Los siguientes campos se han rellenado correctamente:"
+msgstr "Folgende Felder sind korrekt ausgefüllt:"
+
+msgctxt "user-data-checker"
+msgid "Campo : %1$s rellenado con valor: %2$s "
+msgstr "Feld : %1$s richtig ausgefüllt: %2$s "
+
+msgctxt "user-data-checker"
+msgid "Campo : %s no rellenado."
+msgstr "Feld : %s nicht ausgefüllt."
+
+msgctxt "user-data-checker"
+msgid "Vaya, vemos que no has rellenado el cuestionario:"
+msgstr "Sie haben den Fragebogen nicht ausgefüllt."
+
+msgctxt "user-data-checker"
+msgid "Los siguientes campos no se han rellenado:"
+msgstr "Die folgenden Felder sind nicht ausgefüllt:"
+
+msgctxt "user-data-checker"
+msgid "Ir a ver mi lista de lentes intraoculares"
+msgstr "Schauen Sie auf die Liste der Intraokularlinsen"
+
+msgctxt "user-data-checker"
+msgid "No ha rellenado el número de campos mínimos de:"
+msgstr "Sie haben das Minimum der Fragen nicht ausgefüllt:"
+
+msgctxt "user-data-checker"
+msgid "como para poder mostrarle lentes intraoculares de acuerdo a su perfil"
+msgstr "um Ihnen Intraokularlinsen passend zu Ihrem Profil anzeigen zu können."
+
+msgctxt "user-data-checker"
+msgid "Necesitas <a href=\"%s\">iniciar sesión/logearte</a>"
+msgstr "Sie müssen <a href=\"%s\">die Sitzung beginnen/eingeloggt sein</a>"
+
+msgctxt "user-data-checker"
+msgid "Si no estás registrado puedes <a href=\"%s\"> registrarte de forma gratuita. </a>"
+msgstr "Falls Sie nicht registriert sind, können Sie sich <a href=\"%s\"> kostenlos registrieren. </a>"
+
+msgctxt "user-data-checker"
+msgid "Tu tipo de usuario de NuevoCristalino es:"
+msgstr "Ihr Usertyp ist:"
+
+msgctxt "user-data-checker"
+msgid "Tu cirugía de interés principal es:"
+msgstr "Sie interessieren sich hauptsächlich für folgende Operation:"
+
+msgctxt "user-data-checker"
+msgid "En relación al momento de la operación:"
+msgstr "Im Zusammenhang mit der Operation:"
+
+msgctxt "user-data-checker"
+msgid "Necesitas iniciar sesión/logearte. Si no estás registrado puedes"
+msgstr "Sie müssen eine Sitzung beginnen/eingeloggt sein. Wenn sie nicht registriert sind können Sie"
+
+msgctxt "user-tests-knowledge"
+msgid "En este momento, no disponemos de ningún test que le sea de utilidad de acuerdo a la información que nos ha aportado"
+msgstr "Momentan haben wir keinen Test, der für Sie passend ist. "

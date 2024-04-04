@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "bbpress_forum"
+msgid "Foros de NuevoCristalino"
+msgstr "Forum von NeueLinsen"
+
+msgctxt "bbpress_forum"
+msgid "Editar Perfil"
+msgstr "Profil erstellen"
+
+msgctxt "bbpress_forum"
+msgid "lente-intraocular"
+msgstr "intraokularlinse"
+
+msgctxt "bbpress_forum"
+msgid "clinica"
+msgstr "klinik"

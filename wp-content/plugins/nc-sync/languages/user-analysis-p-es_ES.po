@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "user-analysis"
+msgid "Si no aparece el nombre de la IOL, Contáctenos por favor."
+msgstr "Si no aparece el nombre de la IOL, Contáctenos por favor."
+
+msgctxt "user-analysis"
+msgid "No especificado"
+msgstr "No especificado"
+
+msgctxt "user-analysis"
+msgid "Para poder ver la información ha de estar logeado"
+msgstr "Para poder ver la información ha de estar logeado"
+
+msgctxt "user-data-checker"
+msgid "Perfil básico de usuario"
+msgstr "Perfil básico de usuario"
+
+msgctxt "user-data-checker"
+msgid "Información preoperatoria"
+msgstr "Información preoperatoria"
+
+msgctxt "user-data-checker"
+msgid "Información postoperatoria"
+msgstr "Información postoperatoria"
+
+msgctxt "user-data-checker"
+msgid "Bien, has rellenado parcialmente el cuestionario <strong style=\"color:green\">%s</strong>, si lo deseas puedes"
+msgstr "Bien, has rellenado parcialmente el cuestionario <strong style=\"color:green\">%s</strong>, si lo deseas puedes"
+
+msgctxt "user-data-checker"
+msgid "rellenar las %s preguntas restantes"
+msgstr "rellenar las %s preguntas restantes"
+
+msgctxt "user-data-checker"
+msgid "que son:"
+msgstr "que son:"
+
+msgctxt "user-data-checker"
+msgid "Genial, has rellenado satisfactoriamente el cuestionario:"
+msgstr "Genial, has rellenado satisfactoriamente el cuestionario:"
+
+msgctxt "user-data-checker"
+msgid "Los siguientes campos se han rellenado correctamente:"
+msgstr "Los siguientes campos se han rellenado correctamente:"
+
+msgctxt "user-data-checker"
+msgid "Campo : %1$s rellenado con valor: %2$s "
+msgstr "Campo : %1$s rellenado con valor: %2$s "
+
+msgctxt "user-data-checker"
+msgid "Campo : %s no rellenado."
+msgstr "Campo : %s no rellenado."
+
+msgctxt "user-data-checker"
+msgid "Vaya, vemos que no has rellenado el cuestionario:"
+msgstr "Vaya, vemos que no has rellenado el cuestionario:"
+
+msgctxt "user-data-checker"
+msgid "Los siguientes campos no se han rellenado:"
+msgstr "Los siguientes campos no se han rellenado:"
+
+msgctxt "user-data-checker"
+msgid "Ir a ver mi lista de lentes intraoculares"
+msgstr "Ir a ver mi lista de lentes intraoculares"
+
+msgctxt "user-data-checker"
+msgid "No ha rellenado el número de campos mínimos de:"
+msgstr "No ha rellenado el número de campos mínimos de:"
+
+msgctxt "user-data-checker"
+msgid "como para poder mostrarle lentes intraoculares de acuerdo a su perfil"
+msgstr "como para poder mostrarle lentes intraoculares de acuerdo a su perfil"
+
+msgctxt "user-data-checker"
+msgid "Necesitas <a href=\"%s\">iniciar sesión/logearte</a>"
+msgstr "Necesitas <a href=\"%s\">iniciar sesión/logearte</a>"
+
+msgctxt "user-data-checker"
+msgid "Si no estás registrado puedes <a href=\"%s\"> registrarte de forma gratuita. </a>"
+msgstr "Si no estás registrado puedes <a href=\"%s\"> registrarte de forma gratuita. </a>"
+
+msgctxt "user-data-checker"
+msgid "Tu tipo de usuario de NuevoCristalino es:"
+msgstr "Tu tipo de usuario de NuevoCristalino es:"
+
+msgctxt "user-data-checker"
+msgid "Tu cirugía de interés principal es:"
+msgstr "Tu cirugía de interés principal es:"
+
+msgctxt "user-data-checker"
+msgid "En relación al momento de la operación:"
+msgstr "En relación al momento de la operación:"
+
+msgctxt "user-data-checker"
+msgid "Necesitas iniciar sesión/logearte. Si no estás registrado puedes"
+msgstr "Necesitas iniciar sesión/logearte. Si no estás registrado puedes"
+
+msgctxt "user-tests-knowledge"
+msgid "En este momento, no disponemos de ningún test que le sea de utilidad de acuerdo a la información que nos ha aportado"
+msgstr "En este momento, no disponemos de ningún test que le sea de utilidad de acuerdo a la información que nos ha aportado"

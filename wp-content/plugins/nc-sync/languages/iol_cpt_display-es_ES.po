@@ -1,0 +1,823 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "Archive Lente Intraocular"
+msgid "LAS LENTES INTRAOCULARES RESULTANTES DE SU BÚSQUEDA SON:"
+msgstr "LAS LENTES INTRAOCULARES RESULTANTES DE SU BÚSQUEDA SON:"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Búsqueda de lente por nombre:"
+msgstr "Búsqueda de lente por nombre:"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Resetear Búsqueda"
+msgstr "Resetear Búsqueda"
+
+msgctxt "Archive Lente Intraocular"
+msgid "No hay ninguna Lente Intraocular con los criterios de filtrado actuales."
+msgstr "No hay ninguna Lente Intraocular con los criterios de filtrado actuales."
+
+msgctxt "Archive Lente Intraocular"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr "Proceda a realizar una nueva búsqueda cambiando los criterios."
+
+msgctxt "Archive Lente Intraocular"
+msgid "Usar al Búsqueda Avanzada para Oftalmólogos."
+msgstr "Usar al Búsqueda Avanzada para Oftalmólogos."
+
+msgctxt "Archive Lente Intraocular"
+msgid "Usar al Búsqueda Sencilla para Pacientes"
+msgstr "Usar al Búsqueda Sencilla para Pacientes"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Información sobre la Búsqueda realizada"
+msgstr "Información sobre la Búsqueda realizada"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Cerrar"
+msgstr "Cerrar"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Minimizar"
+msgstr "Minimizar"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Maximizar"
+msgstr "Maximizar"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Hay &nbsp; %d lentes encontradas"
+msgstr "Hay &nbsp; %d lentes encontradas"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Las lentes mostradas cumplen las siguientes características:"
+msgstr "Las lentes mostradas cumplen las siguientes características:"
+
+msgctxt "Archive Lente Intraocular"
+msgid "Variables que no se han especificado:"
+msgstr "Variables que no se han especificado:"
+
+msgctxt "Archive Lente Intraocular"
+msgid "No hay ninguna restricción impuesta a las lentes, se están mostrando todas las disponibles."
+msgstr "No hay ninguna restricción impuesta a las lentes, se están mostrando todas las disponibles."
+
+msgctxt "Archive Patient Form"
+msgid "BUSCADOR BÁSICO:"
+msgstr "BUSCADOR BÁSICO:"
+
+msgctxt "Archive Patient Form"
+msgid "Realizar Filtrado"
+msgstr "Realizar Filtrado"
+
+msgctxt "Archive Patient Form"
+msgid "Vista:"
+msgstr "Vista:"
+
+msgctxt "Archive Patient Form"
+msgid "Filtro para Pacientes"
+msgstr "Filtro para Pacientes"
+
+msgctxt "Archive Patient Form"
+msgid "Lente Intraocular Estándar:"
+msgstr "Lente Intraocular Estándar:"
+
+msgctxt "Archive Patient Form"
+msgid "Lente Intraocular Premium:"
+msgstr "Lente Intraocular Premium:"
+
+msgctxt "Archive Patient Form"
+msgid "Correción para Astigmatismo"
+msgstr "Correción para Astigmatismo"
+
+msgctxt "Archive Patient Form"
+msgid "Filtros de la Lente:"
+msgstr "Filtros de la Lente:"
+
+msgctxt "Archive Patient Form"
+msgid "Add On:"
+msgstr "Add On:"
+
+msgctxt "Archive Patient Form"
+msgid "Lente Fáquica ICL:&nbsp;&nbsp;"
+msgstr "Lente Fáquica ICL:&nbsp;&nbsp;"
+
+msgctxt "Archive Patient Form"
+msgid "Lente Fáquica Verisyse:"
+msgstr "Lente Fáquica Verisyse:"
+
+msgctxt "Content Lente Intraocular"
+msgid "Diseño de Óptica"
+msgstr "Diseño de Óptica"
+
+msgctxt "Content Lente Intraocular"
+msgid "Toricidad de la Lente"
+msgstr "Toricidad de la Lente"
+
+msgctxt "Content Lente Intraocular"
+msgid "Filtros de la Lente"
+msgstr "Filtros de la Lente"
+
+msgctxt "Content Lente Intraocular"
+msgid "Adicción de la Lente"
+msgstr "Adicción de la Lente"
+
+msgctxt "Content Lente Intraocular"
+msgid "Fabricante de la Lente"
+msgstr "Fabricante de la Lente"
+
+msgctxt "Content Lente Intraocular"
+msgid "Bordes Cuadrados"
+msgstr "Bordes Cuadrados"
+
+msgctxt "Content Lente Intraocular"
+msgid "Afericidad de la Lente"
+msgstr "Afericidad de la Lente"
+
+msgctxt "Content Lente Intraocular"
+msgid "Principio Óptico"
+msgstr "Principio Óptico"
+
+msgctxt "Content Lente Intraocular"
+msgid "Diseño-Estructura de la Lente"
+msgstr "Diseño-Estructura de la Lente"
+
+msgctxt "Content Lente Intraocular"
+msgid "Material de la Lente"
+msgstr "Material de la Lente"
+
+msgctxt "Content Lente Intraocular"
+msgid "Inyector"
+msgstr "Inyector"
+
+msgctxt "Content Lente Intraocular"
+msgid "Precargada"
+msgstr "Precargada"
+
+msgctxt "Content Lente Intraocular"
+msgid "Diseño de Hápticos"
+msgstr "Diseño de Hápticos"
+
+msgctxt "Content Lente Intraocular"
+msgid "Diámetro Óptico"
+msgstr "Diámetro Óptico"
+
+msgctxt "Content Lente Intraocular"
+msgid "Diámetro Total"
+msgstr "Diámetro Total"
+
+msgctxt "Content Lente Intraocular"
+msgid "Intervalo de Dioptrías Esfera"
+msgstr "Intervalo de Dioptrías Esfera"
+
+msgctxt "Content Lente Intraocular"
+msgid "Rango Dioptrías Esfera desde"
+msgstr "Rango Dioptrías Esfera desde"
+
+msgctxt "Content Lente Intraocular"
+msgid "Rango Dioptrías Esfera hasta"
+msgstr "Rango Dioptrías Esfera hasta"
+
+msgctxt "Content Lente Intraocular"
+msgid "Rango 0,5 Dioptrías Esfera desde"
+msgstr "Rango 0,5 Dioptrías Esfera desde"
+
+msgctxt "Content Lente Intraocular"
+msgid "Rango 0,5 Dioptrías Esfera hasta"
+msgstr "Rango 0,5 Dioptrías Esfera hasta"
+
+msgctxt "Content Lente Intraocular"
+msgid "Cilindro Dioptrías desde"
+msgstr "Cilindro Dioptrías desde"
+
+msgctxt "Content Lente Intraocular"
+msgid "Cilindro Dioptrías hasta"
+msgstr "Cilindro Dioptrías hasta"
+
+msgctxt "Content Lente Intraocular"
+msgid "Intervalos cilindro"
+msgstr "Intervalos cilindro"
+
+msgctxt "Content Lente Intraocular"
+msgid "Website Fuente de la Información"
+msgstr "Website Fuente de la Información"
+
+msgctxt "Content Lente Intraocular"
+msgid "Documento Fuente de la Información"
+msgstr "Documento Fuente de la Información"
+
+msgctxt "FilterIolEngine"
+msgid "El tipo de LIO: Pseudofáquica, fáquica..."
+msgstr "El tipo de LIO: Pseudofáquica, fáquica..."
+
+msgctxt "FilterIolEngine"
+msgid "Tipo de lente intraocular:"
+msgstr "Tipo de lente intraocular:"
+
+msgctxt "FilterIolEngine"
+msgid "Diseño de óptica:"
+msgstr "Diseño de óptica:"
+
+msgctxt "FilterIolEngine"
+msgid "El diseño de la óptica: monofocal, multifocal..."
+msgstr "El diseño de la óptica: monofocal, multifocal..."
+
+msgctxt "FilterIolEngine"
+msgid "La toricidad de la lente"
+msgstr "La toricidad de la lente"
+
+msgctxt "FilterIolEngine"
+msgid "Toricidad:"
+msgstr "Toricidad:"
+
+msgctxt "FilterIolEngine"
+msgid "Filtros incluidos:"
+msgstr "Filtros incluidos:"
+
+msgctxt "FilterIolEngine"
+msgid "Los filtros"
+msgstr "Los filtros"
+
+msgctxt "FilterIolEngine"
+msgid "Adición <b>mayor o igual</b> a:"
+msgstr "Adición <b>mayor o igual</b> a:"
+
+msgctxt "FilterIolEngine"
+msgid "Adición <b>menor o igual</b> a:"
+msgstr "Adición <b>menor o igual</b> a:"
+
+msgctxt "FilterIolEngine"
+msgid "Adición de cerca de la lente"
+msgstr "Adición de cerca de la lente"
+
+msgctxt "FilterIolEngine"
+msgid "El fabricante"
+msgstr "El fabricante"
+
+msgctxt "FilterIolEngine"
+msgid "Diámetro de óptica <b> igual o superior</b> a: "
+msgstr "Diámetro de óptica <b> igual o superior</b> a: "
+
+msgctxt "FilterIolEngine"
+msgid "Diametro de óptica <b>igual o inferior</b> a:"
+msgstr "Diametro de óptica <b>igual o inferior</b> a:"
+
+msgctxt "FilterIolEngine"
+msgid "Diámetro de la óptica"
+msgstr "Diámetro de la óptica"
+
+msgctxt "FilterIolEngine"
+msgid "Diámetro total <b>igual o superior</b> a:"
+msgstr "Diámetro total <b>igual o superior</b> a:"
+
+msgctxt "FilterIolEngine"
+msgid "Diámetro total <b>igual o inferior</b> a:"
+msgstr "Diámetro total <b>igual o inferior</b> a:"
+
+msgctxt "FilterIolEngine"
+msgid "Diámetro total"
+msgstr "Diámetro total"
+
+msgctxt "FilterIolEngine"
+msgid "Tamaño de Incisión <b>igual o superior</b> a:"
+msgstr "Tamaño de Incisión <b>igual o superior</b> a:"
+
+msgctxt "FilterIolEngine"
+msgid "Tamaño de Incisión <b>igual o inferior</b> a:"
+msgstr "Tamaño de Incisión <b>igual o inferior</b> a:"
+
+msgctxt "FilterIolEngine"
+msgid "Tamaño de la incisión"
+msgstr "Tamaño de la incisión"
+
+msgctxt "FilterIolEngine"
+msgid "Bordes Cuadrados:"
+msgstr "Bordes Cuadrados:"
+
+msgctxt "FilterIolEngine"
+msgid "Bordes"
+msgstr "Bordes"
+
+msgctxt "FilterIolEngine"
+msgid "Asfericidad igual o superior a:"
+msgstr "Asfericidad igual o superior a:"
+
+msgctxt "FilterIolEngine"
+msgid "Asfericidad igual o inferior a:"
+msgstr "Asfericidad igual o inferior a:"
+
+msgctxt "FilterIolEngine"
+msgid "Valor numérico de Asfericidad"
+msgstr "Valor numérico de Asfericidad"
+
+msgctxt "FilterIolEngine"
+msgid "Principios ópticos de lente incluidos:"
+msgstr "Principios ópticos de lente incluidos:"
+
+msgctxt "FilterIolEngine"
+msgid "Principio Óptico"
+msgstr "Principio Óptico"
+
+msgctxt "FilterIolEngine"
+msgid "Diseño de la lente: Monobloque, 3-piezas..."
+msgstr "Diseño de la lente: Monobloque, 3-piezas..."
+
+msgctxt "FilterIolEngine"
+msgid "El Material"
+msgstr "El Material"
+
+msgctxt "FilterIolEngine"
+msgid "Material:"
+msgstr "Material:"
+
+msgctxt "FilterIolEngine"
+msgid "Uso de Inyector"
+msgstr "Uso de Inyector"
+
+msgctxt "FilterIolEngine"
+msgid "Si es precargada"
+msgstr "Si es precargada"
+
+msgctxt "FilterIolEngine"
+msgid "Diseño de Hápticos:"
+msgstr "Diseño de Hápticos:"
+
+msgctxt "FilterIolEngine"
+msgid "Diseño de los hápticos"
+msgstr "Diseño de los hápticos"
+
+msgctxt "FilterIolEngine"
+msgid "Dioptrías esféricas disponibles inferiores o iguales a:"
+msgstr "Dioptrías esféricas disponibles inferiores o iguales a:"
+
+msgctxt "FilterIolEngine"
+msgid "Dioptrías esféricas disponibles superiores o iguales a:"
+msgstr "Dioptrías esféricas disponibles superiores o iguales a:"
+
+msgctxt "FilterIolEngine"
+msgid "Dioptrías de esfera"
+msgstr "Dioptrías de esfera"
+
+msgctxt "FilterIolEngine"
+msgid "Dioptrías Cilíndricas disponibles inferiores o iguales a:"
+msgstr "Dioptrías Cilíndricas disponibles inferiores o iguales a:"
+
+msgctxt "FilterIolEngine"
+msgid "Dioptrías cilíndricas disponibles superiores o iguales a:"
+msgstr "Dioptrías cilíndricas disponibles superiores o iguales a:"
+
+msgctxt "FilterIolEngine"
+msgid "Dioptrías cilíndricas"
+msgstr "Dioptrías cilíndricas"
+
+msgctxt "Left Single Lente Intraocular"
+msgid "MÁS LENTES DE:"
+msgstr "MÁS LENTES DE:"
+
+msgctxt "Left Single Lente Intraocular"
+msgid "CONTACTE CON"
+msgstr "CONTACTE CON"
+
+msgctxt "Patient Form"
+msgid "BUSCADOR DE LENTES PARA PACIENTES:"
+msgstr "BUSCADOR DE LENTES PARA PACIENTES:"
+
+msgctxt "Patient Form"
+msgid "Filtro para Pacientes"
+msgstr "Filtro para Pacientes"
+
+msgctxt "Patient Form"
+msgid "Lente Intraocular Estándar:"
+msgstr "Lente Intraocular Estándar:"
+
+msgctxt "Patient Form"
+msgid "Monofocal"
+msgstr "Monofocal"
+
+msgctxt "Patient Form"
+msgid "Lente Intraocular Premium:"
+msgstr "Lente Intraocular Premium:"
+
+msgctxt "Patient Form"
+msgid "Monofocal Asférica"
+msgstr "Monofocal Asférica"
+
+msgctxt "Patient Form"
+msgid "Multifocal Bifocal"
+msgstr "Multifocal Bifocal"
+
+msgctxt "Patient Form"
+msgid "Multifocal Trifocal"
+msgstr "Multifocal Trifocal"
+
+msgctxt "Patient Form"
+msgid "Acomodativa"
+msgstr "Acomodativa"
+
+msgctxt "Patient Form"
+msgid "Ajustable por luz"
+msgstr "Ajustable por luz"
+
+msgctxt "Patient Form"
+msgid "Corrección para Astigmatismo"
+msgstr "Corrección para Astigmatismo"
+
+msgctxt "Patient Form"
+msgid "Sí"
+msgstr "Sí"
+
+msgctxt "Patient Form"
+msgid "No"
+msgstr "No"
+
+msgctxt "Patient Form"
+msgid "Filtros de la Lente:"
+msgstr "Filtros de la Lente:"
+
+msgctxt "Patient Form"
+msgid "Ultravioleta"
+msgstr "Ultravioleta"
+
+msgctxt "Patient Form"
+msgid "Luz Azul"
+msgstr "Luz Azul"
+
+msgctxt "Patient Form"
+msgid "Protección Mácular"
+msgstr "Protección Mácular"
+
+msgctxt "Patient Form"
+msgid "Add On:"
+msgstr "Add On:"
+
+msgctxt "Patient Form"
+msgid "Multifocal"
+msgstr "Multifocal"
+
+msgctxt "Patient Form"
+msgid "Lente Fáquica ICL:&nbsp;&nbsp;"
+msgstr "Lente Fáquica ICL:&nbsp;&nbsp;"
+
+msgctxt "Patient Form"
+msgid "Lente Fáquica Verisyse:"
+msgstr "Lente Fáquica Verisyse:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "BUSCAR LENTES INTRAOCULARES:"
+msgstr "BUSCAR LENTES INTRAOCULARES:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Realizar Filtrado"
+msgstr "Realizar Filtrado"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Vista"
+msgstr "Vista"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Características Generales"
+msgstr "Características Generales"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Tipo de lente intraocular:"
+msgstr "Tipo de lente intraocular:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Diseño de Óptica:"
+msgstr "Diseño de Óptica:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Toricidad de la Lente:"
+msgstr "Toricidad de la Lente:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Filtros de la Lente:"
+msgstr "Filtros de la Lente:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Multifocalidad - Presbicia:"
+msgstr "Multifocalidad - Presbicia:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Fabricante:"
+msgstr "Fabricante:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Bordes, Material, Hápticos..."
+msgstr "Bordes, Material, Hápticos..."
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "No aplicar estos filtros:"
+msgstr "No aplicar estos filtros:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Aplicar estos filtros:"
+msgstr "Aplicar estos filtros:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Bordes Cuadrados:"
+msgstr "Bordes Cuadrados:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Principio Óptico:"
+msgstr "Principio Óptico:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Diseño de Lente:"
+msgstr "Diseño de Lente:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Material de Lente:"
+msgstr "Material de Lente:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Con"
+msgstr "Con"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Sin"
+msgstr "Sin"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "S/E"
+msgstr "S/E"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Sí"
+msgstr "Sí"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "No"
+msgstr "No"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Diseño Hápticos:"
+msgstr "Diseño Hápticos:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Sin Especificar"
+msgstr "Sin Especificar"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Asfericid., Diámetros..."
+msgstr "Asfericid., Diámetros..."
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Rango Dioptrías Esfera:"
+msgstr "Rango Dioptrías Esfera:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Rango Dioptrías Cilndro:"
+msgstr "Rango Dioptrías Cilndro:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Asfericidad:"
+msgstr "Asfericidad:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Diámetro de Óptica:"
+msgstr "Diámetro de Óptica:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Diámetro Total:"
+msgstr "Diámetro Total:"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Tamaño de Incisión:"
+msgstr "Tamaño de Incisión:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "BUSCAR LENTES INTRAOCULARES:"
+msgstr "BUSCAR LENTES INTRAOCULARES:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Características Generales"
+msgstr "Características Generales"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Tipo de Lente Intraocular:"
+msgstr "Tipo de Lente Intraocular:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Diseño de Óptica:"
+msgstr "Diseño de Óptica:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Toricidad de la Lente:"
+msgstr "Toricidad de la Lente:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Filtros de la Lente:"
+msgstr "Filtros de la Lente:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Multifocalidad - Presbicia:"
+msgstr "Multifocalidad - Presbicia:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Fabricante:"
+msgstr "Fabricante:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Bordes, Material, Hápticos..."
+msgstr "Bordes, Material, Hápticos..."
+
+msgctxt "Right Single Lente Intraocula"
+msgid "No aplicar estos filtros"
+msgstr "No aplicar estos filtros"
+
+msgctxt "Right Single Lente Intraocula"
+msgid "Aplicar estos filtros"
+msgstr "Aplicar estos filtros"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Bordes Cuadrados:"
+msgstr "Bordes Cuadrados:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Sí"
+msgstr "Sí"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "S/E"
+msgstr "S/E"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "No"
+msgstr "No"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Principio Óptico:"
+msgstr "Principio Óptico:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Refr."
+msgstr "Refr."
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Difr."
+msgstr "Difr."
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Mixta"
+msgstr "Mixta"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Diseño de Lente:"
+msgstr "Diseño de Lente:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Sin Especificar"
+msgstr "Sin Especificar"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Material de Lente:"
+msgstr "Material de Lente:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Inyector:"
+msgstr "Inyector:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Con"
+msgstr "Con"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Sin"
+msgstr "Sin"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Asfericidad:"
+msgstr "Asfericidad:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Diámetro de Óptica"
+msgstr "Diámetro de Óptica"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Diámetro Total:"
+msgstr "Diámetro Total:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Rango Dioptrías Esfera:"
+msgstr "Rango Dioptrías Esfera:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Rango Dioptrías Cilndro:"
+msgstr "Rango Dioptrías Cilndro:"
+
+msgctxt "Right Single Lente Intraocular"
+msgid "Tamaño de Incisión:"
+msgstr "Tamaño de Incisión:"
+
+msgctxt "Single Lente Intraocular"
+msgid "¿DONDE ME PUEDEN PONER ESTA LENTE EN ESPAÑA?"
+msgstr "¿DONDE ME PUEDEN PONER ESTA LENTE EN ESPAÑA?"
+
+msgctxt "Single Lente Intraocular"
+msgid "Ver información de la clínica"
+msgstr "Ver información de la clínica"
+
+msgctxt "Single Lente Intraocular"
+msgid "Ir al buscador con esta lente para Ver más Clínicas"
+msgstr "Ir al buscador con esta lente para Ver más Clínicas"
+
+msgctxt "Single Patient Form"
+msgid "BUSCADOR DE LENTES PARA PACIENTES:"
+msgstr "BUSCADOR DE LENTES PARA PACIENTES:"
+
+msgctxt "Single Patient Form"
+msgid "Filtro para Pacientes"
+msgstr "Filtro para Pacientes"
+
+msgctxt "Single Patient Form"
+msgid "Lente Intraocular Estándar:"
+msgstr "Lente Intraocular Estándar:"
+
+msgctxt "Single Patient Form"
+msgid "Lente Intraocular Premium:"
+msgstr "Lente Intraocular Premium:"
+
+msgctxt "Single Patient Form"
+msgid "Monofocal"
+msgstr "Monofocal"
+
+msgctxt "Single Patient Form"
+msgid "Monofocal Asférica"
+msgstr "Monofocal Asférica"
+
+msgctxt "Single Patient Form"
+msgid "Multifocal Bifocal"
+msgstr "Multifocal Bifocal"
+
+msgctxt "Single Patient Form"
+msgid "Multifocal Trifocal"
+msgstr "Multifocal Trifocal"
+
+msgctxt "Single Patient Form"
+msgid "Acomodativa"
+msgstr "Acomodativa"
+
+msgctxt "Single Patient Form"
+msgid "Ajustable por luz"
+msgstr "Ajustable por luz"
+
+msgctxt "Single Patient Form"
+msgid "Sí"
+msgstr "Sí"
+
+msgctxt "Single Patient Form"
+msgid "No"
+msgstr "No"
+
+msgctxt "Single Patient Form"
+msgid "Ultravioleta"
+msgstr "Ultravioleta"
+
+msgctxt "Single Patient Form"
+msgid "Protección Macular"
+msgstr "Protección Macular"
+
+msgctxt "Single Patient Form"
+msgid "Multifocal"
+msgstr "Multifocal"
+
+msgctxt "Single Patient Form"
+msgid "Luz Azul"
+msgstr "Luz Azul"
+
+msgctxt "Single Patient Form"
+msgid "Filtros de la Lente:"
+msgstr "Filtros de la Lente:"
+
+msgctxt "Single Patient Form"
+msgid "Add On:"
+msgstr "Add On:"
+
+msgctxt "Single Patient Form"
+msgid "Lente Fáquica ICL:&nbsp;&nbsp;"
+msgstr "Lente Fáquica ICL:&nbsp;&nbsp;"
+
+msgctxt "Single Patient Form"
+msgid "Lente Fáquica Verisyse:"
+msgstr "Lente Fáquica Verisyse:"
+
+msgctxt "Single Patient Form"
+msgid "Corrección para Astigmatismo"
+msgstr "Corrección para Astigmatismo"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Precargada"
+msgstr "Precargada"
+
+msgctxt "Right Archive Lente Intraocular"
+msgid "Rangos Dióptricos"
+msgstr "Rangos Dióptricos"
+
+msgctxt "FilterIolEngine"
+msgid "Asfericidad de la lente: asférica, esférica."
+msgstr "Asfericidad de la lente: asférica, esférica."
+
+msgctxt "FilterIolEngine"
+msgid "Asfericidad:"
+msgstr "Asfericidad:"

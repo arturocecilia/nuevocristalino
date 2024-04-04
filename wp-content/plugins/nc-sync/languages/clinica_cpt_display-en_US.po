@@ -1,0 +1,319 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "Single Lente Intraocular"
+msgid "Comunidad Autónoma:"
+msgstr "State:"
+
+msgctxt "Single Lente Intraocular"
+msgid "Sin Especificar"
+msgstr "Not Specified"
+
+msgctxt "Single Lente Intraocular"
+msgid "Provincia:"
+msgstr "County:"
+
+msgctxt "Single Lente Intraocular"
+msgid "Ver Filtros Avanzados para Oftalmólogos"
+msgstr "See Advanced Filters for Ophthalmologists"
+
+msgctxt "Single Lente Intraocular"
+msgid "Ver Filtros Simples para Pacientes"
+msgstr "See Simple Filters for patients"
+
+msgctxt "Archive Clinica"
+msgid "LAS CLÍNICAS QUE CUMPLEN CON LOS CRITERIOS DE SU BÚSQUEDA:"
+msgstr "THE EYE CLINICS THAT MATCHES YOUR SEARCH CRITERIA:"
+
+msgctxt "Archive Clinica"
+msgid "Buscar clínica por nombre:"
+msgstr "Search Eye Clinic by Name:"
+
+msgctxt "Archive Clinica"
+msgid "Resetear Búsqueda"
+msgstr "Reset the Search"
+
+msgctxt "Archive Clinica"
+msgid "No hay ninguna Lente Intraocular con los criterios de filtrado actuales."
+msgstr "There is no intraocular lens matching the current selection criteria."
+
+msgctxt "Archive Clinica"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr "Procedd with a new search changing the current criteria."
+
+msgctxt "Archive Clinica"
+msgid "Información sobre la Búsqueda de Clínicas realizada"
+msgstr "Information about the Eye Clinic Search carried out"
+
+msgctxt "Archive Clinica"
+msgid "Cerrar"
+msgstr "Close"
+
+msgctxt "Archive Clinica"
+msgid "Minimizar"
+msgstr "Minimize"
+
+msgctxt "Archive Clinica"
+msgid "Maximizar"
+msgstr "Maximize"
+
+msgctxt "Archive Clinica"
+msgid "Hay &nbsp; %d clínicas encontradas"
+msgstr "There are &nbsp; %d found"
+
+msgctxt "Archive Clinica"
+msgid "Las clínicas mostradas cumplen las siguientes características:"
+msgstr "The Eye Clinics shown match the following features:"
+
+msgctxt "Archive Clinica"
+msgid "Variables que no se han especificado:"
+msgstr "Unspecified variables:"
+
+msgctxt "Archive Clinica"
+msgid "No hay ninguna restricción impuesta a las clínicas, se están mostrando todas las disponibles."
+msgstr "There are no restrictions on clinics, all those available are being shown"
+
+msgctxt "Content Clinica"
+msgid "VOLVER A PÁGINA PRINCIPAL DE CLÍNICAS"
+msgstr "RETURN TO THE MAIN EYE CLINIC PAGE"
+
+msgctxt "Content Clinica"
+msgid "Dirección:"
+msgstr "Address:"
+
+msgctxt "Content Clinica"
+msgid "Telefóno de Contacto:"
+msgstr "Contact Phone:"
+
+msgctxt "Content Clinica"
+msgid "Email de contacto:"
+msgstr "Contact e-mail:"
+
+msgctxt "Content Clinica"
+msgid "Horario:"
+msgstr "Schedule:"
+
+msgctxt "Content Clinica"
+msgid "Director Médico:"
+msgstr "Medical Director:"
+
+msgctxt "Content Clinica"
+msgid "Doctores:"
+msgstr "Doctors:"
+
+msgctxt "Content Clinica"
+msgid "Sitio Web:"
+msgstr "Website:"
+
+msgctxt "Content Clinica"
+msgid "Clínicas :"
+msgstr "Eye Clinics:"
+
+msgctxt "Content Clinica"
+msgid "Vea&nbsp;%s &nbsp;en el mapa:"
+msgstr "View &nbsp; %s &nbsp; in the map:"
+
+msgctxt "Content Clinica"
+msgid "Detectar ubicación"
+msgstr "Detect location"
+
+msgctxt "Content Clinica"
+msgid "Ubicarme"
+msgstr "Locate Me"
+
+msgctxt "Content Clinica"
+msgid "Mostrar ruta a la clínica desde ubicación"
+msgstr "Show route to the clinic from the location"
+
+msgctxt "Content Clinica"
+msgid "Mostrando:"
+msgstr "Showing:"
+
+msgctxt "Content Clinica"
+msgid "Ubicación seleccionada:"
+msgstr "Selected location:"
+
+msgctxt "Content Clinica"
+msgid "Distancia:"
+msgstr "Distance:"
+
+msgctxt "Content Clinica"
+msgid "km"
+msgstr "km"
+
+msgctxt "Content Clinica"
+msgid "Mostrar clínica en mapa"
+msgstr "Show eye clinics in the map"
+
+msgctxt "FilterClinicaEngine"
+msgid "Dispone de Femto faco: "
+msgstr "Femto Phaco available: "
+
+msgctxt "FilterClinicaEngine"
+msgid "Disponibilidad de operación de femto faco."
+msgstr "Femto Phaco technology available"
+
+msgctxt "FilterClinicaEngine"
+msgid "Tiene el seguro concertado: "
+msgstr "Agreement with insurance company:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Seguros concertados."
+msgstr "Insurances:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Posibilidad de financiación: "
+msgstr "Financing Available"
+
+msgctxt "FilterClinicaEngine"
+msgid "Lente Intraocular a implantar: "
+msgstr "Intraocular Lens to be implanted:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Modelo de Lente Intraocular a Implantar"
+msgstr "Intraocular Lens Model to be implanted"
+
+msgctxt "FilterClinicaEngine"
+msgid "Numero de cirugías intraoculares al año: "
+msgstr "Number of surgeries per year:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Número de operaciones intraoculares."
+msgstr "Number of intraocular surgeries."
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de operación intraocular: "
+msgstr "Kind of intraocular surgery:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Ubicación de la Clínica."
+msgstr "Eye Clinic location."
+
+msgctxt "FilterClinicaEngine"
+msgid "Equipamiento de la clínica: "
+msgstr "Clinic Equipment:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Equipamiento de la clínica"
+msgstr "Clinic equipmment"
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de implante de interés: "
+msgstr "Kind of implant of interest:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de implante de interés"
+msgstr "Kind of implant of interest"
+
+msgctxt "FilterClinicaEngine"
+msgid "Más información sobre la clínica: "
+msgstr "More information about the clinic:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Información adicional de la clínica."
+msgstr "Additional Information about the clinic"
+
+msgctxt "FilterClinicaEngine"
+msgid "Localizacion: "
+msgstr "Location:"
+
+msgctxt "Left Clinica Oftalmologica"
+msgid "MÁS LENTES DE %s"
+msgstr "MORE LENSES OF:"
+
+msgctxt "Right Archive Clinica"
+msgid "BUSCAR CLÍNICAS"
+msgstr "FIND EYE CLINICS"
+
+msgctxt "Right Archive Clinica"
+msgid "Realizar Filtrado"
+msgstr "Filter"
+
+msgctxt "Right Archive Clinica"
+msgid "Vista:"
+msgstr "View:"
+
+msgctxt "Right Archive Clinica"
+msgid "Ubicación/Características"
+msgstr "Location/Features"
+
+msgctxt "Right Archive Clinica"
+msgid "Disponibilidad de Láser de Femtosegundo (femto-faco):"
+msgstr "Femtosecond Laser available (Femto-Phaco)"
+
+msgctxt "Right Archive Clinica"
+msgid "Lente Intraocular de Interés:"
+msgstr "Intraocular Lens of Interest:"
+
+msgctxt "Right Archive Clinica"
+msgid "Comunidad Autónoma:"
+msgstr "State:"
+
+msgctxt "Right Archive Clinica"
+msgid "Sin Especificar"
+msgstr "Not Specified"
+
+msgctxt "Right Archive Clinica"
+msgid "Características básicas"
+msgstr "Basic Features"
+
+msgctxt "Right Archive Clinica"
+msgid "Datos adicionales de la clínica"
+msgstr "Additional Information about the clinic"
+
+msgctxt "Right Archive Clinica"
+msgid "Equipos de la clínica"
+msgstr "Clinic Equipment"
+
+msgctxt "Right Archive Clinica"
+msgid "Seguros:"
+msgstr "Insurances:"
+
+msgctxt "Right Archive Clinica"
+msgid "Posibilidad de Financiación:"
+msgstr "Financing Available:"
+
+msgctxt "Right Archive Clinica"
+msgid "No"
+msgstr "No"
+
+msgctxt "Right Single Clinica"
+msgid "BUSCAR CLÍNICAS:"
+msgstr "FIND CLINICS:"
+
+msgctxt "Right Single Clinica"
+msgid "Ubicación/Características"
+msgstr "Location/Features"
+
+msgctxt "Right Single Clinica"
+msgid "Disponibilidad de Láser de Femtosegundo (femto-faco):"
+msgstr "Femtosecond Laser  available (Femto-Phaco)"
+
+msgctxt "Right Single Clinica"
+msgid "Comunidad Autónoma:"
+msgstr "State:"
+
+msgctxt "Right Single Clinica"
+msgid "Provincia:"
+msgstr "County:"
+
+msgctxt "Right Single Clinica"
+msgid "Características básicas"
+msgstr "Basic Features"
+
+msgctxt "Right Single Clinica"
+msgid "Datos adicionales de la clínica"
+msgstr "Addition Clinic Information"
+
+msgctxt "Right Single Clinica"
+msgid "Sin Especificar"
+msgstr "Not Specified"
+
+msgctxt "Right Single Clinica"
+msgid "Equipos de la clínica"
+msgstr "Clinic Equipment"
+
+msgctxt "Right Single Clinica"
+msgid "Posibilidad de Financiación:"
+msgstr "Financing Available:"

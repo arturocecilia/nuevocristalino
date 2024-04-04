@@ -1,0 +1,253 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgctxt "create_quick_form_signup"
+msgid "Nombre de Usuario"
+msgstr "Benutzername"
+
+msgctxt "nc_login_registration"
+msgid "Operación de Cataratas"
+msgstr "Katarakt (Graue Star) Operation"
+
+msgctxt "nc_login_registration"
+msgid "Operación de cristalino sin catarata"
+msgstr "Linsenoperation ohne Grauen Star (Katarakt)"
+
+msgctxt "nc_login_registration"
+msgid "Operación con ICL"
+msgstr "Operation mit Einsetzen einer Kontaktlinse in das Auge"
+
+msgctxt "nc_login_registration"
+msgid "Otra Operación"
+msgstr "Andere Operation"
+
+msgctxt "nc_login_registration"
+msgid "España"
+msgstr "Spanien"
+
+msgctxt "nc_login_registration"
+msgid "Méjico"
+msgstr "Mexiko"
+
+msgctxt "nc_login_registration"
+msgid "Chile"
+msgstr "Chile"
+
+msgctxt "nc_login_registration"
+msgid "Colombia"
+msgstr "Kolumbien"
+
+msgctxt "nc_login_registration"
+msgid "Estados Unidos"
+msgstr "Vereinigte Staaten"
+
+msgctxt "nc_login_registration"
+msgid "Gran Bretaña"
+msgstr "Grossbritannien"
+
+msgctxt "nc_login_registration"
+msgid "Alemania"
+msgstr "Deutschland"
+
+msgctxt "nc_login_registration"
+msgid "Austria"
+msgstr "Österreich"
+
+msgctxt "nc_login_registration"
+msgid "Otro"
+msgstr "Andere"
+
+msgctxt "nc_login_registration"
+msgid "Su usuario se ha creado correctamente. Habrá recibido un email para activar el usuario. De no ver el email en su bandeja de entrada no olvide chequear la carpeta spam."
+msgstr "Ihr Benutzer wurde erfolgreich erstellt. Wir haben Ihnen bereits eine E-Mail zur Aktivierung des Benutzers gesendet. Falls Sie unsere E-Mail nicht in Ihrem Posteingang sehen, vergessen Sie bitte nicht, Ihren Spam-Ordner zu überprüfen."
+
+msgctxt "nc_login_registration"
+msgid "Saludos del equipo de NuevoCristalino."
+msgstr "Grüße vom NewLens-Team."
+
+msgctxt "nc_login_registration"
+msgid "Tipo de usuario del sistema"
+msgstr "Ihr Usertyp ist"
+
+msgctxt "nc_login_registration"
+msgid "Paciente"
+msgstr "Patient"
+
+msgctxt "nc_login_registration"
+msgid "Profesional"
+msgstr "Augenartz"
+
+msgctxt "nc_login_registration"
+msgid "Nombre de Usuario"
+msgstr "Benutzername"
+
+msgctxt "nc_login_registration"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "nc_login_registration"
+msgid "Contraseña"
+msgstr "Passwort"
+
+msgctxt "nc_login_registration"
+msgid "Repita Contraseña"
+msgstr "Wiederhole das Passwort"
+
+msgctxt "nc_login_registration"
+msgid "País relacionado con la cirugía"
+msgstr ""
+
+msgctxt "nc_login_registration"
+msgid "Región"
+msgstr "Region"
+
+msgctxt "nc_login_registration"
+msgid "¿Te has operado ya?"
+msgstr "Wurdest du schon operiert?"
+
+msgctxt "nc_login_registration"
+msgid "Todavía no me he operado"
+msgstr "Ich habe mich noch nicht operiert"
+
+msgctxt "nc_login_registration"
+msgid "Ya me he operado"
+msgstr "Ich wurde schon operiert"
+
+msgctxt "nc_login_registration"
+msgid "Operación en la que estás interesado"
+msgstr "Chirurgie, an der Sie interessiert sind"
+
+msgctxt "nc_login_registration"
+msgid "Tiene que hacer login en el sistema"
+msgstr "Sie müssen sich einloggen"
+
+msgctxt "nc_login_registration"
+msgid "Su usuario se ha editado correctamente"
+msgstr "Ihr Benutzer wurde erfolgreich bearbeitet"
+
+msgctxt "nc_login_registration"
+msgid "Acepto las condiciones"
+msgstr "Ich akzeptiere die Bedingungen"
+
+msgctxt "nc_login_registration"
+msgid "Responsable de los datos"
+msgstr "Verantwortlich für die Daten"
+
+msgctxt "nc_login_registration"
+msgid "Finalidad"
+msgstr "Zweck"
+
+msgctxt "nc_login_registration"
+msgid "Envío de información personalizada junto con las credenciales de acceso y uso del sistema como usuario registrado."
+msgstr "Senden von abgestimmten Informationen zusammen mit den Zugangsdaten als registrierter Benutzer."
+
+msgctxt "nc_login_registration"
+msgid "Legitimizacion"
+msgstr "Legitimierung"
+
+msgctxt "nc_login_registration"
+msgid "La aceptación de la"
+msgstr "Die Annahme der"
+
+msgctxt "nc_login_registration"
+msgid "Política de Privacidad"
+msgstr "Datenschutz-Bestimmungen"
+
+msgctxt "nc_login_registration"
+msgid "Destino"
+msgstr "Destination"
+
+msgctxt "nc_login_registration"
+msgid "Una base de datos gestionada por Andomed SL"
+msgstr "Eine von Andomed SL verwaltete Datenbank"
+
+msgctxt "nc_login_registration"
+msgid "Derechos"
+msgstr "Rechte"
+
+msgctxt "nc_login_registration"
+msgid "Tienes derecho al derecho al acceso, rectificación, supresión, limitación, portabilidad y olvido de sus datos"
+msgstr "Sie haben das Recht, auf Ihre Daten zuzugreifen, sie zu ändern, zu löschen und zu migrieren"
+
+msgctxt "nc_login_registration"
+msgid "Lo sentimos no se han rellenado correctamente los datos"
+msgstr "Es tut uns leid, dass die angegebenen Daten nicht korrekt sind"
+
+msgctxt "nc_login_registration"
+msgid "Lo sentimos, tiene que hacer login"
+msgstr "Es tut uns leid, Sie müssen sich einloggen"
+
+msgctxt "nc_login_registration"
+msgid "Tiene que aceptar la Política de Protección de Datos"
+msgstr "Sie müssen die Datenschutzerklärung akzeptieren"
+
+msgctxt "nc_login_registration"
+msgid "email no válido"
+msgstr "ungültige E-Mail"
+
+msgctxt "nc_login_registration"
+msgid "el email aportado ya está en uso"
+msgstr "Die angegebene E-Mail-Adresse wird bereits verwendet"
+
+msgctxt "nc_login_registration"
+msgid "nombre de usuario no válido"
+msgstr "Ungültiger Benutzername"
+
+msgctxt "nc_login_registration"
+msgid "el nombre de usuario aportado ya está en uso"
+msgstr "Der angegebene Benutzername wird bereits verwendet"
+
+msgctxt "nc_login_registration"
+msgid "tiene que aportar un email y nombre de usuario correctos"
+msgstr "Sie müssen uns eine E-Mail und einen Benutzernamen angeben"
+
+msgctxt "nc_login_registration"
+msgid "Enviar"
+msgstr "Senden"
+
+msgctxt "nc_login_registration"
+msgid "El usuario con el que está logueado y el usuario que corresponde al link de activación no coinciden"
+msgstr "Der Benutzer, mit dem Sie angemeldet sind, und der Benutzer, der dem Aktivierungslink entspricht, stimmen nicht überein"
+
+msgctxt "nc_login_registration"
+msgid "Su usuario ya ha sido activado"
+msgstr "Ihr Benutzer wurde bereits aktiviert"
+
+msgctxt "nc_login_registration"
+msgid "Su usuario se ha activado satisfactoriamente"
+msgstr "Ihr Benutzer wurde erfolgreich aktiviert"
+
+msgctxt "nc_login_registration"
+msgid "Lo sentimos mucho, no hemos podido activar su usuario"
+msgstr "Es tut uns sehr leid, wir konnten Ihren Nutzer nicht aktivieren"
+
+msgctxt "nc_login_registration"
+msgid "Para poder realizar esta acción necesita activar su usuario. Al registrarse se le envío un email con un enlace de activación (No olvide chequear la carpeta spam)."
+msgstr "Um diese Aktion auszuführen, müssen Sie Ihren Benutzer aktivieren. Bei der Registrierung erhalten Sie eine E-Mail mit einem Aktivierungslink (Vergessen Sie nicht, den Spam-Ordner zu überprüfen)."
+
+msgctxt "nc_login_registration"
+msgid "Reenvíar email con link de activación de usuario."
+msgstr "Senden Sie die E-Mail erneut mit dem Aktivierungslink."
+
+msgctxt "nc_login_registration"
+msgid "Email de activación de usuario"
+msgstr "Benutzeraktivierungs-E-Mail"
+
+msgctxt "nc_login_registration"
+msgid "Estatus de usuario OK. Su usuario está activado"
+msgstr "Benutzerstatus OK. Ihr Benutzer ist aktiviert"
+
+msgctxt "nc_login_registration"
+msgid "No tiene activado el usuario. Recuerde que se le enviará un email de activación"
+msgstr "Der Benutzer ist nicht aktiviert. Denken Sie daran, dass Sie eine Aktivierungs-E-Mail erhalten werden"

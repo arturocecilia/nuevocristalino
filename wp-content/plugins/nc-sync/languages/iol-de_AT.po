@@ -1,0 +1,551 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "admin_display"
+msgid "lente-intraocular"
+msgstr "intraokularlinse"
+
+msgctxt "CustomPostType Name"
+msgid "lente-intraocular"
+msgstr "intraokularlinse"
+
+msgctxt "slug"
+msgid "lente-intraocular"
+msgstr "intraokularlinse"
+
+msgctxt "slug"
+msgid "lentes-intraoculares"
+msgstr "intraokularlinsen"
+
+msgctxt "taxo-name"
+msgid "tipo-lente-intraocular"
+msgstr "typ-intraokularlinse"
+
+msgctxt "slug"
+msgid "lente-intraocular/tipo-lente"
+msgstr "intraokularlinse/typ"
+
+msgctxt "taxo-name"
+msgid "diseno-optica"
+msgstr "optikdesign"
+
+msgctxt "slug"
+msgid "lente-intraocular/diseño-optica"
+msgstr "intraokularlinse/optikdesign"
+
+msgctxt "taxo-name"
+msgid "fabricante-lente"
+msgstr "hersteller-intraokularlinse"
+
+msgctxt "slug"
+msgid "lente-intraocular/fabricante-lente"
+msgstr "intraokularlinse/hersteller"
+
+msgctxt "taxo-name"
+msgid "toricidad"
+msgstr "torizitaet"
+
+msgctxt "slug"
+msgid "lente-intraocular/toricidad"
+msgstr "intraokularlinse/torizitaet"
+
+msgctxt "taxo-name"
+msgid "adicion-cerca"
+msgstr "nahaddition"
+
+msgctxt "slug"
+msgid "lente-intraocular/adicion-cerca"
+msgstr "intraokularlinse/nahaddition"
+
+msgctxt "taxo-name"
+msgid "filtros"
+msgstr "filter"
+
+msgctxt "slug"
+msgid "lente-intraocular/filtros"
+msgstr "intraokularlinse/filter"
+
+msgctxt "taxo-name"
+msgid "material"
+msgstr "material"
+
+msgctxt "slug"
+msgid "lente-intraocular/material"
+msgstr "intraokularlinse/material"
+
+msgctxt "taxo-name"
+msgid "diseno"
+msgstr "design"
+
+msgctxt "slug"
+msgid "lente-intraocular/diseño"
+msgstr "intraokularlinse/design"
+
+msgctxt "taxo-name"
+msgid "principio-optico"
+msgstr "optikprinzip"
+
+msgctxt "slug"
+msgid "lente-intraocular/principio-optico"
+msgstr "intraokularlinse/optikprinzip"
+
+msgctxt "taxo-name"
+msgid "asfericidad"
+msgstr "aspherizitaet"
+
+msgctxt "slug"
+msgid "lente-intraocular/asfericidad"
+msgstr "intraokularlinse/aspharizitaet"
+
+msgctxt "taxo-name"
+msgid "bordes-cuadrados"
+msgstr "scharfe-kante"
+
+msgctxt "slug"
+msgid "lente-intraocular/bordes-cuadrados"
+msgstr "intraokularlinse/scharfe-kante"
+
+msgctxt "taxo-name"
+msgid "inyector"
+msgstr "injektor"
+
+msgctxt "slug"
+msgid "lente-intraocular/inyector"
+msgstr "intraokularlinse/injektor"
+
+msgctxt "taxo-name"
+msgid "precargada"
+msgstr "preloaded"
+
+msgctxt "slug"
+msgid "lente-intraocular/precargada"
+msgstr "intraokularlinse/preloaded"
+
+msgctxt "taxo-name"
+msgid "plegable"
+msgstr "faltbar"
+
+msgctxt "slug"
+msgid "lente-intraocular/plegable"
+msgstr "intraokularlinse/faltbar"
+
+msgctxt "taxo-name"
+msgid "diseno-hapticos"
+msgstr "haptikdesign"
+
+msgctxt "slug"
+msgid "lente-intraocular/diseño-hapticos"
+msgstr "intraokularlinse/haptikdesign"
+
+msgctxt "taxo-name"
+msgid "estatus-comercial"
+msgstr "handelsstatus"
+
+msgctxt "slug"
+msgid "lente-intraocular/estatus-comercial"
+msgstr "intraokularlinse/handelsstatus"
+
+msgctxt "slug"
+msgid "lente-intraocular/nivel-pref-lente"
+msgstr "intraokularlinse/status"
+
+msgctxt "taxo-name"
+msgid "implantada-en-clinicas"
+msgstr "implantiert-in-kliniken"
+
+msgctxt "slug"
+msgid "lente-intraocular/implantada-en-clinicas"
+msgstr "intraokularlinse/implantiert-in-kliniken"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva"
+msgstr "Neu hinzufügen"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Lente intraocular"
+msgstr "Neue Intraokularlinse hinzufügen"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Schreiben"
+
+msgctxt "admin_display"
+msgid "Editar lente intraocular"
+msgstr "Schreibe intraokularlinse"
+
+msgctxt "admin_display"
+msgid "Nueva lente intraocular"
+msgstr "Neue Intraokularlinse"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Ansicht"
+
+msgctxt "admin_display"
+msgid "Ver lente intraocular"
+msgstr "Ansicht Intraokularlinse"
+
+msgctxt "admin_display"
+msgid "Buscar lente intraocular"
+msgstr "Suche Intraokularlinse"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ninguna lente intraocular"
+msgstr "Keine IOLs gefunden"
+
+msgctxt "admin_display"
+msgid "No hay lentes intraoculares en la papelera"
+msgstr "Keine IOLs im Papierkorb"
+
+msgctxt "admin_display"
+msgid "lente intraocular padre"
+msgstr "Intraokularlinse Vorgänger"
+
+msgctxt "admin_display"
+msgid "Fabricante (D)"
+msgstr "Hersteller (D)"
+
+msgctxt "admin_display"
+msgid "Distribuidor (D)"
+msgstr "Vertrieb (D)"
+
+msgctxt "admin_display"
+msgid "Descripción (D)"
+msgstr "Beschreibung (D)"
+
+msgctxt "admin_display"
+msgid "Diámetro Óptica (D)"
+msgstr "Optikdurchmesser (D)"
+
+msgctxt "admin_display"
+msgid "Diámetro Total (D)"
+msgstr "Gesamtdurchmesser (D)"
+
+msgctxt "admin_display"
+msgid "Forma de la óptica (D)"
+msgstr "Optikform (D)"
+
+msgctxt "admin_display"
+msgid "Material Hápticos (D)"
+msgstr "Haptikmaterial (D)"
+
+msgctxt "admin_display"
+msgid "Angulación Hápticos (D)"
+msgstr "Haptikanwinkelung (D)"
+
+msgctxt "admin_display"
+msgid "Asfericidad (D)"
+msgstr "Asphärizität (D)"
+
+msgctxt "admin_display"
+msgid "Tamaño de la Inicisión (D)"
+msgstr "Inzisionsgrösse (D)"
+
+msgctxt "admin_display"
+msgid "Constante A (D)"
+msgstr "A Konstante (D)"
+
+msgctxt "admin_display"
+msgid "ACD (D)"
+msgstr "ACD (D)"
+
+msgctxt "admin_display"
+msgid "Surgeon Factor (D)"
+msgstr "Chirurgisch Induziert (D)"
+
+msgctxt "admin_display"
+msgid "Inyector (D)"
+msgstr "Injektor (D)"
+
+msgctxt "admin_display"
+msgid "Esfera Desde (D)"
+msgstr "Sphäre von (D)"
+
+msgctxt "admin_display"
+msgid "Esfera Hasta (D)"
+msgstr "Sphäre bis (D)"
+
+msgctxt "admin_display"
+msgid "Intervalos Esfera"
+msgstr "Sphäre Abstufung (D)"
+
+msgctxt "admin_display"
+msgid "Esfera Intervalos 0,5 diopt Desde (D)"
+msgstr "Sphäre 0,5 dpt Stufe von (D)"
+
+msgctxt "admin_display"
+msgid "Esfera Intervalos 0,5 diopt Hasta (D)"
+msgstr "Sphäre 0,5 dpt Stufe bis (D)"
+
+msgctxt "admin_display"
+msgid "Cil Desde (D)"
+msgstr "Zylinder Von (D)"
+
+msgctxt "admin_display"
+msgid "Cil  Hasta (D)"
+msgstr "Zylinder Bis (D)"
+
+msgctxt "admin_display"
+msgid "Intervalos Cilindro"
+msgstr "Zylinderstufen (D)"
+
+msgctxt "admin_display"
+msgid "Fecha de lanzamiento de la lente al mercado"
+msgstr "Datum Markteinführung"
+
+msgctxt "admin_display"
+msgid "Fecha de retirarda de la lente del mercado"
+msgstr "Datum Marktrückzug"
+
+msgctxt "admin_display"
+msgid "Website Fuente de la Información"
+msgstr "Informationsquelle Webseite"
+
+msgctxt "admin_display"
+msgid "Documento Fuente de la Información"
+msgstr "Informationsquelle Dokument"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la lente (Ascendente)"
+msgstr "Präferenzniveau Linse (aufsteigend und numerisch)"
+
+msgctxt "admin_display"
+msgid "Tipo de lente Intraocular"
+msgstr "Typ Intraokularlinse"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Tipo de lente intraocular"
+msgstr "Neue Intraokularlinse hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo Tipo de lente intraocular"
+msgstr "Neuer Typ Intraokularlinse"
+
+msgctxt "admin_display"
+msgid "Diseño de Óptica"
+msgstr "Optikdesign"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Diseño de Óptica"
+msgstr "Neues Optikdesign hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo Diseño de Óptica"
+msgstr "Neues Optikdesign"
+
+msgctxt "admin_display"
+msgid "Fabricante"
+msgstr "Hersteller"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Fabricante"
+msgstr "Neuen Hersteller hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nombre del Nuevo Fabricante"
+msgstr "Name Neuer Hersteller"
+
+msgctxt "admin_display"
+msgid "Toricidad"
+msgstr "Torizität"
+
+msgctxt "admin_display"
+msgid "Añadir tipo de Toricidad"
+msgstr "Typ Torizität hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Tipo de Toricidad"
+msgstr "Neuer Name Typ Torizität"
+
+msgctxt "admin_display"
+msgid "Añadir adición de cerca"
+msgstr "Nahzusatz hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nueva adición de cerca"
+msgstr "Neuer Nahzusatz"
+
+msgctxt "admin_display"
+msgid "Filtros"
+msgstr "Filter"
+
+msgctxt "admin_display"
+msgid "Añadir tipo de Filtro"
+msgstr "Filtertyp hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Filtro de Toricidad"
+msgstr "Neuer Name Torischer Filter"
+
+msgctxt "admin_display"
+msgid "Material"
+msgstr "Material"
+
+msgctxt "admin_display"
+msgid "Añadir material de la lente"
+msgstr "Linsenmaterial hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de material de lente"
+msgstr "Neuer Name Linsenmaterial"
+
+msgctxt "admin_display"
+msgid "Estructura"
+msgstr "Struktur"
+
+msgctxt "admin_display"
+msgid "Añadir diseño de lente"
+msgstr "Linsendesign hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de diseño de lente"
+msgstr "Neuer Name Linsendesign"
+
+msgctxt "admin_display"
+msgid "Principio óptico"
+msgstr "Optikprinzip"
+
+msgctxt "admin_display"
+msgid "Añadir principio óptico de la lente"
+msgstr "Optikprinzip hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre principio óptico de lente"
+msgstr "Neuer Name Optikprinzip"
+
+msgctxt "admin_display"
+msgid "Asfericidad"
+msgstr "Asphärizität"
+
+msgctxt "admin_display"
+msgid "Añadir asfericidad de la lente"
+msgstr "Linsenasphärizität hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de asfericidad de lente"
+msgstr "Neuer Name Linsenasphärizität"
+
+msgctxt "admin_display"
+msgid "Bordes Cuadrados"
+msgstr "Scharfe Kante"
+
+msgctxt "admin_display"
+msgid "Añadir Característica de Bordes Cuadrados"
+msgstr "Scharfe Kante hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Bordes Cuadrados"
+msgstr "Neue Eigenschaften Scharfe Kante"
+
+msgctxt "admin_display"
+msgid "inyector"
+msgstr "Injektor"
+
+msgctxt "admin_display"
+msgid "Añadir Característica sobre inyector"
+msgstr "Neue Injektor- Eigenschaften hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de inyector"
+msgstr "Neuer Name Injektor- Eigenschaften"
+
+msgctxt "admin_display"
+msgid "precargada"
+msgstr "vorgeladen"
+
+msgctxt "admin_display"
+msgid "Añadir Característica sobre Precargada"
+msgstr "hinzufügen Preloaded-Eigenschaften"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Precargada"
+msgstr "Neuer Name Preloaded-Eigenschaften"
+
+msgctxt "admin_display"
+msgid "plegable"
+msgstr "faltbar"
+
+msgctxt "admin_display"
+msgid "Añadir Característica sobre Plegable"
+msgstr "hinzufügen faltbare Eigenschaften"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Plegable"
+msgstr "Neuer Name faltbare Eigenschaften"
+
+msgctxt "admin_display"
+msgid "Diseño de Hápticos"
+msgstr "Haptikdesign"
+
+msgctxt "admin_display"
+msgid "Añadir tipo de diseño de hápticos"
+msgstr "Hinzufügen Typ Haptikdesign"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de característica de Diseño de Hápticos"
+msgstr "Neuer Name Eigenschaften Haptikdesign"
+
+msgctxt "admin_display"
+msgid "Estatus Comercial de la lente"
+msgstr "kommerzieller Linsenstatus"
+
+msgctxt "admin_display"
+msgid "Añadir nuevo estatus comercial de la lente"
+msgstr "Hinzufügen neuer kommerzieller Linsenstatus"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de estatus comercial para la lente"
+msgstr "Neuer Name kommerzieller Linsenstatus"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la lente"
+msgstr "Niveau Linsenpräferenz"
+
+msgctxt "admin_display"
+msgid "Añadir tipo de nivel de preferencia para la lente"
+msgstr "Hinzufügen Niveau Linsenpräferenz"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de nivel de preferencia para la lente"
+msgstr "Neuer Name Niveau Linsenpräfernz"
+
+msgctxt "admin_display"
+msgid "Implantada en clinicas "
+msgstr "Implantiert in Kliniken"
+
+msgctxt "admin_display"
+msgid "Añadir valor de implantada en clinicas"
+msgstr "Wert hinzufügen implantiert in Kliniken"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de valor de implantada en clinicas"
+msgstr "Neuer Name für Wert implantiert in Kliniken"
+
+msgctxt "admin_display"
+msgid "Exclusiones de las restricciones Test de IOL"
+msgstr "Ausnahmen für IOL-Test Restriktionen"
+
+msgctxt "admin_display"
+msgid "Añadir nueva inclusión-exclusión de lentes en Test"
+msgstr "Hinzufügen neue Inklusions-Exklusionsparameter IOL-Test"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de inclusión-exclusión de lentes en Test"
+msgstr "Hinzufügen neuer Name Inklusions-Exklusions Parameter IOL-Test"
+
+msgctxt "admin_display"
+msgid "Estado de la traducción de IOL"
+msgstr "Übersetzungsstatus"
+
+msgctxt "admin_display"
+msgid "Añadir nuevo estado de la traducción de IOL"
+msgstr "Hinzufügen neuer Name Übersetzungsstatus IOL"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de estado de traducción de IOL"
+msgstr "Neuer Name Übersetzungsstatus"
+
+msgctxt "taxo-name"
+msgid "translation-iol"
+msgstr "translation-iol"

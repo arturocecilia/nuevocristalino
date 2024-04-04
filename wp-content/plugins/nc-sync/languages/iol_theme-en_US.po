@@ -1,0 +1,1887 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "Home Page"
+msgid "EXPLICACIÓN BÁSICA"
+msgstr "BASIC EXPLANATION"
+
+msgctxt "Home Page"
+msgid "TIPOS DE LENTES"
+msgstr "LENS TYPES"
+
+msgctxt "Home Page"
+msgid "IR AL SIMULADOR"
+msgstr "GO TO LENS"
+
+msgctxt "Home Page"
+msgid "DE LENTES"
+msgstr "SIMULATOR"
+
+msgctxt "Home Page"
+msgid "LE HAN PUESTO UNA"
+msgstr "DO YOU HAVE AN"
+
+msgctxt "Home Page"
+msgid "LENTE INTRAOCULAR?"
+msgstr "IOL IMPLANTED?"
+
+msgctxt "Home Page"
+msgid "HÁBLENOS DE SU CASO"
+msgstr "TELL US ABOUT YOUR CASE"
+
+msgctxt "Home Page"
+msgid "LENTES INTRAOCULARES: La solución definitiva a las cataratas y la presbicia"
+msgstr "Intraocular Lenses: The ultimate solution for Presbyopia and Cataracts"
+
+msgctxt "Home Page"
+msgid "Vea todas las Lentes Intraoculares Disponibles"
+msgstr "View all the IOLs available"
+
+msgctxt "Home Page"
+msgid "Buscador de Lentes"
+msgstr "Lens Finder"
+
+msgctxt "Home Page"
+msgid "Explicación Básica"
+msgstr "Basic Explanation"
+
+msgctxt "Home Page"
+msgid "Comprenda qué son las Lentes Intraoculares y qué tipos hay"
+msgstr "Get what Intraocular Lenses are and what types are available"
+
+msgctxt "Home Page"
+msgid "Complete el test y vea que lentes se le sugieren"
+msgstr "Fill the Test and check the selected IOLs for you"
+
+msgctxt "Home Page"
+msgid "Test para el Paciente"
+msgstr "Test for the Patient"
+
+msgctxt "Home Page"
+msgid "Vea una simulación de su resultado visual con varios tipos de lentes"
+msgstr "View a simulation of your vision after surgery with different IOLs"
+
+msgctxt "Home Page"
+msgid "Simulador"
+msgstr "Simulator"
+
+msgctxt "Home Page"
+msgid "LIO COMO SOLUCIÓN A LA PRESBICIA"
+msgstr "IOL as the solution for Presbyopia"
+
+msgctxt "Home Page"
+msgid "Vea a continuación que es lo que opinan los doctores de cada lente y las razones que les llevan a elegirlas."
+msgstr "See what doctors are saying about the IOLs available and what make them chosing each model."
+
+msgctxt "Home Page"
+msgid "FEMTO-FACO"
+msgstr "FEMTO-PHACO"
+
+msgctxt "Home Page"
+msgid "Conozca la útima técnica quirúrgica disponible para la cirugía de remplazo del cristalino."
+msgstr "Be aware of the last surgical procedure available for replacing your lens."
+
+msgctxt "Home Page"
+msgid "DÓNDE ME PUEDO OPERAR"
+msgstr "FIND AN EYE CLINIC"
+
+msgctxt "Home Page"
+msgid "A continuación le ofrecemos un listado de Centros que usan lentes intraoculares de calidad garantizada."
+msgstr "Below we show you a list of eye clinics that offer high quality IOLs"
+
+msgctxt "Home Page"
+msgid "TEST PARA LENTES INTRAOCULARES"
+msgstr "TEST FOR CHOOSING IOLs "
+
+msgctxt "Home Page"
+msgid "Realice el test para saber qué tipo de lente es la más adecuada para usted."
+msgstr "Fill the test for knowing which IOL fits you best"
+
+msgctxt "Home Page"
+msgid "VENTAJAS DE LAS LENTES INTRAOCULARES PREMIUM"
+msgstr "ADVANTAGES OF THE PREMIUM IOLs"
+
+msgctxt "Home Page"
+msgid "No le reste importancia al proceso de elección de su lente intraocular."
+msgstr "Do not underestimate the IOL selection procedure"
+
+msgctxt "Home Page"
+msgid "En función de sus caractarísticas y de sus aspiraciones visuales tras la operación, su oftalmólogo le explicará que implante será el que a su juicio, más le convenga."
+msgstr "Depending on your ocular status and your aspirations following the surgery your ophthalmololist will explain you which implant will be the best for you."
+
+msgctxt "Home Page"
+msgid "RESULTADOS DEL TEST DE SATISFACCIÓN DEL PACIENTE"
+msgstr "PATIENT SATISFACTION TEST RESULTS"
+
+msgctxt "Home Page"
+msgid "Cuando valore junto con su oftalmólogo soluciones para su presbicia, con toda seguridad el implante de lente intraocular saldrá en la conversación. Interésese por las ventajas que la lente intraocular tiene para usted frente a la operación con láser y el uso de gafas o lentillas."
+msgstr "When assessing with your ophthalmologist the different solutions for presbyopia, IOLs will surely appear in the discussion. Be interested in the benefits that IOL surgery haS over glasses, contact lenses or even laser surgery. "
+
+msgctxt "Home Page"
+msgid "Leer más"
+msgstr "Read more"
+
+msgctxt "Home Page"
+msgid "BLOG: LENTES INTRAOCULARES"
+msgstr "BLOG: INTRAOCULAR LENSES"
+
+msgctxt "Home Page"
+msgid "TESTIMONIOS DE DOCTORES"
+msgstr "DOCTOR TESTIMONIES"
+
+msgctxt "Home Page"
+msgid "PREGUNTE AL CIRUJANO"
+msgstr "ASK THE SURGEON"
+
+msgctxt "Home Page"
+msgid "LOS MEJORES EXPERTOS"
+msgstr "THE BEST EXPERTS"
+
+msgctxt "Home Page"
+msgid "RESUELVA TODAS SUS DUDAS"
+msgstr "ANSWER ALL YOUR QUESTIONS"
+
+msgctxt "Template Cirugia Ocular"
+msgid "Preguntas Frecuentes sobre Operación de Cataratas"
+msgstr "Frequently Asked Questions about Cataract Surgery"
+
+msgctxt "Template Cirugia Ocular"
+msgid "VIDEOS RELACIONADOS"
+msgstr "Related Videos"
+
+msgctxt "Template Cirugia Ocular"
+msgid "¿Qué es exactamente catarata?"
+msgstr "What exactly is a Cataract?"
+
+msgctxt "Template Cirugia Ocular"
+msgid "¿Cuándo aparece catarata?"
+msgstr "When does a Cataract appear?"
+
+msgctxt "Template Cirugia Ocular"
+msgid "¿Cómo es le tratamiento de catarata?"
+msgstr "What is the treatment for a Cataract?"
+
+msgctxt "Template Cirugia Ocular"
+msgid "¿Cuando es necesaria la cirugía de catarata?"
+msgstr "When is the Cataract surgery needed?"
+
+msgctxt "Template Cirugia Ocular"
+msgid "¿Cómo se hace una cirugía de catarata?"
+msgstr "How is the Cataract Surgery Procedure done?"
+
+msgctxt "Template Cirugia Ocular"
+msgid "¿Cómo de peligroso es una cirugía de catarata?"
+msgstr "What are the dangers of a Cataract Surgery Procedure?"
+
+msgctxt "Template Cirugia Ocular"
+msgid "¿Tengo que llevar las gafas después de la cirugía de catarata?"
+msgstr "Will I need glasses after the Cataract Surgery?"
+
+msgctxt "Template Cirugia Ocular"
+msgid "¿Como se puede conseguir las lentes premium con las funciones adicionales y cuanto las cuestan?"
+msgstr "How do you get Premium IOLs with their specific functions and how much are they?"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Clínicas oftalmológicas para cirugía intraocular en España y Andorra:"
+msgstr "Eye Clinics for Intraocular Surgery in USA & Canada"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Detectar ubicación"
+msgstr "Detect Location"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Ubicarme"
+msgstr "Locate Me"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Máxima distancia:"
+msgstr "Maximum Distance:"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Mostrando"
+msgstr "Showing"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "ubicación seleccionada:"
+msgstr "selected location:"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Distancia:"
+msgstr "Distance:"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "km"
+msgstr "km"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Mostrar Todas"
+msgstr "Show all"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Clinicas dentro de la distancia seleccinada"
+msgstr "Eye Clinics within the selected distance"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Clinicas más visitadas"
+msgstr "Most visited Eye Clinics"
+
+msgctxt "Template Clinicas Lentes Intraoculares"
+msgid "Ver más Clínicas"
+msgstr "View more Eye Clinics"
+
+msgctxt "Template Explicacion Basica Pacientes"
+msgid "EXPLICACIONES SOBRE:"
+msgstr "EXPLANATIONS ABOUT:"
+
+msgctxt "Template Iol Simulator"
+msgid "CONDICIONES OCULARES"
+msgstr "OCULAR CONDITIONS"
+
+msgctxt "Template Iol Simulator"
+msgid "VISIÓN RESULTANTE CON LENTES INTRAOCULARES"
+msgstr "VISION WITH IOLs AFTER THE SURGERY"
+
+msgctxt "Template Iol Simulator"
+msgid "De día"
+msgstr "Daylight"
+
+msgctxt "Template Iol Simulator"
+msgid "De noche"
+msgstr "Night"
+
+msgctxt "Template Iol Simulator"
+msgid "Visión Normal"
+msgstr "Normal Vision"
+
+msgctxt "Template Iol Simulator"
+msgid "Visión con Presbicia"
+msgstr "Presbyopic Vision"
+
+msgctxt "Template Iol Simulator"
+msgid "Visión con Cataratas"
+msgstr "Cataract Vision"
+
+msgctxt "Template Iol Simulator"
+msgid "Sí"
+msgstr "Yes"
+
+msgctxt "Template Iol Simulator"
+msgid "No"
+msgstr "No"
+
+msgctxt "Template Iol Simulator"
+msgid "Tengo Astigmatismo"
+msgstr "I have an Astigmatism"
+
+msgctxt "Template Iol Simulator"
+msgid "LIO Monofocal Esférica"
+msgstr "Espheric Monofocal IOL"
+
+msgctxt "Template Iol Simulator"
+msgid "LIO Monofocal Asférica"
+msgstr "Aspheric Monofocal IOL"
+
+msgctxt "Template Iol Simulator"
+msgid "LIO Multifocal Bifocal"
+msgstr "Multifocal Bifocal IOL"
+
+msgctxt "Template Iol Simulator"
+msgid "LIO Multifocal Trifocal"
+msgstr "Multifocal Trifocal IOL"
+
+msgctxt "Template Iol Simulator"
+msgid "LIO Monofocal Tórica"
+msgstr "Toric Monofocal IOL"
+
+msgctxt "Template Iol Simulator"
+msgid "LIO Multifocal Tórica"
+msgstr "Toric Multifocal IOL"
+
+msgctxt "Template Iol Simulator"
+msgid "LIO Multifocal HD"
+msgstr "HD Multifocal IOL"
+
+msgctxt "Template Mis Ojos"
+msgid "MIS OJOS"
+msgstr "MY EYES"
+
+msgctxt "Template Modelos de Lente Intraocular"
+msgid "Resetear Búsqueda"
+msgstr "RESET SEARCH"
+
+msgctxt "Template Modelos de Lente Intraocular"
+msgid "Usar Búsqueda avanzada para oftalmólogos."
+msgstr "Use Advanced Search for Opthalmologists."
+
+msgctxt "Template Modelos de Lente Intraocular"
+msgid "Usar al Búsqueda Sencilla para Pacientes"
+msgstr "Use Basic Search for Patients"
+
+msgctxt "Template Modelos de Lente Intraocular"
+msgid "Menú Avanzado"
+msgstr "Advanced Menu"
+
+msgctxt "Template Modelos de Lente Intraocular"
+msgid "Menú Sencillo"
+msgstr "Simple Menu"
+
+msgctxt "Template PostOp Test"
+msgid "¿Hace cuánto se operó de cataratas o de presbicia con lente intraocular?"
+msgstr "How long ago did you undergo the IOL surgery?"
+
+msgctxt "Template PostOp Test"
+msgid "Menos de 3 meses"
+msgstr "Less thatn 3 months"
+
+msgctxt "Template PostOp Test"
+msgid "Entre 3 y 6 meses"
+msgstr "Between 3 and 6 months"
+
+msgctxt "Template PostOp Test"
+msgid "Más de 6 meses"
+msgstr "More than 6 months"
+
+msgctxt "Template PostOp Test"
+msgid "Se operó..."
+msgstr "You had surgery on…"
+
+msgctxt "Template PostOp Test "
+msgid "Un ojo"
+msgstr "One eye"
+
+msgctxt "Template PostOp Test"
+msgid "Los dos ojos"
+msgstr "Both eyes"
+
+msgctxt "Template PostOp Test"
+msgid "¿Qué tipo de Lente Intraocular (LIO) se le implantó?"
+msgstr "What kind of IOL was chosen?"
+
+msgctxt "Template PostOp Test"
+msgid "Una LIO Monofocal Esférica"
+msgstr "Spheric Monofocal IOL"
+
+msgctxt "Template PostOp Test"
+msgid "Una LIO Monofocal Asférica"
+msgstr "Aspheric Monofocal IOL"
+
+msgctxt "Template PostOp Test"
+msgid "Una LIO Monofocal Tórica"
+msgstr "Toric Monofocal IOL"
+
+msgctxt "Template PostOp Test"
+msgid "Una LIO Multifocal"
+msgstr "Multifocal IOL"
+
+msgctxt "Template PostOp Test"
+msgid "Una LIO Multifocal Tórica"
+msgstr "Toric Multifocal IOL"
+
+msgctxt "Template PostOp Test"
+msgid "Una LIO Acomodativa"
+msgstr "Accommodative IOL"
+
+msgctxt "Template PostOp Test"
+msgid "Una LIO Add-On"
+msgstr "Add-On IOL"
+
+msgctxt "Template PostOp Test"
+msgid "Una LIO ICL"
+msgstr "ICL Iol"
+
+msgctxt "Template PostOp Test"
+msgid "Otro tipo"
+msgstr "Other"
+
+msgctxt "Template PostOp Test"
+msgid "No lo sé"
+msgstr "I do not know"
+
+msgctxt "Template PostOp Test"
+msgid "De las tareas que le señalamos a continuación, ¿tiene algún tipo de dificultad en llevarlas a cabo a causa de su visión?"
+msgstr "Of the tasks noted below, do you have any difficulty in carrying them out (WITHOUT GLASSES) because of your vision?"
+
+msgctxt "Template PostOp Test"
+msgid "Conducir de día (Visión de lejos con buena iluminación)"
+msgstr "Driving in daylight (far vision with good lighting)"
+
+msgctxt "Template PostOp Test"
+msgid "Sí, muchísima"
+msgstr "Yes, a lot"
+
+msgctxt "Template PostOp Test"
+msgid "Sí, bastante"
+msgstr "Yes, pretty much."
+
+msgctxt "Template PostOp Test"
+msgid "Sí, alguna"
+msgstr "Yes, some"
+
+msgctxt "Template PostOp Test"
+msgid "No, ninguna"
+msgstr "No,none"
+
+msgctxt "Template PostOp Test"
+msgid "Conducir de noche (Visión de lejos con poca iluminación)"
+msgstr "Night Driving (Far vision with low light)"
+
+msgctxt "Template PostOp Test"
+msgid "Trabajar con el ordenador, usar el teléfono, ver el GPS de su coche... (uso de visión intermedia) "
+msgstr "Working with the computer, using the phone, checking the GPS… (Intermediate vision)"
+
+msgctxt "Template PostOp Test"
+msgid "Leer el periódico, revistas:"
+msgstr "Reading the newspaper, magazines:"
+
+msgctxt "Template PostOp Test"
+msgid "Ver los precios de los productos en el ticket cuando está de compras:"
+msgstr "View the product prices in the ticket when going shopping:"
+
+msgctxt "Template PostOp Test"
+msgid "Ver al enhebrar la aguja o al realizar trabajos manuales de similar precisión:"
+msgstr "View when threading a needle or when carrying out similar manual works that require similar accuracy:"
+
+msgctxt "Template PostOp Test"
+msgid "¿Con qué frecuencia usa gafas para ver de lejos?"
+msgstr "How often do you use glasses for far distance?"
+
+msgctxt "Template PostOp Test"
+msgid "Siempre"
+msgstr "Always"
+
+msgctxt "Template PostOp Test"
+msgid "En ocasiones"
+msgstr "Sometimes"
+
+msgctxt "Template PostOp Test"
+msgid "Nunca"
+msgstr "Never"
+
+msgctxt "Template PostOp Test"
+msgid "¿Con qué frecuencia usa gafas para leer?"
+msgstr "How often do you need glasses for reading?"
+
+msgctxt "Template PostOp Test"
+msgid "¿Tiene la sensación de que su visión actual le genera dificultades, en cualquier sentido, para llevar a cabo su estilo de vida?"
+msgstr "Do you have the feeling that your current vision generates difficulties in carrying out daily tasks?"
+
+msgctxt "Template PostOp Test"
+msgid "¿Esta usted satisfecho con su visión actual, tras habérsele implantado una lente intraocular?"
+msgstr "Are you satisfied with your current vision, after having been implanted an intraocular lens?"
+
+msgctxt "Template PostOp Test"
+msgid "Sí, muy satisfecho"
+msgstr "Yes, very satisfied"
+
+msgctxt "Template PostOp Test"
+msgid "Sí, bastante satisfecho"
+msgstr "Yes, pretty satisfied"
+
+msgctxt "Template PostOp Test"
+msgid "Sí, satisfecho"
+msgstr "Yes, satisfied"
+
+msgctxt "Template PostOp Test"
+msgid "No"
+msgstr "No"
+
+msgctxt "Template PostOp Test"
+msgid "No, nada satisfecho"
+msgstr "No, not satisfied at all"
+
+msgctxt "Template PostOp Test"
+msgid "El test que se le ha presentado es completamente anónimo, y las siguientes preguntas son recogidas únicamente para poder analizar la credibilidad del testimonio (no serán almacenadas ni procesadas con posterioridad para otro fin)."
+msgstr "This test is completely anonymous, the following questions are collected in order to analyze the credibility of the testimony  (not stored nor processed later for another purpose)"
+
+msgctxt "Template PostOp Test"
+msgid "En nombre de todas las personas con presbicia o cataratas le agradecemos su colaboración."
+msgstr "We thank you on behalf of all people affected with cataracts or presbyopia."
+
+msgctxt "Template PostOp Test"
+msgid "¿Qué edad tiene?"
+msgstr "How old are you?"
+
+msgctxt "Template PostOp Test"
+msgid "¿Cuál es su nombre? (No rellene el apellido)"
+msgstr "What is your name? (Do not fill your surname)"
+
+msgctxt "Template PostOp Test"
+msgid "¿De qué provincia es usted?"
+msgstr "What is your county?"
+
+msgctxt "Template PostOp Test"
+msgid "¿En qué clinica se ha operado?"
+msgstr "In which clinic did you undergo your surgery?"
+
+msgctxt "Template PostOp Test"
+msgid "Rellene cualquier comentario u observación"
+msgstr "Fill with any comment or observatoin"
+
+msgctxt "Template PostOp Test"
+msgid "Escriba una dirección de email válida"
+msgstr "Put a valid email address"
+
+msgctxt "Template PostOp Test"
+msgid "Enviar"
+msgstr "Send"
+
+msgctxt "Template PostOp Test"
+msgid "VER ESTADÍSTICAS DE RESULTADOS:"
+msgstr "VIEW THE RESULTS:"
+
+msgctxt "Template PostOp Test"
+msgid "CONTACTE CON NOSOTROS:"
+msgstr "CONTACT US:"
+
+msgctxt "Template PostOp Test Result"
+msgid "Nivel de Satisfacción de los pacientes operados en función del tipo de lente intraocular seleccionado"
+msgstr "Satisfaction Level of the operated patients depending on the IOL type implanted."
+
+msgctxt "Template PostOp Test Result"
+msgid "Dificultad para conducir de día (sin gafas)"
+msgstr "Trouble driving in daylight"
+
+msgctxt "Template PostOp Test Result"
+msgid "Dificultad para conducir de noche (sin gafas)"
+msgstr "Trouble driving at night"
+
+msgctxt "Template PostOp Test Result"
+msgid "Dificultad para trabajar con el ordenador, usar el teléfono, ver el GPS del coche...(visión intermedia sin gafas)"
+msgstr "Trouble working with your computer, using the phone, watch the GPS (intermediate vision without glasses)"
+
+msgctxt "Template PostOp Test Result"
+msgid "Dificultad para leer el periódico"
+msgstr "Trouble reading the newspaper (Without Glasses)"
+
+msgctxt "Template PostOp Test Result"
+msgid "Dificultad para leer los precios de los productos en el ticket cuando está de compras"
+msgstr "Trouble reading the prices of products on the ticket when shopping  (Without Glasses)"
+
+msgctxt "Template PostOp Test Result"
+msgid "Dificultad al enhebrar la aguja o realizar trabajos de similar precisión"
+msgstr "Trouble when threading the needle or performing manual tasks that requires similar accuracy  (Without Glasses)"
+
+msgctxt "Template PostOp Test Result"
+msgid "Frecuencia con la que usa gafas para ver de lejos"
+msgstr "Frequency of far vision glasses use"
+
+msgctxt "Template PostOp Test Result"
+msgid "Frecuencia con la que usa gafas para leer"
+msgstr "Frequency of near vision glasses use"
+
+msgctxt "Template PostOp Test Result"
+msgid "Dificultades con las que se encuentra el paciente para llevar a cabo su estilo de vida"
+msgstr "Difficulties meet by the patient when carrying out his daily tasks"
+
+msgctxt "Template PostOp Test Result"
+msgid "Monofocal Esférica"
+msgstr "Spheric Monofocal."
+
+msgctxt "Template PostOp Test Result"
+msgid "Monofocal Asférica."
+msgstr "Aspheric Monofocal."
+
+msgctxt "Template PostOp Test Result"
+msgid "Monofocal Tórica."
+msgstr "Monofocal Toric"
+
+msgctxt "Template PostOp Test Result"
+msgid "Multifocal."
+msgstr "Multifocal."
+
+msgctxt "Template PostOp Test Result"
+msgid "Multifocal Tórica."
+msgstr "Multifocal Toric."
+
+msgctxt "Template PostOp Test Result"
+msgid "Acomodativa."
+msgstr "Accommodative"
+
+msgctxt "Template PostOp Test Result"
+msgid "Add On."
+msgstr "Add-On."
+
+msgctxt "Template PostOp Test Result"
+msgid "ICL."
+msgstr "ICL."
+
+msgctxt "Template PostOp Test Result"
+msgid "Otro tipo."
+msgstr "Other."
+
+msgctxt "Template PostOp Test Result"
+msgid "No lo sabe."
+msgstr "I do not know."
+
+msgctxt "Template PostOp Test Result"
+msgid "Para ver el resultado a esta pregunta de los pacientes operados ha de hacer"
+msgstr "To see the result of the answer to this question you must"
+
+msgctxt "Template Preguntas Frecuentes"
+msgid "PREGUNTAS FRECUENTES"
+msgstr "Frequently Asked Questions"
+
+msgctxt "Template Pre-Op Test"
+msgid "VEA QUÉ LENTES INTRAOCULARES SON ADECUADAS PARA USTED"
+msgstr "SEE WHAT INTRAOCULAR LENSES ARE SUITABLE FOR YOU"
+
+msgctxt "Template Pre-Op Test"
+msgid "PRIMER BLOQUE"
+msgstr "FIRST BLOCK"
+
+msgctxt "Template Pre-Op Test"
+msgid "SEGUNDO BLOQUE"
+msgstr "SECOND BLOCK"
+
+msgctxt "Template Pre-Op Test"
+msgid "TERCER BLOQUE"
+msgstr "THIRD BLOCK"
+
+msgctxt "Template Pre-Op Test"
+msgid "de Preguntas"
+msgstr "of Questions"
+
+msgctxt "Template Pre-Op Test"
+msgid "1.&nbsp; ¿Cómo de importante es para usted no depender de las gafas después de la cirugía?"
+msgstr "1.&nbsp;How important is it for you not to rely on glasses after surgery?"
+
+msgctxt "Template Pre-Op Test"
+msgid "No es Importante"
+msgstr "It is not Important"
+
+msgctxt "Template Pre-Op Test"
+msgid "2.&nbsp; ¿Cuál es la graduación de sus gafas antes de las cataratas? O la actual de no tener opacificación del cristalino?"
+msgstr "2.&nbsp;What was your glasses prescription before the appearance of cataracts? Or your current if you have a clear lens?"
+
+msgctxt "Template Pre-Op Test"
+msgid "Más de -4 dioptrías de miopía"
+msgstr "More than -4 diopters of Myopia"
+
+msgctxt "Template Pre-Op Test"
+msgid "De - 0,5 a - 4 dioptrías de miopía"
+msgstr "Between -0,5 and -4 diopters of Shortsightedness"
+
+msgctxt "Template Pre-Op Test"
+msgid "Entre + 0,5 y + 3 dioptrías de hipermetropía"
+msgstr "Between +0,5 and +3 diopters of Farsightedness"
+
+msgctxt "Template Pre-Op Test"
+msgid "Más de + 3 dioptrías de hipermetropía"
+msgstr "More than +3 diopters of hyperopia"
+
+msgctxt "Template Pre-Op Test"
+msgid "No lo sabe"
+msgstr "I do not know"
+
+msgctxt "Template Pre-Op Test"
+msgid "3.&nbsp; ¿Tiene otras enfermedades oculares?"
+msgstr "3.&nbsp; Do you have any other ocular diseases?"
+
+msgctxt "Template Pre-Op Test"
+msgid "Glaucoma"
+msgstr "Glaucoma"
+
+msgctxt "Template Pre-Op Test"
+msgid "DMAE"
+msgstr "AMD"
+
+msgctxt "Template Pre-Op Test"
+msgid "Uveítis"
+msgstr "Uveitis"
+
+msgctxt "Template Pre-Op Test"
+msgid "Degeneración corneal"
+msgstr "Corneal Degeneration"
+
+msgctxt "Template Pre-Op Test"
+msgid "Otras"
+msgstr "Others"
+
+msgctxt "Template Pre-Op Test"
+msgid "Ninguna"
+msgstr "None"
+
+msgctxt "Template Pre-Op Test"
+msgid "Muy importante"
+msgstr "Very Important"
+
+msgctxt "Template Pre-Op Test"
+msgid "5.&nbsp; Tras la cirugía ¿cómo de importante es para usted ver de cerca sin gafas: leyendo?"
+msgstr "5.&nbsp;After surgery, how important it is for you to be able to see near objects without glasses (near)?"
+
+msgctxt "Template Pre-Op Test"
+msgid "Importante"
+msgstr "Important"
+
+msgctxt "Template Pre-Op Test"
+msgid "6.&nbsp; Si necesitase gafas tras la cirugía, ¿en cuál de las siguientes actividades podrías aceptar gafas?"
+msgstr "6.&nbsp;If glasses were needed after surgery, in which of the following activities would you be happy to carry on using them?"
+
+msgctxt "Template Pre-Op Test"
+msgid "Leyendo letra pequeña"
+msgstr "Reading small letters"
+
+msgctxt "Template Pre-Op Test"
+msgid "Trabando con el ordenador o cocinando"
+msgstr "Working with with the computer or cooking"
+
+msgctxt "Template Pre-Op Test"
+msgid "Conduciendo"
+msgstr "Driving"
+
+msgctxt "Template Pre-Op Test"
+msgid "7.&nbsp; Si vieses bien tanto de lejos como de cerca durante el día, ¿podrías aceptar efectos como halos y destellos durante la noche?"
+msgstr "7.&nbsp; Were your vision good in both far and near distance during the daylight, could you cope with effects like halos and sparkles at night?"
+
+msgctxt "Template Pre-Op Test"
+msgid "8.&nbsp; Si viese bien durante el día sin necesidad de gafas, tanto de lejos como de cerca, incluso trabajando con el ordendor, ¿podría aceptar las gafas para leer letra muy pequeña?"
+msgstr "8.&nbsp;If your vision were good during the daylight without any need of glasses, could you accept the use of glasses "
+
+msgctxt "Template Pre-Op Test"
+msgid "Si"
+msgstr "Yes"
+
+msgctxt "Template Pre-Op Test"
+msgid "No"
+msgstr "No"
+
+msgctxt "Template Pre-Op Test"
+msgid "9.&nbsp; Hay muchas situaciones en las que es necesario ver bien a diferentes distancias. En el caso de que decidiese eliminar la dependencia de las gafas, ¿en qué tipo de escenario consideraría más importante lograr una independendencia total?"
+msgstr "There are many situations where you need to see well at different distances. In case you decide to eliminate the dependence on glasses, in which scenario would you find more important to be fully independent of the use of glasses?"
+
+msgctxt "Template Pre-Op Test"
+msgid "Leer, ver un mapa, coser..."
+msgstr "Reading, viewing a map, sewing…"
+
+msgctxt "Template Pre-Op Test"
+msgid "Estar con el ordenador, leer un menú, ver precios de productos, leer letra de tamaño grande"
+msgstr "Working with the computer, reading a menu, seing the products pricing, read large size print"
+
+msgctxt "Template Pre-Op Test"
+msgid "Ver la televisión, limpiar, realizar actividades dentro y fuera de la casa ¿?"
+msgstr "Watching television, cleaning, carrying out activities inside and out of home"
+
+msgctxt "Template Pre-Op Test"
+msgid "Conducir, jugar al golf, ver carteles ¿?"
+msgstr "Driving, playing golf…"
+
+msgctxt "Template Pre-Op Test"
+msgid "Conducir por la noche, ver una película en el cine"
+msgstr "Driving at night, watching a movie in the cinema"
+
+msgctxt "Template Pre-Op Test"
+msgid "En cuanto a su personalidad... ¿Cómo se considera usted?"
+msgstr "Regarding your personality…¿How would you consider yourself?"
+
+msgctxt "Template Pre-Op Test"
+msgid "Abierto, sencillo..."
+msgstr "Open and simple…."
+
+msgctxt "Template Pre-Op Test"
+msgid "Perfeccionista, doy y espero siempre lo mejor"
+msgstr "I am a perfectionist, I always give and expect the best"
+
+msgctxt "Template Pre-Op Test"
+msgid "MÁS SOBRE NUEVO CRISTALINO:"
+msgstr "MORE ABOUT NEWLENS:"
+
+msgctxt "Template Pre-Op Test"
+msgid "CONTÁCTENOS:"
+msgstr "CONTACT US:"
+
+msgctxt "Template Pre-Op Test Result"
+msgid "VEA QUÉ LENTES INTRAOCULARES SON ADECUADAS PARA USTED"
+msgstr "CHECK WHAT INTRAOCULAR LENSES ARE SUITABLE FOR YOU"
+
+msgctxt "Template Pre-Op Test Result"
+msgid "Repetir el Test"
+msgstr "Repeat the test"
+
+msgctxt "Template Pre-Op Test Result"
+msgid "No hay ninguna Lente Intraocular con los criterios de filtrado actuales."
+msgstr "There is no intraocular lens matching the current selection criteria."
+
+msgctxt "Template Pre-Op Test Result"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr "Proceed with a new search changing the criteria."
+
+msgctxt "Template Pre-Op Test Result"
+msgid "A continuación le mostramos &nbsp;<strong>%d</strong>&nbsp; lentes intraoculares recomendadas de acuerdo a sus respuestas."
+msgstr "We are showing you &nbsp;<strong>%d</strong>&nbsp; intraocular lenses"
+
+msgctxt "Template Pre-Op Test Result"
+msgid "MÁS SOBRE NUEVO CRISTALINO:"
+msgstr "MORE ABOUT NEWLENS"
+
+msgctxt "Template Pre-Op Test Result"
+msgid "CONTÁCTENOS:"
+msgstr "CONTACT US:"
+
+msgctxt "Template Presbicia"
+msgid "CIRUGÍA DE PRESBICIA"
+msgstr "PREBYOPIA SURGERY"
+
+msgctxt "Template Presbicia"
+msgid "Preguntas Frecuentes sobre Presbicia"
+msgstr "Frequent Asked Questions about Presbyopia"
+
+msgctxt "Template Presbicia"
+msgid "¿Que significa presbicia?"
+msgstr "What does Presbyopia mean?"
+
+msgctxt "Template Presbicia"
+msgid "¿Como es el tratamiento de la presbicia?"
+msgstr "What is the treatment for Presbyopia?"
+
+msgctxt "Template Presbicia"
+msgid "¿Que significa exactamente Presbicia?"
+msgstr "What exactly does Presbyopia mean?"
+
+msgctxt "Template Presbicia"
+msgid "¿Como puedo reconocer los síntomas de presbicia?"
+msgstr "How can I identify presbyopia symptoms?"
+
+msgctxt "Template Presbicia"
+msgid "¿A quien afecta presbicia?"
+msgstr "Who is afffected by presbyopia?"
+
+msgctxt "Template Presbicia"
+msgid "¿Que tipo de tratamiento es necesario? ¿Necesito gafas ó lentes de contacto especiales?"
+msgstr "What kind of treatment is needed? Do I need special glasses or contact lenses?"
+
+msgctxt "Template Presbicia"
+msgid "¿Existe un tratamiento permanente de presbicia?"
+msgstr "Is there a permanent treatmente for Presbyopia?"
+
+msgctxt "Template Presbicia"
+msgid "¿Hay otros modos de la corrección de presbicia?"
+msgstr "Are there other ways for correcting presbyiopia?"
+
+msgctxt "Template Quienes Somos"
+msgid "CONTACTE CON NUEVO CRISTALINO"
+msgstr "CONTACT WITH NEWLENS"
+
+msgctxt "Template Quienes Somos"
+msgid "NUEVO CRISTALINO EUROPA:"
+msgstr "NEWLENS EUROPE:"
+
+msgctxt "Template Quienes Somos"
+msgid "info@nuevocristalino.com"
+msgstr "info@mylifestylelens.com"
+
+msgctxt "Template Quienes Somos"
+msgid "publicidad@nuevocristalino.com"
+msgstr "commercial@newlens.co.uk"
+
+msgctxt "Template Quienes Somos"
+msgid "Síguenos en twitter"
+msgstr "Follow us on Twitter"
+
+msgctxt "Template Quienes Somos"
+msgid "Síguenos en facebook"
+msgstr "Follow us on Facebook"
+
+msgctxt "Template Resultado Busquedas de Paciente"
+msgid "LAS LENTES INTRAOCULARES RESULTANTES DE SU BÚSQUEDA SON:"
+msgstr "THE INTRAOCULAR LENSES RESULT OF YOUR SEARCH ARE:"
+
+msgctxt "Template Resultado Busquedas de Paciente"
+msgid "No hay ninguna Lente Intraocular con los criterios de filtrado actuales."
+msgstr "There is no intraocular lens matching the current selection criteria."
+
+msgctxt "Template Resultado Busquedas de Paciente"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr "Proceed with a new search changing the criteria."
+
+msgctxt "Archive Question"
+msgid "Pregunte sus dudas"
+msgstr "Ask questions"
+
+msgctxt "Author"
+msgid "POST PUBLICADOS"
+msgstr "PUBLISHED POSTS"
+
+msgctxt "Author"
+msgid "Trabajando actualmente en:"
+msgstr "Currently working in:"
+
+msgctxt "Author"
+msgid "Web de la empresa:"
+msgstr "Company website:"
+
+msgctxt "Content Archive Clinica"
+msgid "Clínicas en: "
+msgstr "Clinics in:"
+
+msgctxt "Content Archive Clinica"
+msgid "Ver más información de la clínica"
+msgstr "View more info about the Eye Clinic"
+
+msgctxt "Content Archive Lente Intraocular"
+msgid "Fabricante de la Lente:"
+msgstr "Lens Manufacturer:"
+
+msgctxt "Content Archive Lente Intraocular"
+msgid "Ver lente"
+msgstr "View Lens"
+
+msgctxt "Content Archive Lente Intraocular Paciente"
+msgid "Abrir lente en ventana nueva"
+msgstr "Open Lens in new window"
+
+msgctxt "Content Archive Lente Intraocular Paciente"
+msgid "Fabricante de la Lente:"
+msgstr "Lens Manufacturer:"
+
+msgctxt "Content Blog"
+msgid "Leer más"
+msgstr "Read more"
+
+msgctxt "Content Category"
+msgid "Leer más"
+msgstr "Read more"
+
+msgctxt "Content Fabricante"
+msgid "VOLVER A LISTA DE FABRICANTES"
+msgstr "RETURN TO MANUFACTURERS LIST"
+
+msgctxt "Content Grid Clinica"
+msgid "Ubicación:"
+msgstr "Location:"
+
+msgctxt "Content Opinion Doctor"
+msgid "VOLVER A OPINIONES DE DOCTORES"
+msgstr "RETURN TO DOCTORS OPINIONS"
+
+msgctxt "Footer"
+msgid "Lentes más Vistas:"
+msgstr "Most visited Lenses:"
+
+msgctxt "Footer"
+msgid "Clínicas Más Vistas:"
+msgstr "Most visited Clinics:"
+
+msgctxt "Footer"
+msgid "Legal"
+msgstr "Legal"
+
+msgctxt "Footer"
+msgid "Mapa del Site"
+msgstr "Site Map"
+
+msgctxt "Footer"
+msgid "Más sobre Nuevo Cristalino"
+msgstr "More about NewLens"
+
+msgctxt "Footer Forum"
+msgid "Popular Topics"
+msgstr "Popular Topics"
+
+msgctxt "Footer Forum"
+msgid "Foros Nuevo Cristalino"
+msgstr "NewLens Forums"
+
+msgctxt "Footer Forum"
+msgid "Dónde está Nuevo Cristalino"
+msgstr "Where is NewLens"
+
+msgctxt "Footer Forum"
+msgid "Más Sobre Nuevo Cristalino"
+msgstr "More About NewLens"
+
+msgctxt "Footer Forum"
+msgid "Alemania"
+msgstr "Germany"
+
+msgctxt "Footer Forum"
+msgid "España"
+msgstr "Spain"
+
+msgctxt "Footer Forum"
+msgid "Inglaterra"
+msgstr "England"
+
+msgctxt "Footer Forum"
+msgid "Polonia"
+msgstr "Poland"
+
+msgctxt "Functions"
+msgid "Doctor"
+msgstr "Doctor"
+
+msgctxt "Functions"
+msgid "Optometrista"
+msgstr "Optometrist"
+
+msgctxt "Functions"
+msgid "Gerente de Clínica"
+msgstr "Clinic Manager"
+
+msgctxt "Functions"
+msgid "Técnico de Clínica (Laser, cálculo de lentes...)"
+msgstr "Clinic Technician (Laser, lens calculation…)"
+
+msgctxt "Functions"
+msgid "Especialista de Industria"
+msgstr "Industry Specialist"
+
+msgctxt "Functions"
+msgid "Por favor rellene cual es su cargo-título."
+msgstr "Please fill the field with your title or position"
+
+msgctxt "Functions"
+msgid "Cargo que ocupa"
+msgstr "Position in the organization"
+
+msgctxt "Functions"
+msgid "Si desea especificar o ampliar la categoría profesional anterior, con su cargo o puesto rellene este campo. (ej: especialista en retina..."
+msgstr "To specify or give further information regarding the position or professional status fill this field (eg: retina specialist…)"
+
+msgctxt "Functions"
+msgid "Clínicas o Empresa en las que trabaja"
+msgstr "Clinics or Companies you are working in"
+
+msgctxt "Functions"
+msgid "Señale las clínicas o empresas en las que trabaja separadas por comas"
+msgstr "Tell us the clinics or companies separated by commas."
+
+msgctxt "Functions"
+msgid "Webs de las clínicas o empresas anteriores, separadas por comas y en el mismo orden"
+msgstr "Websites of the pointed clinics-companies separated by commas and in the same order"
+
+msgctxt "Functions"
+msgid "Señale las webs de sus clínicas o empresas, separadas por comas y en el orden que las ha señalado anteriormente"
+msgstr "Fill with the websites of the pointed clinics-companies separated by commas and in the same order"
+
+msgctxt "Functions"
+msgid "Email de contacto"
+msgstr "Contact email"
+
+msgctxt "Functions"
+msgid "Señale el email de contacto"
+msgstr "Fill with the contact email"
+
+msgctxt "Functions"
+msgid "Pequeña descripción profesional (No es un CV, 200 caracteres máximo)"
+msgstr "Small professional description (not a CV, 200 characters maximum)"
+
+msgctxt "Functions"
+msgid "Si lo desea escriba una pequeña descripción de su profesión/trayectoria (Ofta)"
+msgstr "If you wish, write a professional description of your profession/trajectory"
+
+msgctxt "Functions"
+msgid "Enlace a su perfil de linkedIn"
+msgstr "Link to your linkedIn profile"
+
+msgctxt "Functions"
+msgid "Pegue el link de su perfil de linkedIn"
+msgstr "Copy your link to your linkedIn profile"
+
+msgctxt "Functions"
+msgid "¿De haber subido su imagen, está de acuerdo en que se muestre su en su perfil?"
+msgstr "If you have uploaded your image, do you agree to have it shown on your profile?"
+
+msgctxt "Functions"
+msgid "Recuerde que puede dejar cualquiera de ellos en blanco y no saldrán igualmente, puede comprobarlo usted mismo"
+msgstr "Remember that you can leave any of the responses empty and they will not appear, you can check it yourself"
+
+msgctxt "Functions"
+msgid "¿Desea tener un perfil público con los datos de perfil público apuntados?"
+msgstr "Do you want to have a public profile with the information provided? "
+
+msgctxt "Functions"
+msgid "Sí"
+msgstr "Yes"
+
+msgctxt "Functions"
+msgid "No"
+msgstr "No"
+
+msgctxt "Header"
+msgid "Todo sobre lentes intraoculares"
+msgstr "All about intraocular lenses"
+
+msgctxt "Header"
+msgid "FORO"
+msgstr "FORUM"
+
+msgctxt "Header"
+msgid "PREGUNTE AL CIRUJANO"
+msgstr "ASK THE SURGEON"
+
+msgctxt "Header"
+msgid "Cerrar Sesión"
+msgstr "Log Out"
+
+msgctxt "Header"
+msgid "LOGIN"
+msgstr "LOGIN"
+
+msgctxt "Header"
+msgid "REGISTRARSE"
+msgstr "REGISTER"
+
+msgctxt "Header"
+msgid "No ha iniciado sesión"
+msgstr "You have not logged In"
+
+msgctxt "Content Search"
+msgid "ESCRITO POR"
+msgstr "WRITTEN BY"
+
+msgctxt "Content Test Lente Intraocular"
+msgid "Ver lente"
+msgstr "View Lens"
+
+msgctxt "qa-slug"
+msgid "preguntas-de-lentes-intraoculares-presbicia-y-cataratas"
+msgstr "intraocular-lenses-presbyopia-and-cataract-questions"
+
+msgctxt "foro-slug"
+msgid "foro-de-lentes-intraoculares-presbicia-y-cataratas"
+msgstr "intraocular-lenses-presbyopia-and-cataract-forum"
+
+msgctxt "Home Page"
+msgid "Soy un Doctor y estoy buscando una Lente Intraocular"
+msgstr "I am a Doctor and I am looking for an Intraocular Lens"
+
+msgctxt "Template Cataratas"
+msgid "CIRUGÍA DE CATARATAS"
+msgstr "CATARACT SURGERY"
+
+msgctxt "Home Page"
+msgid "Vea que opinan los especialistas de cada lente y las razones que les llevan a elegirlas."
+msgstr "View the specialists' opinions about each IOL and the reasons they choose them."
+
+msgctxt "Home Page"
+msgid "Conozca la útima técnica disponible para la cirugía de remplazo del cristalino."
+msgstr "Discover of the state of the art surgical technique for lens replacement."
+
+msgctxt "Home Page"
+msgid "Le ofrecemos un listado de Centros que especializados en lentes intraoculares."
+msgstr "We offer you a list of Eye Clinics specialized in Intraocular Lens Surgery"
+
+msgctxt "Home Page"
+msgid "Soy un oftalmólogo u optometrista"
+msgstr "I am an Ophthalmologist or Optometrist"
+
+msgctxt "Home Page"
+msgid "Y estoy buscando una lente intraocular"
+msgstr "And I am looking for an Intraocular Lens"
+
+msgctxt "Home Page"
+msgid "Háblenos de su caso"
+msgstr "Tell us about your case"
+
+msgctxt "Home Page"
+msgid "¿Le han puesto una lente intraocular?"
+msgstr "Do you have an IOL implant?"
+
+msgctxt "Home Page"
+msgid "Cómo elegir mi lente Intraocular"
+msgstr "How do I select My Intraocular Lens?"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Oculentis"
+msgstr "View all Intraocular Lenses from Oculentis"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Alcon"
+msgstr "View all Intraocular Lenses from Alcon"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Bausch+Lomb"
+msgstr "View all Intraocular Lenses from Bausch+Lomb"
+
+msgctxt "shortcode"
+msgid "Todas las Lentes Intraoculares de Physiol"
+msgstr "View all Intraocular Lenses from Physiol"
+
+msgctxt "shortcode"
+msgid "Todas las Lentes Intraoculares de  AMO (Abbot Medical Optics)"
+msgstr "View all Intraocular Lenses from  AMO (Abbot Medical Optics)"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Calhoun Vision"
+msgstr "View all Intraocular Lenses from  Calhoun Vision"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Zeiss"
+msgstr "View all Intraocular Lenses from  Zeiss"
+
+msgctxt "Content Grid"
+msgid "Fabricante:"
+msgstr "Manufacturer:"
+
+msgctxt "Site Name"
+msgid "NUEVO CRISTALINO"
+msgstr "New Lens"
+
+msgctxt "Buscador Iol"
+msgid "Ir a Nuevo Cristalino"
+msgstr "Go to New Lens"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Intraoculares Verisyse"
+msgstr "View Verisyse Intraocular Lens"
+
+msgctxt "Template Tipos Lente Intraocular"
+msgid "TIPOS DE IOL"
+msgstr "IOL Typ"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Intraoculares Ajustables por Luz"
+msgstr "View the Light Intraocular Adjutable Lenses"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Intraoculares Fáquicas"
+msgstr "View the Phakic Intraocular Lenses"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Multifocales Refractivas"
+msgstr "View the Refractive Multifocal Intraocular Lenses"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Multifocales Trifocales"
+msgstr "View the Trifocal Intraocular Lenses"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Multifocales Difractivas"
+msgstr "View the Diffractive Multifocal Lenses"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Multifocales Tóricas"
+msgstr "View the Toric Multifocal Lenses"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Intraoculares Multifocales"
+msgstr "View the Multifocal Lenses"
+
+msgctxt "shortcode"
+msgid "Ver las Lentes Visian ICL"
+msgstr "View the ICL Lenses"
+
+msgctxt "Template Pre-Op Test"
+msgid "Enviar Test"
+msgstr "Submit Test"
+
+msgctxt "Content Fabricante"
+msgid "Distribuidor en el país:"
+msgstr "Local Distributor:"
+
+msgctxt "Content Fabricante"
+msgid "Dirección:"
+msgstr "Address:"
+
+msgctxt "Content Fabricante"
+msgid "Teléfono de contacto:"
+msgstr "Contact Phone:"
+
+msgctxt "Content Fabricante"
+msgid "Email de contacto:"
+msgstr "Contact e-Mail:"
+
+msgctxt "Content Fabricante"
+msgid "Web:"
+msgstr "Website:"
+
+msgctxt "Content Fabricante"
+msgid "Web Distribuidor:"
+msgstr "Distributor Website:"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Monofocales-Estánda"
+msgstr "More about Standard Monofocal IOL"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Estandar"
+msgstr "View Standard IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Monofocales"
+msgstr "More about Monofocal IOLs"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Monofocales"
+msgstr "View Monofocal IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Premium"
+msgstr "More about Premium IOLs"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Premium"
+msgstr "View Premium IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Asféricas"
+msgstr "More About Aspheric IOLs"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Asféricas"
+msgstr "View Aspheric IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Multifocales Bifocales"
+msgstr "More about Multifocal Bifocal IOLs"
+
+msgctxt "shortcode"
+msgid "Ver LIOs Multifocales Bifocales"
+msgstr "View Multifocal Bifocal IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Multifocales Trifocales"
+msgstr "More about Multifocal Trifocal IOLs"
+
+msgctxt "shortcode"
+msgid "Ver LIOs Multifocales Trifocales"
+msgstr "View Multifocal Trifocal IOLs"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Acomodativas"
+msgstr "More about Accommodative IOLs"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Acomodativas"
+msgstr "View Accommodative IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Ajustables por Luz"
+msgstr "More About Light Adjustable Lenses"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de LIOs Ajustables por luz"
+msgstr "View Light Adjustable Lens Models"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Tóricas"
+msgstr "More about Toric IOLs"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Tóricas"
+msgstr "View Toric IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs con Filtros"
+msgstr "More about IOLs with Filters"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes con Filtros"
+msgstr "View IOL Models with Filters"
+
+msgctxt "shortcode"
+msgid "Más sobre Lentes Add On"
+msgstr "More about Add-On IOLs"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Add On"
+msgstr "View Add-On IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre Lentes Intraoculares Fáquicas"
+msgstr "More about Phakic IOLs"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Fáquicas"
+msgstr "View Phakic IOL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre Lentes Intraoculares ICL"
+msgstr "More about ICL Lenses"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes ICL"
+msgstr "View ICL Models"
+
+msgctxt "shortcode"
+msgid "Más sobre Lentes Intraoculares Verisyse"
+msgstr "More about Verysise Lenses"
+
+msgctxt "shortcode"
+msgid "Ver Modelos de Lentes Verisyse"
+msgstr "View Verisyse Models"
+
+msgctxt "Header"
+msgid "Usuario"
+msgstr "User"
+
+msgctxt "Header"
+msgid "Editar Perfil"
+msgstr "Edit Profile"
+
+msgctxt "header-buscador-iol"
+msgid "FILTRO PARA DOCTORES"
+msgstr "FILTER FOR OPHTHALMOLOGISTS AND OPTOMETRISTS"
+
+msgctxt "Template Pre-Op Test"
+msgid "4.&nbsp; Tras la cirugía ¿cómo de importante es para usted ver de lejos sin gafas: conduciendo, jugando al golf...?"
+msgstr "4.&nbsp; After the surgery ¿How important is it for you to have good far vision without correction: while driving, playing golf... ?"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de STAAR"
+msgstr "View all Intraocular Lenses from STAAR"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de AMO (Abbott Medical Optics)"
+msgstr "View all Intraocular Lenses from AMO (Abbot Medical Optics)"
+
+msgctxt "blog"
+msgid "ESCRITO POR"
+msgstr "WRITTEN BY"
+
+msgctxt "menu-site"
+msgid "MI LENTE INTRAOCULAR"
+msgstr "MY INTRAOCULAR LENS"
+
+msgctxt "menu-site"
+msgid "FABRICANTES"
+msgstr "MANUFACTURERS"
+
+msgctxt "prefix-fab-slug"
+msgid "Lentes Intraoculares "
+msgstr "Intraocular Lenses "
+
+msgctxt "mapa-web-title"
+msgid "BUSCADOR DE LIO"
+msgstr "IOL FINDER"
+
+msgctxt "mapa-web-title"
+msgid "BUSCADOR DE CLÍNICAS"
+msgstr "CLINIC FINDER"
+
+msgctxt "mapa-web-title"
+msgid "LENTES INTRAOCULARES PREMIUM"
+msgstr "PREMIUM INTRAOCULAR LENSES"
+
+msgctxt "mapa-web-title"
+msgid "RESULTADOS OPERACIÓN CON LIO"
+msgstr "IOL SURGERY OUTCOMES"
+
+msgctxt "mapa-web-title"
+msgid "CIRUGÍAS"
+msgstr "SURGERIES"
+
+msgctxt "mapa-web-title"
+msgid "MI OJO"
+msgstr "MY EYE"
+
+msgctxt "mapa-web-title"
+msgid "LENTES INTRAOCULARES"
+msgstr "INTROACULAR LENSES"
+
+msgctxt "mapa-web-title"
+msgid "REDES SOCIALES"
+msgstr "SOCIAL MEDIA"
+
+msgctxt "mapa-web-title"
+msgid "LEGAL"
+msgstr "LEGAL"
+
+msgctxt "Home Page"
+msgid "Perfil de Clínica"
+msgstr "Eye Clinic Profile"
+
+msgctxt "alt header"
+msgid "Ver Lentes Intraoculares"
+msgstr "View Intraocular Lenses"
+
+msgctxt "alt header"
+msgid "Ir a Blog Nuevo Cristalino"
+msgstr "Go to NewLens Blog"
+
+msgctxt "alt header"
+msgid "Ir a Foro Nuevo Cristalino"
+msgstr "Go to New Lens Forum"
+
+msgctxt "alt header"
+msgid "Ir a Pregunte al Cirujano"
+msgstr "Ask the Refractive Surgeon"
+
+msgctxt "alt header"
+msgid "NuevoCristalino en el Mundo"
+msgstr "NewLens worldwid"
+
+msgctxt "alt home"
+msgid "Descubra cuál es la lente ideal para usted realizando nuestro test."
+msgstr "Discover what's the best lens for you by performing the test"
+
+msgctxt "alt home"
+msgid "Lentes Intraoculares como solución a la presbicia."
+msgstr "Intraocular Lenses as the  presbyopia solucion"
+
+msgctxt "title home"
+msgid "Filtro de lentes intraoculares especial para oftalmólogos"
+msgstr "special IOL filter for ophthalmologists "
+
+msgctxt "title home"
+msgid "Buscador de lentes intraoculares para Oftalmólogos y Optometristas"
+msgstr "IOL Finder for ophthalmologists and optometrists"
+
+msgctxt "alt author"
+msgid "Visite el Blog de Nuevo Cristalino"
+msgstr "Visit our Blog"
+
+msgctxt "alt author"
+msgid "Pregunte sus dudas al cirujano."
+msgstr "Ask a refractive surgeon"
+
+msgctxt "alt author"
+msgid "Comparta información con otros pacientes en el foro."
+msgstr "Share your comments in the forum with other patients"
+
+msgctxt "title footer"
+msgid "ver"
+msgstr "View"
+
+msgctxt "alt home"
+msgid "Ir a Nuevo Cristalino"
+msgstr "Go to NewLens"
+
+msgctxt "alt header single iol"
+msgid "Ver Lentes Intraoculares"
+msgstr "View Intraocular Lenses"
+
+msgctxt "alt header single iol"
+msgid "Ir al Blog Nuevo Cristalino"
+msgstr "Go to our Blog"
+
+msgctxt "alt header single iol"
+msgid "Ir al Foro de Nuevo Cristalino"
+msgstr "Go to the Forum"
+
+msgctxt "alt header single iol"
+msgid "Ir a pregunte al Cirujano"
+msgstr "Ask the Refractive Surgeon"
+
+msgctxt "alt header single iol"
+msgid "NuevoCristalino en el Mundo"
+msgstr "NewLens worldwid"
+
+msgctxt "alt page login"
+msgid "Visite el blog de NuevoCristalino"
+msgstr "Visit our Blog"
+
+msgctxt "alt page login"
+msgid "Pregunte sus dudas al cirujano refractivo"
+msgstr "Ask your questions directly to a refractive surgeon"
+
+msgctxt "alt page login"
+msgid "Comparta información con otros pacientes en el foro"
+msgstr "Share your comments in the forum with other patients"
+
+msgctxt "alt template post op"
+msgid "Estadísticas de los resultados del test post-operatorio"
+msgstr "Post-Operative satisfaction statistics"
+
+msgctxt "alt template post op"
+msgid "Pregunte sus dudas al cirujano refractivo"
+msgstr "Make your questions to a Refractive Surgeon"
+
+msgctxt "alt template post op"
+msgid "Realice el test para averiguar qué lente intraocular es más adecuada para usted."
+msgstr "Perform the test and learn which intraocular lenses are most appropriate for you"
+
+msgctxt "alt post test result"
+msgid "Realice el test para averiguar qué lente intraocular es más adecuada para usted."
+msgstr "Perform the test and learn which intraocular lenses are most appropriate for you"
+
+msgctxt "alt post test result"
+msgid "Busque el modelo de lente intraocular según las características que desee."
+msgstr "Find the intraocular lens according to the features you need"
+
+msgctxt "alt post test result"
+msgid "Visite el blog de Nuevo Cristalino."
+msgstr "Visit our Blog"
+
+msgctxt "alt post test result"
+msgid "Pregunte sus dudas al cirujano refractivo."
+msgstr "Make your questions to a Refractive Surgeon"
+
+msgctxt "alt post test result"
+msgid "Comparta su caso en el foro de Nuevo Cristalino."
+msgstr "Ask a refractive surgeon"
+
+msgctxt "Template Post-op Test Result"
+msgid "Comentarios de pacientes sometidos a una intervención intraocular:"
+msgstr "Patient experiences after  intraocular lens surgery"
+
+msgctxt "Template Post-op Test Result Comments"
+msgid "No dude en realizar cualquier comentario que crea pueda serle de ayuda a una persona, que esté dudando qué tipo de lente intraocular elegir."
+msgstr "Do not hesitate to make any comments that may help anyone, who is looking for information about intraocular lenses."
+
+msgctxt "Template Pre-Op Test Result"
+msgid "Ver lente"
+msgstr "View Lens"
+
+msgctxt "Template Pre-Op Test Result"
+msgid "Abrir lente en  nueva ventana"
+msgstr "Open lens in a new window"
+
+msgctxt "Home Page"
+msgid "Soy Médico"
+msgstr "I am ophthalmologist"
+
+msgctxt "Functions"
+msgid "Técnico de Clínica"
+msgstr "Clinic Technician"
+
+msgctxt "Functions"
+msgid "Sin Especificar"
+msgstr "Not Specified"
+
+msgctxt "Functions"
+msgid "Otros"
+msgstr "Other"
+
+msgctxt "Functions"
+msgid "Categoría Profesional"
+msgstr "Occupational group"
+
+msgctxt "Functions"
+msgid "Información de su Perfil Profesional"
+msgstr "Information about your professional profile"
+
+msgctxt "ms-signup-user-form"
+msgid "Nombre de Usuario / Nickname <b>(Elija uno que garantice su anonimato ¡¡ )</b>:"
+msgstr "Username / Nickname <b>(Choose one that lets you remain anonymous '')</b>:"
+
+msgctxt "ms-signup-user-form"
+msgid "He leído y acepto los términos y condiciones"
+msgstr "I have READ and AGREED with the terms and conditions"
+
+msgctxt "ms-signup-user-form"
+msgid "Tenga acceso a todos los servicios de %s en segundos"
+msgstr "Get all the benefits of %s in a few seconds"
+
+msgctxt "functions"
+msgid "Antes de registrarse ha de aceptar las condiciones legales."
+msgstr "Before registering you have to agree with the terms"
+
+msgctxt "not found"
+msgid "Lo sentimos, no podemos ofrecerle la página que está buscando"
+msgstr "We`re sorry, the site you are looking for is temporally unavailable "
+
+msgctxt "not found"
+msgid "Puede realizar una búsqueda interna en el site sobre el recurso en el que estaba interesado:"
+msgstr "You can perform an internal search within the site about the subject you are interested in:"
+
+msgctxt "not found"
+msgid "Igual quiere ir al área:"
+msgstr "Doesn`t matter, I want to go to field:"
+
+msgctxt "not found"
+msgid "Como siempre puede ponerse en contacto con nosotros en:"
+msgstr "Als always you can contact us by: "
+
+msgctxt "not found"
+msgid "info@nuevocristalino.com"
+msgstr "info@newlens.co.uk"
+
+msgctxt "not found"
+msgid "En nuestro Mapa del Sitio podrá encontrar un acceso a todos los recursos que NuevoCristalino pone a su disposición:"
+msgstr "In our sitemap you will be able to find all the resources NewLens offers:"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Hoya"
+msgstr "View all Intraocular Lenses from  Hoya"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Rainer"
+msgstr "View all Intraocular Lenses from  Rayner"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Croma"
+msgstr "View all Intraocular Lenses from  Croma"
+
+msgctxt "shortcode"
+msgid "Ver Todas las Lentes Intraoculares de Akkolens"
+msgstr "View all Intraocular Lenses from  Akkolens"
+
+msgctxt "Content Lente Intraocular"
+msgid "A"
+msgstr "A Constant"
+
+msgctxt "Content Lente Intraocular"
+msgid "ACD"
+msgstr "ACD"
+
+msgctxt "Content Lente Intraocular"
+msgid "Surgeon Factor"
+msgstr "Surgeon Factor"
+
+msgctxt "shortcode"
+msgid "Más sobre LIOs Multifocales"
+msgstr "More about Multifocal IOLs"
+
+msgctxt "shortcode"
+msgid "Ver LIOs Multifocales"
+msgstr "View Multifocal IOL Models"
+
+msgctxt "form"
+msgid "Formulario No enviado, ha de aceptar los términos y condiones de NuevoCristalino"
+msgstr "Form not sent, you first have to agree with the terms and conditons of NewLens"
+
+msgctxt "form"
+msgid "Acepto las condiciones de uso y privacidad de NuevoCristalino"
+msgstr "I have read and agreed with the terms of use and privacy policy"
+
+msgctxt "Template PostOp Test Result"
+msgid "Nivel de Satisfacción tras la Operación"
+msgstr "Satisfaction Level of the operated patients"
+
+msgctxt "Template PostOp Test Result"
+msgid "Muy satisfecho"
+msgstr "Very satisfied"
+
+msgctxt "Template PostOp Test Result"
+msgid "Bastante satisfecho"
+msgstr "Pretty satisfied"
+
+msgctxt "Template PostOp Test Result"
+msgid "Satisfecho"
+msgstr "Satisfied"
+
+msgctxt "Template PostOp Test Result"
+msgid "No Satisfecho"
+msgstr "Not satisfied"
+
+msgctxt "Template PostOp Test Result"
+msgid "Nada satisfecho"
+msgstr "Not satisfied at all"
+
+msgctxt "Template PostOp Test Result"
+msgid "Muchísima Dificultad"
+msgstr "A lot of trouble"
+
+msgctxt "Template PostOp Test Result"
+msgid "Bastante Dificultad"
+msgstr "Pretty much trouble"
+
+msgctxt "Template PostOp Test Result"
+msgid "Alguna Dificultad"
+msgstr "Some trouble"
+
+msgctxt "Template PostOp Test Result"
+msgid "Ninguna Dificultad"
+msgstr "No trouble"
+
+msgctxt "ms-signup-user-form"
+msgid "Si pasados 2 minutos ve que no le llega el email, no olvide buscar también en la carpeta de correo SPAM."
+msgstr "If after 2 minutes you receive no email, do not forget to check your SPAM folder!"
+
+msgctxt "Right Single Clinica"
+msgid "Imágenes de la Clínica"
+msgstr "Images of the Clinic"
+
+msgctxt "yarpp"
+msgid "Hilos relacionados en el Foro"
+msgstr "Related Threads"
+
+msgctxt "yarpp"
+msgid "Contenidos Relacionados:"
+msgstr "Other related contents:"
+
+msgctxt "yarpp"
+msgid "Posts Relacionados:"
+msgstr "BLOG:"
+
+msgctxt "yarpp"
+msgid "Preguntas hechas al Oftalmólogo:"
+msgstr "ASK THE SURGEON:"
+
+msgctxt "Home Page"
+msgid "Pregunta o comparte tu experiencia en"
+msgstr "Ask or share your experiece in"
+
+msgctxt "Home Page"
+msgid "NuevoCristalino"
+msgstr "MyLifeStyleLens"
+
+msgctxt "Home Page"
+msgid "Regístrate y"
+msgstr "Register and"
+
+msgctxt "Home Page"
+msgid "pregunta al cirujano"
+msgstr "ask the surgeon"
+
+msgctxt "Home Page"
+msgid "Al realizar la pregunta se te va a solicitar registrase. Para que serte contestada por un cirujano, tendrás que rellenar un rápido cuestionario pre o postperatorio con el fin de recibir una respuesta más específica para tu caso."
+msgstr "When submitting the question you are asked for registration. For having your question answered by the surgeon, you will have to fill a quick questionnaire pre or post-surgery. This data will help the surgeon to provide a more customized response."
+
+msgctxt "Home Page"
+msgid "Tu asesor personal para la"
+msgstr "Your personal advisor for"
+
+msgctxt "Home Page"
+msgid "Cirugía de Cataratas"
+msgstr "Cataract surgery"
+
+msgctxt "Home Page"
+msgid "En NuevoCristalino estamos para ayudarte. Si estás pensando en operarte de cataratas, presbicia u otro defecto refractivo con lente intraocular, te ponemos en contacto con los cirujanos especialistas en esta cirugía."
+msgstr "In MyLifeStyleLens we are here to help you. If you are planning to undergo cataract surgery, or correct your presbyopia (also Myopia, Hyperopia) with an IOL implant, we put you in contact with surgeons specialists in intraocular surgery."
+
+msgctxt "Home Page"
+msgid "Contacta por diferentes canales:"
+msgstr "Contact using different means"
+
+msgctxt "Home Page"
+msgid "Patologías asociadas a la"
+msgstr "Diseases related to"
+
+msgctxt "Home Page"
+msgid "La cirugía intraocular con implante de lente intraocular es la cirugía que más se realiza en el mundo (sin contar la asociada al parto). Para un cirujano experto es algo rutinario. Conviene, eso sí, estar al tanto de algunas condiciones que pueden darse en su postoperatorio."
+msgstr "Intraocular surgery with IOL implant is the most performed eye surgery in the world. For an expert surgeon it is routine. You have however to be aware of some conditions that could appear during the post-surgery period."
+
+msgctxt "Home Page"
+msgid "Moscas volantes/Miodesopsias"
+msgstr "Floaters"
+
+msgctxt "Home Page"
+msgid "Ojo seco"
+msgstr "Dry eye"
+
+msgctxt "Home Page"
+msgid "¿Cuándo no son aconsejables las lentes multifocales?"
+msgstr "When are multifocal intraocular lenses not advised?"
+
+msgctxt "Home Page"
+msgid "Conozca más sobre las lentes de tipo multifocal para ver si son una solución adecuada para usted."
+msgstr "Know more about multifocal intraocular lenses to check if they are a good solution for you."
+
+msgctxt "Home Page"
+msgid "¿Cuándo no me convienen las lentes icl?"
+msgstr "When are ICL lenses not advised?"
+
+msgctxt "Home Page"
+msgid "Las lentes ICL corrigen la miopía,hipermetropia y/o astigmatismo. Vea si son recomendables para usted."
+msgstr "ICL lenses correct myopia, hyperopia and astigmatism, check if they are a good option for you."
+
+msgctxt "Home Page"
+msgid "Últimas preguntas de"
+msgstr "Last questions of"
+
+msgctxt "Home Page"
+msgid "Pregunta al Cirujano"
+msgstr "Ask the surgeon"
+
+msgctxt "Home Page"
+msgid "Última actividad en el"
+msgstr "Last activity in the"
+
+msgctxt "Home Page"
+msgid "Foro"
+msgstr "Forum"
+
+msgctxt "Functions"
+msgid "informacion-basica/categoria"
+msgstr "basic-information/category"
+
+msgctxt "Functions"
+msgid "informacion-basica/etiqueta"
+msgstr "basic-information/tag"
+
+msgctxt "Home Page"
+msgid "Moscas Volantes"
+msgstr "Floaters"

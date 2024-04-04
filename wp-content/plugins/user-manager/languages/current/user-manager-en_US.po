@@ -1,0 +1,3187 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "user_manager"
+msgid "g_Country"
+msgstr "País de Residencia"
+
+msgctxt "user_manager"
+msgid "g_region"
+msgstr "Comunidad Autónoma/Región"
+
+msgctxt "user_manager"
+msgid "g_userBasicType"
+msgstr "Tipo de Usuario de NuevoCristalino"
+
+msgctxt "user_manager"
+msgid "g_userBasicType_Paciente"
+msgstr "Paciente/Familiar Paciente"
+
+msgctxt "user_manager"
+msgid "g_userBasicType_Prof"
+msgstr "Profesional de la Oftalmología"
+
+msgctxt "user_manager"
+msgid "g_inEmailing"
+msgstr "Interesado en Recibir información específica de acuerdo a su perfil de usuario"
+
+msgctxt "user_manager"
+msgid "g_inEmailing_Yes"
+msgstr "Sí, estoy interesado."
+
+msgctxt "user_manager"
+msgid "g_inEmailing_No"
+msgstr "No estoy interesado"
+
+msgctxt "user_manager"
+msgid "c_addProfileBasicData_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfType"
+msgstr "Tipo de usuario Profesional"
+
+msgctxt "user_manager"
+msgid "o_userProfType_Oft"
+msgstr "Oftalmólogo"
+
+msgctxt "user_manager"
+msgid "o_userProfType_Opt"
+msgstr "Optometrista"
+
+msgctxt "user_manager"
+msgid "o_userProfType_Tech"
+msgstr "Técnico de Clínica (Láser, Cálculo  de lentes...)"
+
+msgctxt "user_manager"
+msgid "o_userProfType_Mana"
+msgstr "Gerencia/Administ. Clínicas"
+
+msgctxt "user_manager"
+msgid "o_userProfRelatedClinic"
+msgstr "De ser parte de una clínica colaboradora con NuevoCristalino (de no serlo escriba o seleccione No Colaborador), póngala a continuación para poder ver los cuestionarios pre y postoperatorios de sus pacientes. Además podrá ver más informaciones no filtradas por Clínica."
+
+msgctxt "user_manager"
+msgid "o_userProfClinOrComp"
+msgstr "Clínicas o empresas en la que trabaja"
+
+msgctxt "user_manager"
+msgid "o_userProfCharge"
+msgstr "Cargo específico que ocupa"
+
+msgctxt "user_manager"
+msgid "o_userProfWebs"
+msgstr "Webs de sus clínicas o empresas"
+
+msgctxt "user_manager"
+msgid "o_userProfEmailCont"
+msgstr "email de contacto (si es diferente al de usuario)"
+
+msgctxt "user_manager"
+msgid "o_userProfCVDescr"
+msgstr "pequeña descripción profesional"
+
+msgctxt "user_manager"
+msgid "o_userProfLInkIn"
+msgstr "Enlace a su perfil de linkedin"
+
+msgctxt "user_manager"
+msgid "o_userProfPublicProfile"
+msgstr "Desea tener perfil público"
+
+msgctxt "user_manager"
+msgid "o_userProfPublicProfile_Yes"
+msgstr "Sí."
+
+msgctxt "user_manager"
+msgid "o_userProfPublicProfile_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "o_userProfEmailIndustry"
+msgstr "Desea recibir información vía email directamente de la industria de acuerdo a su perfil profesional?"
+
+msgctxt "user_manager"
+msgid "o_userProfEmailIndustry_Yes"
+msgstr "Sí, estoy interesado."
+
+msgctxt "user_manager"
+msgid "o_userProfEmailIndustry_No"
+msgstr "No estoy interesado"
+
+msgctxt "user_manager"
+msgid "c_addProfProfileBasicData_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_preOrPost"
+msgstr "¿Se ha sometido ya a la operación intraocular?"
+
+msgctxt "user_manager"
+msgid "p_preOrPost_Pre"
+msgstr "Pcte: No me he operado y estoy buscando información sobre cirugía ocular"
+
+msgctxt "user_manager"
+msgid "p_preOrPost_Post"
+msgstr "Pcte: Ya me he operado."
+
+msgctxt "user_manager"
+msgid "p_sxInteres"
+msgstr "Operación en la que está interesado o sobre la que trata su necesidad de información"
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Cat"
+msgstr "Operación de Cataratas"
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Cle"
+msgstr "Operación de cristalino sin catarata"
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Icl"
+msgstr "Operación con ICL"
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Other"
+msgstr "Otra Operación"
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant"
+msgstr "¿Ya sabe la lente intraocular que le van a poner?"
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant_Yes"
+msgstr "Sí."
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant_No"
+msgstr "No."
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant_NoButInfo"
+msgstr "No y quiero recibir información personalizada"
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant_Which"
+msgstr "Cúal"
+
+msgctxt "user_manager"
+msgid "p_clinicChosen"
+msgstr "¿Ha elegido ya la  clínica en la que  se va a operar?"
+
+msgctxt "user_manager"
+msgid "p_clinicChosen_Yes"
+msgstr "Sí"
+
+msgctxt "user_manager"
+msgid "p_clinicChosen_NoDoubting"
+msgstr "No, estoy dudando entre varias"
+
+msgctxt "user_manager"
+msgid "p_clinicChosen_NoNotAsses"
+msgstr "No, todavía no he empezado a mirar clínicas"
+
+msgctxt "user_manager"
+msgid "p_clinicChosen_WhichClinic"
+msgstr "Qué clínica"
+
+msgctxt "user_manager"
+msgid "p_interestToBeContacted"
+msgstr "¿Desea que le contacten clínicas directamente?"
+
+msgctxt "user_manager"
+msgid "p_interestToBeContacted_Yes"
+msgstr "Sí"
+
+msgctxt "user_manager"
+msgid "p_interestToBeContacted_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat"
+msgstr "Cuál es su opinión respecto a los resultados de la operación ¿Esta usted satisfecho con su visión actual, tras habérsele implantado una lente intraocular?"
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_YesVery"
+msgstr "Sí, muy satisfecho"
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_YesEnough"
+msgstr "Sí, bastante satisfecho"
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_Yes"
+msgstr "Sí, satisfecho"
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_NotAtAll"
+msgstr "No, nada satisfecho"
+
+msgctxt "user_manager"
+msgid "p_inEmailingClinics"
+msgstr "Está interesado en Recibir información específica de Clínicas de acuerdo a su perfil de paciente"
+
+msgctxt "user_manager"
+msgid "p_inEmailingClinics_Yes"
+msgstr "Sí, estoy interesado."
+
+msgctxt "user_manager"
+msgid "p_inEmailingClinics_No"
+msgstr "No estoy interesado"
+
+msgctxt "user_manager"
+msgid "c_addPatProfileBasicData_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_dateBirth"
+msgstr "Fecha de Nacimiento"
+
+msgctxt "user_manager"
+msgid "p_sex"
+msgstr "Sexo"
+
+msgctxt "user_manager"
+msgid "p_prof"
+msgstr "Profesión"
+
+msgctxt "user_manager"
+msgid "p_diagnoCat"
+msgstr "¿Tiene cataratas u opacidad del cristalino?"
+
+msgctxt "user_manager"
+msgid "p_diagnoCat_Yes"
+msgstr "Sí"
+
+msgctxt "user_manager"
+msgid "p_diagnoCat_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec"
+msgstr "Introduzca si la conoce su graduación preoperatoria"
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_OiSph"
+msgstr "Dioptrías Esfera OI (Negativas: Miopía; Positivas: Hipermetropía)"
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_OdSph"
+msgstr "Dioptrías Esfera OD (Negativas: Miopía; Positivas: Hipermetropía)"
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_OiCil"
+msgstr "Dioptrías Cilindro OI (Astigmatismo)"
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_OdCil"
+msgstr "Dioptrías Cilindro OD (Astigmatismo)"
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_Unknown"
+msgstr "No la sé con exactitud, lo único que sé que tengo es:"
+
+msgctxt "user_manager"
+msgid "pre_gradSelect"
+msgstr "En línea con la pregunta anterior: ¿Cuál es la graduación de sus gafas antes de las cataratas? O la actual de no tener opacificación del cristalino?"
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_More4Miop"
+msgstr "Más de -4 dioptrías de miopía"
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_05to4Miop"
+msgstr "De - 0,5 a - 4 dioptrías de miopía"
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_Bet05to3Hiper"
+msgstr "Entre + 0,5 y + 3 dioptrías de hipermetropía"
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_More3Hiper"
+msgstr "Más de + 3 dioptrías de hipermetropía"
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_Unknown"
+msgstr "No lo sabe"
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_None"
+msgstr "No tengo graduación/dioptrías"
+
+msgctxt "user_manager"
+msgid "pre_gradAstig1dptSelect"
+msgstr "Tiene usted astigmatismo de más de 1 dioptría"
+
+msgctxt "user_manager"
+msgid "pre_gradAstig1dptSelect_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "pre_gradAstig1dptSelect_Yes"
+msgstr "Sí"
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince"
+msgstr "Refracción estable desde hace:"
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_Less1year"
+msgstr "menos de 1 año"
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_1year"
+msgstr "1 año"
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_2year"
+msgstr "2 años"
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_3year"
+msgstr "3 años"
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_4year"
+msgstr "4 años"
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_5year"
+msgstr "5 años"
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_More5year"
+msgstr "Más de 5 años"
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx"
+msgstr "¿Operado previamente de cirugía refractiva?"
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_Lasik"
+msgstr "Lasik"
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_PRK"
+msgstr "PRK"
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_Smile"
+msgstr "Smile"
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_ICL"
+msgstr "ICL"
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_Verisize"
+msgstr "Verisize"
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_Other"
+msgstr "Otro"
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_None"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType"
+msgstr "Método de corrección actual:"
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_GlassesMono"
+msgstr "Gafas monofocales"
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_GlassesProg"
+msgstr "Gafas progresivas"
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_LcMono"
+msgstr "Lentes de contacto monofocales"
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_LcProg"
+msgstr "Lentes de contacto progresivas"
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_MonovGlaLc"
+msgstr "Monovisión con gafas o con lentillas"
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_Other"
+msgstr "otro"
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_None"
+msgstr "Ninguno"
+
+msgctxt "user_manager"
+msgid "pre_pastOcuHist"
+msgstr "¿Enfermedades oculares o traumas/golpes en el pasado?"
+
+msgctxt "user_manager"
+msgid "pre_pastOcuHist_Yes"
+msgstr "Sí"
+
+msgctxt "user_manager"
+msgid "pre_pastOcuHist_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "pre_pastOcuHist_Which"
+msgstr "Cuáles"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea"
+msgstr "Enfermedades  oculares actuales"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Cat"
+msgstr "Catarata"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Gla"
+msgstr "Glaucoma"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_DryEye"
+msgstr "Ojo seco"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_AMD"
+msgstr "Degeneracion macula associada con la edad"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Uveitis"
+msgstr "Uveitis"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_CorneDeg"
+msgstr "Degeneracion corneal"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Strabi"
+msgstr "Estrabismo"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_VitrDetach"
+msgstr "Desprendemiento vitreo"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Several"
+msgstr "Varias de las anteriores"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_None"
+msgstr "Ninguna que yo sepa"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Other"
+msgstr "otro"
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas"
+msgstr "Enfermedades Sistémicas"
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_Diab"
+msgstr "Diabetes"
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_Hipert"
+msgstr "Hipertensión"
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_Tiroid"
+msgstr "Tiroides"
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_Other"
+msgstr "Otras"
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_None"
+msgstr "Ninguna que yo sepa"
+
+msgctxt "user_manager"
+msgid "pre_spendMoreMoneyGlass"
+msgstr "¿Estarías dispuesto a gastar más dinero en tu operación para reducir tu dependencia de las gafas?"
+
+msgctxt "user_manager"
+msgid "pre_spendMoreMoneyGlass_Yes"
+msgstr "Si"
+
+msgctxt "user_manager"
+msgid "pre_spendMoreMoneyGlass_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassAftSx"
+msgstr "¿Cómo de importante es para usted no depender de las gafas después de la cirugía?"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassAftSx_VeryImp"
+msgstr "Muy importante"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassAftSx_NotImp"
+msgstr "No importante"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassFar"
+msgstr "Tras la cirugía ¿cómo de importante es para usted ver de lejos sin gafas: conduciendo, jugando al golf...?"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassFarSx_VeryImp"
+msgstr "Muy importante"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassFarSx_NotImp"
+msgstr "No importante"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassNear"
+msgstr "Tras la cirugía ¿cómo de importante es para usted ver de cerca sin gafas: leyendo?"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassNear_Imp"
+msgstr "Importante"
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassNear_NotImp"
+msgstr "No es importante"
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassWhere"
+msgstr "Si necesitase gafas en algunos momentos tras la cirugía, ¿en cuál de las siguientes actividades podrías aceptar gafas?"
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassWhere_ReadingSmallLet"
+msgstr "Leyendo letra pequeña"
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassWhere_PC"
+msgstr "Trabando con el ordenador o cocinando"
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassWhere_Driving"
+msgstr "Conduciendo"
+
+msgctxt "user_manager"
+msgid "pre_asumeHalos"
+msgstr "Si vieses bien tanto de lejos como de cerca durante el día, ¿podrías aceptar estos fenomenos como halos y destellos durante la noche?"
+
+msgctxt "user_manager"
+msgid "pre_asumeHalos_Yes"
+msgstr "Si"
+
+msgctxt "user_manager"
+msgid "pre_asumeHalos_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassNightVSmallRead"
+msgstr "Si viese bien durante el día sin necesidad de gafas, tanto de lejos como de cerca (letra con tamano normal), incluso trabajando con el ordendor, ¿podría aceptar las gafas para leer letra muy pequeña?"
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassNightVSmallRead_Yes"
+msgstr "Si"
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassNightVSmallRead_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority"
+msgstr "Hay muchas situaciones en las que es necesario ver bien a diferentes distancias. Normalmente podemos conseguir este con lentes intraoculares modernas. En el caso de que decidiese eliminar la dependencia de las gafas, ¿en qué tipo de escenario consideraría más importante lograr una independendencia total? Que distancia es la mas importante para ti?"
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_Near"
+msgstr "Leer, ver un mapa, coser..."
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_Interme"
+msgstr "Estar con el ordenador, leer un menú, ver precios de productos, leer letra de tamaño grande"
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_TV"
+msgstr "Ver la televisión, limpiar, realizar actividades dentro y fuera de la casa ¿?"
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_Golf"
+msgstr "Conducir, jugar al golf, ver carteles ¿?"
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_Ndriving"
+msgstr "Conducir por la noche, ver una película en el cine"
+
+msgctxt "user_manager"
+msgid "pre_personality"
+msgstr "En cuanto a su personalidad... ¿Cómo se considera usted?"
+
+msgctxt "user_manager"
+msgid "pre_personality_Open"
+msgstr "Abierto, sencillo..."
+
+msgctxt "user_manager"
+msgid "pre_personality_Perfec"
+msgstr "Perfeccionista, doy y espero siempre lo mejor"
+
+msgctxt "user_manager"
+msgid "g_clinicChosen"
+msgstr "¿Ha elegido ya la  clínica en la que  se va a operar?"
+
+msgctxt "user_manager"
+msgid "g_clinicChosen_Yes"
+msgstr "Sí"
+
+msgctxt "user_manager"
+msgid "g_clinicChosen_NoDoubting"
+msgstr "No, estoy dudando entre varias"
+
+msgctxt "user_manager"
+msgid "g_clinicChosen_NoNotAsses"
+msgstr "No, todavía no he empezado a mirar clínicas"
+
+msgctxt "user_manager"
+msgid "g_clinicChosen_WhichClinic"
+msgstr "Cuál"
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen"
+msgstr "¿A la hora de elegir clínica para operarse, que es lo que más valora o ha valorado?"
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_Price"
+msgstr "El  precio"
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_ReferKnown"
+msgstr "La referencias de otros pacientes que conozco"
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_ReferUnknown"
+msgstr "Las referencias de otros pacientes que no conozco personalmente"
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_Location"
+msgstr "La ubicación"
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_AllLifeOftMD"
+msgstr "Es mi oftalmólogo de toda la vida, me lo ha recomendado otro médico."
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_Insurance"
+msgstr "Que esté en mi seguro"
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_Renown"
+msgstr "Que el cirujano que me va a operar sea de reconocido prestigio"
+
+msgctxt "user_manager"
+msgid "c_qpls_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_timeFromSx"
+msgstr "¿Hace cuánto se operó de cataratas o de presbicia con lente intraocular?"
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_Less3M"
+msgstr "Menos de 3 meses"
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_Between3and6M"
+msgstr "Entre 3 y 6 meses"
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_More6M"
+msgstr "Más de 6 meses"
+
+msgctxt "user_manager"
+msgid "post_laterallitySx"
+msgstr "Se operó…"
+
+msgctxt "user_manager"
+msgid "post_laterallitySx_OneE"
+msgstr "Un ojo"
+
+msgctxt "user_manager"
+msgid "post_laterallitySx_BothE"
+msgstr "Los dos ojos"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL"
+msgstr "¿Qué tipo de Lente Intraocular (LIO) se le implantó?"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_MonoSph"
+msgstr "Una LIO Monofocal Esférica"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_MonoAsph"
+msgstr "Una LIO Monofocal Asférica"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_MonoToric"
+msgstr "Una LIO Monofocal Tórica"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Multif"
+msgstr "Una LIO Multifocal"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_MultifToric"
+msgstr "Una LIO Multifocal Tórica"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Acomod"
+msgstr "Una LIO Acomodativa"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_AddOn"
+msgstr "Una LIO Add-On"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_ICL"
+msgstr "Una LIO ICL"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Other"
+msgstr "Otro tipo"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Unknown"
+msgstr "No lo sé"
+
+msgctxt "user_manager"
+msgid "post_modelIOL"
+msgstr "Conoce el modelo de la lente?"
+
+msgctxt "user_manager"
+msgid "post_sxComplic"
+msgstr "¿Sabe si hubo alguna complicación durante la operación?"
+
+msgctxt "user_manager"
+msgid "post_sxComplic_Yes"
+msgstr "Si"
+
+msgctxt "user_manager"
+msgid "post_sxComplic_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "post_sxComplic_Which"
+msgstr "Cúal"
+
+msgctxt "user_manager"
+msgid "post_clinicSx"
+msgstr "En qué clínica se ha operado?"
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur"
+msgstr "Se ha operado en el sector público, por lo privado o a través de un seguro?"
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur_Pub"
+msgstr "Sector público"
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur_Priv"
+msgstr "Por lo privado"
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur_InsurPart"
+msgstr "Mi seguro médico me ha pagado parte"
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur_InsurFull"
+msgstr "Mi seguro médico me lo ha pagado todo"
+
+msgctxt "user_manager"
+msgid "post_task_dificulty"
+msgstr "De las tareas que le señalamos a continuación, ¿tiene algún tipo de dificultad en llevarlas a cabo (SIN GAFAS) a causa de su visión?"
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving"
+msgstr "Conducir de día (Visión de lejos con buena iluminación)"
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving_YesMuch"
+msgstr "Sí, muchísima"
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving_YesEnogh"
+msgstr "Sí, bastante"
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving_YesSome"
+msgstr "Sí, alguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving_NoNone"
+msgstr "No, ninguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving"
+msgstr "Conducir de noche (Visión de lejos con poca iluminación)"
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving_YesMuch"
+msgstr "Sí, muchísima"
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving_YesEnogh"
+msgstr "Sí, bastante"
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving_YesSome"
+msgstr "Sí, alguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving_NoNone"
+msgstr "No, ninguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision"
+msgstr "Trabajar con el ordenador, usar el teléfono, ver el GPS de su coche... (uso de visión intermedia)"
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision_YesMuch"
+msgstr "Sí, muchísima"
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision_YesEnogh"
+msgstr "Sí, bastante"
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision_YesSome"
+msgstr "Sí, alguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision_NoNone"
+msgstr "No, ninguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper"
+msgstr "Leer el periódico, revistas:"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper_YesMuch"
+msgstr "Sí, muchísima"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper_YesEnough"
+msgstr "Sí, bastante"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper_YesSome"
+msgstr "Sí, alguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper_NoNoe"
+msgstr "No, ninguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket"
+msgstr "Ver los precios de los productos en el ticket cuando está de compras:"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket_YesMuch"
+msgstr "Sí, muchísima"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket_YesEnough"
+msgstr "Sí, bastante"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket_YesSome"
+msgstr "Sí, alguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket_NoNone"
+msgstr "No, ninguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle"
+msgstr "Ver al enhebrar la aguja o al realizar trabajos manuales de similar precisión:"
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle_YesMuch"
+msgstr "Sí, muchísima"
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle_YesEnough"
+msgstr "Sí, bastante"
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle_YesSome"
+msgstr "Sí, alguna"
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle_NoNone"
+msgstr "No, ninguna"
+
+msgctxt "user_manager"
+msgid "post_frecFarGlasses"
+msgstr "¿Con qué frecuencia usa gafas para ver de lejos?"
+
+msgctxt "user_manager"
+msgid "post_frecFarGlasses_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "post_frecFarGlasses_Sometimes"
+msgstr "En ocasiones"
+
+msgctxt "user_manager"
+msgid "post_frecFarGlasses_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "post_frecNearGlasses"
+msgstr "¿Con qué frecuencia usa gafas para leer?"
+
+msgctxt "user_manager"
+msgid "post_frecNearGlasses_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "post_frecNearGlasses_Sometimes"
+msgstr "En ocasiones"
+
+msgctxt "user_manager"
+msgid "post_frecNearGlasses_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "c_prols_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria"
+msgstr "¿Considera que su visión actual le causa de alguna manera dificultades en su vida diaria?"
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV"
+msgstr "Está satisfecho o insatisfecho con su visión actual?"
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_VeryIns"
+msgstr "Muy insatisfecho"
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_EnoughIns"
+msgstr "Bastante insatisfecho"
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_EnoughSat"
+msgstr "Bastante satisfecho"
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_VerySat"
+msgstr "Muy satisfecho"
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "catq_task_dificulty"
+msgstr "Tiene dificultades cuando realiza las siguientes actividades a causa de su visión?"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews"
+msgstr "Leer los textos de los Periódicos"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople"
+msgstr "Reconocer las caras de la gente que conoce"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_CannotDeci"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices"
+msgstr "Ver los precios de las cosas cuando va a comprar"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf"
+msgstr "Caminar por superficies irregulares. Por ejemplo: calzada con adoquines"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork"
+msgstr "Realizar trabajos manuales. Por ejemplo: trabajos de carpintería"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles"
+msgstr "Leer subtítulos en la televisión"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies"
+msgstr "Cuando realiza alguna actividad/hobby en la que está interesado"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "c_catq_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_Hisid"
+msgstr "Id.Paciente"
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_Age"
+msgstr "Edad"
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_UserLogin"
+msgstr "Nombre de Usuario"
+
+msgctxt "user_manager"
+msgid "post_surgeonSx"
+msgstr "Qué cirujano le ha operado?"
+
+msgctxt "user_manager"
+msgid "p_preOrPost_Post"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Cat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_catQ"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncsignup_alternative"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncquick_general_firstname"
+msgstr "Nombre"
+
+msgctxt "user_manager"
+msgid "ncquick_general_useremail"
+msgstr "Email"
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres"
+msgstr "Operación en la que estás interesado"
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres_Cat"
+msgstr "Operación de Cataratas"
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres_Cle"
+msgstr "Operación de cristalino sin catarata"
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres_Icl"
+msgstr "Operación con ICL"
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres_Other"
+msgstr "Otra Operación"
+
+msgctxt "user_manager"
+msgid "privacy_agree"
+msgstr "Acepto la <a class="noGotoMain" href="https://www.nuevocristalino.es/politica-de-privacidad/">política de privacidad</a>"
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_FirstName"
+msgstr "Nombre"
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_LastName"
+msgstr "Apellidos"
+
+msgctxt "user_manager"
+msgid "noregq_check_form"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "user_email"
+msgstr "Email"
+
+msgctxt "user_manager"
+msgid "post_timeFromSxAdded"
+msgstr "¿Hace cuánto se operó de cataratas o de presbicia con lente intraocular?"
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_Less1S"
+msgstr "Menos de 1  semana"
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_Less1M"
+msgstr "Menos de 1  mes"
+
+msgctxt "user_manager"
+msgid "pre_presenOculDiseaAdded"
+msgstr "¿Ha presentado o presenta alguna de las siguientes enfermedades oculares?"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria"
+msgstr "¿Considera que su visión actual le causa de alguna manera dificultades en su vida diaria?"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV"
+msgstr "Está satisfecho o insatisfecho con su visión actual?"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_VeryIns"
+msgstr "Muy insatisfecho"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_EnoughIns"
+msgstr "Bastante insatisfecho"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_EnoughSat"
+msgstr "Bastante satisfecho"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_VerySat"
+msgstr "Muy satisfecho"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_task_dificulty"
+msgstr "Tiene dificultades cuando realiza las siguientes actividades a causa de su visión?"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews"
+msgstr "Leer los textos de los Periódicos"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople"
+msgstr "Reconocer las caras de la gente que conoce"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_CannotDeci"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices"
+msgstr "Ver los precios de las cosas cuando va a comprar"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf"
+msgstr "Caminar por superficies irregulares. Por ejemplo: calzada con adoquines"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork"
+msgstr "Realizar trabajos manuales. Por ejemplo: trabajos de carpintería"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles"
+msgstr "Leer subtítulos en la televisión"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies"
+msgstr "Cuando realiza alguna actividad/hobby en la que está interesado"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_YesMany"
+msgstr "Sí, muchas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_YesEnough"
+msgstr "Sí, bastantes dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_YesSome"
+msgstr "Sí, algunas dificultades"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_NoNone"
+msgstr "No, ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_CannotDecide"
+msgstr "No puede decidir"
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Added"
+msgstr "¿Qué tipo de Lente Intraocular (LIO) se le implantó?"
+
+msgctxt "user_manager"
+msgid "ncnoreg_catq9_plus"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_navq_pdata_Hisid"
+msgstr "Id.Paciente"
+
+msgctxt "user_manager"
+msgid "ncreg_navq_pdata_Age"
+msgstr "Edad"
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Cle"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_navq"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_task_dificulty"
+msgstr "Cuánta dificultad tiene Usted para:"
+
+msgctxt "user_manager"
+msgid "navq_smallLetters"
+msgstr "Leer letras pequeñas como: artículos de periódicos, menú, guía telefónica"
+
+msgctxt "user_manager"
+msgid "navq_smallLetters_NoneDiff"
+msgstr "Leer letras pequeñas como: artículos de periódicos, menú, guía telefónica"
+
+msgctxt "user_manager"
+msgid "navq_smallLetters_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_smallLetters_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_smallLetters_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_normalLetters"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_normalLetters_NoneDiff"
+msgstr "Leer etiquetas/instrucciones/ingredientes/precios como: paquetes de productos alimenticios, frascos de medicinas"
+
+msgctxt "user_manager"
+msgid "navq_normalLetters_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_normalLetters_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_normalLetters_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters_NoneDiff"
+msgstr "Leer su correo/mail como: facturas electrónicas, cartas de felicitaciones, informes de banco, letras de amigos y familiares"
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_ownLetters"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_ownLetters_NoneDiff"
+msgstr "Escribir y leer su propia escritura como: cartas de felicitaciones, apuntes, letras, rellenar papeles, chequeos, firmar con su nombre"
+
+msgctxt "user_manager"
+msgid "navq_ownLetters_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_ownLetters_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_ownLetters_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_pcscreen"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_pcscreen_NoneDiff"
+msgstr "Mirar la pantalla y el teclado del ordenador o de una calculadora"
+
+msgctxt "user_manager"
+msgid "navq_pcscreen_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_pcscreen_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_pcscreen_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen_NoneDiff"
+msgstr "Mirar la pantalla y el teclado de un móvil o de un teléfono fijo"
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb_NoneDiff"
+msgstr "Mirar objetos cerca de Usted y practicar sus hobbies como: jugar a las cartas, jardinería, mirar fotografías"
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj_NoneDiff"
+msgstr "Mirar objetos cercanos cuando haya poca luz"
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime_NoneDiff"
+msgstr "Mantener el enfoque en trabajos de cerca duraderos"
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "navq_nearWork"
+msgstr "Dificultad extrema"
+
+msgctxt "user_manager"
+msgid "navq_nearWork_NoneDiff"
+msgstr "Hacer trabajos de cerca sin gafas"
+
+msgctxt "user_manager"
+msgid "navq_nearWork_LittleDiff"
+msgstr "Ninguna dificultad"
+
+msgctxt "user_manager"
+msgid "navq_nearWork_ModeDiff"
+msgstr "Un poco de dificultad"
+
+msgctxt "user_manager"
+msgid "navq_nearWork_ExtrDiff"
+msgstr "Dificultad moderada"
+
+msgctxt "user_manager"
+msgid "c_navq_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10_UserLogin"
+msgstr "Nombre de Usuario"
+
+msgctxt "user_manager"
+msgid "ncreg_v10"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10Intro"
+msgstr "<div class="sIntroWrapper"><ul><li>Para que podamos desarrollar nuestra asistencia sanitaria lo mejor posible, rogamos que conteste a este breve cuestionario con sinceridad. No tardará más de 6 minutos.</li><li>Las preguntas de este cuestionario han de aplicarse a su experiencia durante las últimas 4 semanas.</li><li>Cuando conteste a las preguntas de las páginas siguientes, intente pensar sólo en las dificultades que su visión puede estar causándole, intentando aislar el efecto de otros problemas que pueda padecer (mareos, dolor de cabeza, dolores en articulaciones, alergias, etc.)</li></ul></div>"
+
+msgctxt "user_manager"
+msgid "ncreg_formV10_pdata_Hisid"
+msgstr "Id.Paciente"
+
+msgctxt "user_manager"
+msgid "v10_FirstName"
+msgstr "Nombre"
+
+msgctxt "user_manager"
+msgid "v10_LastName"
+msgstr "Primer Apellido"
+
+msgctxt "user_manager"
+msgid "v10_LastNameSecond"
+msgstr "Segundo Apellido"
+
+msgctxt "user_manager"
+msgid "v10_useremail"
+msgstr "Email"
+
+msgctxt "user_manager"
+msgid "v10_userCity"
+msgstr "Ciudad"
+
+msgctxt "user_manager"
+msgid "v10_userZip"
+msgstr "Código Postal"
+
+msgctxt "user_manager"
+msgid "post_smallLetters"
+msgstr "Ve de cerca la letra pequeña (Periódicos, libros, manuales de instrucciones, tickets, prospectos de medicinas, guía telefónica, etc.)"
+
+msgctxt "user_manager"
+msgid "post_smallLetters_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_smallLetters_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_smallLetters_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_smallLetters_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_smallLetters_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_mobileDevices"
+msgstr "Ve de cerca en los dispositivos móviles (Smarthpone, GPS, tablet)"
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_handwork"
+msgstr "Ve para realizar actividades manuales de precisión (Coser y enhebrar el hilo, dibujar, maquillarse, afeitarse, depilarse, etc.)"
+
+msgctxt "user_manager"
+msgid "post_handwork_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_handwork_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_handwork_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_handwork_Ordinay"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_handwork_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_intermediate"
+msgstr "Ve a distancia intermedia (Pantalla del ordenador, jugar a las cartas, cocinar, elegir productos de la estantería del supermercado, etc.)"
+
+msgctxt "user_manager"
+msgid "post_intermediate_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_intermediate_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_intermediate_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_intermediate_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_intermediate_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate"
+msgstr "Ve de cerca o media distancia cuando hay poca luz (Ver la carta en algunos restaurantes, leer con la lamparilla de la mesilla de noche, etc.)"
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime"
+msgstr "Ve de cerca o media distancia actividades que requieren fijación visual prolongada (usar el ordenador durante más de 30 minutos)"
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_FarNaturalLight"
+msgstr "Ve de lejos con luz natural"
+
+msgctxt "user_manager"
+msgid "post_FarNatural_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_FarNatural_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_FarNatural_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_FarNatural_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_FarNatural_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar"
+msgstr "Ve de lejos por la noche"
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_Regular"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare"
+msgstr "Se ha acostumbrado a los halos y reflejos nocturnos que producen estas lentes"
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_Regular"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat"
+msgstr "¿Cómo de satisfecho está con su visión de cerca?"
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_CompletSat"
+msgstr "Completamente Satisfecho"
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_VerySat"
+msgstr "Muy satisfecho"
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_ModeSat"
+msgstr "Moderadamente Satisfecho"
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_LittleSat"
+msgstr "Poco Satisfecho"
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_Unsat"
+msgstr "Insatisfecho"
+
+msgctxt "user_manager"
+msgid "post_GradGlasNeed"
+msgstr "¿Necesita algún tipo de gafa graduada para hacer su vida normal?"
+
+msgctxt "user_manager"
+msgid "post_GradGlasNeed_Yes"
+msgstr "Sí"
+
+msgctxt "user_manager"
+msgid "post_GradGlasNeed_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "post_RecomendClinic"
+msgstr "¿Recomendaría a un amigo a operarse en Visióndiez?"
+
+msgctxt "user_manager"
+msgid "post_RecomendClinic_Yes"
+msgstr "Si"
+
+msgctxt "user_manager"
+msgid "post_RecomendClinic_No"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "waiting_time"
+msgstr "Tiempo de espera para ser atendido"
+
+msgctxt "user_manager"
+msgid "waiting_time_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "waiting_time_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "waiting_time_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "waiting_time_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "waiting_time_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "frontDeskAttention"
+msgstr "Trato recibido en recepción"
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "phoneAttention"
+msgstr "Trato recibido telefónicamente"
+
+msgctxt "user_manager"
+msgid "phoneAttention_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "phoneAttention_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "phoneAttention_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "phoneAttention_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "phoneAttention_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "drAttention"
+msgstr "Trato recibido por el médico"
+
+msgctxt "user_manager"
+msgid "drAttention_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "drAttention_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "drAttention_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "drAttention_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "drAttention_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "medStaffAttention"
+msgstr "Trato recibido por el personal de asistencia sanitaria"
+
+msgctxt "user_manager"
+msgid "medStaffAttention_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "medStaffAttention_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "medStaffAttention_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "medStaffAttention_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "medStaffAttention_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "clinicQuality"
+msgstr "Calidad de nuestras clínicas"
+
+msgctxt "user_manager"
+msgid "clinicQuality_Excellent"
+msgstr "Excelente"
+
+msgctxt "user_manager"
+msgid "clinicQuality_VeryGood"
+msgstr "Muy bien"
+
+msgctxt "user_manager"
+msgid "clinicQuality_Good"
+msgstr "Bien"
+
+msgctxt "user_manager"
+msgid "clinicQuality_Ordinary"
+msgstr "Regular"
+
+msgctxt "user_manager"
+msgid "clinicQuality_Bad"
+msgstr "Mal"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic"
+msgstr "Calidad de nuestras clínicas"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_Familiar"
+msgstr "A través de un familiar"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_Neighbor"
+msgstr "A través de un vecino"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_WorkFriend"
+msgstr "A través de un amigo/compañero de trabajo"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_Internet"
+msgstr "Internet"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_RadioTvMedia"
+msgstr "Prensa / radio/ TV"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_DrReferral"
+msgstr "Me lo recomendó otro doctor"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_RevCampaign"
+msgstr "En campañas de revisión (colegios, carreras, semana de la salud, etc.)"
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_Others"
+msgstr "Otros"
+
+msgctxt "user_manager"
+msgid "commentsSuggestions"
+msgstr "Comentario / Sugerencia / Felicitación, etc…"
+
+msgctxt "user_manager"
+msgid "quirc_sxInteres_Cle"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_1expla"
+msgstr "<p>Por favor conteste las siguientes preguntas teniendo en cuenta sus actuales lentes o lentes de contacto. Pacientes que han tenido una cirugía refractaria deberán responder en función de cómo están AHORA, no en función de cómo estuvieron antes de la cirugía.</p> "
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx"
+msgstr "¿Hace cuánto se operó los ojos?"
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_Less1S"
+msgstr "Menos de 1  semana"
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_Less1M"
+msgstr "Menos de 1  mes"
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_Less3M"
+msgstr "Menos de 3 meses"
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_Between3and6M"
+msgstr "Entre 3 y 6 meses"
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_More6M"
+msgstr "Más de 6 meses"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDiseaAdded"
+msgstr "¿Ha presentado o presenta alguna de las siguientes enfermedades oculares?"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Cat"
+msgstr "Catarata"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Gla"
+msgstr "Glaucoma"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_DryEye"
+msgstr "Ojo seco"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_AMD"
+msgstr "Degeneracion macula associada con la edad"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Uveitis"
+msgstr "Uveitis"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_CorneDeg"
+msgstr "Degeneracion corneal"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Strabi"
+msgstr "Estrabismo"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_VitrDetach"
+msgstr "Desprendemiento vitreo"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Several"
+msgstr "Varias de las anteriores"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_None"
+msgstr "Ninguna que yo sepa"
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Other"
+msgstr "otro"
+
+msgctxt "user_manager"
+msgid "qirc_correcNeed"
+msgstr "Necesita usted gafas o lentes de contacto tras la operación?"
+
+msgctxt "user_manager"
+msgid "qirc_correcNeed_NoNeed"
+msgstr "No, no necesito corrección adicional."
+
+msgctxt "user_manager"
+msgid "qirc_correcNeed_YesSometimes"
+msgstr "Sí, ocasionalmente (en algunos momentos/circunstancias)"
+
+msgctxt "user_manager"
+msgid "qirc_correcNeed_YesAlways"
+msgstr "Sí, permanentemente (todo el rato)"
+
+msgctxt "user_manager"
+msgid "qirc_correcAlways"
+msgstr "Usted usa todo el rato:"
+
+msgctxt "user_manager"
+msgid "qirc_correcAlways_LC"
+msgstr "Lentes de contacto"
+
+msgctxt "user_manager"
+msgid "qirc_correcAlways_Glass"
+msgstr "Gafas"
+
+msgctxt "user_manager"
+msgid "qirc_correcAlways_GlassLC"
+msgstr "Lentes de contacto o Gafas dependiendo"
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTime"
+msgstr "Por favor estime cuantas horas al día los usa en promedio. Los lentes de sol ordinarios no cuentan como lentes."
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTimeGlaHourDay"
+msgstr "Gafas / Horas al Día"
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTimeGlaDayWeek"
+msgstr "Gafas / Días a la Semana"
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTimeLCHourDay"
+msgstr "Lentes de contacto /  Horas al Día"
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTimeLCDayWeek"
+msgstr "Lentes de contacto / Días a la Semana"
+
+msgctxt "user_manager"
+msgid "qirc_oldGla"
+msgstr "¿Cuánto tiempo tienen las Gafas que usas actualmente?"
+
+msgctxt "user_manager"
+msgid "qirc_oldLC"
+msgstr "¿Cuánto tiempo tienen las Lentes de Contacto que usas actualmente?"
+
+msgctxt "user_manager"
+msgid "qirc_drive"
+msgstr "Que tanta dificultad tiene al conducir en condiciones de deslumbramiento?"
+
+msgctxt "user_manager"
+msgid "qirc_drive_NoDriving"
+msgstr "No conduzco por razones ajenas a mi visión"
+
+msgctxt "user_manager"
+msgid "qirc_drive_NoDiff"
+msgstr "Ninguna"
+
+msgctxt "user_manager"
+msgid "qirc_drive_LittleDiff"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_drive_ModeDiff"
+msgstr "Moderada"
+
+msgctxt "user_manager"
+msgid "qirc_drive_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_drive_CanNot"
+msgstr "Tanto que no puedo hacer esta actividad"
+
+msgctxt "user_manager"
+msgid "qirc_driveLC"
+msgstr "¿Y con lentes de contacto?"
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_NoDriving"
+msgstr "No conduzco por razones ajenas a mi visión"
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_NoDiff"
+msgstr "Ninguna"
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_LittleDiff"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_ModeDiff"
+msgstr "Moderada"
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_CanNot"
+msgstr "Tanto que no puedo hacer esta actividad"
+
+msgctxt "user_manager"
+msgid "qirc_driveGla"
+msgstr "¿Y con gafas?"
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_NoDriving"
+msgstr "No conduzco por razones ajenas a mi visión"
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_NoDiff"
+msgstr "Ninguna"
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_LittleDiff"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_ModeDiff"
+msgstr "Moderada"
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_CanNot"
+msgstr "Tanto que no puedo hacer esta actividad"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain"
+msgstr "Durante el mes pasado, con qué frecuencia Ud. ha sentido sus ojos cansados o tensos? "
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_DurManyTime"
+msgstr "Muy seguido"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC"
+msgstr "¿Y con lentes de contacto?"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_DurManyTime"
+msgstr "Muy seguido"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla"
+msgstr "¿Y con gafas?"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_DurManyTime"
+msgstr "Muy seguido"
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble"
+msgstr "Qué tanto problema le origina a Ud. el no poder usar lentes de sol sin prescripción? "
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_None"
+msgstr "Ninguno"
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_Mode"
+msgstr "Moderado"
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_Extr"
+msgstr "Extremo"
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble"
+msgstr "Qué tanto problema le origina a Ud. el tener que pensar en sus lentes o lentes de contacto antes de hacer ciertas actividades como viajar, hacer deporte, nadar? "
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_None"
+msgstr "Ninguno"
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_Mode"
+msgstr "Moderado"
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_Extr"
+msgstr "Extremo"
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble"
+msgstr "Qué tanto problema le origina a Ud. al levantarse y no poder: ver para ir al baño, cuidar un bebe, mirar el reloj de alarma?"
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_None"
+msgstr "Ninguno"
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_Mode"
+msgstr "Moderado"
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_Extr"
+msgstr "Extremo"
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble"
+msgstr "Qué tanto problema le origina a Ud. el no poder ver cuando está en la playa o nadando en una piscina, porque en ese momento no tiene sus lentes o lentes de contacto "
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_None"
+msgstr "Ninguno"
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_Mode"
+msgstr "Moderado"
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_Extr"
+msgstr "Extremo"
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble"
+msgstr "Qué tanto problema le originan Ud. sus lentes o lentes de contacto cuando los usa mientras esta en el gimnasio, en un circuito de entrenamiento, toma clases de aeróbicos, etc.? "
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_None"
+msgstr "Ninguno"
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_Mode"
+msgstr "Moderado"
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_Extr"
+msgstr "Extremo"
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry"
+msgstr "Qué tan preocupado está Ud. acerca del costo inicial y otros pagos que debe realizar por sus actuales lentes / lentes de contacto / cirugías refractivas?"
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_NotMuch"
+msgstr "No mucho"
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_Mode"
+msgstr "Moderadamente"
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_Extr"
+msgstr "Extremadamente"
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry"
+msgstr "Qué tan preocupado esta Ud. acerca del costo de mantenimiento por daños inesperados de sus lentes / lentes de contacto / cirugías refractarias; por ejemplo: ruptura, pérdida, un nuevo problema de vista? "
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_NotMuch"
+msgstr "No mucho"
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_Mode"
+msgstr "Moderadamente"
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_Extr"
+msgstr "Extremadamente"
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry"
+msgstr "Qué tan preocupado esta Ud. por tener que depender cada vez mas de sus lentes o lentes de contactos desde que Ud. a empezado a usarlos?"
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_NotMuch"
+msgstr "No mucho"
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_Mode"
+msgstr "Moderadamente"
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_Extr"
+msgstr "Extremadamente"
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry"
+msgstr "Qué tan preocupado esta Ud. por tener una visión no tan buena como debería ser? "
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_NotMuch"
+msgstr "No mucho"
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_Mode"
+msgstr "Moderadamente"
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_Extr"
+msgstr "Extremadamente"
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry"
+msgstr "¿Qué tan preocupado esta Ud. sobre posibles complicaciones medicas de su elección para corrección óptica (lentes, lentes de contacto y/o cirugía refractiva)?"
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_NotMuch"
+msgstr "No mucho"
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_Mode"
+msgstr "Moderadamente"
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_Extr"
+msgstr "Extremadamente"
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry"
+msgstr "Qué tan preocupado esta Ud. acerca de la protección de sus ojos frente a la radiación ultravioleta "
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_NotMuch"
+msgstr "No mucho"
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_Little"
+msgstr "Un poco"
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_Mode"
+msgstr "Moderadamente"
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_Much"
+msgstr "Mucho"
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_Extr"
+msgstr "Extremadamente"
+
+msgctxt "user_manager"
+msgid "qirc_2expla"
+msgstr "<p>Ahora, estamos interesados en el efecto que su corrección óptica (lentes, lentes de contacto o cirugía refractiva) ha tenido en la forma como se ha estado sintiendo Ud. El efecto en su estado sería directo (por ejemplo, usted siente que ve mejor con sus nuevos lentes) o sería indirecto (por ejemplo, usted siente más confianza desde que usa sus lentes de contacto o después de su cirugía refractiva porque nota que se le ve mejor). </p>"
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel"
+msgstr "Durante el mes pasado, Cuántas veces usted ha sentido que se "le ve muy bien"?"
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_DurManyTime"
+msgstr "Muy Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel"
+msgstr "Durante el mes pasado, Cuántas veces usted ha sentido que las personas lo miran en la forma que a usted le gusta que lo hagan (por ejemplo; inteligente, sofisticado, exitoso, cool, etc.)? "
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_DurManyTime"
+msgstr "Muy Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel"
+msgstr "Durante el mes pasado, Cuántas veces usted se ha sentido satisfecho / adulado?"
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_DurManyTime"
+msgstr "Muy Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel"
+msgstr "Durante el mes pasado, Cuántas veces ha sentido mayor confianza en usted mismo?"
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_DurManyTime"
+msgstr "Muy Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel"
+msgstr "Durante el mes pasado, Cuántas veces usted se ha sentido feliz? "
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_DurManyTime"
+msgstr "Muy Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel"
+msgstr "Durante el mes pasado, Cuántas veces usted ha sentido que puede hacer las cosas que quiere hacer?"
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_DurManyTime"
+msgstr "Muy Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel"
+msgstr "Durante el mes pasado, Cuántas veces usted se ha sentido con ganas de tratar de hacer cosas nuevas? "
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_NotApplicable"
+msgstr "No sabe / No es aplicable"
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_Never"
+msgstr "Nunca"
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_Some"
+msgstr "Ocasionalmente"
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_DurTime"
+msgstr "Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_DurManyTime"
+msgstr "Muy Seguido"
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_Always"
+msgstr "Siempre"
+
+msgctxt "user_manager"
+msgid "quirc_clinicSx"
+msgstr "En qué clínica se ha operado?"
+
+msgctxt "user_manager"
+msgid "quirc_typeOfIOL_Added"
+msgstr "¿Qué tipo de Lente Intraocular (LIO) se le implantó?"
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_MonoSph"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_MonoToric"
+msgstr "Una LIO Monofocal Tórica"
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_Multif"
+msgstr "Una LIO Multifocal"
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_MultifToric"
+msgstr "Una LIO Multifocal Tórica"
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_AddOn"
+msgstr "Una LIO Add-On"
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_Other"
+msgstr "Otro tipo"
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_Unknown"
+msgstr "No lo sé"
+
+msgctxt "user_manager"
+msgid "qirc_modelIOL"
+msgstr "Conoce el modelo de la lente?"
+
+msgctxt "user_manager"
+msgid "qirc_freeComment"
+msgstr "Hay algún otro tema importante relacionado a sus lentes / lentes de contacto / cirugía refractiva que no le hemos preguntado? Por favor, brevemente indíquelos…………… "
+
+msgctxt "user_manager"
+msgid "quirc_sxInteres_Icl"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_1expla"
+msgstr "<p class="qirc qintro">Por favor conteste las siguientes preguntas teniendo en cuenta sus actuales lentes o lentes de contacto. Pacientes que han tenido una cirugía refractaria deberán responder en función de cómo están AHORA, no en función de cómo estuvieron antes de la cirugía.</p> "
+
+msgctxt "user_manager"
+msgid "post_correcAstig"
+msgstr "¿Le han corregido el astigmatismo en la operación?"
+
+msgctxt "user_manager"
+msgid "post_correcAstigYes"
+msgstr "Sí"
+
+msgctxt "user_manager"
+msgid "post_correcAstigNo"
+msgstr "No"
+
+msgctxt "user_manager"
+msgid "quirc_sxInteres_Excimer"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique"
+msgstr "¿Sabe la técnica de láser corneal que han empleado?"
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Lasik"
+msgstr "LASIK"
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Lasek"
+msgstr "LASEK"
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_PRK"
+msgstr "PRK"
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Relex"
+msgstr "Relex-Smile"
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Relex_Other"
+msgstr "Otra"
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Relex_Unknown"
+msgstr "No lo sé"
+
+msgctxt "user_manager"
+msgid "ncsignup_alternative_pages"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncquick_pages_general_firstname"
+msgstr "Nombre"
+
+msgctxt "user_manager"
+msgid "ncquick_pages_general_useremail"
+msgstr "Email"
+
+msgctxt "user_manager"
+msgid "nquick_pages_sxInteres"
+msgstr "Operación en la que estás interesado"
+
+msgctxt "user_manager"
+msgid "nquickp_pages_sxInteres_Cat"
+msgstr "Operación de Cataratas"
+
+msgctxt "user_manager"
+msgid "nquickp_pages_sxInteres_Cle"
+msgstr "Operación de cristalino sin catarata"
+
+msgctxt "user_manager"
+msgid "nquickp_pages_sxInteres_Icl"
+msgstr "Operación con ICL"
+
+msgctxt "user_manager"
+msgid "nquickp_pages_sxInteres_Other"
+msgstr "Otra Operación"
+
+msgctxt "user_manager"
+msgid "privacy_pages_agree"
+msgstr "Acepto la <a class="noGotoMain" href="https://www.nuevocristalino.es/politica-de-privacidad/">política de privacidad</a>"
+
+msgctxt "user_manager"
+msgid "current_url"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pat"
+msgstr "Paciente/Familiar Paciente"
+
+msgctxt "user_manager"
+msgid "prof"
+msgstr "Profesional de la Oftalmología"

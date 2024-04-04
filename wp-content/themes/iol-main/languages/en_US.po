@@ -1,0 +1,179 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "iol_main"
+msgid "¿Estás pensando en Operarte de la Vista?"
+msgstr "Thinking about having eye surgery?"
+
+msgctxt "iol_main"
+msgid "Regístrate en NuevoCristalino. Es gratis"
+msgstr "Register yourself in NewLens, it is free"
+
+msgctxt "header"
+msgid "Tu Área Privada"
+msgstr "Your Private Area"
+
+msgctxt "header"
+msgid "Editar Perfil"
+msgstr "Edit profile"
+
+msgctxt "interaction-home"
+msgid "Encuentra la mejor opción para tu operación ocular."
+msgstr "Find the best option for your eye operation."
+
+msgctxt "interaction-home"
+msgid "Aprovecha las ventajas de NuevoCristalino. Es gratis."
+msgstr "Take advantage of NewLens. It's free."
+
+msgctxt "interaction-home"
+msgid "Con cualquier duda recuerda que puedes escribirnos también a info@nuevocristalino.es"
+msgstr "With any doubt remember that you can also write us to info@newlens.co.uk"
+
+msgctxt "interaction-home"
+msgid "Soluciones para la Vista Cansada"
+msgstr "Solutions for Presbyopia"
+
+msgctxt "interaction-home"
+msgid "Conozca que opciones hay hoy en día para no necesitar gafas de cerca."
+msgstr "Know what options there are today for not needing near glasses"
+
+msgctxt "interaction-home"
+msgid "Nueva cirugía de cataratas con LÁSER"
+msgstr "New cataract surgery with LASER"
+
+msgctxt "interaction-home"
+msgid "Conozca la útima técnica disponible para quitar las cataratas con Láser."
+msgstr "Discover the latest technique available to remove cataracts with Laser."
+
+msgctxt "interaction-home"
+msgid "Clínicas especializadas en tu cirugía"
+msgstr "Clinics specialized in your surgery"
+
+msgctxt "interaction-home"
+msgid "Vea una lista de clínicas especializadas en lentes intraoculares."
+msgstr "See a list of clinics specialized in intraocular lenses."
+
+msgctxt "interaction-home"
+msgid "Vea las lentes adecuadas para su caso."
+msgstr "See the right lenses for your case."
+
+msgctxt "interaction-home"
+msgid "Realice el test para saber qué tipo de lente es la más adecuada para usted."
+msgstr "Take the test to find out which type of lens is best for you."
+
+msgctxt "interaction-home"
+msgid "¿Te has operado? Cuéntanos como fue tu Operación"
+msgstr "Have you undergo surgery already? Tell us how was it!"
+
+msgctxt "interaction-home"
+msgid "Ayuda a otros pacientes con tu experiencia"
+msgstr "Help other patients by sharing your experience"
+
+msgctxt "interaction-home"
+msgid "Queremos saber si estás contento/a o no."
+msgstr "We want to know if you are happy or not with the outomes."
+
+msgctxt "interaction-home"
+msgid "Ir a la encuesta >>"
+msgstr "Go to the survey >>"
+
+msgctxt "interaction-home"
+msgid "Si conoces a alguien que ya se ha operado, invítale a dar su opinión sobre su operación:"
+msgstr "If you know someone who has already had surgery, invite them to give their opinion about their operation:"
+
+msgctxt "iol_main"
+msgid "Foros de NuevoCristalino"
+msgstr "NewLens Forums"
+
+msgctxt "single-post"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog of intraocular lenses, Presbyopia and cataracts"
+
+msgctxt "iol_main"
+msgid "Pregunta a los cirujanos"
+msgstr "Ask the surgeons"
+
+msgctxt "iol_main"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog of intraocular lenses, Presbyopia and cataracts"
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según distancia a una ubicación concreta:"
+msgstr "Filtering according to the distance to a specific location:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según Lente y Comunidad:"
+msgstr "Filtered according to Lens and Region:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Ubicar la dirección introducida"
+msgstr "Locate the entered address"
+
+msgctxt "template-buscador-clinicas"
+msgid "Máxima distancia a ubicación:"
+msgstr "Maximum distance to location:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Detectar mi ubicación"
+msgstr "Detect my location"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrando"
+msgstr "Showing"
+
+msgctxt "template-buscador-clinicas"
+msgid "ubicación seleccionada:"
+msgstr "Selected location:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Distancia"
+msgstr "Distance"
+
+msgctxt "template-buscador-clinicas"
+msgid "km"
+msgstr "km"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrar Todas"
+msgstr "Show All"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clinicas más visitadas"
+msgstr "Most visited clinics"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clínicas según lente y Comunidad"
+msgstr "Clinics according to lens and Community"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Queremos saber cómo ves."
+msgstr "We want to know how is your eyesight"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Cuéntanos tu opinión sobre el resultado de tu operación."
+msgstr "Tell us your opinion about the outcomes of your surgery."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Ayuda a otros usuarios interesados en tu operación."
+msgstr "Help other users interested in your surgery."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con reemplazo de cristalino sin cataratas"
+msgstr "Lens replacement surgery without cataracts"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación de cataratas (con cualquier tipo de lente intraocular)"
+msgstr "Cataract surgery (with any type of intraocular lens)"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con láser excímer sobre córnea (LASIK, PRK, etc.)"
+msgstr "Operation with excimer laser on cornea (LASIK, PRK, etc.)"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con lente intraocular ICL"
+msgstr "Surgery with ICL intraocular lens"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Si conoces a alguien que ya se ha operado y puede dar el testimonio de su operación, compártelo esta página usando una red social:"
+msgstr "If you know someone who has already had surgery and can give testimony of their operation, share this page using a social network:"

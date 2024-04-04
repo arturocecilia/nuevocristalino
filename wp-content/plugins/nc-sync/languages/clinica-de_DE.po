@@ -1,0 +1,235 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "clinica"
+msgstr "klinik"
+
+msgctxt "taxo-slug"
+msgid "clinica-oftalmologica-lente-intraocular"
+msgstr "intraokular-linsen-augen-klinik"
+
+msgctxt "slug"
+msgid "clinicas-oftalmologicas-lente-intraocular"
+msgstr "intraokular-linsen-augen-kliniken"
+
+msgctxt "taxo-name"
+msgid "ubicacion"
+msgstr "adresse"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/ubicacion"
+msgstr "intraokular-linsen-augen-klinik/adresse"
+
+msgctxt "taxo-name"
+msgid "seguros"
+msgstr "versicherungen"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/seguros"
+msgstr "intraokular-linsen-augen-klinik/versicherungen"
+
+msgctxt "taxo-name"
+msgid "equipamiento-clinica"
+msgstr "klinik-ausstatung"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/tecnologia-equipos"
+msgstr "intraokular-linsen-augen-klinik/ausstattung"
+
+msgctxt "taxo-name"
+msgid "mas-info-clinica"
+msgstr "mehr-kliniken-info"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/mas-info-clinica"
+msgstr "intraocular-linsen-augen-klinik/mehr-klinik-info"
+
+msgctxt "taxo-name"
+msgid "femto-faco"
+msgstr "femto-phaco"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/femto-faco"
+msgstr "intraokulcar-linsen-auben-klinik/femto-phaco"
+
+msgctxt "taxo-name"
+msgid "financiacion"
+msgstr "finanzierung"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/financiacion"
+msgstr "intraokular-linsen-augen-klinik/finanzierung"
+
+msgctxt "taxo-name"
+msgid "nivel-pref-clinica"
+msgstr "klinik-praefernz-niveau"
+
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/nivel-pref-clinica"
+msgstr "intraokular-linsen-augen-klini/klinik-praferenz-nieveau"
+
+msgctxt "admin_display"
+msgid "clinica"
+msgstr "Klinik"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva"
+msgstr "Neu hinzufügen"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Clínica Oftalmológica"
+msgstr "Neue Klinik hinzufügen"
+
+msgctxt "admin_display"
+msgid "Editar Clínica Oftalmológica"
+msgstr "Beschreibung Augenklinik"
+
+msgctxt "admin_display"
+msgid "Nueva Clínica Oftalmológica"
+msgstr "Neue Augenklinik"
+
+msgctxt "admin_display"
+msgid "Ver Clínica Oftamológica"
+msgstr "Ansicht Augenklinik"
+
+msgctxt "admin_display"
+msgid "Buscar Clínica Oftamológica"
+msgstr "Suche Augenklinik"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ninguna Clínica Oftamológica"
+msgstr "Keine Augenklinik gefunden"
+
+msgctxt "admin_display"
+msgid "No hay Clínicas Oftalmológicas en la papelera"
+msgstr "Keine Augenklinik im Papierkorb"
+
+msgctxt "admin_display"
+msgid "Clínica Oftamológica padre"
+msgstr "Vorgänger Augenklinik"
+
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr "Adresse (D)"
+
+msgctxt "admin_display"
+msgid "Latitud"
+msgstr "Breite"
+
+msgctxt "admin_display"
+msgid "Longitud"
+msgstr "Länge"
+
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr "Telefonnummer (D)"
+
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr "Email (D)"
+
+msgctxt "admin_display"
+msgid "Horario (D)"
+msgstr "Öffnungszeiten (D)"
+
+msgctxt "admin_display"
+msgid "Director Médico (D)"
+msgstr "Ärztlicher Direktor (D)"
+
+msgctxt "admin_display"
+msgid "Doctores (D)"
+msgstr "Ärzte (D)"
+
+msgctxt "admin_display"
+msgid "Website (D)"
+msgstr "Webseite (D)"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica (Ascendente)"
+msgstr "Reihenfolge Kliniken (aufsteigend)"
+
+msgctxt "admin_display"
+msgid "Ubicación de la clínica"
+msgstr "Klinikadresse"
+
+msgctxt "admin_display"
+msgid "Añadir Nueva Ubicacion"
+msgstr "Neue Adresse hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Ubicacion"
+msgstr "Neue Adresse"
+
+msgctxt "admin_display"
+msgid "Seguros de la Clínica Oftalmológica"
+msgstr "Versicherungen Augenklinik"
+
+msgctxt "admin_display"
+msgid "Añadir Seguro de Clínica Oftalmológica"
+msgstr "Augenklinik Versicherungen hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo Nomre de Seguro Médico"
+msgstr "Neuer Versicherungsname"
+
+msgctxt "admin_display"
+msgid "Equipamiento de la Clínica Oftalmológica"
+msgstr "Ausstattung Augenklinik"
+
+msgctxt "admin_display"
+msgid "Añadir equipamientos de la Clínica Oftalmológica"
+msgstr "Ausstattung Augenklinik hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre  de equipamiento de la clínica."
+msgstr "Neuer Name Klinikausstattung"
+
+msgctxt "admin_display"
+msgid "Informacion Adicional de la Clínica Oftalmológica"
+msgstr "Zusätzliche Klinikinformation"
+
+msgctxt "admin_display"
+msgid "Añadir Más Info de la Clínica Oftalmológica"
+msgstr "Zusätzliche Klinikinformation hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo nombre de información adicional de la clínica."
+msgstr "Neuer Name zusätzliche Augenklinik Information"
+
+msgctxt "admin_display"
+msgid "Información sobre el femto faco de la clínica"
+msgstr "Information über Femto-Phako der Augenklinik"
+
+msgctxt "admin_display"
+msgid "Añadir Info del femto faco de Clínica Oftalmológica"
+msgstr "Information über Femto - Phako der Augenklinik hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nueva Info del femto faco"
+msgstr "Neue Info Femto-phako"
+
+msgctxt "admin_display"
+msgid "Información sobre la financiación de la clínica"
+msgstr "Information über Finanzierung der Klinik"
+
+msgctxt "admin_display"
+msgid "Añadir Info de la financiación de la Clínica Oftalmológica"
+msgstr "Finanzierungsmöglichkeiten der Augenklinik hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nueva Info de la financiación"
+msgstr "Neue Finanzierungsinformationen"
+
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica"
+msgstr "Niveau Klinikpräferenz"
+
+msgctxt "admin_display"
+msgid "Añadir Nivel de preferencia de la Clínica"
+msgstr "Klinikpräferenzniveau hinzufügen"
+
+msgctxt "admin_display"
+msgid "Nuevo Nivel de preferencia"
+msgstr "Neues Klinikpräferenzniveau"

@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "proveedor"
+msgstr "anbieter"
+
+msgctxt "taxo-slug"
+msgid "proveedor-de-lentes-intraoculares"
+msgstr "anbieter"
+
+msgctxt "slug"
+msgid "proveedores-lentes-intraoculares-archive"
+msgstr "anbieter-archive"
+
+msgctxt "admin_display"
+msgid "proveedor"
+msgstr "Anbieter"
+
+msgctxt "admin_display"
+msgid "Añadir proveedor"
+msgstr "Anbieter hinzufägen"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo proveedor"
+msgstr "neuen Anbieter hinzufägen"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Beschreibung"
+
+msgctxt "admin_display"
+msgid "Editar proveedor"
+msgstr "Beschreibung Anbieter"
+
+msgctxt "admin_display"
+msgid "Nuevo proveedor"
+msgstr "Neuer Anbieter"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Ansicht"
+
+msgctxt "admin_display"
+msgid "Ver proveedor"
+msgstr "Ansicht Anbieter"
+
+msgctxt "admin_display"
+msgid "Buscar fabricante"
+msgstr "Suche Anbieter"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ningun proveedor"
+msgstr "Keinen Anbieter gefunden"
+
+msgctxt "admin_display"
+msgid "No hay proveedores en la papelera"
+msgstr "Kein Anbieter im Papierkorb"
+
+msgctxt "admin_display"
+msgid "Proveedor padre"
+msgstr "Vorgaenger anbieter"
+
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr "Adresse (D)"
+
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr "Telefonnummer (D)"
+
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr "Email (D)"
+
+msgctxt "admin_display"
+msgid "Web (D)"
+msgstr "Web (D)"
+
+msgctxt "admin_display"
+msgid "Factor Ordenación (D)"
+msgstr "Bestellnummer (D)"

@@ -1,0 +1,3171 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "user_manager"
+msgid "g_Country"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_region"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_userBasicType"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_userBasicType_Paciente"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_userBasicType_Prof"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_inEmailing"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_inEmailing_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_inEmailing_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "c_addProfileBasicData_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfType"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfType_Oft"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfType_Opt"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfType_Tech"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfType_Mana"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfRelatedClinic"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfClinOrComp"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfCharge"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfWebs"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfEmailCont"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfCVDescr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfLInkIn"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfPublicProfile"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfPublicProfile_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfPublicProfile_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfEmailIndustry"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfEmailIndustry_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "o_userProfEmailIndustry_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "c_addProfProfileBasicData_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_preOrPost"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_preOrPost_Pre"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_preOrPost_Post"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxInteres"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Cat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Cle"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Icl"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxInteres_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant_NoButInfo"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_knowIolToImplant_Which"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_clinicChosen"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_clinicChosen_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_clinicChosen_NoDoubting"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_clinicChosen_NoNotAsses"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_clinicChosen_WhichClinic"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_interestToBeContacted"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_interestToBeContacted_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_interestToBeContacted_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_YesVery"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sxOutcomeSat_NotAtAll"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_inEmailingClinics"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_inEmailingClinics_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_inEmailingClinics_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "c_addPatProfileBasicData_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_dateBirth"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_sex"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_prof"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_diagnoCat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_diagnoCat_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "p_diagnoCat_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_OiSph"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_OdSph"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_OiCil"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_OdCil"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradMedRec_Unknown"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradSelect"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_More4Miop"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_05to4Miop"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_Bet05to3Hiper"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_More3Hiper"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_Unknown"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradSelect_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradAstig1dptSelect"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradAstig1dptSelect_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradAstig1dptSelect_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_Less1year"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_1year"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_2year"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_3year"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_4year"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_5year"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_gradStabilizedSince_More5year"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_Lasik"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_PRK"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_Smile"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_ICL"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_Verisize"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sxPrevRefSx_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_GlassesMono"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_GlassesProg"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_LcMono"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_LcProg"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_MonovGlaLc"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_currentCorrectionType_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_pastOcuHist"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_pastOcuHist_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_pastOcuHist_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_pastOcuHist_Which"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Cat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Gla"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_DryEye"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_AMD"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Uveitis"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_CorneDeg"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Strabi"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_VitrDetach"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Several"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDisea_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_Diab"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_Hipert"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_Tiroid"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_sistDiseas_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_spendMoreMoneyGlass"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_spendMoreMoneyGlass_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_spendMoreMoneyGlass_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassAftSx"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassAftSx_VeryImp"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassAftSx_NotImp"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassFar"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassFarSx_VeryImp"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassFarSx_NotImp"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassNear"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassNear_Imp"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_expectImpNoGlassNear_NotImp"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassWhere"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassWhere_ReadingSmallLet"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassWhere_PC"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassWhere_Driving"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeHalos"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeHalos_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeHalos_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassNightVSmallRead"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassNightVSmallRead_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_asumeGlassNightVSmallRead_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_Near"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_Interme"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_TV"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_Golf"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_indeGlassPriority_Ndriving"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_personality"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_personality_Open"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_personality_Perfec"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_clinicChosen"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_clinicChosen_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_clinicChosen_NoDoubting"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_clinicChosen_NoNotAsses"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_clinicChosen_WhichClinic"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_Price"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_ReferKnown"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_ReferUnknown"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_Location"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_AllLifeOftMD"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_Insurance"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "g_reasonsClinicChosen_Renown"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "c_qpls_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_timeFromSx"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_Less3M"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_Between3and6M"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_More6M"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_laterallitySx"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_laterallitySx_OneE"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_laterallitySx_BothE"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_MonoSph"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_MonoAsph"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_MonoToric"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Multif"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_MultifToric"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Acomod"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_AddOn"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_ICL"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Unknown"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_modelIOL"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_sxComplic"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_sxComplic_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_sxComplic_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_sxComplic_Which"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_clinicSx"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur_Pub"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur_Priv"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur_InsurPart"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_publicPrivInsur_InsurFull"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_task_dificulty"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving_YesMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving_YesEnogh"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassDayDriving_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving_YesMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving_YesEnogh"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNightDriving_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision_YesMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision_YesEnogh"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassIntermVision_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper_YesMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadNewspaper_NoNoe"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket_YesMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassReadTicket_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle_YesMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_noGlassNeedle_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_frecFarGlasses"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_frecFarGlasses_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_frecFarGlasses_Sometimes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_frecFarGlasses_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_frecNearGlasses"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_frecNearGlasses_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_frecNearGlasses_Sometimes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_frecNearGlasses_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "c_prols_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_CurrrentVDifActDiaria_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_VeryIns"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_EnoughIns"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_EnoughSat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_VerySat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_SatInsatCurrentV_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_task_dificulty"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyReadNews_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogKnownPeople_CannotDeci"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyRecogPrices_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyWalkIrregSurf_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHandWork_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultySubtitles_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "catq_TaskDificultyHobbies_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "c_catq_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_Hisid"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_Age"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_UserLogin"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_surgeonSx"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_catQ"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncsignup_alternative"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncquick_general_firstname"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncquick_general_useremail"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres_Cat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres_Cle"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres_Icl"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_sxInteres_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "privacy_agree"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_FirstName"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_pdata_LastName"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "noregq_check_form"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "user_email"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_timeFromSxAdded"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_Less1S"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_timeFromSx_Less1M"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pre_presenOculDiseaAdded"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_CurrrentVDifActDiaria_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_VeryIns"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_EnoughIns"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_EnoughSat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_VerySat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_SatInsatCurrentV_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_task_dificulty"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyReadNews_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogKnownPeople_CannotDeci"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyRecogPrices_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyWalkIrregSurf_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHandWork_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultySubtitles_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_YesMany"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_YesEnough"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_YesSome"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_NoNone"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nc_noreg_catq_TaskDificultyHobbies_CannotDecide"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_typeOfIOL_Added"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncnoreg_catq9_plus"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_navq_pdata_Hisid"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_navq_pdata_Age"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_navq"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_task_dificulty"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_smallLetters"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_smallLetters_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_smallLetters_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_smallLetters_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_smallLetters_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_normalLetters"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_normalLetters_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_normalLetters_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_normalLetters_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_normalLetters_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_inmeLetters_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_ownLetters"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_ownLetters_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_ownLetters_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_ownLetters_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_ownLetters_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_pcscreen"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_pcscreen_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_pcscreen_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_pcscreen_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_pcscreen_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_mobilescreen_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearObjHobb_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_lowLightNearObj_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearFocusLongTime_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearWork"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearWork_NoneDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearWork_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearWork_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "navq_nearWork_ExtrDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "c_navq_timeDate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10_UserLogin"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_v10"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10Intro"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncreg_formV10_pdata_Hisid"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10_FirstName"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10_LastName"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10_LastNameSecond"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10_useremail"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10_userCity"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "v10_userZip"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_smallLetters"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_smallLetters_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_smallLetters_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_smallLetters_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_smallLetters_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_smallLetters_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_mobileDevices"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_mobileDevices_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_handwork"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_handwork_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_handwork_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_handwork_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_handwork_Ordinay"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_handwork_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_intermediate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_intermediate_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_intermediate_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_intermediate_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_intermediate_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_intermediate_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_lowlightNearIntermediate_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearIntermLongTime_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_FarNaturalLight"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_FarNatural_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_FarNatural_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_FarNatural_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_FarNatural_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_FarNatural_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_Regular"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NightVisionFar_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_Regular"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_UsedToHaloGlare_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_CompletSat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_VerySat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_ModeSat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_LittleSat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_NearVisionSat_Unsat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_GradGlasNeed"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_GradGlasNeed_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_GradGlasNeed_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_RecomendClinic"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_RecomendClinic_Yes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_RecomendClinic_No"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "waiting_time"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "waiting_time_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "waiting_time_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "waiting_time_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "waiting_time_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "waiting_time_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "frontDeskAttention"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "frontDeskAttention_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "phoneAttention"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "phoneAttention_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "phoneAttention_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "phoneAttention_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "phoneAttention_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "phoneAttention_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "drAttention"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "drAttention_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "drAttention_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "drAttention_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "drAttention_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "drAttention_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "medStaffAttention"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "medStaffAttention_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "medStaffAttention_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "medStaffAttention_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "medStaffAttention_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "medStaffAttention_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "clinicQuality"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "clinicQuality_Excellent"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "clinicQuality_VeryGood"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "clinicQuality_Good"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "clinicQuality_Ordinary"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "clinicQuality_Bad"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_Familiar"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_Neighbor"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_WorkFriend"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_Internet"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_RadioTvMedia"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_DrReferral"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_RevCampaign"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "meanKnownClinic_Others"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "commentsSuggestions"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "quirc_sxInteres_Cle"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_1expla"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_Less1S"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_Less1M"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_Less3M"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_Between3and6M"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_timeFromSx_More6M"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDiseaAdded"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Cat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Gla"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_DryEye"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_AMD"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Uveitis"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_CorneDeg"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Strabi"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_VitrDetach"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Several"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_presenOculDisea_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcNeed"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcNeed_NoNeed"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcNeed_YesSometimes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcNeed_YesAlways"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcAlways"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcAlways_LC"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcAlways_Glass"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcAlways_GlassLC"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTimeGlaHourDay"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTimeGlaDayWeek"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTimeLCHourDay"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_correcUseTimeLCDayWeek"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_oldGla"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_oldLC"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_drive"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_drive_NoDriving"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_drive_NoDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_drive_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_drive_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_drive_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_drive_CanNot"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveLC"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_NoDriving"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_NoDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveLC_CanNot"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveGla"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_NoDriving"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_NoDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_LittleDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_ModeDiff"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_driveGla_CanNot"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrain_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainLC_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_eyeStrainGla_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_noGradSunGlaTrouble_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_thinkGlaLCTrouble_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_wakeUpTasksTrouble_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_poolBeachTrouble_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_None"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_useGlaLCTrouble_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_NotMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_initialOngoingCostWorry_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_NotMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_unexpectedCostWorry_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_NotMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_glaLCDependWorry_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_NotMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_notHavingGoodVisWorry_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_NotMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_medCompliWorry_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_NotMuch"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_Little"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_Mode"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_Much"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_utrRadWorry_Extr"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_2expla"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_lookFeel_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_CoolFeel_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_adulatedFeel_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_confiFeel_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_happyFeel_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_ableFeel_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_NotApplicable"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_Never"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_Some"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_DurTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_DurManyTime"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_newThingsFeel_Always"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "quirc_clinicSx"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "quirc_typeOfIOL_Added"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_MonoSph"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_MonoToric"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_Multif"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_MultifToric"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_AddOn"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_typeOfIOL_Unknown"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_modelIOL"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "qirc_freeComment"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "quirc_sxInteres_Icl"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_correcAstig"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_correcAstigYes"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_correcAstigNo"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "quirc_sxInteres_Excimer"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Lasik"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Lasek"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_PRK"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Relex"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Relex_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "post_excimerTecnique_Relex_Unknown"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncsignup_alternative_pages"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncquick_pages_general_firstname"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "ncquick_pages_general_useremail"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquick_pages_sxInteres"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_pages_sxInteres_Cat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_pages_sxInteres_Cle"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_pages_sxInteres_Icl"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "nquickp_pages_sxInteres_Other"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "privacy_pages_agree"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "current_url"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "pat"
+msgstr ""
+
+msgctxt "user_manager"
+msgid "prof"
+msgstr ""

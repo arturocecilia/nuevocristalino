@@ -1,0 +1,219 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "ajax-link-generator"
+msgid "No ha seleccionado un formulario válido"
+msgstr "No ha seleccionado un formulario válido"
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "No ha rellenado la dirección de email de envío."
+msgstr "No ha rellenado la dirección de email de envío."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "El email introducido no es correcto"
+msgstr "El email introducido no es correcto"
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "No ha generado el link correctamente"
+msgstr "No ha generado el link correctamente"
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "Cuestionario de satisfacción de Cirugía Ocular"
+msgstr "Cuestionario de satisfacción de Cirugía Ocular"
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "Estimado paciente, en el siguiente link:"
+msgstr "Estimado paciente, en el siguiente link:"
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "podrá rellenar información sobre su visión actual."
+msgstr "podrá rellenar información sobre su visión actual."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "Muchas gracias por su colaboración."
+msgstr "Muchas gracias por su colaboración."
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "El email se ha enviado correctamente"
+msgstr "El email se ha enviado correctamente"
+
+msgctxt "ajax-send-questionnaire-link"
+msgid "El email no se ha podido enviar con éxito, proceda a enviar el link manualmente"
+msgstr "El email no se ha podido enviar con éxito, proceda a enviar el link manualmente"
+
+msgctxt "user-email-manager"
+msgid "Vemos que está relacionada con la operación de cataratas."
+msgstr "Vemos que está relacionada con la operación de cataratas."
+
+msgctxt "user-email-manager"
+msgid "Vemos que está relacionada con la operación de cristalino transparente."
+msgstr "Vemos que está relacionada con la operación de cristalino transparente."
+
+msgctxt "user-email-manager"
+msgid "Vemos que está relacionada con la operación con lente ICL."
+msgstr "Vemos que está relacionada con la operación con lente ICL."
+
+msgctxt "user-email-manager"
+msgid "Estimado usuario, hemos recibido su solicitud de información."
+msgstr "Estimado usuario, hemos recibido su solicitud de información."
+
+msgctxt "user-email-manager"
+msgid "En breve, un miembro del equipo de NuevoCristalino procederá a contactarte vía email para ver en que puede asistirte."
+msgstr "En breve, un miembro del equipo de NuevoCristalino procederá a contactarte vía email para ver en que puede asistirte."
+
+msgctxt "user-email-manager"
+msgid "Solo por si deseas tener una cuenta para poder aprovechar todas las ventajas de NuevoCristalino (ver resultados de su operación en otros pacientes, preguntar a cirujanos, etc), te hemos generado un usuario:"
+msgstr "Solo por si deseas tener una cuenta para poder aprovechar todas las ventajas de NuevoCristalino (ver resultados de su operación en otros pacientes, preguntar a cirujanos, etc), te hemos generado un usuario:"
+
+msgctxt "user-email-manager"
+msgid "Estimado usuario"
+msgstr "Estimado usuario"
+
+msgctxt "user-email-manager"
+msgid "hemos recibido el cuestionario con tus datos básicos."
+msgstr "hemos recibido el cuestionario con tus datos básicos."
+
+msgctxt "user-email-manager"
+msgid "Si no deseas tener un usuario, ignora este mensaje. Si no lo activas, se borrará automáticamente."
+msgstr "Si no deseas tener un usuario, ignora este mensaje. Si no lo activas, se borrará automáticamente."
+
+msgctxt "user-email-manager"
+msgid "Con cualquier duda, contáctenos a este email."
+msgstr "Con cualquier duda, contáctenos a este email."
+
+msgctxt "user-email-manager"
+msgid "Necesitamos que clickees el link que te ponemos a continuación para que la encuesta que rellenaste pase a ser tenida en cuenta."
+msgstr "Necesitamos que clickees el link que te ponemos a continuación para que la encuesta que rellenaste pase a ser tenida en cuenta."
+
+msgctxt "user-email-manager"
+msgid "En nombre de todos los pacientes que están valorando operarse desde el equpo de NuevoCristalino te damos las gracias."
+msgstr "En nombre de todos los pacientes que están valorando operarse desde el equpo de NuevoCristalino te damos las gracias."
+
+msgctxt "user-email-manager"
+msgid "Para validar el formulario rellenado sólo tienes que clickear en este link:"
+msgstr "Para validar el formulario rellenado sólo tienes que clickear en este link:"
+
+msgctxt "user-email-manager"
+msgid "Gracias por tu tiempo."
+msgstr "Gracias por tu tiempo."
+
+msgctxt "user-email-manager"
+msgid "Comprobación de tu email (Activación de cuenta de NuevoCristalino)"
+msgstr "Comprobación de tu email (Activación de cuenta de NuevoCristalino)"
+
+msgctxt "user-email-manager"
+msgid "de Cataratas"
+msgstr "de Cataratas"
+
+msgctxt "user-email-manager"
+msgid "de Cristalino transparente"
+msgstr "de Cristalino transparente"
+
+msgctxt "user-email-manager"
+msgid "con lente ICL"
+msgstr "con lente ICL"
+
+msgctxt "user-email-manager"
+msgid "Estimado usuario"
+msgstr "Estimado usuario"
+
+msgctxt "user-email-manager"
+msgid "Tu cuenta de usuario en NuevoCristalino ya está configurada, puedes acceder con las siguientes credenciales:"
+msgstr "Tu cuenta de usuario en NuevoCristalino ya está configurada, puedes acceder con las siguientes credenciales:"
+
+msgctxt "user-email-manager"
+msgid "Usuario:"
+msgstr "Usuario:"
+
+msgctxt "user-email-manager"
+msgid "Clave/Contraseña:"
+msgstr "Clave/Contraseña:"
+
+msgctxt "user-email-manager"
+msgid "Vemos que todavía no te has operado %s, si quieres, puedes rellenar tu información de antes de la operación:"
+msgstr "Vemos que todavía no te has operado %s, si quieres, puedes rellenar tu información de antes de la operación:"
+
+msgctxt "user-email-manager"
+msgid "Te permitirá obtener un listado de lentes idóneas, dará más datos al cirujano que vaya a contestar tus dudas, tendrás contenidos más personlizados etc."
+msgstr "Te permitirá obtener un listado de lentes idóneas, dará más datos al cirujano que vaya a contestar tus dudas, tendrás contenidos más personlizados etc."
+
+msgctxt "user-email-manager"
+msgid "Vemos que todavía ya te has operado %s, si quieres, ayudarías a otros pacientes si rellenas el cuestionario de satisfacción tras la operación:"
+msgstr "Vemos que todavía ya te has operado %s, si quieres, ayudarías a otros pacientes si rellenas el cuestionario de satisfacción tras la operación:"
+
+msgctxt "user-email-manager"
+msgid "Muchas gracias!!"
+msgstr "Muchas gracias!!"
+
+msgctxt "class-user-manager-userdata"
+msgid "Enviar"
+msgstr "Enviar"
+
+msgctxt "class-user-manager-userdata"
+msgid "No se ha podido enviar la información, por favor, compruebe que los campos están rellenadas y la política de privacidad aceptada."
+msgstr "No se ha podido enviar la información, por favor, compruebe que los campos están rellenadas y la política de privacidad aceptada."
+
+msgctxt "class-user-manager-userdata"
+msgid "La información se ha envíado correctamente. Tendrá un email con el siguiente paso para recibir la ayuda que necesite antes de su operación."
+msgstr "La información se ha envíado correctamente. Tendrá un email con el siguiente paso para recibir la ayuda que necesite antes de su operación."
+
+msgctxt "class-user-manager-userdata"
+msgid "Saludos,<br /> el equipo de NuevoCristalino."
+msgstr "Saludos,<br /> el equipo de NuevoCristalino."
+
+msgctxt "class-user-manager-userdata"
+msgid "No se ha podido enviar la información, por favor, compruebe que los campos están rellenadas y la política de privacidad aceptada."
+msgstr "No se ha podido enviar la información, por favor, compruebe que los campos están rellenadas y la política de privacidad aceptada."
+
+msgctxt "class-user-manager-userdata"
+msgid "La información se ha envíado correctamente. Tendrá un email con el siguiente paso para recibir la ayuda que necesite antes de su operación."
+msgstr "La información se ha envíado correctamente. Tendrá un email con el siguiente paso para recibir la ayuda que necesite antes de su operación."
+
+msgctxt "class-user-manager-userdata"
+msgid "Seleccione el formulario que quiere sea rellenado:"
+msgstr "Seleccione el formulario que quiere sea rellenado:"
+
+msgctxt "class-user-manager-userdata"
+msgid "No hay formularios preconfigurados, póngase en contacto con nosotros."
+msgstr "No hay formularios preconfigurados, póngase en contacto con nosotros."
+
+msgctxt "class-user-manager-userdata"
+msgid "Usted no está logueado como usuario profesional, sentimos decirle que no tiene acceso a este área. Con cualquier duda póngase en contacto con nosotros."
+msgstr "Usted no está logueado como usuario profesional, sentimos decirle que no tiene acceso a este área. Con cualquier duda póngase en contacto con nosotros."
+
+msgctxt "class-user-manager-userdata"
+msgid "Seleccione de sus centros, a cual quiere que se asigne:"
+msgstr "Seleccione de sus centros, a cual quiere que se asigne:"
+
+msgctxt "class-user-manager-userdata"
+msgid "Usted no tiene centros asignados, póngase en contacto con nosotros."
+msgstr "Usted no tiene centros asignados, póngase en contacto con nosotros."
+
+msgctxt "class-user-manager-userdata"
+msgid "Usted no tiene centros asignados, póngase en contacto con nosotros."
+msgstr "Usted no tiene centros asignados, póngase en contacto con nosotros."
+
+msgctxt "class-user-manager-userdata"
+msgid "Seleccione la lente implantada"
+msgstr "Seleccione la lente implantada"
+
+msgctxt "class-user-manager-userdata"
+msgid "Incluya si lo desea el email del paciente (No es obligatorio, podrá utilizarlo para enviarle el link)"
+msgstr "Incluya si lo desea el email del paciente (No es obligatorio, podrá utilizarlo para enviarle el link)"
+
+msgctxt "class-user-manager-userdata"
+msgid "Generar el Enlace"
+msgstr "Generar el Enlace"
+
+msgctxt "class-user-manager-userdata"
+msgid "Todavía no has generado el enlace para el paciente"
+msgstr "Todavía no has generado el enlace para el paciente"
+
+msgctxt "class-user-manager-userdata"
+msgid "Enviar un email con el enlace a la dirección aportada:"
+msgstr "Enviar un email con el enlace a la dirección aportada:"
+
+msgctxt "class-user-manager-userdata"
+msgid "Enviar el enlace por email a la dirección aportada."
+msgstr "Enviar el enlace por email a la dirección aportada."

@@ -1,0 +1,118 @@
+#dc_jqmegamenu_widget-2-item > ul > li:last-child {
+    border-right: 0px solid #FFFFFF !important;
+    float: none !important;
+}
+#provincia {
+    display: none !IMPORTANT;
+}
+
+/*
+
+@-moz-document url-prefix() {
+
+
+
+
+@font-face {
+    font-family: 'negotiatefree';
+    src: url('http://www.nuevocristalino.co/wp-content/themes/iol/negotiate_free-webfont.eot');
+    src: url('http://www.nuevocristalino.co/wp-content/themes/iol/negotiate_free-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.nuevocristalino.co/wp-content/themes/iol/negotiate_free-webfont.woff') format('woff'),
+         url('http://www.nuevocristalino.co/wp-content/themes/iol/negotiate_free-webfont.ttf') format('truetype'),
+         url('http://www.nuevocristalino.co/wp-content/themes/iol/negotiate_free-webfont.svg#negotiatefree') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'source_sans_proregular';
+    src: url('http://www.nuevocristalino.co/wp-content/themes/iol/sourcesanspro-regular-webfont.eot');
+    src: url('http://www.nuevocristalino.co/wp-content/themes/iol/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.nuevocristalino.co/wp-content/themes/iol/sourcesanspro-regular-webfont.woff') format('woff'),
+         url('http://www.nuevocristalino.co/wp-content/themes/iol/sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('http://www.nuevocristalino.co/wp-content/themes/iol/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+ }
+
+@font-face {
+    font-family: 'sample-delicious';
+    src: url('delicious-roman-webfont.eot');
+    src: url('delicious-roman-webfont?#iefix') format('embedded-opentype'),
+         url('delicious-roman-webfont.woff') format('woff'),
+         url('delicious-roman-webfont.ttf') format('truetype'),
+         url('delicious-roman-webfont.svg#delicious-roman-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+} */
+
+ul.ui-autocomplete {
+    z-index: 10000 !important;
+}
+
+#lensClinics a.ui-button {
+    position: absolute;
+}
+
+div.resultsTest .ui-tabs .ui-tabs-nav li a {
+    padding: 0.46em !important;
+}
+
+#contact-post form input.submit {
+background: linear-gradient(to bottom,#fea336 69%,#ff8c03 100%);
+}
+
+#right.rightTestColumn div#contacto-test div.formulario-test form input[type="checkbox"]{
+        float: left;
+    margin-right: 3% !important;
+    margin-top: 3% !important;
+    width: 13px !important;
+}
+
+div#bloq-post-right2 div#contact-post input[type="checkbox"] {
+    float: left;
+    margin-right: 3% !important;
+    margin-top: 3% !important;
+    width: 13px !important;
+}
+
+div#single-fab #contacto-fab .formulario-fab input[type="checkbox"] {
+    float: left;
+    margin-right: 3% !important;
+    margin-top: 3% !important;
+    width: 13px !important;
+}
+
+#left #contact-single-lente input[type="checkbox"]{
+    float: left;
+    margin-right: 3% !important;
+    margin-top: 8% !important;
+    width: 13px !important;
+}
+
+div.lista-quienes-somos #contacto input[type="checkbox"] {
+        float: left;
+    margin-right: 3% !important;
+    margin-top: 1% !important;
+    width: 5% !important;
+}
+div.lista-quienes-somos #contact-form form div:last-child label{
+        display: block;
+    float: right;
+    font-size: 12px;
+    margin-bottom: 25px;
+    margin-top: 2.6% !important;
+    width: 90%;
+}
+
+ol.numerada li{
+    	font-size: 14px;
+	    color: #444444;
+	    text-align: justify;
+	    margin-right: 5px;
+	    margin-bottom: 15px;
+      font-family: 'source_sans_proregular';
+}

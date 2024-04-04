@@ -1,0 +1,189 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgctxt "iol_main"
+msgid "¿Estás pensando en Operarte de la Vista?"
+msgstr "Vous pensez subir une chirurgie oculaire?"
+
+msgctxt "iol_main"
+msgid "Regístrate en NuevoCristalino. Es gratis"
+msgstr "Inscrivez-vous dans NouveauCristallin, c'est gratuit"
+
+msgctxt "header"
+msgid "Tu Área Privada"
+msgstr "Votre espace privé"
+
+msgctxt "header"
+msgid "Editar Perfil"
+msgstr "Modifier le profil"
+
+msgctxt "interaction-home"
+msgid "Encuentra la mejor opción para tu operación ocular."
+msgstr "Trouvez la meilleure option pour votre opération des yeux."
+
+msgctxt "interaction-home"
+msgid "Aprovecha las ventajas de NuevoCristalino. Es gratis."
+msgstr "Profitez de NouveauCristallin. C'est gratuit."
+
+msgctxt "interaction-home"
+msgid "Con cualquier duda recuerda que puedes escribirnos también a info@nuevocristalino.es"
+msgstr "N'oubliez pas que vous pouvez aussi nous écrire à info@nouveaucristallin.com"
+
+msgctxt "interaction-home"
+msgid "Soluciones para la Vista Cansada"
+msgstr "Solutions pour la presbyopie"
+
+msgctxt "interaction-home"
+msgid "Conozca que opciones hay hoy en día para no necesitar gafas de cerca."
+msgstr "Sachez quelles sont les options actuelles pour ne pas avoir besoin de lunettes de près."
+
+msgctxt "interaction-home"
+msgid "Nueva cirugía de cataratas con LÁSER"
+msgstr "Nouvelle chirurgie de la cataracte avec LASER"
+
+msgctxt "interaction-home"
+msgid "Conozca la útima técnica disponible para quitar las cataratas con Láser."
+msgstr "Connaître la dernière technique disponible pour éliminer les cataractes avec le laser."
+
+msgctxt "interaction-home"
+msgid "Clínicas especializadas en tu cirugía"
+msgstr "Cliniques spécialisées dans votre chirurgie"
+
+msgctxt "interaction-home"
+msgid "Vea una lista de clínicas especializadas en lentes intraoculares."
+msgstr "Voir une liste de cliniques spécialisées dans les lentilles intra-oculaires."
+
+msgctxt "interaction-home"
+msgid "Vea las lentes adecuadas para su caso."
+msgstr "Voir les implants intraoculaires pour votre cas."
+
+msgctxt "interaction-home"
+msgid "Realice el test para saber qué tipo de lente es la más adecuada para usted."
+msgstr "Faites le test pour savoir quel type d'implant intraoculaire vous convient le mieux."
+
+msgctxt "interaction-home"
+msgid "¿Te has operado? Cuéntanos como fue tu Operación"
+msgstr "Avez-vous opéré? Dites-nous comment a été votre opération"
+
+msgctxt "interaction-home"
+msgid "Ayuda a otros pacientes con tu experiencia"
+msgstr "Aidez d'autres patients avec votre expérience"
+
+msgctxt "interaction-home"
+msgid "Queremos saber si estás contento/a o no."
+msgstr "Nous voulons savoir si vous êtes heureux d'avoir été operé ou non."
+
+msgctxt "interaction-home"
+msgid "Ir a la encuesta >>"
+msgstr "Aller à l'enquête >>"
+
+msgctxt "interaction-home"
+msgid "Si conoces a alguien que ya se ha operado, invítale a dar su opinión sobre su operación:"
+msgstr "Si vous connaissez quelqu'un qui a déjà été opéré, invitez-le à donner son avis sur son opération:"
+
+msgctxt "iol_main"
+msgid "Foros de NuevoCristalino"
+msgstr "Forums de NouveauCristallin"
+
+msgctxt "single-post"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog d'implants intraoculaires, presbytie et cataractes"
+
+msgctxt "iol_main"
+msgid "Pregunta a los cirujanos"
+msgstr "Demandez aux chirurgiens"
+
+msgctxt "iol_main"
+msgid "Blog de lentes intraoculares Presbicia y cataratas"
+msgstr "Blog d'implants intraoculaires, presbytie et cataractes"
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según distancia a una ubicación concreta:"
+msgstr "Filtrage en fonction de la distance à un emplacement spécifique:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Filtrado según Lente y Comunidad:"
+msgstr "Filtré selon implant et region:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Ubicar la dirección introducida"
+msgstr "Localisez l'adresse saisie"
+
+msgctxt "template-buscador-clinicas"
+msgid "Máxima distancia a ubicación:"
+msgstr "Distance maximale jusqu'à l'emplacement:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Detectar mi ubicación"
+msgstr "Détecter ma position"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrando"
+msgstr "Montrant"
+
+msgctxt "template-buscador-clinicas"
+msgid "ubicación seleccionada:"
+msgstr "Emplacement sélectionné:"
+
+msgctxt "template-buscador-clinicas"
+msgid "Distancia"
+msgstr "Distance"
+
+msgctxt "template-buscador-clinicas"
+msgid "km"
+msgstr "km"
+
+msgctxt "template-buscador-clinicas"
+msgid "Mostrar Todas"
+msgstr "Montrer tout"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clinicas más visitadas"
+msgstr "Les cliniques les plus visitées"
+
+msgctxt "template-buscador-clinicas"
+msgid "Clínicas según lente y Comunidad"
+msgstr "Cliniques selon l'objectif et la region"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Queremos saber cómo ves."
+msgstr "Nous voulons savoir comment vous voyez."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Cuéntanos tu opinión sobre el resultado de tu operación."
+msgstr "Dites-nous votre opinion sur le résultat de votre opération."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Ayuda a otros usuarios interesados en tu operación."
+msgstr "Aidez d'autres utilisateurs intéressés par votre opération."
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con reemplazo de cristalino sin cataratas"
+msgstr "Opération avec remplacement de la lentille sans cataracte"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación de cataratas (con cualquier tipo de lente intraocular)"
+msgstr "Opération de la cataracte (avec tout type d'implant intraoculaire)"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con láser excímer sobre córnea (LASIK, PRK, etc.)"
+msgstr "Opération avec un laser excimer sur la cornée (LASIK, PRK, etc.)"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Operación con lente intraocular ICL"
+msgstr "Opération avec l'implant intraoculaire ICL"
+
+msgctxt "template-noregisteredquestionnaires"
+msgid "Si conoces a alguien que ya se ha operado y puede dar el testimonio de su operación, compártelo esta página usando una red social:"
+msgstr "Si vous connaissez quelqu'un qui a déjà été opéré et pouvez témoigner de son opération, partagez cette page en utilisant un réseau social:"

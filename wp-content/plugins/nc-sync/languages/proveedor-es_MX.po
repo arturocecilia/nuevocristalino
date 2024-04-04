@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "proveedor"
+msgstr "proveedor"
+
+msgctxt "taxo-slug"
+msgid "proveedor-de-lentes-intraoculares"
+msgstr "proveedor-de-lentes-intraoculares"
+
+msgctxt "slug"
+msgid "proveedores-lentes-intraoculares-archive"
+msgstr "proveedores-lentes-intraoculares-archive"
+
+msgctxt "admin_display"
+msgid "proveedor"
+msgstr "proveedor"
+
+msgctxt "admin_display"
+msgid "Añadir proveedor"
+msgstr "Añadir proveedor"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo proveedor"
+msgstr "Añadir Nuevo proveedor"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Editar"
+
+msgctxt "admin_display"
+msgid "Editar proveedor"
+msgstr "Editar proveedor"
+
+msgctxt "admin_display"
+msgid "Nuevo proveedor"
+msgstr "Nuevo proveedor"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Ver"
+
+msgctxt "admin_display"
+msgid "Ver proveedor"
+msgstr "Ver proveedor"
+
+msgctxt "admin_display"
+msgid "Buscar fabricante"
+msgstr "Buscar fabricante"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ningun proveedor"
+msgstr "No se ha encontrado ningun proveedor"
+
+msgctxt "admin_display"
+msgid "No hay proveedores en la papelera"
+msgstr "No hay proveedores en la papelera"
+
+msgctxt "admin_display"
+msgid "Proveedor padre"
+msgstr "Proveedor padre"
+
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr "Dirección (D)"
+
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr "Telf de Contacto (D)"
+
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr "Email de Contacto (D)"
+
+msgctxt "admin_display"
+msgid "Web (D)"
+msgstr "Web (D)"
+
+msgctxt "admin_display"
+msgid "Factor Ordenación (D)"
+msgstr "Factor Ordenación (D)"

@@ -1,0 +1,971 @@
+div.site-content-clinicas footer.entry-meta {
+	display:none;}
+
+#subAcc {
+  width: 100%;
+}
+
+
+#opticDiameterDisabler, #totalDiameterDisabler, #asfericityDisabler , #dioptEsfDisabler,#dioptCilDisabler {
+  font-size: 0.7em;
+}
+
+#advancedFiltersDisabler, #advancedFiltersEnabler {
+float: right ;
+font-size: 0.7em;
+display: block;
+}
+#spanAdvFilEnabler, #spanAdvFilDisabler {
+    color: red;
+    display: block;
+    float: left;
+    font-size: 0.8em;
+    padding-right: 10px;
+    padding-top: 3px;
+}
+
+#loadingGif {
+    display: none;
+}
+
+/* Añadimos estilos de grosso modo para el tabs menu del test */
+.ui-tabs-vertical .ui-tabs-nav li {
+    height: 50px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-tabs-loading a {
+    height: 85%;
+    width: 85%;
+}
+
+#tabs {
+   /* height: 500px;*/
+   
+}
+
+.ui-tabs-vertical .ui-tabs-panel {
+    width: 45em !important;
+}
+
+.ui-tabs-vertical {
+   width: 63em !important;
+}
+
+#clinica_filter_form .ui-buttonset {
+    text-align: center;
+}
+
+/* Layout de la página de Clínicas */
+
+div#primary.site-content-clinicas {
+    width: 70%;
+    float: left;
+    margin-top: 40px;
+}
+div#primary.site-content-clinicas .entry-header h1.entry-title {
+    border-bottom: 2px solid #FEA63C;
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 1.5rem !important;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    width: 100%;
+	text-transform:uppercase;
+}
+
+/* Form de la página de Clínicas*/
+
+#clinica_filter_form #accordionFilterSimple {
+  margin-bottom: 10px;/*20px*/
+}
+
+#clinica_filter_form #accordionFilterSecond {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+#clinica_filter_form input.singleClinicSubmit {
+    margin-left: 15%;
+}
+
+#clinica_filter_form .ui-buttonset {
+    width: 100%;
+}
+
+
+#clinica_filter_form .ui-widget label.cliniBSetTitle {
+    font-size: 0.95em;
+    margin-bottom: 5px;
+    margin-top: 7px;
+	padding-right: 20px;
+}
+
+
+/* Archive de clínica -> Analogía del de iol*/
+div#primary.site-content-archive-clinica #content {
+    /*float: left;
+    margin: 1.71429rem 0 0;*/
+    padding-bottom: 40px;
+   /* padding-right: 3%;
+    width: 70%;*/
+}
+
+div.clinica-entry-header {
+    float: left;
+    width: 215px;
+}
+div.clinica-entry-content h1.archive-clinica-title {
+    border-bottom: 0 none;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+div.clinica-entry-content h1.archive-clinica-title a {
+    color: #FEA63C;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+div.archive-clinica-wrapper {
+    background: none repeat scroll 0 0 white;
+    border: 1px solid #CECECE;
+    height: auto;
+    margin-bottom: 32px;
+    padding: 4px;
+}
+
+div.archive-clinica-wrapper div:first- child { /*div.archive-clinica-wrapper div.clinica*/
+    background: none repeat scroll 0 0 #F6F6F6;
+    max-height: 260px;
+    overflow: hidden;
+}
+
+div.clinica-entry-header .featured-clinica-archive-image {
+    margin-left: 20px;
+    margin-top: 23px;
+}
+
+#IOL_Filtradas .featured-clinica-archive-image img {
+    border: 1px solid #D6D6D6;
+    border-radius: 1px 1px 1px 1px;
+    box-shadow: none;
+    display: block;
+    float: left;
+    height: auto;
+    margin-right: 10px;
+    width: 168px;
+	margin-bottom: 0px;
+}
+div.clinica-entry-content {
+    float: left;
+    width: 420px;
+   /* font-family: ''negotiatefree';*/
+}
+
+
+div.clinica-entry-content p {
+    font-size: 12px;
+}
+
+div.clinica-entry-content div.clinica-entry-meta {
+    text-align: right;
+}
+
+div.clinica-entry-content div.clinica-entry-meta a {
+    color: #FEA63C;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.site-content-archive-clinica h1 {
+    border-bottom: 2px solid #FEA63C;
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 1.5rem !important;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.site-content-archive-clinica .archive-header {
+    border-bottom: medium none;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+}
+
+div.clinica-metadata span.clinica-meta-value {
+    display: block;
+    font-size: 12px;
+    font-family: 'source_sans_proregular';
+    float: left;
+}
+
+div#primary.single-clinica {
+    width: 70%;
+    padding-left: 0%;
+}
+
+
+div#right.clinica {
+    margin-top: 58px;
+    width: 23%;
+}
+
+/*Retoques de los filtros*/
+#right #clinica_filter_form  .ui-accordion-content{
+padding: 0 0.5em 9px;
+}
+
+/*Metemos el InfoPannel */
+
+#iolInfoPannel{
+    z-index: 1500;
+    max-height: 650px;
+}
+
+#titleExplanation, #titleNotIncludedExplanation{
+    font-family: 'negotiatefree';
+    font-size: 14px;
+    height: 20px;
+    width: 390px;
+}
+
+
+.infoIolHeaderTitle {
+
+}
+
+#numLentes {
+    font-size: 13px;
+    height: 20px;
+    width: 390px;
+}
+
+
+#expanderContent ul li {
+    margin-left: 20px;
+    font-size: 12px;
+    min-height: 17px;
+    display: block;
+}
+
+#AJAXiolInfoPannel {
+    display: none;
+}
+
+#infoQuery{
+	width: 350px;
+}
+
+/*Botón del iolInfoPannelDisabler */
+
+#clinicaActionsContainer{
+    float: right;
+    margin-right: 20px;
+    margin-top: 3px;
+}
+
+
+#clinicaInfoPannelClose, #clinicaInfoPannelMini, #clinicaInfoPannelMaxi{
+	height:20px;
+	width: 20px;
+}
+
+/*Estilos para el ajax de clínicas*/
+
+.NoClinica {
+    background: none repeat scroll 0 0 #F6F6F6;
+    color: #8E8E8E;
+    float: right;
+    min-height: 130px;
+    padding-top: 7%;
+    text-transform: uppercase;
+    width: 78%;
+}
+
+div.NoClinica p {
+    font-family: negotiatefree;
+    font-size: 19px !important;
+    font-weight: normal;
+}
+
+.mensNotTitle {
+    font-family: 'source_sans_proregular';
+    font-size: 15px;
+    
+}
+
+div.NoClinica .mensNotMessage {
+    color: #505050;
+    font-family: Arial, Verdana;
+    font-size: 15px !important;
+    font-style: italic;
+    font-weight: bold;
+    height: 50px;
+    margin-top: 10px;
+    padding-left: 4px;
+    padding-right: 8px;
+    text-transform: none;
+    width: 95%;
+}
+
+.NoClinicaWrapper{
+    background: none repeat scroll 0 0 white;
+    border: 1px solid #CECECE;
+    height: auto;
+    margin-bottom: 32px;
+    padding: 4px;
+    }
+    
+#CLINICA_Filtradas {
+    min-height: 520px;
+}
+
+#clinicaInfoPannel{
+z-index: 1000;}
+
+/* Modificación para alinear el marcado-estilo con el de las iol's*/    
+/*Titulo de Archive*/
+.site-content-archive-clinica{
+    float: left;
+    margin: 1.71429rem 0 0;
+    padding-bottom: 40px;
+    padding-right: 3%;
+    width: 70%;
+}
+
+/* Retoques*/
+#clinicaInfoPannel h4#expanderHead {
+    width: 360px;
+}
+
+
+#clinicaInfoPannel #resizableTitle {
+    width: 495px;
+}
+
+.innerNoneClinicaWrapper{
+	background:none repeat scroll 0 0 #F6F6F6;
+}
+
+#NoClinicaImg {
+    float: left;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+/*El tema del css para la geolocation*/
+
+#divContenedor{
+	width: 100%;
+	margin: 0 auto;
+	/*padding-top: 40px;*/
+	}
+
+#divInfo{
+	text-align: center;
+	height: auto;
+	padding: 10px 0;}
+
+div#divMapa, #divSingleClinicMapa{
+	height: 450px !important;
+	width: 100%;
+	border: solid 4px #ccc;
+	padding: 4px;}
+	
+div.stringGeoLocation input#direccion{
+	width: 110px;}
+	
+div.geolocationEntry button, div#routeClinic button#routeToClinic{
+	font-size: 12px;
+	font-family: 'source_sans_proregular';
+	background-color:#5c5c5c;
+	background: -moz-linear-gradient(center top , #707070, #515151);
+	background: -webkit-gradient(linear from(#707070), to(#515151));
+	background: -moz-linear-gradient(top,  #707070,  #515151);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#707070', endColorstr='#515151');
+	color: #fff;
+	border-color:transparent;
+        /*AÑADIMOS OTRO GRAD*/
+        /* IE10 */ 
+    background-image: -ms-linear-gradient(top, #707070 0%, #515151 100%);
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #707070 0%, #515151 100%);
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #707070 0%, #515151 100%);
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #707070), color-stop(1, #515151));
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #707070 0%, #515151 100%);
+    /* Proposed W3C Markup */ 
+    background-image: linear-gradient(top, #707070 0%, #515151 100%); 
+    
+    
+}
+	
+div.geolocationEntry button:hover{
+   background-color:#5c5c5c;
+	background: -moz-linear-gradient(center top , #515151, #707070);
+	background: -webkit-gradient(linear from(#515151), to(#707070));
+	background: -moz-linear-gradient(top,  #515151,  #707070);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#515151', endColorstr='#707070');
+	/*display:block;*/
+    /*AÑADIMOS OTRO GRAD*/
+        /* IE10 */ 
+    background-image: -ms-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #999999), color-stop(1, #767676));
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Proposed W3C Markup */ 
+    background-image: linear-gradient(top, #999999 0%, #767676 100%); 
+}
+
+#divCoordenadas{
+	text-align: center;
+	padding: 10px 0;
+	font-weight: bold;}
+
+div.entry-clinicMap{
+	/*float: left;*/
+	font-size: 15px;
+	margin-top: 20px;
+	font-weight: bold;
+	margin-top: 5px;
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+	text-align: left;
+    width: 100%;
+}
+div.geolocationEntry{
+	width: 100%;
+	margin-top: 30px;
+}
+
+div.geoExplanation{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+label.geoLabel{
+    float: left;
+    font-size: 13px;
+    padding-top: 8px;
+    width: auto;
+	padding: 8px 5px 0px 0px;
+	color: #505050;
+	font-family: 'source_sans_proregular';
+	font-weight: normal;
+}
+
+#comboDistanceToClinic{
+    float: left;
+    margin-top: 3px;
+    width: auto;
+}
+
+#comboboxDistanceToClinic{
+	width: 98%;
+}
+
+div.geoButtons{
+    overflow: visible;
+    width: 100%;
+	height: 30px;
+}
+/*
+#comboboxDistanceToClinic > input.ui-autocomplete-input{
+	width:300px:
+	}*/
+#comboDistanceToClinic	input{
+	width: 40%;/*30%;*/
+	font-size: 10px;
+}
+
+#comboDistanceToClinic a{
+	height: 26px;
+}
+
+#divMapa #loaderDiv{
+    margin-left: 48%;
+    margin-top: 28%;
+}
+.site-content-clinicas #moreClinics{
+	width: 300px;
+}
+
+div#sponsoredListWrapper{
+	float: right;
+    width: 39%;}
+
+div#geoSelectedListWrapper{
+	float: left;
+	width: 39%;
+	margin-right: 21%;
+}
+
+div#geoSelectedListWrapper h3, div#sponsoredListWrapper h3 {
+	color: #FEA63C;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    text-align: left;
+    width: 100%;
+	display:block;
+	margin-bottom: 10px;
+	font-style: italic;}
+
+div.sponsoredList li, div.geoSelectedList li{
+	width: 90%;
+	min-height: 25px;
+	background-color:#ececec;
+	margin-bottom: 3px;
+	padding: 10px 10px 0;
+}
+
+div.sponsoredList li a, div.geoSelectedList li a{
+	display: block;
+    line-height: 1.2;
+    padding-bottom: 5px;
+}
+
+div.clinicListsWrapper{
+	overflow: visible;
+	min-height: 138px;
+	margin-top: 10px;
+	min-height: 270px;}
+
+div.geoSelectedList ul, div.sponsoredList ul{
+	/*list-style-image: url("../images/list-clinic.png");
+	padding-left: 20px;*/
+	padding: 0px;
+	margin:0px;}
+	
+div.clinicListsWrapper li a{
+	color: #505050;
+	font-family: 'source_sans_proregular';
+	font-weight: normal;
+	font-size: 14px;
+	text-decoration:none;
+	background:url("../images/list-clinic.png") no-repeat no-repeat  top left;
+	padding-left: 20px;}
+	
+div.clinicListsWrapper li a:hover{
+	color: #fea63c;}
+
+#divSingleClinicMapa{
+    /*clear: both;*/
+    float: left;
+    height: 400px;
+    width: 600px;   
+}
+
+div.moreClinics {
+    margin-top: 15px;
+    margin-bottom: 25px;
+	text-align:right;
+}
+
+div.moreClinics a {
+    color: #003B61;/*#FEA63C;*/
+    text-decoration: underline;
+	font-family: 'source_sans_proregular';
+	font-weight: normal;
+	font-size: 14px;
+}
+
+#map-canvas{
+	height: 400px;
+}
+
+#map-string{
+	height: 300px;
+}
+
+.geoExplanation button{
+	color:#003B61;
+}
+
+.left-info-entry, #routeClinic{
+	/*float: left;
+	width: 55%;*/
+	float:right;
+	height: 30px;
+}
+
+.stringGeoLocation{
+	height:30px;
+	width: 33%;
+	float:left;
+	text-align:center;}
+
+div.userGeoInfo{
+	width:84%;
+	margin-top: 30px;
+	height: auto;
+	float:left;
+	font-family: 'source_sans_proregular';
+	margin-bottom: 5px;
+	min-height: 25px;
+	}
+
+div.userGeoInfo span{
+	float:left;
+	color: #adadad;
+	font-style:italic;
+	font-size: 13px;}
+	
+.geoMainTitle {
+	margin-right: 3px;}
+
+#userGeoInfoSpanTitle, #distanceTitle {
+	margin-right:5px;}
+
+#distanceValue{
+	margin-right: 3px}
+
+#userGeoInfoSpanValue{
+	margin-right: 15px;}
+
+.geoExplanation button{
+	background-color: #F0F0F0;}
+
+div.buttonGeolocation{
+	width: 30%;
+	float:left;
+	height: 30px;
+	text-align: left;}
+	
+div#comboDistanceToClinic span.custom-combobox{
+	margin-left: -28px;
+	width: 127px;}
+
+#showAll, #buttonSingleClinic{
+	width: 14%;
+	font-family: 'source_sans_proregular';
+	float:right;
+	margin-top: 26px;
+	margin-bottom: 5px;
+	height: auto;}
+
+#showAllButton, #onlyClinic{
+	background:none;
+	width:auto;
+	padding: 0px;
+	border:none;
+	font-family: 'source_sans_proregular';
+	color: #fea63c;
+	text-decoration:underline;
+	font-size: 13px;
+}
+
+#routeToClinic{
+	background-color: #F0F0F0;
+}
+
+div#mapSet{
+	min-height:500px;
+	width: 700px;
+	overflow: visible;/*hidden;*/
+	clear: both;
+	padding-top: 10px;
+}
+
+
+/*div#buttonSingleClinic{
+	float: left;
+	width: 30%;
+}*/
+
+/*#mapSet div.userGeoInfo {
+    clear: both;
+    margin-left: 20px;
+}
+
+#mapSet div.userGeoInfo {
+    clear: both;
+    height: 27px;
+    margin-left: 20px;
+    padding-top: 4px;
+}*/
+
+#mapSet #onlyClinic{
+	margin-left: 20px;
+	margin-top: 8px;
+}
+
+#mapSet #directions-panel{
+
+    overflow: auto;
+    width: 100%;
+    /*float: right;*/
+}
+
+#divSingleClinicMapa{
+	width: 100%;
+}
+
+
+.site-content-single article #mapSet img{
+	width: auto;
+	height: auto;
+	margin: auto;
+	float: none;
+	border: none;
+}
+
+/*Los draggers del accordion */
+#clinica_filter_form .ui-accordion .ui-accordion-header #dragger-accordionFilterSecond, 
+#clinica_filter_form .ui-accordion .ui-accordion-header #dragger-accordionFilterSimple
+ {
+    cursor: move;
+    left: 190px;
+    top:10px;
+	float:right;
+}
+
+#clinica_filter_form .ui-accordion .ui-accordion-header #reseter-accordionFilterSecond, 
+#clinica_filter_form .ui-accordion .ui-accordion-header #reseter-accordionFilterSimple{
+    cursor: pointer;
+    left: 190px;
+	/*top:20px;*/
+    float: right;
+}
+
+#campos-clinicas{
+	color: #505050;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+	font-weight:normal;
+	margin-top: 10px;
+	margin-bottom: 5px;/*10px;*/}
+	
+#campos-clinicas div.label-clinic{
+	border: 1px solid #f0f0f0;
+    color: #505050;
+    float: left;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+    line-height: 2;
+    margin-bottom: 4px;
+    padding-left: 8px;
+    width: 41%;
+	border-right: none; }
+	
+#campos-clinicas div.value-clinic{
+	border: 1px solid #F0F0F0;
+    color: #505050;
+    float: left;
+    font-family: 'source_sans_proregular';
+    font-size: 14px;
+    line-height: 2;
+    margin-bottom: 4px;
+    padding-left: 8px;
+    text-decoration: none;
+    width: 55%;}
+    
+#iolGridWrapper.clinicaTemplate {
+	min-height: 235px;
+}
+
+.labelClinicaName {
+    font-size: 14px;
+	font-family: 'source_sans_proregular';}
+	
+
+input#clinicaName {
+    padding: 0.15rem;
+}
+
+#preButtonSet {
+    height: 22px;
+    margin-bottom: 10px;
+}
+
+#comboViewTypeClinic {
+    left: -176px;
+    margin-bottom: -32px;
+    position: relative;
+    top: -45px;
+    width: 100px;
+}
+#comboViewTypeClinic span.custom-combobox input.custom-combobox-input{
+	width: 30px;
+}
+
+
+#titleViewTypeClinic {
+    font-size: 11px;
+}
+
+#right form #comboViewTypeClinic .ui-button-icon-only {
+    min-height: 28px;
+}
+
+#right form #comboViewTypeClinic .ui-button-icon-only {
+    min-height: 28px;
+}
+
+#right form div.ui-widget span.custom-combobox input {
+    float: none;
+    /*width: 30px; Este no se puede poner a 30px porque descuadra todos los anchos de IOL*/
+}
+
+#helpTitleC {
+    left: 739px;
+    position: relative;
+    top: -20px; /* -19 antes*/
+    width: 35px;
+}
+
+#helpTitleC a {
+    background-image: url("../images/filter-info.png");
+    display: block;
+    height: 30px;
+    text-decoration: none;
+    width: 30px;
+}
+
+#searchClinicaReset {
+    background: -moz-linear-gradient(center top , #999999, #767676) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: -webkit-linear-gradient(#999999, #767676);
+    
+    /* IE10 */ 
+    background-image: -ms-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #999999), color-stop(1, #767676));
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #999999 0%, #767676 100%);
+    /* Proposed W3C Markup */ 
+    background-image: linear-gradient(top, #999999 0%, #767676 100%); 
+    
+    border: 1px solid #898989;
+    color: #FFFFFF;
+    display: block;
+    font-family: 'source_sans_proregular';
+    font-weight: normal;
+    /*margin-bottom: 10px;*/
+    margin-left: 0;
+    margin-top: 0;
+    padding: 5px 0px;
+	left: 859px;
+    position: relative;
+    top: -49px;
+    font-size: 11px;
+}
+
+#right form input.singleClinicSubmit[type="button"] {
+    font-size: 11px;
+    margin-top: 2px;
+    padding: 5px 0;
+}
+
+div.archive-clinica-wrapper div.type-clinica,
+div.archive-clinica-wrapper div.type-klinik,
+div.archive-clinica-wrapper div.type-clinic {
+    background: none repeat scroll 0 0 #F6F6F6;
+    max-height: 30%;
+    overflow: hidden;
+}
+span.clinicTitle {
+    color: #FEA63C;
+    float: left;
+    font-size: 12px;
+    padding-right: 12px;
+}
+
+div.clinicChilds span.provTitle{
+    color: #FEA63C;
+    float: left;
+    font-size: 12px;
+    padding-right: 12px;
+
+}
+
+
+#lensClinics span.custom-combobox{
+	width: 83% !important;
+}
+
+#ubicacionParent span.custom-combobobx, #provincia span.custom-combobobx{
+	width: 78% !important;
+}
+
+#lensClinics span.custom-combobox input.custom-combobox-input{
+	width: 90% !important; /*Este es el que hace que se pase la solapa*/
+}
+/*
+#ubicacionParent span.custom-combobox input.custom-combobox-input,
+#provincia span.custom-combobox input.custom-combobox-input{
+	width: 99% !important;
+}
+*/
+
+/*Estilos del input de femto-faco*/
+
+#right form div.ui-widget #femtoFacoFilter.ui-buttonset label{
+	/*height:45px;*/
+	width: 47%;	
+}
+
+#financiacionFilter label span.ui-button-text,#femtofacoFilter label span.ui-button-text{
+	text-transform: uppercase;
+}
+
+
+
+.single-clinica  .featured-image-content img{ /*.single-clinica*/
+        border: 3px solid #D6D6D6;
+    display: block;
+    float: left;
+    margin-right: 25px;
+    width: 250px;
+}
+
+.clinica-metadata {
+    margin-bottom: 5px;
+}
+
+/* Disminiumos el número de filtros para simplificarlo */
+#mas-info-clinica {
+    display: none !important;
+}
+
+#provincia {
+    display: none !important;
+}
+
+
+
+div#iolGridWrapper.clinicaTemplate .iolGridImage {
+    min-height: 110px;
+    padding-top: 20px;
+    text-align: center;
+}

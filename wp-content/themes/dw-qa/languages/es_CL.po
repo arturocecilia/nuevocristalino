@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_CL\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgctxt "dw_qa"
+msgid "Pregunta a los Cirujanos"
+msgstr "Pregunta a los Cirujanos"
+
+msgctxt "dw_qa"
+msgid "Editar Perfil"
+msgstr "Editar Perfil"
+
+msgctxt "dw_qa"
+msgid "lente-intraocular"
+msgstr "lente-intraocular"
+
+msgctxt "dw_qa"
+msgid "clinica"
+msgstr "clinica"

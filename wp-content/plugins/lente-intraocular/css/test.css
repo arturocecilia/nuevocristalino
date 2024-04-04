@@ -1,0 +1,486 @@
+
+/* Fichero de estilos para el Test y los resultados*/
+
+
+#testLioDiv {
+    border: 0 solid green; /*KeyBorder*/
+    margin-bottom: 105px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+
+/* Añadimos estilos de grosso modo para el tabs menu del test */
+.ui-tabs-vertical .ui-tabs-nav li {
+    height: 50px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-tabs-loading a {
+    color: #404040;
+    font-family: "negotiatefree";
+    height: 70%;
+    margin: 0;
+    padding: 15% 0 0;
+    width: 100%;
+    /* A continuación el background*/
+    /* IE10 Consumer Preview */
+    background-image: -ms-linear-gradient(top, #F9FAFA 0%, #EFEFEF 100%);
+    /* Mozilla Firefox */
+    background-image: -moz-linear-gradient(top, #F9FAFA 0%, #EFEFEF 100%);
+    /* Opera */
+    background-image: -o-linear-gradient(top, #F9FAFA 0%, #EFEFEF 100%);
+    /* Webkit (Safari/Chrome 10) */
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #F9FAFA), color-stop(1, #EFEFEF));
+    /* Webkit (Chrome 11+) */
+    background-image: -webkit-linear-gradient(top, #F9FAFA 0%, #EFEFEF 100%);
+    /* W3C Markup, IE10 Release Preview */
+    background-image: linear-gradient(to bottom, #F9FAFA 0%, #EFEFEF 100%);
+    background: -ms-linear-gradient(top, rgba(249,250,250,1) 0%, rgba(239,239,239,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fafa', endColorstr='#efefef', GradientType=0 );
+}
+
+.ui-tabs .ui-tabs-nav li a {
+    font-family: "negotiatefree";
+    color: #9b9b9b;
+
+}
+div#tabs {
+   /* height: 500px;*/
+   width: 98% !important;
+   border-radius: 0 !important;
+   padding: 0px !important;
+   border:  0px solid black /*KeyBorder*/;
+}
+
+div#tabs ul.ui-tabs-nav {
+    border-radius: 0px;
+    border-width: 0px;
+    border:  0px solid brown;
+    background: none;/*pink;*/
+}
+
+.ui-tabs-vertical .ui-tabs-panel {
+   /*   width: 45em !important; */
+}
+
+div#testLioDiv .ui-tabs-vertical {
+  /* width: 49em;*/
+}
+
+.ui-tabs-vertical .ui-tabs-nav {
+    padding: 0 0 0 0 !important;/*.2em .1em .2em .2em;*/
+    float: left;
+    width: 23%;
+    }
+.ui-tabs-vertical .ui-tabs-nav li {
+    clear: left;
+    width: 99.5%;
+    border-bottom-width: 1px !important;
+    border-right-width: 0 !important;
+    margin: 0 -1px .2em 0;
+    height: 85px;
+    text-align: center;
+    border: 0px solid red;
+    top: -0px !important;/*CUIDADO*/
+}
+.ui-tabs-vertical .ui-tabs-nav li a {
+    /*color: #404241;*/
+    font-family: "negotiatefree";
+    height: 73%;
+    margin: 0;
+    padding: 15% 0 0 !important;
+    width: 100%;
+    display: block;
+    background-color: #fafafa;
+    color: #9b9b9b;
+    border: 1px solid #dadada;/*yellow;*/
+    border-right: 0px;
+}
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active {
+    padding-bottom: 0;
+    border:  0px solid blue;/*#dbdbdb;;*/
+    height: 85px;
+    text-align: center;
+}
+
+div#testLioDiv .ui-tabs-vertical .ui-tabs-panel {
+    border: 1px solid #DBDBDB;
+    border-radius: 0 0 0 0 !important;
+    float: left;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 0.9em;
+    padding: 2% 1% 3% 2%;
+    width: 72% !important;
+    /* Background*/
+    /* IE10 Consumer Preview */
+    background-image: -ms-linear-gradient(top, #F9FAFA 0%, #EFEFEF 100%);
+    /* Mozilla Firefox */
+    background-image: -moz-linear-gradient(top, #F9FAFA 0%, #EFEFEF 100%);
+    /* Opera */
+    background-image: -o-linear-gradient(top, #F9FAFA 0%, #EFEFEF 100%);
+    /* Webkit (Safari/Chrome 10) */
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #F9FAFA), color-stop(1, #EFEFEF));
+    /* Webkit (Chrome 11+) */
+    background-image: -webkit-linear-gradient(top, #F9FAFA 0%, #EFEFEF 100%);
+    /* W3C Markup, IE10 Release Preview */
+    background-image: linear-gradient(to bottom, #F9FAFA 0%, #EFEFEF 100%);
+    background: -ms-linear-gradient(top, rgba(249,250,250,1) 0%, rgba(239,239,239,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fafa', endColorstr='#efefef', GradientType=0 );
+}
+
+#right.rightTestColumn {
+    /*background: none repeat scroll 0 0 grey;*/
+    float: right;
+    height: 750px;
+    width: 23%;/*20%;*/
+}
+
+
+div#testLioDiv .ui-widget-content {
+
+}
+
+div#test-title {
+    border-bottom: 2px solid #FEA63C;
+    margin-bottom: 0;
+    margin-top: 30px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    width: 70%;
+    /*font-family: "Open Sans",Helvetica,Arial,sans-serif;*/
+
+}
+
+div#test-title h1 {
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 18px !important;
+    line-height: 1.2;
+    font-weight: 400;
+    width: 80%;
+    float: left;
+}
+
+div#primary.test {
+    width: 100%;
+
+}
+
+div#primary.test #content{
+    width: 74%;
+    float: left;
+}
+
+div#primary.test #content {
+    font-size: 13px;
+    line-height: 1.71429;
+}
+
+div#primary.test #content p {
+    margin-bottom: 1.71429em;
+    width: 97%;
+}
+
+.titTab1 {
+    color: #9b9b9b;
+}
+
+.ui-state-active .titTab1 {
+  color: #414141;
+  text-shadow: 1px 1px white;
+  text-transform: uppercase;
+}
+
+.titTab2 {
+    color: #9b9b9b;
+    font-style: italic;
+    text-shadow: 1px 1px white;
+}
+
+.ui-state-active .titTab2 {
+  color: #414141;
+  text-shadow: 1px 1px white;
+}
+
+span.pregunta {
+    color: #191919;
+    display: block;
+    margin-bottom: 5%;
+    margin-top: 8%;
+}
+
+div.respuesta {
+    font-family: "Open Sans",Helvetica,Arial,sans-serif !important;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    width: 90%;
+}
+
+
+div#tabs .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+        background: url("../images/fondo-caja.jpg") repeat-x scroll 50% 50% transparent;
+        color: #505050;
+        font-family: open sans;
+}
+
+div#tabs .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+    background: url("../images/ui-bg_glass_65_ffffff_1x400.png") repeat-x scroll 50% 50% #FFFFFF; /*CRIS: La url del background no apunta bien*/
+    color: #212121;
+}
+
+#pb1 span.pregunta, #pb3 span.pregunta, #pb6 span.pregunta{
+    margin-top: 0.5%;
+}
+
+div.respuesta .ui-button-text-only .ui-button-text {
+    color: #505050;
+    font-size: 0.9em;
+    padding: 0.5em 2em;
+}
+
+#pb2 .respuesta, #pb5 .respuesta, #pb10 .respuesta {
+ margin-bottom: 7% !important;
+}
+
+input[type="button"].submitTest {
+    background: linear-gradient(to bottom, #FEA336 69%, #FF8C03 100%) repeat scroll 0 0 transparent;
+    border: 1px solid #E4E4E4;
+    border-radius: 6px 6px 6px 6px !important;
+    color: #FFFFFF;
+    font-family: negotiatefree;
+    font-size: 1em;
+    margin-top: 4%;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin-left: 22%;
+
+	background: #fea336; /* Old browsers */
+	background: -moz-linear-gradient(top, #fea336 69%, #ff8c03 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(69%,#fea336), color-stop(100%,#ff8c03)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fea336 69%,#ff8c03 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fea336 69%,#ff8c03 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fea336 69%,#ff8c03 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #fea336 69%,#ff8c03 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fea336', endColorstr='#ff8c03',GradientType=0 ); /* IE6-9 */
+}
+
+#submitTest {
+    text-align: center;
+}
+
+/*Parte de la derecha*/
+#contacto-test {
+    margin-bottom: 20px;
+    min-height: 300px;
+}
+
+
+#contacto-test h4{
+    /*border-bottom: 2px solid #FEA63C;*/
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.182;
+    margin-bottom: 15px;
+    width: auto;
+}
+
+#contacto-test .formulario-test {
+    border: 1px solid #DCDCDC;
+    border-radius: 2px 2px 2px 2px;
+    padding: 4px;
+    width: 100%;
+}
+
+#contacto-test form {
+    background-color: #F6F6F6;
+    border: 1px solid #DCDCDC;
+    border-radius: 2px 2px 2px 2px;
+    margin: auto;
+    padding: 7px;
+    width: auto;
+    padding-top: 20px;
+}
+
+#contacto-test form label {
+    color: #505050;
+    font-family: 'source_sans_proregular','Roboto-Regular';
+    font-size: 13px;
+    font-weight: normal;
+    margin-bottom: 7px;
+}
+
+#contacto-test form input {
+    border-radius: 0 0 0 0;
+    margin-bottom: 5px;
+    width: 95%;
+}
+
+#right #contacto-test form input {
+    background: white;
+    border: 1px solid #CCCCCC;
+    /*color: #FFFFFF;*/
+    font-size:13px;
+    font-family: 'source_sans_proregular','Roboto-Regular';
+    font-weight: normal;
+}
+
+#contacto-test form textarea {
+    border-radius: 0 0 0 0;
+    width: 95%;
+}
+
+#right #contacto-test form input[type="submit"] {
+    background: -moz-linear-gradient(center top , #FEA336, #FF8C03) repeat scroll 0 0 transparent;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: none;
+    color: #FFFFFF;
+    font-family: 'source_sans_proregular','Roboto-Regular';
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 35%;
+    width: 30%;
+    color:#fea336 !important;
+}
+
+
+
+div#right.rightTestColumn #follow {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-top: 20px;
+}
+
+div#right.rightTestColumn #follow a img{
+margin-right: 7px;
+}
+div#right.rightTestColumn #follow a{
+    color: #505050;
+    text-decoration: none;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: 600;
+    margin-left: 10px;
+    display: block;
+}
+
+#testFollowWrapper {
+    border: 1px solid #e7e7e7;
+    background: #f6f6f6;
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+#masNC {
+    color: #FEA63C;
+    font-family: 'negotiatefree';
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.182;
+    margin-bottom: 15px;
+    width: auto;
+}
+
+/* Stilos para el progressbar*/
+
+#progressBar {
+        width: 96%;/*400px;*/
+        height: 22px;
+        border: 1px solid #c9c9c9;
+        background-color: #292929;
+        height: 16px;
+        padding-top: 3px;
+        border-radius: 12px;
+        background: #d7d7d7;/*CRIS si quieres afinar*/
+        margin-bottom: 15px;
+}
+
+#progressBar div#actualProgressBar {
+       background-color: #0099FF;
+       border: 1px solid #CABEB0;
+       color: #FFFFFF;
+       height: 11px;
+       line-height: 22px;
+       text-align: right;
+       width: 0;
+       line-height: 22px; /* same as #progressBar height if we want text middle aligned */
+       border-radius: 5px;
+       margin-left: 1%;
+       margin-right: 1%;
+       border: 1px solid #adadad;
+       position: relative;
+       z-index: 5;
+}
+
+div#actualProgressBar span.p {
+    display: block;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -26px;
+    color: #FEA63C;
+}
+
+#progressBar div#innerProgressBar {
+       background: url("../images/BackStepInner.png") repeat-x;
+       height: 7px;
+       border-radius: 5px;
+       border: 1px solid #AAAAAA;
+       margin-left: 1%;
+       margin-right: 1%;
+       position: relative;
+       top: -11px;
+       z-index: 2;
+}
+
+.jquery-ui-like div {
+    background-image: url("../images/step-bar.gif");
+}
+
+/*Pestaña para volver al test */
+
+span.returnToTest {
+    background: none repeat scroll 0 0 #FEA63C;
+    color: #FFFFFF;
+    display: block;
+    float: right;
+    font-size: 12px;
+    height: 19px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    text-align: right;
+    text-transform: uppercase;
+}
+span.returnToTest a{
+    font-family: 'negotiatefree';
+    text-decoration: none;
+    color: #ffffff;
+}
+
+div#test-title h1.testIni {
+    clear: both;
+    float: none;
+    font-size: 21px !important;
+    width: 98%;
+}
+
+/* Lentes Resultado del test*/
+
+div#primary.test .featured-iol-archive-image img {
+    border: 1px solid #D6D6D6;
+    border-radius: 1px 1px 1px 1px;
+    box-shadow: none;
+    display: block;
+    float: left;
+    height: auto;
+    margin-right: 10px;
+    width: 168px;
+}
+
+
+div#primary.test #LinkPages a, div#primary.test #LinkPages span.current {
+    padding-bottom: 4px;
+    padding-top: 1px;
+}

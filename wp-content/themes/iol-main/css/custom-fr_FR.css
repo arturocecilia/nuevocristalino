@@ -1,0 +1,195 @@
+div.dcjq-mega-menu ul#menu-menu-site > li:nth-child(2) > a {
+  padding-top: 14px !important;
+  padding-bottom: 26px !important;
+  max-height: 16px !important;
+  width: 92px !important;
+  padding-left: 56px !important;
+  padding-right: 36px !important;
+}
+
+div.dcjq-mega-menu ul#menu-menu-site > li:nth-child(2) > a:hover {
+  padding-top: 14px !important;
+  padding-bottom: 26px !important;
+  max-height: 16px !important;
+  width: 92px !important;
+  padding-left: 56px !important;
+  padding-right: 36px !important;
+}
+
+div#menu-main aside.widget #menu-menu-site > li:last-child > a {
+  padding-right: 23px !important;
+  width: 60px !important;
+}
+
+ol.numerada li {
+  font-size: 14px;
+  color: #444444;
+  text-align: justify;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  font-family: "source_sans_proregular";
+}
+
+div.dcjq-mega-menu
+  ul#menu-menu-site
+  > li:nth-child(2)
+  .sub-container.non-mega
+  .sub-menu.sub
+  li
+  a {
+  width: 220px !important;
+}
+
+#surgDisablerDiv #spanSurgeonFilDisabler {
+  font-size: 0.7em;
+}
+
+#grey4 h2 a {
+  font-size: 14px;
+}
+
+#block1right div.blocktext a .blockDestacadoTitle1 {
+  font-size: 16px !important; /* 17px*/
+}
+#block1left div.blocktext a .blockDestacadoTitle1 {
+  font-size: 17px !important; /* 17px*/
+}
+
+#provincia {
+  display: none !important;
+}
+
+#accordionFilterSecond > h3 .title-filter {
+  font-size: 11px;
+}
+
+#right form #accordionFilterSecond > h3 {
+  padding-left: 16px;
+}
+
+#menu-blog #menu-menu-blog li:nth-child(2) a {
+  padding-top: 61px !important;
+}
+
+#search #s {
+  width: 143px !important;
+}
+
+div.buttonGeolocation {
+  width: 20% !important;
+}
+
+div#menu-main aside.widget #menu-menu-site > li:nth-child(5) > a {
+  padding: 22px 16px 16px !important;
+  width: 110px !important;
+}
+
+#preButtonSet.noArchive #searchReset {
+  top: 54px !important;
+}
+
+#spanAdvFilDisabler {
+  width: 65% !important;
+}
+#buscadorIol #searchReset {
+  left: 865px !important;
+}
+
+.site-content-archive-clinica h1 {
+  font-size: 1.4rem !important;
+}
+
+div.esfDesdeC div.value,
+div.esfHastaC div.value {
+  height: 56px;
+}
+
+#widget-header-forum {
+  width: 285px !important;
+}
+#top-header-foro #widget-header-forum h3.widget-title {
+  display: none;
+}
+
+#menu-menu-qa > li:nth-child(2) a {
+  width: 100px !important;
+  margin-top: -5px !important;
+  text-align: center !important;
+}
+#top-header-qa #menu-menu-qa li {
+  margin-right: 28px !important;
+}
+
+#top-header-qa #menu-menu-qa li {
+  margin-top: 2px;
+}
+
+ul.ui-autocomplete {
+  z-index: 10000 !important;
+}
+
+#lensClinics a.ui-button {
+  position: absolute;
+}
+
+#contact-post form input.submit {
+  background: linear-gradient(to bottom, #fea336 69%, #ff8c03 100%);
+}
+
+@media (max-width: 640px) {
+  li#foroIcon {
+    display: none;
+  }
+}
+
+@media (max-width: 450px) {
+  #buscadorIol .ui-buttonset {
+    margin-right: 3px !important;
+  }
+
+  #buscadorIol #right #filtrosFilter .ui-button-text-only .ui-button-text,
+  #buscadorIol
+    #right
+    #selectToricidadLente
+    .ui-button-text-only
+    .ui-button-text {
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+    font-size: 11px;
+  }
+
+  #buscadorIol .ui-button-text-only .ui-button-text {
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+  }
+
+  #pageBuscadorIolWrapper.fr_FR #buscadorIol #selectPrincOpticLens.ui-widget {
+    width: 62% !important;
+    float: left;
+  }
+
+  #buscadorIol #right form #sliderRangeSphLens.ui-widget label,
+  #buscadorIol #right form #sliderRangeCilLens.ui-widget label {
+    font-size: 10px !important;
+  }
+
+  #buscadorIolLogo .subtitle {
+    font-size: 12px !important;
+  }
+  #buscadorIol #selectToricidadLente.ui-widget {
+    width: 75% !important;
+  }
+
+  #buttonSingleClinic {
+    float: left;
+    width: 80%;
+  }
+
+  #fr_FR div.buttonGeolocation {
+    width: 50% !important;
+  }
+  #fr_FR .stringGeoLocation {
+    width: 96%;
+    clear: both;
+  }
+}

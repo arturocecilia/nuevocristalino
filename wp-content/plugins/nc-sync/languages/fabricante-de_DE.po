@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "fabricante"
+msgstr "hersteller"
+
+msgctxt "taxo-slug"
+msgid "fabricante-de-lentes-intraoculares"
+msgstr "intraokular-linsen-hersteller"
+
+msgctxt "slug"
+msgid "fabricantes-lentes-intraoculares-archive"
+msgstr "intraokular-linsen-hersteller-archiv"
+
+msgctxt "admin_display"
+msgid "fabricante"
+msgstr "hersteller"
+
+msgctxt "admin_display"
+msgid "Añadir fabricante"
+msgstr "Hersteller hinzufügen"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo fabricante"
+msgstr "neuen Hersteller hinzufügen"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Beschreibung"
+
+msgctxt "admin_display"
+msgid "Editar fabricante"
+msgstr "Beschreibung Hersteller"
+
+msgctxt "admin_display"
+msgid "Nuevo fabricante"
+msgstr "Neuer Hersteller"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Ansicht"
+
+msgctxt "admin_display"
+msgid "Ver fabricante"
+msgstr "Ansicht Hersteller"
+
+msgctxt "admin_display"
+msgid "Buscar fabricante"
+msgstr "Suche Hersteller"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ningun fabricante"
+msgstr "Keinen Hersteller gefunden"
+
+msgctxt "admin_display"
+msgid "No hay fabricantes en la papelera"
+msgstr "Kein Hersteller im Papierkorb"
+
+msgctxt "admin_display"
+msgid "Fabricante padre"
+msgstr "Vorgänger Hersteller"
+
+msgctxt "admin_display"
+msgid "Distribuidor en el País (D)"
+msgstr "Landesvertrieb (D)"
+
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr "Adresse (D)"
+
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr "Telefonnummer (D)"
+
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr "Email (D)"
+
+msgctxt "admin_display"
+msgid "Web (D)"
+msgstr "Web (D)"
+
+msgctxt "admin_display"
+msgid "Web Distribuidor (D)"
+msgstr "Webseite Distributor"
+
+msgctxt "admin_display"
+msgid "Factor Ordenación (D)"
+msgstr "Bestellnummer (D)"

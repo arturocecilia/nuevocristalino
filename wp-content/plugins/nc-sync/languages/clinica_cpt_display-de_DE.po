@@ -1,0 +1,319 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "Single Lente Intraocular"
+msgid "Comunidad Autónoma:"
+msgstr "Bundesland"
+
+msgctxt "Single Lente Intraocular"
+msgid "Sin Especificar"
+msgstr "Nicht spezifiziert"
+
+msgctxt "Single Lente Intraocular"
+msgid "Provincia:"
+msgstr "Bundesland"
+
+msgctxt "Single Lente Intraocular"
+msgid "Ver Filtros Avanzados para Oftalmólogos"
+msgstr "Siehe erweiterte Filter für Augenärzte"
+
+msgctxt "Single Lente Intraocular"
+msgid "Ver Filtros Simples para Pacientes"
+msgstr "Siehe Basisfilter für Patienten"
+
+msgctxt "Archive Clinica"
+msgid "LAS CLÍNICAS QUE CUMPLEN CON LOS CRITERIOS DE SU BÚSQUEDA:"
+msgstr "KLINIKEN, DIE IHRE SUCHKRITERIEN ERFÜLLEN:"
+
+msgctxt "Archive Clinica"
+msgid "Buscar clínica por nombre:"
+msgstr "Suche Klinik nach Name:"
+
+msgctxt "Archive Clinica"
+msgid "Resetear Búsqueda"
+msgstr "Suche zurücksetzen"
+
+msgctxt "Archive Clinica"
+msgid "No hay ninguna Lente Intraocular con los criterios de filtrado actuales."
+msgstr "Es wurde keine Intraokularlinse mit den gewählten Filterkriterien gefunden"
+
+msgctxt "Archive Clinica"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr "Fahren Sie fort mit geänderten Kriterien."
+
+msgctxt "Archive Clinica"
+msgid "Información sobre la Búsqueda de Clínicas realizada"
+msgstr "Information über die Kliniksuche ausgeführt"
+
+msgctxt "Archive Clinica"
+msgid "Cerrar"
+msgstr "Schliessen"
+
+msgctxt "Archive Clinica"
+msgid "Minimizar"
+msgstr "Minimieren"
+
+msgctxt "Archive Clinica"
+msgid "Maximizar"
+msgstr "Maximieren"
+
+msgctxt "Archive Clinica"
+msgid "Hay &nbsp; %d clínicas encontradas"
+msgstr "Keine &nbsp; %d gefunden"
+
+msgctxt "Archive Clinica"
+msgid "Las clínicas mostradas cumplen las siguientes características:"
+msgstr "Die gezeigten Kliniken erfüllen folgende Kriterien:"
+
+msgctxt "Archive Clinica"
+msgid "Variables que no se han especificado:"
+msgstr "Unspezifische Variablen"
+
+msgctxt "Archive Clinica"
+msgid "No hay ninguna restricción impuesta a las clínicas, se están mostrando todas las disponibles."
+msgstr "Keine Filter ausgewählt, alle Kliniken werden gezeigt"
+
+msgctxt "Content Clinica"
+msgid "VOLVER A PÁGINA PRINCIPAL DE CLÍNICAS"
+msgstr "KEHREN SIE ZUR HAUPTSEITE KLINIKSUCHE ZURÜCK"
+
+msgctxt "Content Clinica"
+msgid "Dirección:"
+msgstr "Adresse:"
+
+msgctxt "Content Clinica"
+msgid "Telefóno de Contacto:"
+msgstr "Telefonnummer:"
+
+msgctxt "Content Clinica"
+msgid "Email de contacto:"
+msgstr "E-mail:"
+
+msgctxt "Content Clinica"
+msgid "Horario:"
+msgstr "Öffnungszeiten:"
+
+msgctxt "Content Clinica"
+msgid "Director Médico:"
+msgstr "Ärztlicher Direktor:"
+
+msgctxt "Content Clinica"
+msgid "Doctores:"
+msgstr "Ärzte:"
+
+msgctxt "Content Clinica"
+msgid "Sitio Web:"
+msgstr "Webseite:"
+
+msgctxt "Content Clinica"
+msgid "Clínicas :"
+msgstr "Augenklinik:"
+
+msgctxt "Content Clinica"
+msgid "Vea&nbsp;%s &nbsp;en el mapa:"
+msgstr "Sehen Sie &nbsp; %s &nbsp; in der Karte:"
+
+msgctxt "Content Clinica"
+msgid "Detectar ubicación"
+msgstr "Suche Standort"
+
+msgctxt "Content Clinica"
+msgid "Ubicarme"
+msgstr "Eigener Standort"
+
+msgctxt "Content Clinica"
+msgid "Mostrar ruta a la clínica desde ubicación"
+msgstr "Zeige Anfahrt zur Klinik von meinem Standort"
+
+msgctxt "Content Clinica"
+msgid "Mostrando:"
+msgstr "Zeige:"
+
+msgctxt "Content Clinica"
+msgid "Ubicación seleccionada:"
+msgstr "Ausgewählter Standort:"
+
+msgctxt "Content Clinica"
+msgid "Distancia:"
+msgstr "Entfernung:"
+
+msgctxt "Content Clinica"
+msgid "km"
+msgstr "km"
+
+msgctxt "Content Clinica"
+msgid "Mostrar clínica en mapa"
+msgstr "Zeige Augenkliniken in der Karte"
+
+msgctxt "FilterClinicaEngine"
+msgid "Dispone de Femto faco: "
+msgstr "Femto Phako vorhanden: "
+
+msgctxt "FilterClinicaEngine"
+msgid "Disponibilidad de operación de femto faco."
+msgstr "Femto Phako Technologie vorhanden"
+
+msgctxt "FilterClinicaEngine"
+msgid "Tiene el seguro concertado: "
+msgstr "Vertrag mit Versicherung vorhanden"
+
+msgctxt "FilterClinicaEngine"
+msgid "Seguros concertados."
+msgstr "Versicherungen:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Posibilidad de financiación: "
+msgstr "Finanzierung möglich"
+
+msgctxt "FilterClinicaEngine"
+msgid "Lente Intraocular a implantar: "
+msgstr "Implantierte Intraokularlinsen:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Modelo de Lente Intraocular a Implantar"
+msgstr "Modell implantierte Intraokularlinsen"
+
+msgctxt "FilterClinicaEngine"
+msgid "Numero de cirugías intraoculares al año: "
+msgstr "Anzahl operativer Eingriffe pro Jahr:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Número de operaciones intraoculares."
+msgstr "Anzahl intraokulärer Eingriffe."
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de operación intraocular: "
+msgstr "Spektrum intraokulärer Eingriffe:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Ubicación de la Clínica."
+msgstr "Standort Augenklinik."
+
+msgctxt "FilterClinicaEngine"
+msgid "Equipamiento de la clínica: "
+msgstr "Klinikausrüstung:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Equipamiento de la clínica"
+msgstr "Klinikausrüstung"
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de implante de interés: "
+msgstr "Interesse an folgenden Intraokularlinsen:"
+
+msgctxt "FilterClinicaEngine"
+msgid "Tipo de implante de interés"
+msgstr "Interesse an folgenden Intraokularlinsen"
+
+msgctxt "FilterClinicaEngine"
+msgid "Más información sobre la clínica: "
+msgstr "Mehr Informationen über diese Klinik"
+
+msgctxt "FilterClinicaEngine"
+msgid "Información adicional de la clínica."
+msgstr "Mehr Informationen über diese Klinik"
+
+msgctxt "FilterClinicaEngine"
+msgid "Localizacion: "
+msgstr "Standort:"
+
+msgctxt "Left Clinica Oftalmologica"
+msgid "MÁS LENTES DE %s"
+msgstr "MEHR LINSEN VON:"
+
+msgctxt "Right Archive Clinica"
+msgid "BUSCAR CLÍNICAS"
+msgstr "FINDE AUGENKLINIKEN"
+
+msgctxt "Right Archive Clinica"
+msgid "Realizar Filtrado"
+msgstr "Filter"
+
+msgctxt "Right Archive Clinica"
+msgid "Vista:"
+msgstr "Ansicht:"
+
+msgctxt "Right Archive Clinica"
+msgid "Ubicación/Características"
+msgstr "Standort/Eigenschaften"
+
+msgctxt "Right Archive Clinica"
+msgid "Disponibilidad de Láser de Femtosegundo (femto-faco):"
+msgstr "Femtosekundenlaser verfügbar (Femto-Phako)"
+
+msgctxt "Right Archive Clinica"
+msgid "Lente Intraocular de Interés:"
+msgstr "Interesse an folgenden Intraokularlinsen:"
+
+msgctxt "Right Archive Clinica"
+msgid "Comunidad Autónoma:"
+msgstr "Bundesland:"
+
+msgctxt "Right Archive Clinica"
+msgid "Sin Especificar"
+msgstr "Nicht spezifiziert"
+
+msgctxt "Right Archive Clinica"
+msgid "Características básicas"
+msgstr "Basis Eigenschaften"
+
+msgctxt "Right Archive Clinica"
+msgid "Datos adicionales de la clínica"
+msgstr "Mehr Informationen über diese Klinik"
+
+msgctxt "Right Archive Clinica"
+msgid "Equipos de la clínica"
+msgstr "Klinikausrüstung"
+
+msgctxt "Right Archive Clinica"
+msgid "Seguros:"
+msgstr "Versicherungen:"
+
+msgctxt "Right Archive Clinica"
+msgid "Posibilidad de Financiación:"
+msgstr "Finanzierung möglich:"
+
+msgctxt "Right Archive Clinica"
+msgid "No"
+msgstr "Nein"
+
+msgctxt "Right Single Clinica"
+msgid "BUSCAR CLÍNICAS:"
+msgstr "FINDE AUGENKLINIKEN:"
+
+msgctxt "Right Single Clinica"
+msgid "Ubicación/Características"
+msgstr "Standort/Eigenschaften"
+
+msgctxt "Right Single Clinica"
+msgid "Disponibilidad de Láser de Femtosegundo (femto-faco):"
+msgstr "Femtosekundenlaser verfügbar (Femto-Phako)"
+
+msgctxt "Right Single Clinica"
+msgid "Comunidad Autónoma:"
+msgstr "Bundesland:"
+
+msgctxt "Right Single Clinica"
+msgid "Provincia:"
+msgstr "Bundesland:"
+
+msgctxt "Right Single Clinica"
+msgid "Características básicas"
+msgstr "Basis Eigenschaften"
+
+msgctxt "Right Single Clinica"
+msgid "Datos adicionales de la clínica"
+msgstr "Zusätzliche Information über die Klinik"
+
+msgctxt "Right Single Clinica"
+msgid "Sin Especificar"
+msgstr "Nicht spezifiziert"
+
+msgctxt "Right Single Clinica"
+msgid "Equipos de la clínica"
+msgstr "Klinikausrüstung"
+
+msgctxt "Right Single Clinica"
+msgid "Posibilidad de Financiación:"
+msgstr "Finanzierung möglich:"

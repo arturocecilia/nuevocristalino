@@ -1,0 +1,438 @@
+
+/* Empezamos por la customización del menu principal*/
+
+
+div#menu-main aside.widget #menu-menu-site > li:nth-child(3) > a {
+    width: 50px !important;
+}
+
+div.dcjq-mega-menu ul#menu-menu-site > li:nth-child(2) > a {
+    width: 167px !important;
+}
+div.dcjq-mega-menu ul#menu-menu-site > li:nth-child(4) > a {
+    width: 55px !important;
+    padding-right: 28px;
+    padding-left: 8px;
+}
+
+div#menu-main aside.widget #menu-menu-site > li:nth-child(5) > a {
+     width: 60px !important;
+}
+div#menu-main aside.widget #menu-menu-site > li:nth-child(7) > a {
+     /*width: 55px !important;*/
+ width: 75px !important;
+}
+
+div#menu-main aside.widget #menu-menu-site > li:nth-child(8) > a {
+    width: 95px !important;
+    padding: 22px 10px 18px !important;
+}
+
+ol.numerada li{
+    	font-size: 14px;
+	    color: #444444;
+	    text-align: justify;
+	    margin-right: 5px;
+	    margin-bottom: 15px;
+      font-family: 'source_sans_proregular';
+}
+
+#provincia {
+    display: none !IMPORTANT;
+}
+
+#buscadorBloqC .roscoTitle .innerTitle {
+    font-size: 14px;
+    line-height: 1.3;
+}
+
+#buscadorBloqC .roscoTitle {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-top: 25px !important;
+}
+
+#buscadorBloqC {
+    max-width: 128px !important;
+}
+
+#testBloqC .innerExplicacion {
+
+}
+#testBloqC .roscoExplicacion {
+    height: 80px !important;
+}
+
+#testBloqC {
+    top: -4px !important;
+}
+
+#grey1 h2 a {
+    font-size: 15px;
+    line-height: 1.25;
+}
+
+#grey1 {
+    padding-top: 4px;
+}
+
+#menu-submenu-fabricantes li {
+
+}
+
+
+
+#ppOpticoFilter .ui-button-text-only .ui-button-text {
+    padding: 0.4em 0.59em !important;
+}
+
+#buscadorIol #advDisablerDiv, #buscadorIol #surgDisablerDiv {
+        width: 190px !important;
+}
+
+#spanAdvFilDisabler, #spanSurgFilDisabler {
+    padding-right: 0;
+    width: 165px !important;
+}
+
+#buscadorIol #advEnablerDiv, #buscadorIol #surgEnablerDiv {
+    width: 170px !important;
+}
+
+#spanAdvFilEnabler {
+    padding-right: 0;
+    width: 135px !important;
+}
+
+#buscadorIol #sliderRangeSphLens, #buscadorIol #sliderRangeCilLens {
+margin-top: 3px !important;
+}
+
+#grey4 h2 a {
+    font-size: 15px;
+    line-height: 1.25;
+}
+
+#grey4 {
+    padding-top: 3px;
+}
+
+
+.menu-menu-tipos-lentes-container ul li a {
+    width: 83.5% !important;
+}
+
+
+.labelIolName {
+   font-size: 11px !important;
+}
+
+input#iolName {
+    width: 120px;
+}
+
+#menu-menu-blog li a {
+    margin-left: 0px !important;
+}
+
+#menu-menu-blog li:nth-child(2) a {
+    padding-left: 5px;
+    width: 135px !important;
+}
+
+#menu-menu-blog li:nth-child(3) a {
+    padding-left: 4px;
+    width: 105px !important;
+}
+
+#menu-menu-blog li:nth-child(4) a {
+    padding-left: 3px;
+    width: 85px !important;
+}
+
+#menu-menu-blog li:nth-child(5) a {
+    width: 107px !important;
+}
+
+#menu-menu-blog li:nth-child(6) a {
+    width: 100px !important;
+}
+
+
+#foro h2 a, #pregunte-cirujano h2 a, #testimonios-home h2 a {
+    text-transform: uppercase;
+}
+
+
+.destacado1 h2 a, .destacado2 h2 a {
+    text-transform: uppercase;
+}
+
+div#MBloq4 a, div#MBloq5 a {
+    text-transform: uppercase;
+}
+
+#countrySitesList {
+    /*margin-left: 320px !important;*/
+}
+
+div.resultsTest .ui-tabs .ui-tabs-nav li a {
+    padding: 0.4em !important;
+}
+
+/* Texto bajo imagen del header */
+
+#logo span h1{
+	display: block;
+	margin-top: 16px;
+}
+
+
+.grey-first a {
+    text-transform: none !important;
+}
+
+/* -- -- */
+
+div.bloq div.label.distribuidor {
+    font-size: 12px;
+    height: 26px;
+}
+
+div.bloq div.value.distribuidor {
+    font-size: 12px;
+    height: 26px;
+}
+
+#logo h1 {
+    margin-top: 16px;
+}
+
+div.bloq-single-lente.sourceDoc div.value {
+    height: auto !important;
+}
+
+#buscadorIol #PaginationWrapperBis {
+    left: 348px !important;
+}
+
+#buscadorIol .labelIolName {
+    vertical-align: middle;
+}
+
+
+
+div.iol-entry-content div.iol-entry-meta a.nWindIol {
+    margin-left: 80px !important;
+}
+
+label.labelTitle[for="amount-esfera"],
+label.labelTitle[for="amount-cilinder"] {
+    width: 84%;
+}
+
+#dioptEsfDisabler,
+#dioptCilDisabler {
+    top: -10px;
+}
+
+.ui-menu .ui-menu-item a {
+    max-width: 225px;
+}
+
+
+/*
+@-moz-document url-prefix() {
+
+
+    #menu-menu-site > li > a{
+        font-family: helvetica;
+        font-weight:bold !important;
+        font-size:12px !important;
+    }
+
+
+@font-face {
+    font-family: 'negotiatefree';
+    src: url('http://www.neuelinsen.at/wp-content/themes/iol/negotiate_free-webfont.eot');
+    src: url('http://www.neuelinsen.at/wp-content/themes/iol/negotiate_free-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.neuelinsen.at/wp-content/themes/iol/negotiate_free-webfont.woff') format('woff'),
+         url('http://www.neuelinsen.at/wp-content/themes/iol/negotiate_free-webfont.ttf') format('truetype'),
+         url('http://www.neuelinsen.at/wp-content/themes/iol/negotiate_free-webfont.svg#negotiatefree') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'source_sans_proregular';
+    src: url('http://www.neuelinsen.at/wp-content/themes/iol/sourcesanspro-regular-webfont.eot');
+    src: url('http://www.neuelinsen.at/wp-content/themes/iol/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.neuelinsen.at/wp-content/themes/iol/sourcesanspro-regular-webfont.woff') format('woff'),
+         url('http://www.neuelinsen.at/wp-content/themes/iol/sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('http://www.neuelinsen.at/wp-content/themes/iol/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+ }
+/*
+@font-face {
+    font-family: 'sample-delicious';
+    src: url('delicious-roman-webfont.eot');
+    src: url('delicious-roman-webfont?#iefix') format('embedded-opentype'),
+         url('delicious-roman-webfont.woff') format('woff'),
+         url('delicious-roman-webfont.ttf') format('truetype'),
+         url('delicious-roman-webfont.svg#delicious-roman-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+} */
+
+ul.ui-autocomplete {
+    z-index: 10000 !important;
+}
+
+#lensClinics a.ui-button {
+    position: absolute;
+}
+
+#buscadorIol #comboViewType {
+	top:-15px !important;
+}
+
+#buscadorIol #PaginationWrapperBis{
+	left:356px !important;
+}
+
+#contact-post form input.submit {
+background: linear-gradient(to bottom,#fea336 69%,#ff8c03 100%);
+}
+
+#right.rightTestColumn div#contacto-test div.formulario-test form input[type="checkbox"]{
+        float: left;
+    margin-right: 3% !important;
+    margin-top: 3% !important;
+    width: 13px !important;
+}
+
+div#bloq-post-right2 div#contact-post input[type="checkbox"] {
+    float: left;
+    margin-right: 3% !important;
+    margin-top: 3% !important;
+    width: 13px !important;
+}
+
+div#single-fab #contacto-fab .formulario-fab input[type="checkbox"] {
+    float: left;
+    margin-right: 3% !important;
+    margin-top: 3% !important;
+    width: 13px !important;
+}
+
+#left #contact-single-lente input[type="checkbox"]{
+    float: left;
+    margin-right: 3% !important;
+    margin-top: 8% !important;
+    width: 13px !important;
+}
+
+div.lista-quienes-somos #contacto input[type="checkbox"] {
+        float: left;
+    margin-right: 3% !important;
+    margin-top: 1% !important;
+    width: 13px !important;
+}
+div.lista-quienes-somos #contact-form form div:last-child label{
+        display: block;
+    float: right;
+    font-size: 12px;
+    margin-bottom: 25px;
+    margin-top: 2.6% !important;
+    width: 90%;
+}
+
+/*-- Retoques--*/
+#de_AT div.buttonGeolocation{
+	width: 25%;
+}
+
+#de_AT .stringGeoLocation{
+	width: 36%;
+}
+
+
+#de_AT #preButtonSet #searchReset {
+    margin-top: 10px;
+}
+
+
+#iconosWrapper #foroIcon {
+	display:none;
+	}
+
+#iconosWrapper span {
+    margin-left: 4px !important;
+}
+
+@media (max-width: 640px){
+
+#iconosWrapper span {
+    margin-left: 0px !important;
+}
+
+	}
+
+
+
+
+
+	@media (max-width: 450px){
+
+#buscadorIol .ui-buttonset{
+	 margin-right:3px !important;
+	}
+
+#buscadorIol #right #filtrosFilter .ui-button-text-only .ui-button-text,#buscadorIol #right #selectToricidadLente .ui-button-text-only .ui-button-text{
+	padding-left:7px !important;
+	padding-right:7px !important;
+	font-size:11px;
+	}
+
+#buscadorIol .ui-button-text-only .ui-button-text{
+	padding-left:7px !important;
+	padding-right:7px !important;
+	}
+
+	#pageBuscadorIolWrapper.de_AT #buscadorIol #selectPrincOpticLens.ui-widget{
+		width: 62%  !important;
+		float:left;
+		}
+
+#buscadorIol #right form #sliderRangeSphLens.ui-widget label,
+#buscadorIol #right form #sliderRangeCilLens.ui-widget label{
+	font-size:10px !important;
+	}
+
+#buttonSingleClinic{
+	float:left;
+	width:80%;
+	}
+
+#de_DE div.buttonGeolocation{
+	width:50%;
+	}
+#de_DE .stringGeoLocation{
+	width:96%;
+	clear:both;
+	}
+}
+
+
+@media (max-width: 400px){
+	#iconosWrapper span {
+    font-size:12px !important;
+}
+#right form div.ui-widget label{
+		font-size:11px;
+	}
+	}

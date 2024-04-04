@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "taxo-value-name"
+msgid "Femto-faco"
+msgstr "Femto-Phako"
+
+msgctxt "taxo-value-slug"
+msgid "femto-faco"
+msgstr "femto-phako"
+
+msgctxt "taxo-value-name"
+msgid "Biómetros"
+msgstr "Biometer"
+
+msgctxt "taxo-value-slug"
+msgid "biometros"
+msgstr "biometer"
+
+msgctxt "taxo-value-name"
+msgid "IOL Master"
+msgstr "IOL-Master"
+
+msgctxt "taxo-value-slug"
+msgid "iol-master"
+msgstr "iol-master"
+
+msgctxt "taxo-value-name"
+msgid "Lenstar"
+msgstr "Lenstar"
+
+msgctxt "taxo-value-slug"
+msgid "lenstar"
+msgstr "lenstar"
+
+msgctxt "taxo-value-slug"
+msgid "Faco MICS"
+msgstr "Fako MICS"
+
+msgctxt "taxo-value-name"
+msgid "Femto-lasik Disponible"
+msgstr "Femto-lasik verfügbar"
+
+msgctxt "taxo-value-name"
+msgid "LAL (Lentes Ajustables por Luz)"
+msgstr "LAL (Licht adjustierbare Linse)"
+
+msgctxt "taxo-value-name"
+msgid "Láser Excimer Disponible"
+msgstr "Excimer Laser vorhanden"
+
+msgctxt "taxo-value-name"
+msgid "Posibilidad de Financiación"
+msgstr "Finanzierung möglich"
+
+msgctxt "taxo-value-slug"
+msgid "posibilidad-de-financiacion"
+msgstr "versicherung-moeglich"
+
+msgctxt "taxo-value-name"
+msgid "Seguros"
+msgstr "Versicherungen"
+
+msgctxt "taxo-value-slug"
+msgid "seguros"
+msgstr "versicherungen"
+
+msgctxt "taxo-value-name"
+msgid "Posibilidad de Hospitalización"
+msgstr "Stationäre Behandlung möglich"
+
+msgctxt "taxo-value-slug"
+msgid "posibilidad-de-hospitalizacion"
+msgstr "stationaere-behandlung-moeglich"
+
+msgctxt "taxo-value-name"
+msgid "Quirófanos Propios"
+msgstr "Eigener OP"
+
+msgctxt "taxo-value-slug"
+msgid "quirofanos-propios"
+msgstr "eigener-op"
+
+msgctxt "taxo-value-name"
+msgid "Láser Propio"
+msgstr "Eigener Laser"
+
+msgctxt "taxo-value-slug"
+msgid "laser-propio"
+msgstr "eigener-laser"
+
+msgctxt "taxo-value-slug"
+msgid "femtosegundo-si"
+msgstr "femtosekunden-ja"
+
+msgctxt "taxo-value-slug"
+msgid "femtosegundo-no"
+msgstr "femtosekunden-nein"
+
+msgctxt "taxo-value-name"
+msgid "si"
+msgstr "ja"
+
+msgctxt "taxo-value-slug"
+msgid "financiacion-posible"
+msgstr "finanzierung-moeglich"
+
+msgctxt "taxo-value-slug"
+msgid "financiacion-no-posible"
+msgstr "finanzierung-nicht-moeglich"
+
+msgctxt "taxo-value-name"
+msgid "1"
+msgstr "1"
+
+msgctxt "taxo-value-name"
+msgid "2"
+msgstr "2"
+
+msgctxt "taxo-value-name"
+msgid "3"
+msgstr "3"
+
+msgctxt "taxo-value-name"
+msgid "4"
+msgstr "4"
+
+msgctxt "taxo-value-name"
+msgid "5"
+msgstr "5"
+
+msgctxt "taxo-value-slug"
+msgid "laser-excimer-disponible"
+msgstr "excimer-laser-vorhanden"
+
+msgctxt "taxo-value-slug"
+msgid "Femto-lasik Disponible"
+msgstr "femto-lasik-verfuegbar"
+
+msgctxt "taxo-value-slug"
+msgid "LAL (Lentes Ajustables por Luz)"
+msgstr "lal-licht-adjustierbare-Linse"

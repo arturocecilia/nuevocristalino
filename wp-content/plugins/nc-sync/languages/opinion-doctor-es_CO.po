@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+msgctxt "CustomPostType Name"
+msgid "opinion-doctor"
+msgstr "opinion-doctor"
+
+msgctxt "taxo-slug"
+msgid "opinion-oftalmologo"
+msgstr "opinion-oftalmologo"
+
+msgctxt "slug"
+msgid "opiniones-oftalmologos"
+msgstr "opiniones-oftalmologos"
+
+msgctxt "admin_display"
+msgid "Testimonio de Doctor"
+msgstr "Testimonio de Doctor"
+
+msgctxt "admin_display"
+msgid "Añadir Testimonio de Doctor"
+msgstr "Añadir Testimonio de Doctor"
+
+msgctxt "admin_display"
+msgid "Añadir Nuevo Testimonio de Doctor"
+msgstr "Añadir Nuevo Testimonio de Doctor"
+
+msgctxt "admin_display"
+msgid "Editar"
+msgstr "Editar"
+
+msgctxt "admin_display"
+msgid "Editar Testimonio de doctor"
+msgstr "Editar Testimonio de doctor"
+
+msgctxt "admin_display"
+msgid "Nuevo Testimonio de Doctor"
+msgstr "Nuevo Testimonio de Doctor"
+
+msgctxt "admin_display"
+msgid "Ver"
+msgstr "Ver"
+
+msgctxt "admin_display"
+msgid "Ver testimonio de Doctor"
+msgstr "Ver testimonio de Doctor"
+
+msgctxt "admin_display"
+msgid "Buscar testimonio de doctor"
+msgstr "Buscar testimonio de doctor"
+
+msgctxt "admin_display"
+msgid "No se ha encontrado ningun testimonio de doctor"
+msgstr "No se ha encontrado ningun testimonio de doctor"
+
+msgctxt "admin_display"
+msgid "No hay testimonios de doctores en la papelera"
+msgstr "No hay testimonios de doctores en la papelera"
+
+msgctxt "admin_display"
+msgid "Testimonio de Doctor padre"
+msgstr "Testimonio de Doctor padre"
+
+msgctxt "admin_display"
+msgid "Información adicional sobre el doctor que aporta su opinión"
+msgstr "Información adicional sobre el doctor que aporta su opinión"
+
+msgctxt "admin_display"
+msgid "Clínica 1 donde opera el doctor (D)"
+msgstr "Clínica 1 donde opera el doctor (D)"
+
+msgctxt "admin_display"
+msgid "Ciudad-dirección donde está la clínica 1 (D)"
+msgstr "Ciudad-dirección donde está la clínica 1 (D)"
+
+msgctxt "admin_display"
+msgid "Web de la clínica 1 donde opera el doctor (D)"
+msgstr "Web de la clínica 1 donde opera el doctor (D)"
+
+msgctxt "admin_display"
+msgid "Clínicas 2 opera el doctor (D)"
+msgstr "Clínicas 2 opera el doctor (D)"
+
+msgctxt "admin_display"
+msgid "Ciudad-dirección donde está la clínica 2 (D)"
+msgstr "Ciudad-dirección donde está la clínica 2 (D)"
+
+msgctxt "admin_display"
+msgid "Web de la clínica 2 donde opera el doctor (D)"
+msgstr "Web de la clínica 2 donde opera el doctor (D)"

@@ -1,0 +1,1087 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clinica Oftalmologica v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-18 10:57:44+0000\n"
+"Last-Translator: admin <cris_mr_crc@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: ajax/ajax-Clinic-Maps-Handler.php:6
+#: ajax/ajax-Clinic-Maps-Handler.php:81
+#: ajax/ajax-ClinicaHandler.php:21
+#: ajax/ajax-getClinica.php:49
+#: clinica.php:17
+#: clinica.php:56
+#: clinica.php:146
+#: clinica.php:322
+#: clinica.php:368
+#: clinica.php:423
+#: clinica.php:480
+#: clinica.php:548
+#: right-archive-clinica.php:9
+#: right-single-clinica.php:7
+#@ clinica
+msgctxt "CustomPostType Name"
+msgid "clinica"
+msgstr "clinic"
+
+#: clinica.php:18
+#@ clinica
+msgctxt "taxo-slug"
+msgid "clinica-oftalmologica-lente-intraocular"
+msgstr "eye-clinic-intraocular-lens"
+
+#: clinica.php:19
+#@ clinica
+msgctxt "slug"
+msgid "clinicas-oftalmologicas-lente-intraocular"
+msgstr "eye-clinics-intraocular-lenses"
+
+#: clinica.php:25
+#@ clinica
+msgctxt "admin_display"
+msgid "clinica"
+msgstr "clinic"
+
+#: clinica.php:26
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir Nueva"
+msgstr "Add New"
+
+#: clinica.php:27
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir Nueva Clínica Oftalmológica"
+msgstr "Add New Eye Clinic"
+
+#: clinica.php:29
+#@ clinica
+msgctxt "admin_display"
+msgid "Editar Clínica Oftalmológica"
+msgstr "Edit Eye Clinic"
+
+#: clinica.php:30
+#@ clinica
+msgctxt "admin_display"
+msgid "Nueva Clínica Oftalmológica"
+msgstr "New Eye Clinic"
+
+#: clinica.php:32
+#@ clinica
+msgctxt "admin_display"
+msgid "Ver Clínica Oftamológica"
+msgstr "View Eye Clinic"
+
+#: clinica.php:33
+#@ clinica
+msgctxt "admin_display"
+msgid "Buscar Clínica Oftamológica"
+msgstr "Find Eye Clinic"
+
+#: clinica.php:34
+#@ clinica
+msgctxt "admin_display"
+msgid "No se ha encontrado ninguna Clínica Oftamológica"
+msgstr "No Eye Clinics Found"
+
+#: clinica.php:35
+#@ clinica
+msgctxt "admin_display"
+msgid "No hay Clínicas Oftalmológicas en la papelera"
+msgstr "No Eye Clinics in the Bin"
+
+#: clinica.php:36
+#@ clinica
+msgctxt "admin_display"
+msgid "Clínica Oftamológica padre"
+msgstr "Eye Clinic Father"
+
+#: clinica.php:92
+#@ clinica
+msgctxt "admin_display"
+msgid "Dirección (D)"
+msgstr "Address (D)"
+
+#: clinica.php:97
+#@ clinica
+msgctxt "admin_display"
+msgid "Latitud"
+msgstr "Latitude"
+
+#: clinica.php:102
+#@ clinica
+msgctxt "admin_display"
+msgid "Longitud"
+msgstr "Length"
+
+#: clinica.php:109
+#@ clinica
+msgctxt "admin_display"
+msgid "Telf de Contacto (D)"
+msgstr "Contact Phone (D)"
+
+#: clinica.php:114
+#@ clinica
+msgctxt "admin_display"
+msgid "Email de Contacto (D)"
+msgstr "Contact Email (D)"
+
+#: clinica.php:119
+#@ clinica
+msgctxt "admin_display"
+msgid "Horario (D)"
+msgstr "Schedule (D)"
+
+#: clinica.php:124
+#@ clinica
+msgctxt "admin_display"
+msgid "Director Médico (D)"
+msgstr "Medical Director (D)"
+
+#: clinica.php:129
+#@ clinica
+msgctxt "admin_display"
+msgid "Doctores (D)"
+msgstr "Doctors(D)"
+
+#: clinica.php:134
+#@ clinica
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica (Ascendente)"
+msgstr "Level of Preference Of the Clinic (Ascending)"
+
+#: clinica.php:148
+#: clinica.php:468
+#: clinica.php:482
+#: clinica.php:517
+#: right-archive-clinica.php:212
+#: right-archive-clinica.php:224
+#: right-single-clinica.php:126
+#@ clinica
+msgctxt "taxo-name"
+msgid "ubicacion"
+msgstr "location"
+
+#: clinica.php:149
+#@ clinica
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/ubicacion"
+msgstr "eye-clinic-intraocular-lens/location"
+
+#: clinica.php:156
+#@ clinica
+msgctxt "admin_display"
+msgid "Ubicación de la clínica"
+msgstr "Eye Clinic Location"
+
+#: clinica.php:157
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir Nueva Ubicacion"
+msgstr "Add New Location"
+
+#: clinica.php:158
+#@ clinica
+msgctxt "admin_display"
+msgid "Nuevo Nombre de Ubicacion"
+msgstr "New Location Name"
+
+#: clinica.php:169
+#: clinica.php:467
+#: clinica.php:483
+#: clinica.php:518
+#@ clinica
+msgctxt "taxo-name"
+msgid "seguros"
+msgstr "insurances"
+
+#: clinica.php:170
+#@ clinica
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/provincia"
+msgstr "eye-clinic-intraocular-lens/county"
+
+#: clinica.php:177
+#@ clinica
+msgctxt "admin_display"
+msgid "Seguros de la Clínica Oftalmológica"
+msgstr "Eye Clinic Insurances"
+
+#: clinica.php:178
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir Seguro de Clínica Oftalmológica"
+msgstr "Add eye clinic Insurance"
+
+#: clinica.php:179
+#@ clinica
+msgctxt "admin_display"
+msgid "Nuevo Nomre de Seguro Médico"
+msgstr "New Insurance Name"
+
+#: clinica.php:190
+#: filterClinicaEngine.php:15
+#: right-archive-clinica.php:306
+#: right-archive-clinica.php:308
+#: right-archive-clinica.php:313
+#: right-archive-clinica.php:321
+#: right-archive-clinica.php:329
+#: right-archive-clinica.php:332
+#: right-archive-clinica.php:341
+#: right-archive-clinica.php:344
+#: right-archive-clinica.php:352
+#: right-archive-clinica.php:355
+#: right-archive-clinica.php:359
+#: right-archive-clinica.php:360
+#: right-archive-clinica.php:363
+#: right-single-clinica.php:202
+#@ clinica
+msgctxt "taxo-name"
+msgid "numero-cirugias-intraoculares"
+msgstr "number-of-intraocular-surgeries"
+
+#: clinica.php:191
+#@ clinica
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/numero-cirugias-intraoculares"
+msgstr "eye-clinic-intraocular-lens/number-of-intraocular-surgeries"
+
+#: clinica.php:198
+#@ clinica
+msgctxt "admin_display"
+msgid "Número de cirugías de la Clínica Oftalmológica"
+msgstr "Number of surgeries of the Eye Clinic"
+
+#: clinica.php:199
+#: clinica.php:239
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir categoría de Número de Cirugías de la Clínica Oftalmológica"
+msgstr "Add category for Number of Surgeries of the Eye Clinic"
+
+#: clinica.php:200
+#: clinica.php:240
+#@ clinica
+msgctxt "admin_display"
+msgid "Nuevo Nomre clasificación de Número de Cirugías"
+msgstr "New class name of Number of Surgeries"
+
+#: clinica.php:210
+#: filterClinicaEngine.php:36
+#: right-archive-clinica.php:372
+#: right-archive-clinica.php:374
+#: right-archive-clinica.php:379
+#: right-archive-clinica.php:387
+#: right-archive-clinica.php:395
+#: right-archive-clinica.php:398
+#: right-archive-clinica.php:407
+#: right-archive-clinica.php:410
+#: right-archive-clinica.php:418
+#: right-archive-clinica.php:421
+#: right-archive-clinica.php:425
+#: right-archive-clinica.php:426
+#: right-archive-clinica.php:429
+#: right-single-clinica.php:269
+#@ clinica
+msgctxt "taxo-name"
+msgid "tipo-operaciones-intraoculares"
+msgstr "intraocular-surgery-type"
+
+#: clinica.php:211
+#@ clinica
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/tipo-operaciones"
+msgstr "eye-clinic-intraocular-lens/surgery-type"
+
+#: clinica.php:218
+#@ clinica
+msgctxt "admin_display"
+msgid "Tipo de cirugías de la Clínica Oftalmológica"
+msgstr "Eye Clinic surgery Types"
+
+#: clinica.php:219
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir tipo de Cirugías de la Clínica Oftalmológica"
+msgstr "Add Eye Clinic surgery type"
+
+#: clinica.php:220
+#@ clinica
+msgctxt "admin_display"
+msgid "Nuevo tipo de cirugía"
+msgstr "New type of surgery"
+
+#: clinica.php:230
+#: filterClinicaEngine.php:75
+#: right-archive-clinica.php:440
+#: right-archive-clinica.php:442
+#: right-archive-clinica.php:445
+#: right-archive-clinica.php:453
+#: right-archive-clinica.php:461
+#: right-archive-clinica.php:464
+#: right-archive-clinica.php:473
+#: right-archive-clinica.php:476
+#: right-archive-clinica.php:484
+#: right-archive-clinica.php:487
+#: right-archive-clinica.php:495
+#: right-archive-clinica.php:498
+#: right-archive-clinica.php:506
+#: right-archive-clinica.php:509
+#: right-archive-clinica.php:517
+#: right-archive-clinica.php:520
+#: right-archive-clinica.php:528
+#: right-archive-clinica.php:531
+#: right-archive-clinica.php:535
+#: right-archive-clinica.php:536
+#: right-archive-clinica.php:539
+#: right-single-clinica.php:338
+#@ clinica
+msgctxt "taxo-name"
+msgid "tipo-de-implante"
+msgstr "implant-type"
+
+#: clinica.php:231
+#@ clinica
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/tipo-implante"
+msgstr "eye-clinic-intraocular-lens/implant-type"
+
+#: clinica.php:238
+#@ clinica
+msgctxt "admin_display"
+msgid "Tipo de implantes de la Clínica Oftalmológica"
+msgstr "Eye Clinic implant types"
+
+#: clinica.php:250
+#: filterClinicaEngine.php:55
+#: right-archive-clinica.php:590
+#: right-archive-clinica.php:609
+#: right-archive-clinica.php:617
+#: right-archive-clinica.php:620
+#: right-archive-clinica.php:629
+#: right-archive-clinica.php:632
+#: right-archive-clinica.php:640
+#: right-archive-clinica.php:643
+#: right-archive-clinica.php:651
+#: right-archive-clinica.php:654
+#: right-archive-clinica.php:662
+#: right-archive-clinica.php:665
+#: right-archive-clinica.php:669
+#: right-archive-clinica.php:670
+#: right-archive-clinica.php:673
+#: right-single-clinica.php:452
+#@ clinica
+msgctxt "taxo-name"
+msgid "equipamiento-clinica"
+msgstr "clinic-equipment"
+
+#: clinica.php:251
+#@ clinica
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/tecnologia-equipos"
+msgstr "eye-clinic-intraocular-lens/equipment-technology"
+
+#: clinica.php:258
+#@ clinica
+msgctxt "admin_display"
+msgid "Equipamiento de la Clínica Oftalmológica"
+msgstr "Eye Clinic Equipment"
+
+#: clinica.php:259
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir equipamientos de la Clínica Oftalmológica"
+msgstr "Add equipment to the Eye Clinic"
+
+#: clinica.php:260
+#@ clinica
+msgctxt "admin_display"
+msgid "Nuevo nombre  de equipamiento de la clínica."
+msgstr "New name of Eye Clinic Equipment"
+
+#: clinica.php:271
+#: filterClinicaEngine.php:100
+#: right-archive-clinica.php:98
+#: right-archive-clinica.php:108
+#: right-archive-clinica.php:181
+#: right-archive-clinica.php:183
+#@ clinica
+msgctxt "taxo-name"
+msgid "mas-info-clinica"
+msgstr "more-info-eye-clinic"
+
+#: clinica.php:272
+#@ clinica
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/mas-info-clinica"
+msgstr "eye-clinic-intraocular-lens/more-info-clinic"
+
+#: clinica.php:279
+#@ clinica
+msgctxt "admin_display"
+msgid "Información adicional de la Clínica Oftalmológica"
+msgstr "More info about the Eye Clinic"
+
+#: clinica.php:280
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir Info adicional de Clínica Oftalmológica"
+msgstr "Add more info about the Eye Clinic"
+
+#: clinica.php:281
+#@ clinica
+msgctxt "admin_display"
+msgid "Nueva Info adicional"
+msgstr "New additional info"
+
+#: clinica.php:293
+#@ clinica
+msgctxt "taxo-name"
+msgid "nivel-pref-clinica"
+msgstr "level-pref-clinic"
+
+#: clinica.php:294
+#@ clinica
+msgctxt "slug"
+msgid "clinica-oftalmologica-lente-intraocular/nivel-pref-clinica"
+msgstr "eye-clinic-intraocular-lens/level-preference-clinic"
+
+#: clinica.php:301
+#@ clinica
+msgctxt "admin_display"
+msgid "Nivel de Preferencia de la clínica"
+msgstr "Eye Clinic Level Preference"
+
+#: clinica.php:302
+#@ clinica
+msgctxt "admin_display"
+msgid "Añadir Nivel de preferencia de la Clínica"
+msgstr "Add Preference Level"
+
+#: clinica.php:303
+#@ clinica
+msgctxt "admin_display"
+msgid "Nuevo Nivel de preferencia"
+msgstr "New Preference Level"
+
+#: content-clinica.php:28
+#@ twentytwelve
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: right-archive-clinica.php:52
+#: right-single-clinica.php:13
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Ubicación/Características"
+msgstr "Location/Features"
+
+#: right-archive-clinica.php:105
+#: right-single-clinica.php:36
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Datos adicionales de la clínica"
+msgstr "Additional Clinic Data"
+
+#: right-archive-clinica.php:181
+#: right-archive-clinica.php:183
+#: right-archive-clinica.php:360
+#: right-archive-clinica.php:363
+#: right-archive-clinica.php:426
+#: right-archive-clinica.php:429
+#: right-archive-clinica.php:536
+#: right-archive-clinica.php:539
+#: right-archive-clinica.php:670
+#: right-archive-clinica.php:673
+#: right-single-clinica.php:112
+#: right-single-clinica.php:114
+#: right-single-clinica.php:534
+#@ clinica_display
+#@ clinica
+msgctxt "filter_template"
+msgid "Sin Especificar"
+msgstr "Not Specified"
+
+#: right-archive-clinica.php:230
+#: right-single-clinica.php:141
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Comunidad Autónoma:"
+msgstr "State  (US)"
+
+#: right-archive-clinica.php:247
+#: right-archive-clinica.php:249
+#: right-archive-clinica.php:263
+#: right-archive-clinica.php:275
+#: right-archive-clinica.php:277
+#: right-single-clinica.php:145
+#: right-single-clinica.php:168
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Sin Especificar"
+msgstr "Not Specified"
+
+#: right-archive-clinica.php:259
+#: right-single-clinica.php:164
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Provincia:"
+msgstr "County:"
+
+#: right-archive-clinica.php:298
+#: right-single-clinica.php:195
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Características básicas"
+msgstr "Basic Cataracteristics"
+
+#: right-archive-clinica.php:318
+#: right-single-clinica.php:218
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Número de cirugías Intraoculares al año realizadas en la clínica"
+msgstr "Intraocular surgeries performed annually in the clinic"
+
+#: right-archive-clinica.php:384
+#: right-single-clinica.php:285
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Tipos de operaciones intraoculares"
+msgstr "Intraocular Surgery Types"
+
+#: right-archive-clinica.php:450
+#: right-single-clinica.php:355
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Tipos de IOLs"
+msgstr "IOL Types"
+
+#: right-archive-clinica.php:606
+#: right-single-clinica.php:470
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Equipos de la clínica"
+msgstr "Equipment"
+
+#: right-archive-clinica.php:8
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "BUSCAR CLÍNICAS"
+msgstr "FIND CLINICS"
+
+#: right-archive-clinica.php:11
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Realizar Filtrado"
+msgstr "Make Filter"
+
+#: right-archive-clinica.php:27
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Vista:"
+msgstr "View:"
+
+#: filterClinicaEngine.php:110
+#: filterClinicaEngine.php:114
+#: filterClinicaEngine.php:117
+#: right-archive-clinica.php:68
+#: right-archive-clinica.php:76
+#: right-archive-clinica.php:77
+#: right-archive-clinica.php:112
+#: right-single-clinica.php:43
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "posibilidad-de-financiacion"
+msgstr "possibility-of-finance"
+
+#: filterClinicaEngine.php:149
+#: filterClinicaEngine.php:153
+#: filterClinicaEngine.php:155
+#: right-archive-clinica.php:69
+#: right-archive-clinica.php:79
+#: right-archive-clinica.php:80
+#: right-archive-clinica.php:124
+#: right-single-clinica.php:55
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "seguros"
+msgstr "insurances"
+
+#: right-archive-clinica.php:70
+#: right-archive-clinica.php:83
+#: right-archive-clinica.php:84
+#: right-archive-clinica.php:135
+#: right-single-clinica.php:66
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "cirugia-intraocular-bilateral"
+msgstr "bilateral-intraocular-surgery"
+
+#: filterClinicaEngine.php:121
+#: filterClinicaEngine.php:125
+#: filterClinicaEngine.php:127
+#: right-archive-clinica.php:71
+#: right-archive-clinica.php:86
+#: right-archive-clinica.php:87
+#: right-archive-clinica.php:146
+#: right-single-clinica.php:77
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "posibilidad-de-hospitalizacion"
+msgstr "possibility-of-hospitalization"
+
+#: filterClinicaEngine.php:140
+#: filterClinicaEngine.php:144
+#: filterClinicaEngine.php:146
+#: right-archive-clinica.php:72
+#: right-archive-clinica.php:89
+#: right-archive-clinica.php:90
+#: right-archive-clinica.php:157
+#: right-single-clinica.php:88
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "quirofanos-propios"
+msgstr "own-operation-rooms"
+
+#: filterClinicaEngine.php:130
+#: filterClinicaEngine.php:134
+#: filterClinicaEngine.php:136
+#: right-archive-clinica.php:73
+#: right-archive-clinica.php:93
+#: right-archive-clinica.php:94
+#: right-archive-clinica.php:168
+#: right-single-clinica.php:99
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "laser-propio"
+msgstr "own-laser"
+
+#: right-archive-clinica.php:325
+#: right-single-clinica.php:225
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "menos-de-300-al-ano"
+msgstr "less-than-300-per-year"
+
+#: right-archive-clinica.php:337
+#: right-single-clinica.php:237
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "entre-300-y-800-al-ano"
+msgstr "between-300-and-800-per-year"
+
+#: right-archive-clinica.php:348
+#: right-single-clinica.php:248
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "mas-de-800-al-año"
+msgstr "more-than-800-per-year"
+
+#: right-archive-clinica.php:391
+#: right-single-clinica.php:292
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "cataratas-remplazo-de-cristalino"
+msgstr "cataracts-lens-replacement"
+
+#: right-archive-clinica.php:403
+#: right-single-clinica.php:304
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-faquicas"
+msgstr "phakic-lenses"
+
+#: right-archive-clinica.php:414
+#: right-single-clinica.php:315
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "refractiva-laser"
+msgstr "refractive-laser"
+
+#: right-archive-clinica.php:457
+#: right-single-clinica.php:362
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-multifocales"
+msgstr "multifocal-lenses"
+
+#: right-archive-clinica.php:469
+#: right-single-clinica.php:374
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-toricas"
+msgstr "toric-lenses"
+
+#: right-archive-clinica.php:480
+#: right-single-clinica.php:385
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-acomodativas"
+msgstr "accommodative-lenses"
+
+#: right-archive-clinica.php:491
+#: right-single-clinica.php:396
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "monovision"
+msgstr "monovision"
+
+#: right-archive-clinica.php:502
+#: right-single-clinica.php:407
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-ajustables-por-luz"
+msgstr "light-adjustable-lens"
+
+#: right-archive-clinica.php:513
+#: right-single-clinica.php:418
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-de-filtro-azul"
+msgstr "blue-light-filter-lenses"
+
+#: right-archive-clinica.php:524
+#: right-single-clinica.php:429
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "lentes-asfericas"
+msgstr "aspheric-lenses"
+
+#: right-archive-clinica.php:565
+#: right-archive-clinica.php:572
+#: right-archive-clinica.php:573
+#: right-archive-clinica.php:613
+#: right-single-clinica.php:477
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "faco-microincision"
+msgstr "phaco-micro-incision"
+
+#: right-archive-clinica.php:566
+#: right-archive-clinica.php:575
+#: right-archive-clinica.php:576
+#: right-archive-clinica.php:625
+#: right-single-clinica.php:489
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "femto-faco"
+msgstr "femto-phaco"
+
+#: right-archive-clinica.php:567
+#: right-archive-clinica.php:579
+#: right-archive-clinica.php:580
+#: right-archive-clinica.php:636
+#: right-single-clinica.php:500
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "biometros"
+msgstr "biometers"
+
+#: right-archive-clinica.php:568
+#: right-archive-clinica.php:582
+#: right-archive-clinica.php:583
+#: right-archive-clinica.php:647
+#: right-single-clinica.php:511
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "iol-master"
+msgstr "iol-master"
+
+#: right-archive-clinica.php:569
+#: right-archive-clinica.php:585
+#: right-archive-clinica.php:586
+#: right-archive-clinica.php:658
+#: right-single-clinica.php:522
+#@ clinica-scaffold
+#@ clinica
+msgctxt "taxo-value-slug"
+msgid "lenstar"
+msgstr "lenstar"
+
+#: clinica.php:28
+#: clinica.php:31
+#@ default
+msgctxt "clinica"
+msgid "admin_display"
+msgstr ""
+
+#: ajax/ajax-Clinic-Maps-Handler.php:43
+#@ clinica_display
+msgctxt "Filter_template"
+msgid "No hay clínicas todavía"
+msgstr "There are not clinics yet"
+
+#: ajax/ajax-Clinic-Maps-Handler.php:121
+#@ clinica_display
+msgctxt "Filter_template"
+msgid "No hay clínicas dentro de la distancia seleccionada"
+msgstr "There are no clinics within the selected distance"
+
+#: ajax/ajax-getClinica.php:89
+#: ajax/ajaxClinicaTemplate.php:42
+#@ clinica_display
+msgctxt "Filter_template"
+msgid "No hay ninguna Clínica que cumpla con los criterios de filtrado actuales."
+msgstr "There is no clinic complying with the selected criteria"
+
+#: ajax/ajax-getClinica.php:90
+#@ clinica_display
+msgctxt "Filter_template"
+msgid "Proceda a realizar una nueva bœsqueda cambiando los criterios."
+msgstr "Proceed with a new search changing the criteria"
+
+#: ajax/ajax-getClinica.php:181
+#: ajax/ajaxClinicaTemplate.php:119
+#@ clinica-display
+msgctxt "Filter_template"
+msgid "Hay &nbsp;"
+msgstr ""
+
+#: ajax/ajax-getClinica.php:181
+#: ajax/ajaxClinicaTemplate.php:119
+#@ clinica-display
+msgctxt "Filter_template"
+msgid "clínicas encontradas"
+msgstr ""
+
+#: ajax/ajax-getClinica.php:183
+#: ajax/ajaxClinicaTemplate.php:121
+#@ clinica-display
+msgctxt "Filter_template"
+msgid "Las lentes mostradas cumplen las siguientes caracter’sticas:"
+msgstr ""
+
+#: ajax/ajax-getClinica.php:187
+#@ clinica-display
+msgctxt "Filter_template"
+msgid "Su nombre contiene los caracteres: "
+msgstr ""
+
+#: ajax/ajax-getClinica.php:193
+#: ajax/ajaxClinicaTemplate.php:143
+#@ clinica_display
+#@ clinica-display
+msgctxt "Filter_template"
+msgid "No hay ninguna restricción impuesta a las clínicas, se están mostrando todas las disponibles."
+msgstr "There is no restriction imposed to the clinics, all the clinics available are being shown"
+
+#: ajax/ajaxClinicaTemplate.php:43
+#@ clinica_display
+msgctxt "Filter_template"
+msgid "Proceda a realizar una nueva búsqueda cambiando los criterios."
+msgstr "Proceed with a new search changing the criteria."
+
+#: ajax/ajaxClinicaTemplate.php:134
+#@ clinica-display
+msgctxt "Filter_template"
+msgid "Variables que no se han especificado:"
+msgstr ""
+
+#: content-clinica.php:22
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "VOLVER A PÁGINA PRINCIPAL DE CLÍNICAS"
+msgstr "RETURN TO THE CLINICS MAIN PAGE"
+
+#: content-clinica.php:38
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Dirección:"
+msgstr "Address:"
+
+#: content-clinica.php:50
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Telefóno de Contacto:"
+msgstr "Contact Phone:"
+
+#: content-clinica.php:60
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Email de contacto:"
+msgstr "Contact Email:"
+
+#: content-clinica.php:70
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Horario:"
+msgstr "Schedule:"
+
+#: content-clinica.php:80
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Director Médico:"
+msgstr "Medical Director:"
+
+#: content-clinica.php:90
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Doctores:"
+msgstr "Doctors:"
+
+#: content-clinica.php:99
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Vea"
+msgstr "View"
+
+#: content-clinica.php:99
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "en el mapa:"
+msgstr "in the map:"
+
+#: content-clinica.php:108
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Detectar ubicación"
+msgstr "Detect Location"
+
+#: content-clinica.php:114
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Ubicarme"
+msgstr "Locate me"
+
+#: content-clinica.php:119
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Mostrar ruta a la clínica desde ubicación"
+msgstr "Show path from location"
+
+#: content-clinica.php:133
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Mostrando:"
+msgstr "Showing:"
+
+#: content-clinica.php:134
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Ubicación seleccionada:"
+msgstr "Selected Location:"
+
+#: content-clinica.php:136
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Distancia:"
+msgstr "Distance:"
+
+#: content-clinica.php:138
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "km"
+msgstr "km"
+
+#: content-clinica.php:145
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "Mostrar clínica en mapa"
+msgstr "Show the clinic in a map"
+
+#: filterClinicaEngine.php:21
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Numero de cirugías intraoculares al año: "
+msgstr "Number of surgeries performed annually:"
+
+#: filterClinicaEngine.php:30
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Número de operaciones intraoculares."
+msgstr "Number of intraocular surgeries"
+
+#: filterClinicaEngine.php:41
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Tipo de operación intraocular: "
+msgstr "Intraocular Surgery Type:"
+
+#: filterClinicaEngine.php:50
+#: filterClinicaEngine.php:223
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Ubicación de la Clínica."
+msgstr "Clinic location."
+
+#: filterClinicaEngine.php:60
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Equipamiento de la clínica: "
+msgstr "Clinic Equipment:"
+
+#: filterClinicaEngine.php:69
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Equipamiento de la clínica"
+msgstr "Clinic Equipment"
+
+#: filterClinicaEngine.php:80
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Tipo de implante de interés: "
+msgstr "Implant Type of interest:"
+
+#: filterClinicaEngine.php:89
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Tipo de implante de interés"
+msgstr "Implant Type of interest"
+
+#: filterClinicaEngine.php:107
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Más información sobre la clínica: "
+msgstr "More info about the clinic:"
+
+#: filterClinicaEngine.php:175
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Información adicional de la clínica."
+msgstr "Additional info about the clinic."
+
+#: filterClinicaEngine.php:185
+#@ clinica_display
+msgctxt "info-mens"
+msgid "Localizacion: "
+msgstr "Location:"
+
+#: filterClinicaEngine.php:190
+#: filterClinicaEngine.php:194
+#: filterClinicaEngine.php:201
+#: filterClinicaEngine.php:205
+#@ clinica-scaffold
+msgctxt "taxo-value-slug"
+msgid "ubicacion"
+msgstr "location"
+
+#: right-single-clinica.php:5
+#@ clinica_display
+msgctxt "Filter_Template"
+msgid "BUSCAR CLÍNICAS:"
+msgstr "FIND CLINICS:"
+
+#: right-single-clinica.php:259
+#: right-single-clinica.php:326
+#: right-single-clinica.php:440
+#: right-single-clinica.php:536
+#@ clinica_display
+msgctxt "Filter_template"
+msgid "Sin Especificar"
+msgstr "Not Specified"
+
